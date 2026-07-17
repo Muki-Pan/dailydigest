@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Daily Digest for Muki",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "date": { "type": "string", "description": "Issue date in YYYY-MM-DD format." },
+    "issue_number": { "type": "integer", "description": "Assigned by the publishing program after generation." },
+    "search_window": { "type": "string", "enum": ["24h", "7d", "30d"] },
+    "reading_time": { "type": "string", "description": "Chinese reading time label, for example 约 8 分钟." },
+    "topics": { "type": "array", "items": { "type": "string" }, "minItems": 1, "maxItems": 8 },
+    "why_today": { "type": "string", "description": "A concise Chinese editorial paragraph connecting today's signals." },
+    "intro": { "type": "string", "description": "Chinese introduction explaining the issue's editorial judgment." },
+    "opening_signal": { "type": "string", "description": "One quiet, memorable Chinese sentence, optionally followed by English." },
+    "closing_signal": { "type": "string", "description": "A quiet Chinese closing paragraph pointing to a deeper change." },
+    "stories": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "section": {
+            "type": "string",
+            "enum": ["Visual Culture Signal", "AI Research / Creative Tech Signal", "Feminist Structure Signal", "China / East Asia Signal", "Archive / Long Read / Opportunity"]
+          },
+          "continuity": { "type": "string", "enum": ["New", "Follow-up", "Ongoing", "Background Signal"] },
+          "title_zh": { "type": "string" },
+          "title_en": { "type": "string" },
+          "summary_zh": { "type": "string" },
+          "summary_en": { "type": "string" },
+          "why_muki_cares": { "type": "string" },
+          "editorial_signal": { "type": "string" },
+          "theme_tags": { "type": "array", "items": { "type": "string" }, "minItems": 1, "maxItems": 8 },
+          "source_name": { "type": "string" },
+          "source_url": { "type": "string", "description": "A specific canonical http(s) source URL, never a generic homepage." },
+          "publication_date": { "type": ["string", "null"], "description": "YYYY-MM-DD only when explicitly supported by the source; otherwise null." },
+          "image_url": { "type": ["string", "null"] },
+          "image_caption": { "type": ["string", "null"] }
+        },
+        "required": ["section", "continuity", "title_zh", "title_en", "summary_zh", "summary_en", "why_muki_cares", "editorial_signal", "theme_tags", "source_name", "source_url", "publication_date", "image_url", "image_caption"]
+      }
+    },
+    "editors_pick": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "type": { "type": "string" },
+        "title": { "type": "string" },
+        "why_muki_may_care": { "type": "string" },
+        "link": { "type": "string" }
+      },
+      "required": ["type", "title", "why_muki_may_care", "link"]
+    },
+    "empty_sections": { "type": "array", "items": { "type": "string" } },
+    "excluded_topics": { "type": "array", "items": { "type": "string" } },
+    "covered_entities": { "type": "array", "items": { "type": "string" } },
+    "repetition_notes": { "type": "string" }
+  },
+  "required": ["date", "search_window", "reading_time", "topics", "why_today", "intro", "opening_signal", "closing_signal", "stories", "editors_pick", "empty_sections", "excluded_topics", "covered_entities", "repetition_notes"]
+}
