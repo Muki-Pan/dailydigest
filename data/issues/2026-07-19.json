@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-19",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "胶片档案",
+    "媒介考古",
+    "性别偏见",
+    "提示词工程",
+    "酷儿生命史",
+    "实验影像",
+    "北京银矿",
+    "光州ACC"
+  ],
+  "why_today": "今天的文化信号交织着对‘媒介物质性’的重夺与对‘评估技术之偏见’的清醒诊断。从重现北京日常胶片记忆的‘银矿’，到哈苏基金会对慢性病酷儿生命书写的肯定，乃至光州对‘影像作为权力器械’的历史改写，历史与记忆从未仅仅停留在档案中。然而，当底层技术在重构生活时，关于女性使用 AI 的‘能力惩罚’研究提醒我们，若评价结构未曾改变，最先进的工具亦可能演变为更隐秘的性别权力规训。",
+  "intro": "在今天的简报中，我们穿梭于跨越十五年的民间摄影、身体叙事以及最新的技术社会学批判之间。视觉文化与技术并不是孤立的两个坐标，它们在权力、关怀和物质性层面紧密交叠。本期我们将深入探讨影像如何作为反抗性器械，以及 AI 工作流与评估权力如何悄然塑造着我们的劳动现实。",
+  "opening_signal": "所有的档案拯救，本质上都是在融毁与遗忘的边缘争夺生命痕迹的所有权。All preservation of archives is, in essence, a battle for the ownership of life traces at the edge of melting and oblivion.",
+  "closing_signal": "从被拯救的北京废弃底片，到被系统提示词转译的代码逻辑，再到承受着无形职场审视的女性简历，我们看到技术工具的发展永远无法自动铺平平等的道路。唯有当我们开始重写媒介背后的‘器械（Apparatus）’，开始重新审视谁在掌握评判和叙述的权力，那些被写在丁香色纸张上的生命体验才能真正突破权力的天花板，成为无可动摇的历史见证。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "《在最后一朵丁香花开之前》：哈苏基金会 2026 摄影书奖揭晓双胞胎艺术家的十五年生命与看护档案",
+      "title_en": "before the last lilac blooms: Hasselblad Foundation's 2026 Photobook Grant Honors a 15-Year Chronicle of Care and Queer Intimacy",
+      "summary_zh": "哈苏基金会公布了 2026 年国际摄影书补助金得主，双胞胎艺术家 riel Sturchio 与 Bianca Sturchio 凭合作项目《在最后一朵丁香花开之前》（before the last lilac blooms）获奖。该书是一部跨越 15 年的胶片与文字档案，记录了两位酷儿艺术家共同面对慢性疾病与脑性瘫痪的身体经验。她们将关于时间与看护的哲学思考写在丁香色纸张上并进行拍摄，让记忆的物理亲密性与书籍的触觉感紧密交织。另一位获奖者为西班牙摄影师 Yago Soria 的《福之鳗》。",
+      "summary_en": "The Hasselblad Foundation announced its 2026 Photobook Grant recipients, honoring twin artists riel Sturchio and Bianca Sturchio for their collaborative project before the last lilac blooms. This 15-year archive of film photography and text chronicles their shared lives as queer artists navigating chronic illness and cerebral palsy. By photographing philosophical reflections written on lilac-colored paper, the book intertwines physical intimacy with material tactility. The other grant was awarded to Spanish photographer Yago Soria's Fukú no Unagi.",
+      "why_muki_cares": "完美呼应了对身体、慢性疾病、看护劳动与酷儿身份的关注。该项目不仅是影像记录，更是一部充满触觉张力（tactility）与排版叙事的书籍物质性杰作，展示了摄影书作为亲密生命档案的潜能。",
+      "editorial_signal": "摄影书的‘触觉性’正在成为抵抗数字化同质化的关键媒介武器，尤其在处理看护、残障与疾病等高度依赖身体经验的叙事时。",
+      "theme_tags": [
+        "photobook",
+        "tactility",
+        "care",
+        "queer",
+        "chronic illness",
+        "body archive"
+      ],
+      "source_name": "Hasselblad Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1mJO-8TyuUnAiUkN2S4iNfEXim-bGf2EHHOfN1TJS0J6GO_40MovlepzV7sSOFriqqzVozD0VqCJ0jbT8nagNWh686IWpA4kgVhb30Mm5pC39QkL4z4hfH21SynBUyId8cAXG3m9s2gvXL2QfC3GXyapYplBDl6V-Qm_Cxw==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "从玄学提示词走向“转译”编译：Google 提出多代理系统的模块化提示词工程框架",
+      "title_en": "From Monolithic Prompts to Compilation: Google Proposes Modular Prompt Transpilation for Scalable AI Agents",
+      "summary_zh": "Google 开发者博客发布了由系统现场可靠性工程师 Simerus Mahesh 撰写的技术框架，指出随着 AI 代理走向复杂的多步生产流，传统的“单体系统提示词（Monolithic Prompts）”面临三大失效挑战：模糊的爆炸半径、复制粘贴引起的版本失控以及上下文窗口浪费。为此，Google 提出了“模块化提示词转译（Modular Prompt Transpilation）”方案，将安全、任务指南、格式定义、路由等控制平面分解为独立的、高内聚的代码模块，在运行前进行转译与拼合。",
+      "summary_en": "Google Developers Blog published a framework by Simerus Mahesh, highlighting that as AI agents scale to complex multi-step production pipelines, traditional 'monolithic system prompts' fail due to obscure blast radiuses, copy-paste drifts, and context window bloat. Google proposes 'Modular Prompt Transpilation,' which decouples agent controls (safety policies, task-specific guidelines, formatting, routing) into highly cohesive modules compiled before execution.",
+      "why_muki_cares": "AI-Native 的工作流与创意设计正在告别“靠直觉写提示词”的混沌期。模块化转译将提示词提升为可测试、可维护的软件工程对象，这不仅改变了开发者的习惯，也将重谱设计和知识管理系统的底层逻辑。",
+      "editorial_signal": "提示词的‘代码化’和模块化编译意味着人类对 AI 行为的控制正在从微调句子的‘玄学’转向结构严密的软件工程。",
+      "theme_tags": [
+        "AI-native workflow",
+        "prompt engineering",
+        "modular design",
+        "AI agents",
+        "software engineering"
+      ],
+      "source_name": "Google Developers Blog",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKY-MhRTvSBowgbmMx_j_QDgg9TgURvZCfnijpCyaq26zUXclQkjEGjaK_9K9ZUrDohdMhDW6FtMm2Y9yGgyTjgSljnxD4FJfNjFaV8k6eeoSl0rk2Z4B18iav2JiW9j24makXdrlc-_tMq3btIPza8j9-P5wFPk9cKB17SsZApsJ-LQdBKhcUMSO_gbKKcWc5zOYsMBY=",
+      "publication_date": "2026-07-16",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "工具背后的性别双标：为什么女性披露使用 AI 会遭受职场“能力惩罚”？",
+      "title_en": "The Gender Bias of AI Usage: Why Women Who Disclose AI Tool Use Face 'Competence Penalties'",
+      "summary_zh": "Zehra Chatoo 发布的 2026 年最新研究《AI 判决惩罚》揭示了职场评估中的严重性别双标：在使用完全相同且注明 AI 辅助优化的简历时，若名字为女性（Emily Clarke），评估者质疑其个人能力的概率是男性的两倍；而当名字为男性（James Clark）时，AI 的使用却被解读为“务实与高效”。此外，HBR 的研究也显示，注明 AI 辅助会使女性工程师的代码评分平均下降 13%（男性仅下降 6%），在男性管理者中这一惩罚最高可达 26%。UCLA 研究者指出，这种污名化解释了为什么女性实际 AI 使用率偏低。",
+      "summary_en": "A 2026 study titled 'The AI Judgment Penalty' by Zehra Chatoo reveals a stark gender double standard: when reviewing identical resumes noted with AI optimization, evaluators were twice as likely to question the candidate's competence if the name was female (Emily Clarke), whereas the same AI usage was labeled 'pragmatic' for a male candidate (James Clark). Similarly, HBR research shows that disclosing AI assistance drops competence ratings for female software engineers by 13% (compared to 6% for men), soaring to 26% under male managers.",
+      "why_muki_cares": "极具启发性的社会学发现。它从结构层面解释了为什么在全球 AI 浪潮中女性使用率偏低。这并非因为技能匮乏，而是一种理性的自我保护——在不平等的评价体系中，技术工具对男性是“增效”勋章，对女性则是“无能”的污名，揭示了劳动评估权力的深层倾斜。",
+      "editorial_signal": "技术的民主化无法自动带来平等。当算法与自动化工具嵌入旧有的职场权力关系时，它往往会成为针对边缘群体的新型监控和评价武器。",
+      "theme_tags": [
+        "gendered technology",
+        "competence penalty",
+        "AI bias",
+        "cognitive labor",
+        "workplace structures"
+      ],
+      "source_name": "Forbes",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt0-XT5LGEd0g7h-66-uzoA0smEOEv9EAzNGCFfy7gMzxr3sjfX5m_UTlxS-4kB0hFwbj_Uv3SJ5BkqtpWgabpISqeD8CMY7WZeezsuzPN5xgVHTZRexAntVS6-ejA147Prv4oBjXr1f21NH91cQDUNmdWXsalq-D5Wu-4vaK8BITEfl7f7SaunKmr5n_HE9ZcyeM51OtEMAmXt6yNSDrYDtmaYRkj9JZHBwLRzmyb7ZAQLw==",
+      "publication_date": "2026-06-25",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "从银幕底片到日常生活档案：何伊宁策划苏文「北京银矿」十五年回顾展亮相上海",
+      "title_en": "Thomas Sauvin - Beijing Silvermine: Archive Anthology Curated by Holly Roussell Opens in Shanghai",
+      "summary_zh": "由客座策展人何伊宁策划的法国艺术家与档案保管员 Thomas Sauvin（苏文）大型个展「北京银矿：档案合集」在上海 Fotografiska 艺术中心开幕。展览汇集了超过 1,500 幅照片、艺术家手工书、实物及合作装置，回顾了苏文长达 15 年的档案保护与再创作实践。苏文自 2009 年起从北京垃圾回收站中抢救出逾 100 万张原本要被熔化提取硝酸银的 35mm 废弃彩色底片，这些底片真实记录了 1985 年至 21 世纪初中国普通家庭的日常生活、社会仪式及物质文化的巨变。",
+      "summary_en": "Curated by guest curator Holly Roussell, the major solo exhibition 'Thomas Sauvin - Beijing Silvermine: Archive Anthology' opened at Fotografiska Shanghai. The exhibition features over 1,500 photographs, artist books, objects, and collaborative installations, offering a comprehensive review of Sauvin’s 15-year preservation and artistic practice. Since 2009, Sauvin rescued over one million discarded 35mm color negatives from Beijing salvage yards destined for silver nitrate destruction, capturing ordinary Chinese family life and material cultural shifts from 1985 to the early 2000s.",
+      "why_muki_cares": "这是一个关于“民间拾得图像（found photography）”和“非官方视觉档案活化”的经典案例。何伊宁的策展介入，将这些本属于大都市边缘的废弃媒介，置入了一种结合媒介考古学与地缘社会变迁的严谨历史学审视中。",
+      "editorial_signal": "档案的拯救并非终点，真正的艺术劳动在于如何通过分类、序列化和物质化（如手工书），让被熔毁边缘的日常记忆重新进入当代的叙事网络。",
+      "theme_tags": [
+        "vernacular photography",
+        "Beijing Silvermine",
+        "found photography",
+        "archive activation",
+        "material culture",
+        "Shanghai"
+      ],
+      "source_name": "Fotografiska Shanghai",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIp_hP8SecdXVErcCUPYPKAZlSKBzevXr01Z6HDXQdcCxDlb7IImkDxfeK99pJlBvXrF1qpy1QYy3_UwEYxzOJSaVv8of43GcltQde7uOgM8g3iQCa7BOak0s0ZHp6SNgKb3Popw4UoY0oqI9ipwzrbr5CIA==",
+      "publication_date": "2026-06-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "影像作为“权力器械”：韩国光州亚洲文化中心十周年特展审视亚洲实验影像与媒介政治",
+      "title_en": "Asia, The Apparatus: ACC Film & Video Marks 10th Anniversary Exhibition Re-examining Media Politics and History",
+      "summary_zh": "韩国光州国家亚洲文化中心（ACC）举办十周年系列特展「亚洲，作为器械」（Asia, The Apparatus），展出其历时十年研究和收集的亚洲实验电影与录像艺术。展览将“器械（Apparatus）”定义为双重意指：既是摄像机、投影仪等物质媒介，也是捕获和重新组织历史记忆的权力结构。展览以“听写 — 呈现 — 改写”为叙事线修，汇集了车学敬、阮纯诗（展出 2026 年重制的《47 Days, Sound-less》三通道影像）、金东怜与朴境泰、谢立安（Tiffany Sia）等先锋艺术家的作品。",
+      "summary_en": "Celebrating its 10th anniversary, the National Asian Culture Center (ACC) in Gwangju presents 'Asia, The Apparatus', a special exhibition built on a decade of research and collection of Asian experimental cinema and video art. The curator frames 'Apparatus' as both physical media technology and institutional power networks capturing historical memory. Structured around 'Dictation — Representation — Rewriting,' it features critical works by Theresa Hak Kyung Cha, Nguyen Trinh Thi, Kim Dong-ryeong & Park Kyeong-tae, and Tiffany Sia.",
+      "why_muki_cares": "极其契合对“媒介权力、地缘政治与档案改写”的探讨。展览拒绝将活动影像简化为单纯的审美流派，而是将其视为在政治审查、殖民创伤与机构垄断中，不同代际艺术家夺回“历史解释权”的激烈斗争媒介。",
+      "editorial_signal": "当代影像馆藏和研究机构正在将研究重心从“电影史编年”转向“媒介装置批判”，解构帝国、国家与技术在捕获亚洲身体时的同盟关系。",
+      "theme_tags": [
+        "experimental film",
+        "apparatus theory",
+        "archival rewriting",
+        "decoloniality",
+        "East Asian media",
+        "moving image"
+      ],
+      "source_name": "e-flux Announcements",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAJyxKBmw6-cXaE8M-oJ3mU8qqmLNItJmQntZraX2oUjq-MthT1kEOjG46eLI3cYEBNuoXW-dJme1QqsrX6tizAZoVanGZSboHUZE0fdLkzccqbMvFnkyk_djXwoHNYc_ZLNYUtyH7PazCtZwEhHXfOAmO_A=",
+      "publication_date": "2026-06-20",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "Women Who Use AI Seen As Incompetent; Men Who Use AI Seen As Pragmatic",
+    "why_muki_may_care": "2026年夏天关于‘AI工具应用中的隐形性别惩罚’的一系列研究，从底层瓦解了‘AI能自动促进平等’的盲目乐观。它深刻表明：如果一个评价体系在本质上是倾斜的，那么工具越是先进，它对弱势群体所产生的双重标准反噬就会越发隐蔽和坚固。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt0-XT5LGEd0g7h-66-uzoA0smEOEv9EAzNGCFfy7gMzxr3sjfX5m_UTlxS-4kB0hFwbj_Uv3SJ5BkqtpWgabpISqeD8CMY7WZeezsuzPN5xgVHTZRexAntVS6-ejA147Prv4oBjXr1f21NH91cQDUNmdWXsalq-D5Wu-4vaK8BITEfl7f7SaunKmr5n_HE9ZcyeM51OtEMAmXt6yNSDrYDtmaYRkj9JZHBwLRzmyb7ZAQLw=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Japanese Women Photographers (排除了 The Photographers' Gallery 近期举办的日本女性摄影师群展，因其内容与第007期有较多重复，转而选择更具独特残障与看护视角的 Sturchio 姐妹生命档案)",
+    "CapCut Design 2.0 Web Agent (排除了 CapCut 新发布的 AI 无限画布更新，因为在方法论上，Google 提出的模块化提示词转译对 Muki 的 AI-Native 工作流研究提供了更深刻的系统级参考价值)"
+  ],
+  "covered_entities": [
+    "Hasselblad Foundation",
+    "riel Sturchio",
+    "Bianca Sturchio",
+    "Thomas Sauvin",
+    "Holly Roussell",
+    "Fotografiska Shanghai",
+    "National Asian Culture Center",
+    "Zehra Chatoo",
+    "Simerus Mahesh"
+  ],
+  "repetition_notes": "本期所有候选故事皆为 New（全新信号）。此前多次涉及‘日本女性摄影师群展’及‘阿尔勒摄影书奖’，本期通过选择哈苏基金会 2026 年度新获资助者《before the last lilac blooms》和苏文在北京银矿十五年回顾展（Holly Roussell 策划的新展）进行了合理的差异化聚焦。排除了可能带来主题同质化的 CapCut 工具发布，确保 AI-Native 栏目的前沿研究性质。",
+  "issue_number": 10
+}
