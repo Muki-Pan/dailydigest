@@ -126,7 +126,7 @@ const storyMarkup = (story, index, issueDate) => {
     ? `<img src="${escapeHtml(story.image)}" alt="" loading="lazy">`
     : `<div class="visual-placeholder"><span>${String(index + 1).padStart(2, "0")}</span><small>${escapeHtml(story.category)}</small></div>`;
   const storyId = `${issueDate}:${String(index + 1).padStart(2, "0")}`;
-  return `<article class="story ${index === 0 ? "story-lead" : ""}" data-story-id="${escapeHtml(storyId)}" data-issue-date="${escapeHtml(issueDate)}">
+  return `<article id="story-${String(index + 1).padStart(2, "0")}" class="story ${index === 0 ? "story-lead" : ""}" data-story-id="${escapeHtml(storyId)}" data-issue-date="${escapeHtml(issueDate)}">
     <div class="story-number">${escapeHtml(story.number)}</div>
     <div class="story-copy">
       <p class="eyebrow">${escapeHtml(story.category)}</p>
@@ -142,7 +142,7 @@ const storyMarkup = (story, index, issueDate) => {
       <div class="comments-panel" hidden>
         <div class="comments-list" aria-live="polite"></div>
         <form class="comment-form">
-          <label><span>Anonymous comment</span><textarea name="body" maxlength="1200" rows="3" required placeholder="写下你的想法…"></textarea></label>
+          <label><span class="visually-hidden">写下你的想法</span><textarea name="body" maxlength="1200" rows="3" required placeholder="写下你的想法…"></textarea></label>
           <input class="comment-trap" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
           <input name="started_at" type="hidden">
           <div><small>匿名发布 · 最多 1200 字</small><button type="submit">Post</button></div>
@@ -162,7 +162,7 @@ function issuePage(digest, older, newer) {
     ${newer ? `<a class="nav-next" href="${newer.date}.html" aria-label="Next issue"></a>` : `<span class="nav-space" aria-hidden="true"></span>`}
   </nav>`;
   return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(title)}</title><link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="../styles.css"><link rel="stylesheet" href="../comments.css"><script src="../comments.js" defer></script></head>
-  <body><header class="sitebar"><a href="../index.html">MUKI'S DAILY DIGEST</a>${issueNav}<span>${escapeHtml(dateLabel)}</span></header>
+  <body><header class="sitebar"><a href="../index.html">MUKI'S DAILY DIGEST</a>${issueNav}<a class="sitebar-comments" href="../comments.html">COMMENTS</a></header>
   <main class="issue-shell">
     <section class="cover">
       <div class="cover-copy"><p class="kicker">Daily Digest for Muki</p><h1>DAILY<br>DIGEST</h1><p class="topics">${escapeHtml(digest.topics)}</p><div class="cover-meta"><time datetime="${escapeHtml(digest.date)}">${escapeHtml(dateLabel)}</time><strong>ISSUE NO.<br><em>${digest.issue}</em></strong><span>◷ ${escapeHtml(digest.readingTime)}</span></div></div>
@@ -176,7 +176,11 @@ function issuePage(digest, older, newer) {
 
 function indexPage(digests) {
   const cards = digests.map((digest) => `<a class="issue-card" href="issues/${digest.date}.html"><span class="issue-card-no">${digest.issue}</span><div><p>${escapeHtml(formatDate(digest.date))}</p><h2>${escapeHtml(digest.stories[0]?.title || "Daily Digest")}</h2><small>${digest.stories.length} stories · ${escapeHtml(digest.readingTime)}</small></div><i>↗</i></a>`).join("");
-  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Muki's Daily Digest</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="comments.css"></head><body class="index"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE ARCHIVE</span><span>${digests.length} ISSUES</span></header><main class="archive-shell"><section class="archive-hero"><p>Daily reading archive · 2026</p><h1>A quiet index of<br>images, ideas & tools.</h1><div class="archive-orbit"><div class="moon"></div></div></section><section class="archive-list"><div class="archive-heading"><span>All issues</span><span>Latest first</span></div>${cards || "<p class=empty>把 ChatGPT 输出的 Markdown 放入 chatgpt_output，然后运行 npm run build。</p>"}</section></main>${footerMarkup}</body></html>`;
+  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Muki's Daily Digest</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="comments.css"></head><body class="index"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE ARCHIVE</span><a class="sitebar-comments" href="comments.html">COMMENTS</a></header><main class="archive-shell"><section class="archive-hero"><p>Daily reading archive · 2026</p><h1>A quiet index of<br>images, ideas & tools.</h1><div class="archive-orbit"><div class="moon"></div></div></section><section class="archive-list"><div class="archive-heading"><span>All issues</span><span>Latest first</span></div>${cards || "<p class=empty>把 ChatGPT 输出的 Markdown 放入 chatgpt_output，然后运行 npm run build。</p>"}</section></main>${footerMarkup}</body></html>`;
+}
+
+function commentsPage() {
+  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Comments · Muki's Daily Digest</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="comments.css"><script src="comments-feed.js" defer></script></head><body class="comments-page"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE COMMENT FIELD</span><a class="sitebar-comments" href="index.html">ARCHIVE</a></header><main class="comments-shell"><header class="comments-hero"><p>Reader’s marginalia</p><h1>COMMENTS <span id="feed-count"></span></h1><p>一些留在每日信号旁边的文字。点击评论，回到它所回应的报道。</p></header><section id="comments-feed" class="comments-grid" aria-live="polite"><p class="feed-state">Loading comments…</p></section></main>${footerMarkup}</body></html>`;
 }
 
 await mkdir(inputDir, { recursive: true });
@@ -243,5 +247,6 @@ for (const [index, digest] of digests.entries()) {
   await writeFile(path.join(issueDir, `${digest.date}.html`), issuePage(digest, digests[index + 1], digests[index - 1]));
 }
 await writeFile(path.join(publicDir, "index.html"), indexPage(digests));
+await writeFile(path.join(publicDir, "comments.html"), commentsPage());
 await writeFile(path.join(publicDir, "data", "issues.json"), JSON.stringify(digests, null, 2));
 console.log(`Built ${digests.length} issue(s) in public/`);

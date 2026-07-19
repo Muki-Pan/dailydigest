@@ -25,7 +25,12 @@ async function commentsApi(request, env) {
 
   if (request.method === "GET") {
     const storyId = url.searchParams.get("story_id")?.slice(0, 80);
-    if (!storyId) return json({ error: "Missing story_id." }, 400);
+    if (!storyId) {
+      const { results } = await env.DB.prepare(
+        "SELECT id, story_id, issue_date, body, created_at FROM comments WHERE status = 'visible' ORDER BY created_at DESC LIMIT 500"
+      ).all();
+      return json({ comments: results });
+    }
     const { results } = await env.DB.prepare(
       "SELECT id, body, created_at FROM comments WHERE story_id = ? AND status = 'visible' ORDER BY created_at ASC LIMIT 200"
     ).bind(storyId).all();
