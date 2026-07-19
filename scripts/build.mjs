@@ -77,6 +77,7 @@ function parseDigest(source, filename) {
     date: parseDate(dateLabel),
     dateLabel,
     issue: (fieldAny(source, "Issue No\\.", "期号") || yaml("issue")).padStart(3, "0"),
+    manualOverride: /^(true|yes|manual)$/i.test(yaml("manual_override")),
     readingTime: fieldAny(source, "Estimated Reading Time", "预计阅读时间") || yaml("reading_time"),
     topics: fieldAny(source, "Topics", "主题") || "Images · tools · archives · culture",
     intro: clean(why),
@@ -116,7 +117,7 @@ function parseStructuredDigest(source, filename) {
 
 const formatDate = (value) => {
   const date = parseDate(value || "");
-  return /^\d{4}-\d{2}-\d{2}$/.test(date) ? date : value;
+  return /^\d{4}-\d{2}-\d{2}$/.test(date) ? date.replaceAll("-", ".") : value;
 };
 
 const footerMarkup = `<footer>Daily Digest for Muki · <a href="https://mukipan.com" target="_blank" rel="noreferrer">© Muki Pan</a></footer>`;
@@ -194,7 +195,11 @@ try { structuredFiles = (await readdir(structuredDir)).filter((name) => name.end
 const structured = await Promise.all(structuredFiles.map(async (filename) => parseStructuredDigest(await readFile(path.join(structuredDir, filename), "utf8"), filename)));
 const structuredDates = new Set(structured.map((digest) => digest.date));
 const legacy = await Promise.all(files.map(async (filename) => parseDigest(await readFile(path.join(inputDir, filename), "utf8"), filename)));
-const parsed = [...structured, ...legacy.filter((digest) => !structuredDates.has(digest.date))];
+const manualOverrideDates = new Set(legacy.filter((digest) => digest.manualOverride).map((digest) => digest.date));
+const parsed = [
+  ...structured.filter((digest) => !manualOverrideDates.has(digest.date)),
+  ...legacy.filter((digest) => digest.manualOverride || !structuredDates.has(digest.date))
+];
 for (const digest of parsed) {
   const missing = [!digest.date && "date", !digest.stories.length && "stories"].filter(Boolean);
   if (missing.length) console.warn(`Skipped ${digest.filename}: missing ${missing.join(" and ")}`);
@@ -202,6 +207,10 @@ for (const digest of parsed) {
 const digests = parsed
   .filter((digest) => digest.date && digest.stories.length)
   .sort((a, b) => b.date.localeCompare(a.date));
+
+digests.forEach((digest, index) => {
+  digest.issue = String(digests.length - index).padStart(3, "0");
+});
 
 const imageCachePath = path.join(publicDir, "data", "image-cache.json");
 let imageCache = {};
@@ -247,6 +256,6 @@ for (const [index, digest] of digests.entries()) {
   await writeFile(path.join(issueDir, `${digest.date}.html`), issuePage(digest, digests[index + 1], digests[index - 1]));
 }
 await writeFile(path.join(publicDir, "index.html"), indexPage(digests));
-await writeFile(path.join(publicDir, "comments.html"), commentsPage());
+await writeFile(path.join(publicDir, "comments.html"), commentsPage().replace("<p>一些留在每日信号旁边的文字。点击评论，回到它所回应的报道。</p>", ""));
 await writeFile(path.join(publicDir, "data", "issues.json"), JSON.stringify(digests, null, 2));
 console.log(`Built ${digests.length} issue(s) in public/`);

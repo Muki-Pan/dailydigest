@@ -70,6 +70,27 @@ DIGEST_DATE=2026-07-17 npm run generate
 npm run generate -- --force
 ```
 
+## 手动添加与选择日期
+
+除自动搜索生成的 JSON 外，也可以把 Markdown 放进 `chatgpt_output/`。刊物最终归属日期由文件顶部的 `date` 决定，不要求与文件名或内容原本生成的日期一致：
+
+```yaml
+---
+date: 2026-07-18
+reading_time: 8 min
+---
+```
+
+修改 `date` 后运行 `npm run build`，它就会进入指定日期。Issue 序号会按照当前实际刊物日期自动连续排列。
+
+如果同一天同时存在自动生成的 `data/issues/YYYY-MM-DD.json` 和手动 Markdown，默认选用自动版本。要明确选择手动版本，在 Markdown 顶部加入：
+
+```yaml
+manual_override: true
+```
+
+删除这一行或改为 `false`，即可重新选用同日期的自动版本。这样自动搜索结果可以继续保留，不需要为了切换版本而删除文件。
+
 ## 项目结构
 
 - `prompts/editorial-policy.md`：长期编辑原则，不包含排版指令。

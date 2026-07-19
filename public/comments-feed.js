@@ -1,5 +1,4 @@
 const feed = document.querySelector("#comments-feed");
-const count = document.querySelector("#feed-count");
 
 const timeFormatter = new Intl.DateTimeFormat("zh-CN", {
   dateStyle: "medium",
@@ -46,7 +45,6 @@ async function loadFeed() {
     if (!commentsResponse.ok || !issuesResponse.ok) throw new Error("Comments are not available yet.");
     const [{ comments }, issues] = await Promise.all([commentsResponse.json(), issuesResponse.json()]);
     const issuesByDate = new Map(issues.map((issue) => [issue.date, issue]));
-    count.textContent = `(${comments.length})`;
     if (!comments.length) {
       feed.innerHTML = '<p class="feed-state">还没有评论。第一条文字会从这里开始。</p>';
       return;
