@@ -114,11 +114,19 @@ function parseStructuredDigest(source, filename) {
   };
 }
 
-const storyMarkup = (story, index) => {
+const formatDate = (value) => {
+  const date = parseDate(value || "");
+  return /^\d{4}-\d{2}-\d{2}$/.test(date) ? date : value;
+};
+
+const footerMarkup = `<footer>Daily Digest for Muki · <a href="https://mukipan.com" target="_blank" rel="noreferrer">© Muki Pan</a></footer>`;
+
+const storyMarkup = (story, index, issueDate) => {
   const visual = story.image
     ? `<img src="${escapeHtml(story.image)}" alt="" loading="lazy">`
     : `<div class="visual-placeholder"><span>${String(index + 1).padStart(2, "0")}</span><small>${escapeHtml(story.category)}</small></div>`;
-  return `<article class="story ${index === 0 ? "story-lead" : ""}">
+  const storyId = `${issueDate}:${String(index + 1).padStart(2, "0")}`;
+  return `<article class="story ${index === 0 ? "story-lead" : ""}" data-story-id="${escapeHtml(storyId)}" data-issue-date="${escapeHtml(issueDate)}">
     <div class="story-number">${escapeHtml(story.number)}</div>
     <div class="story-copy">
       <p class="eyebrow">${escapeHtml(story.category)}</p>
@@ -129,32 +137,46 @@ const storyMarkup = (story, index) => {
       ${story.url ? `<a class="source" href="${escapeHtml(story.url)}" target="_blank" rel="noreferrer">↗ ${escapeHtml(story.source)}</a>` : ""}
     </div>
     <figure>${visual}</figure>
+    <section class="comments" aria-label="Comments for this story">
+      <button class="comments-toggle" type="button" aria-expanded="false">Comments <span class="comments-count"></span></button>
+      <div class="comments-panel" hidden>
+        <div class="comments-list" aria-live="polite"></div>
+        <form class="comment-form">
+          <label><span>Anonymous comment</span><textarea name="body" maxlength="1200" rows="3" required placeholder="写下你的想法…"></textarea></label>
+          <input class="comment-trap" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <input name="started_at" type="hidden">
+          <div><small>匿名发布 · 最多 1200 字</small><button type="submit">Post</button></div>
+          <p class="comment-status" role="status"></p>
+        </form>
+      </div>
+    </section>
   </article>`;
 };
 
 function issuePage(digest, older, newer) {
-  const title = `${digest.dateLabel} · Issue ${digest.issue}`;
+  const dateLabel = formatDate(digest.date);
+  const title = `${dateLabel} · Issue ${digest.issue}`;
   const issueNav = `<nav class="issue-nav" aria-label="Issue navigation">
     ${older ? `<a class="nav-prev" href="${older.date}.html" aria-label="Previous issue"></a>` : `<span class="nav-space" aria-hidden="true"></span>`}
     <strong>ISSUE ${digest.issue}</strong>
     ${newer ? `<a class="nav-next" href="${newer.date}.html" aria-label="Next issue"></a>` : `<span class="nav-space" aria-hidden="true"></span>`}
   </nav>`;
-  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(title)}</title><link rel="stylesheet" href="../styles.css"></head>
-  <body><header class="sitebar"><a href="../index.html">MUKI'S DAILY DIGEST</a>${issueNav}<span>${escapeHtml(digest.dateLabel)}</span></header>
+  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(title)}</title><link rel="icon" href="../favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="../styles.css"><link rel="stylesheet" href="../comments.css"><script src="../comments.js" defer></script></head>
+  <body><header class="sitebar"><a href="../index.html">MUKI'S DAILY DIGEST</a>${issueNav}<span>${escapeHtml(dateLabel)}</span></header>
   <main class="issue-shell">
     <section class="cover">
-      <div class="cover-copy"><p class="kicker">Daily Digest for Muki</p><h1>DAILY<br>DIGEST</h1><p class="topics">${escapeHtml(digest.topics)}</p><div class="cover-meta"><time>${escapeHtml(digest.dateLabel)}</time><strong>ISSUE NO.<br><em>${digest.issue}</em></strong><span>◷ ${escapeHtml(digest.readingTime)}</span></div></div>
+      <div class="cover-copy"><p class="kicker">Daily Digest for Muki</p><h1>DAILY<br>DIGEST</h1><p class="topics">${escapeHtml(digest.topics)}</p><div class="cover-meta"><time datetime="${escapeHtml(digest.date)}">${escapeHtml(dateLabel)}</time><strong>ISSUE NO.<br><em>${digest.issue}</em></strong><span>◷ ${escapeHtml(digest.readingTime)}</span></div></div>
       <div class="cover-art"><div class="moon"></div><div class="veil veil-one"></div><div class="veil veil-two"></div><p>Images · tools · archives · culture</p></div>
     </section>
     <section class="editorial"><span>Editor’s note</span><p>${escapeHtml(digest.intro)}</p></section>
-    <section class="stories">${digest.stories.map(storyMarkup).join("")}</section>
+    <section class="stories">${digest.stories.map((story, index) => storyMarkup(story, index, digest.date)).join("")}</section>
     <blockquote>${escapeHtml(digest.closing || digest.opening)}</blockquote>
-  </main><footer>Daily Digest for Muki · A quiet editorial notebook.</footer></body></html>`;
+  </main>${footerMarkup}</body></html>`;
 }
 
 function indexPage(digests) {
-  const cards = digests.map((digest) => `<a class="issue-card" href="issues/${digest.date}.html"><span class="issue-card-no">${digest.issue}</span><div><p>${escapeHtml(digest.dateLabel)}</p><h2>${escapeHtml(digest.stories[0]?.title || "Daily Digest")}</h2><small>${digest.stories.length} stories · ${escapeHtml(digest.readingTime)}</small></div><i>↗</i></a>`).join("");
-  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Muki's Daily Digest</title><link rel="stylesheet" href="styles.css"></head><body class="index"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE ARCHIVE</span><span>${digests.length} ISSUES</span></header><main class="archive-shell"><section class="archive-hero"><p>Daily reading archive · 2026</p><h1>A quiet index of<br>images, ideas & tools.</h1><div class="archive-orbit"><div class="moon"></div></div></section><section class="archive-list"><div class="archive-heading"><span>All issues</span><span>Latest first</span></div>${cards || "<p class=empty>把 ChatGPT 输出的 Markdown 放入 chatgpt_output，然后运行 npm run build。</p>"}</section></main><footer>Curated daily for a more feminist and connected future.</footer></body></html>`;
+  const cards = digests.map((digest) => `<a class="issue-card" href="issues/${digest.date}.html"><span class="issue-card-no">${digest.issue}</span><div><p>${escapeHtml(formatDate(digest.date))}</p><h2>${escapeHtml(digest.stories[0]?.title || "Daily Digest")}</h2><small>${digest.stories.length} stories · ${escapeHtml(digest.readingTime)}</small></div><i>↗</i></a>`).join("");
+  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Muki's Daily Digest</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="comments.css"></head><body class="index"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE ARCHIVE</span><span>${digests.length} ISSUES</span></header><main class="archive-shell"><section class="archive-hero"><p>Daily reading archive · 2026</p><h1>A quiet index of<br>images, ideas & tools.</h1><div class="archive-orbit"><div class="moon"></div></div></section><section class="archive-list"><div class="archive-heading"><span>All issues</span><span>Latest first</span></div>${cards || "<p class=empty>把 ChatGPT 输出的 Markdown 放入 chatgpt_output，然后运行 npm run build。</p>"}</section></main>${footerMarkup}</body></html>`;
 }
 
 await mkdir(inputDir, { recursive: true });

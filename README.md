@@ -82,6 +82,25 @@ npm run generate -- --force
 - `chatgpt_output/`：自动生成及历史 Markdown 档案。
 - `.github/workflows/daily-digest.yml`：每日定时任务。
 
+## 内容与评论存储
+
+刊物正文不是存储在数据库里。结构化正文位于 `data/issues/YYYY-MM-DD.json`，GitHub 是内容档案；每次部署时，`npm run build` 会把它们渲染为 `public/issues/` 下的静态页面。
+
+匿名评论使用 Cloudflare D1。每条评论关联一个稳定的 `日期:序号` news ID；`comments` 表同时保留 `issue_date`、`created_at` 和可见状态，并建立了按 news 与全站时间线读取的索引。以后增加文字瀑布流页面时可以直接复用，不需要迁移现有评论。
+
+首次启用评论：
+
+1. 在 Cloudflare 控制台创建名为 `daily-digest-comments` 的 D1 数据库。
+2. 复制数据库 ID，取消 `wrangler.jsonc` 中 `d1_databases` 配置的注释并填入 ID。
+3. Cloudflare 构建命令使用 `npm run build`，部署命令使用 `npx wrangler deploy`。
+4. 重新部署。Worker 会在第一次评论请求时安全地初始化表和索引；`migrations/0001_comments.sql` 也保留为数据库结构记录。
+
+需要隐藏评论时，可以在 D1 控制台执行：
+
+```sql
+UPDATE comments SET status = 'deleted' WHERE id = 需要删除的评论ID;
+```
+
 ## 常用命令
 
 ```bash
