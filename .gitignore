@@ -5,3 +5,8 @@
 node_modules/
 public/issues/
 public/data/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example

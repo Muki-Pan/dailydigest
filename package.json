@@ -7,6 +7,11 @@
     "dev": "node scripts/serve.mjs",
     "generate": "node scripts/generate.mjs",
     "validate": "node scripts/validate.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.112.0"
   }
 }
