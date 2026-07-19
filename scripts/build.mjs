@@ -79,6 +79,7 @@ function parseDigest(source, filename) {
     issue: (fieldAny(source, "Issue No\\.", "期号") || yaml("issue")).padStart(3, "0"),
     manualOverride: /^(true|yes|manual)$/i.test(yaml("manual_override")),
     readingTime: fieldAny(source, "Estimated Reading Time", "预计阅读时间") || yaml("reading_time"),
+    archiveTitle: yaml("archive_title"),
     topics: fieldAny(source, "Topics", "主题") || "Images · tools · archives · culture",
     intro: clean(why),
     opening: clean(opening),
@@ -95,6 +96,7 @@ function parseStructuredDigest(source, filename) {
     dateLabel: digest.date,
     issue: String(digest.issue_number || "").padStart(3, "0"),
     readingTime: digest.reading_time || "",
+    archiveTitle: digest.archive_title || "",
     topics: (digest.topics || []).join(" · "),
     intro: digest.why_today || digest.intro || "",
     opening: digest.opening_signal || "",
@@ -176,7 +178,7 @@ function issuePage(digest, older, newer) {
 }
 
 function indexPage(digests) {
-  const cards = digests.map((digest) => `<a class="issue-card" href="issues/${digest.date}.html"><span class="issue-card-no">${digest.issue}</span><div><p>${escapeHtml(formatDate(digest.date))}</p><h2>${escapeHtml(digest.stories[0]?.title || "Daily Digest")}</h2><small>${digest.stories.length} stories · ${escapeHtml(digest.readingTime)}</small></div><i>↗</i></a>`).join("");
+  const cards = digests.map((digest) => `<a class="issue-card" href="issues/${digest.date}.html"><span class="issue-card-no">${digest.issue}</span><div><p>${escapeHtml(formatDate(digest.date))}</p><h2>${escapeHtml(digest.archiveTitle || digest.stories[0]?.title || "Daily Digest")}</h2><small>${digest.stories.length} stories · ${escapeHtml(digest.readingTime)}</small></div><i>↗</i></a>`).join("");
   return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Muki's Daily Digest</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="comments.css"></head><body class="index"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE ARCHIVE</span><a class="sitebar-comments" href="comments.html">COMMENTS</a></header><main class="archive-shell"><section class="archive-hero"><p>Daily reading archive · 2026</p><h1>A quiet index of<br>images, ideas & tools.</h1><div class="archive-orbit"><div class="moon"></div></div></section><section class="archive-list"><div class="archive-heading"><span>All issues</span><span>Latest first</span></div>${cards || "<p class=empty>把 ChatGPT 输出的 Markdown 放入 chatgpt_output，然后运行 npm run build。</p>"}</section></main>${footerMarkup}</body></html>`;
 }
 
