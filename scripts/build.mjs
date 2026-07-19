@@ -181,7 +181,7 @@ function indexPage(digests) {
 }
 
 function commentsPage() {
-  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Comments · Muki's Daily Digest</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="comments.css"><script src="comments-feed.js" defer></script></head><body class="comments-page"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE COMMENT FIELD</span><a class="sitebar-comments" href="index.html">ARCHIVE</a></header><main class="comments-shell"><header class="comments-hero"><p>Reader’s marginalia</p><h1>COMMENTS <span id="feed-count"></span></h1><p>一些留在每日信号旁边的文字。点击评论，回到它所回应的报道。</p></header><section id="comments-feed" class="comments-grid" aria-live="polite"><p class="feed-state">Loading comments…</p></section></main>${footerMarkup}</body></html>`;
+  return `<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Comments · Muki's Daily Digest</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="comments.css"><script src="comments-feed.js" defer></script></head><body class="comments-page"><header class="sitebar"><a href="index.html">MUKI'S DAILY DIGEST</a><span>THE COMMENT FIELD</span><a class="sitebar-comments" href="index.html">ARCHIVE</a></header><main class="comments-shell"><section id="comments-feed" class="comments-grid" aria-live="polite"><p class="feed-state">Loading comments…</p></section></main>${footerMarkup}</body></html>`;
 }
 
 await mkdir(inputDir, { recursive: true });
@@ -256,6 +256,6 @@ for (const [index, digest] of digests.entries()) {
   await writeFile(path.join(issueDir, `${digest.date}.html`), issuePage(digest, digests[index + 1], digests[index - 1]));
 }
 await writeFile(path.join(publicDir, "index.html"), indexPage(digests));
-await writeFile(path.join(publicDir, "comments.html"), commentsPage().replace("<p>一些留在每日信号旁边的文字。点击评论，回到它所回应的报道。</p>", ""));
+await writeFile(path.join(publicDir, "comments.html"), commentsPage());
 await writeFile(path.join(publicDir, "data", "issues.json"), JSON.stringify(digests, null, 2));
 console.log(`Built ${digests.length} issue(s) in public/`);
