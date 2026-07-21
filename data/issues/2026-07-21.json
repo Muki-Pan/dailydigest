@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-21",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "photobook",
+    "archival history",
+    "curatorial labor",
+    "AI pre-production",
+    "media archaeology",
+    "ecological archive",
+    "Kraszna-Krausz Award",
+    "SIGGRAPH 2026"
+  ],
+  "why_today": "今天的信号横跨了从微观海洋生态、冲突废墟到被遗忘的跨国历史，以及底层视觉媒介的再造。在这个科技过度饱和而实体感知日渐干瘪的时代，我们看到艺术家与策展人们正在以极其具体的‘物质性’和‘看护劳动’来对抗遗忘：无论是通过将战火日常拼贴成可触碰的纸张，还是在大洋深处将浮游生物的数据织入活体的发光媒介。同时，AI 正从单纯的‘生成机器’转化为管线间意图的非线性连接体，展现出创意工作流的底层重构潜力。",
+  "intro": "本期简报聚焦于‘档案的动员、重塑与看护’。从乌克兰战火下的日常摄影日记，到四十载黑人与泛非主义电影的女性看护实践，再到香港公共图书馆巡展的晚清媒介考古遗存，它们共同指向了一个核心议题：档案绝非死去的遗迹，而是需要身体、情感与技术不断擦亮、重塑的活性场所。在创意技术前沿，我们追踪了 SIGGRAPH 2026 上的两个关键信号：一个是探索如何保留非线性创作者意图的 AI 协作管线，另一个则是将生态数据、活体生物与 AI 历史声音交织的深海记忆装置。",
+  "opening_signal": "让那些看不见的微小劳动浮出水面，无论是大洋深处的鞭毛藻，还是在档案馆一隅默默看护边缘历史的女性双手。",
+  "closing_signal": "当玻璃底片上的百年银盐微粒与 AI 生成的蕾切尔·卡森的声音交织在一起，我们面对的不再是技术代差的断层，而是一条被不断拉长、折叠并反复重写的媒介历史长链。那些拒绝被均质化的拼贴切口、不肯被抹去的创作者意图、以及坚持用身体温热的流散电影拷贝，构成了我们在这个算法时代保持感知摩擦力的终极防御。明天，我们将继续寻找这些在暗处发光的微弱火花。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "《Red Horse》夺魁：在废墟与日常的拼贴碎片中，重写战火之下的生命档案",
+      "title_en": "\"Red Horse\" Wins the 2026 Kraszna-Krausz Photography Book Award: Redefining the Visual Archive of Survival and Daily Life Under Fire",
+      "summary_zh": "基辅摄影师萨沙·库尔马兹（Sasha Kurmaz）凭借摄影书《Red Horse》（Éditions Images Vevey 出版）荣获2026年 Kraszna-Krausz 摄影书奖。该书整理了自2022年俄罗斯全面入侵乌克兰以来，库尔马兹持续记录的视觉日记。它将个人纪实摄影、现成图像、手绘草图、笔记和从街头收集的实物碎片，以粗犷的拼贴形式编织在一起，拒绝了对战争的温和或疏离叙事，使摄影书成为幸存与日常生命的触觉档案。",
+      "summary_en": "Kyiv-based photographer Sasha Kurmaz has won the 2026 Kraszna-Krausz Photography Book Award for \"Red Horse\" (Éditions Images Vevey). Compiling an ongoing visual diary kept since the 2022 invasion of Ukraine, the book integrates personal documentary, found imagery, hand-drawn sketches, notes, and salvaged street ephemera in a raw collage format, refusing sanitized or distant wartime narratives.",
+      "why_muki_cares": "萨沙·库尔马兹的工作直接回应了图像如何作为脆弱生命的物质见证。拼贴在此处不仅是一种美学风格，更是一种抵抗机制——它通过粗粝、未完成的触觉感，将日常经验与宏大历史剥离。这与 Muki 关注的“身体与创伤的物质性档案”以及“摄影书作为动态媒介”的策展逻辑高度一致。",
+      "editorial_signal": "战争创伤的拼贴式重构，拒绝宏大政治叙事对具体微观生命的吞噬。",
+      "theme_tags": [
+        "photobook",
+        "wartime archive",
+        "collage aesthetics",
+        "material culture",
+        "Sasha Kurmaz",
+        "Kraszna-Krausz Award",
+        "Ukrainian photography"
+      ],
+      "source_name": "Kraszna-Krausz Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwDssdJXrz64ftf-nHqil1X0n4kNneZDFGvytUQv23F6Vm5ET4ov990rQU1Uc4lmoWvuX3GX77W-FD9aV1Yi9d-pcDTJeM1NvehyC5dplAIEvHnng_ofKc3i-cMX_z7JpJGreyltXySVJ1ESsEmPkF",
+      "publication_date": "2026-06-25",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "跨媒介叙事的“决策黏合剂”：Autodesk 研发 StoryArc 探索保留创作者意图的非线性创意工作流",
+      "title_en": "Preserving Narrative Intent Across the Creative Pipeline: Autodesk’s StoryArc Prototype Explores Non-Linear, AI-Assisted Workflows at SIGGRAPH 2026",
+      "summary_zh": "欧特克研究院（Autodesk Research）在 SIGGRAPH 2026 上展示了名为“StoryArc”的 AI 辅助研究原型。StoryArc 旨在使剧本、故事板、三维场景和前期预览（previs）在不断演变的前期制作管线中保持动态连接。它允许非线性的创意决策跨越不同的数字资产进行无缝传播，同时不丢失创作者最初的叙叙事意图。",
+      "summary_en": "Autodesk Research demonstrated \"StoryArc\" at SIGGRAPH 2026, an AI-powered prototype designed to keep scripts, storyboards, 3D scenes, and previsualizations dynamically linked throughout the evolving pre-production pipeline, allowing non-linear creative choices to propagate without losing original narrative intent.",
+      "why_muki_cares": "许多创意 AI 往往在“端到端”生成中抹去了人类的控制权，而 StoryArc 提供了一种“工作流优先”的替代范式。它将 AI 作为关系型数据库和多模态接口，负责管理创意媒介之间的转换与意图对齐，保留了创作者在文字、草图与三维空间之间的控制权和反思摩擦。",
+      "editorial_signal": "AI 作为工作流的“意图黏合剂”，将端到端生成转向多模态资产间的非线性协作。",
+      "theme_tags": [
+        "AI-native workflow",
+        "pre-production",
+        "creative agency",
+        "non-linear narrative",
+        "multimodal AI",
+        "Autodesk StoryArc",
+        "SIGGRAPH 2026"
+      ],
+      "source_name": "Autodesk Research",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL5-2UEBP05xWe9OKNMd5ItgFZ5buyFmHvfBemKInFFlibZji-IsekEh3fVMMCxmnka0E7PUk14rlKbJHSkjO7Rh3UiU4dEAAfPk1_XoqZOzjngZIw9Ixkr59nHd1UFfgMpg1GGiDqAN_sKRr-fFIpfVtn4auTHkJL3mh_jlL5Jrj4zo32R8pH1PzucOwCwLk=",
+      "publication_date": "2026-07-17",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "《June Givanni》荣膺移动影像图书奖：重构四十载黑人与泛非主义电影的“女性看护与反抗档案”",
+      "title_en": "\"June Givanni: The Making of a Pan-African Cinema Archive\" Wins the 2026 Kraszna-Krausz Moving Image Book Award: Reclaiming Forty Years of Women’s Curatorial Labor in Black Cinema",
+      "summary_zh": "艺术家与学者奥涅卡·伊格威（Onyeka Igwe）编撰的《June Givanni: The Making of a Pan-African Cinema Archive》荣获 2026 年 Kraszna-Krausz 移动影像图书奖。该书结合口述历史与深入的档案发掘，记录了圭亚那裔策展人朱恩·吉瓦尼（June Givanni）四十余年来的开创性策展劳动。吉瓦尼在伦敦 MayDay Rooms 设立的私人档案馆保存了自 20 世纪 80 年代初以来，来自非洲、加勒比和黑人英国社群的逾万部电影、海报和剧本，是一座极为珍贵的非正式抵抗宝库。",
+      "summary_en": "Onyeka Igwe’s \"June Givanni: The Making of a Pan-African Cinema Archive\" has won the 2026 Kraszna-Krausz Moving Image Book Award. The book chronicles the pioneering curatorial labor of June Givanni, whose volunteer-run archive at London's MayDay Rooms preserves over 10,000 films and artifacts of Pan-African cinema since the 1980s.",
+      "why_muki_cares": "这一信号直接指向女性在机构边缘的“看护与保存劳动”。吉瓦尼的档案馆不仅是历史碎片的容器，更是对主流白人男性电影体制的“女性主义反档案（counter-archive）”。伊格威的书写让这种长期隐形、基于志愿和情感维系的知识生产劳动变得可见，揭示了个人护理如何承托起一个流散社群的文化记忆。",
+      "editorial_signal": "反档案与看护政治：非正式个人档案馆如何对抗官方机制的制度性遗忘。",
+      "theme_tags": [
+        "curatorial labor",
+        "feminist counter-archive",
+        "Black British cinema",
+        "Pan-Africanism",
+        "June Givanni",
+        "Onyeka Igwe",
+        "MayDay Rooms"
+      ],
+      "source_name": "MayDay Rooms / Kraszna-Krausz Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvS30g7_ERiNipDxgFtjToKI75-jHmVxHN6Ck0ai2HepaEx9NSy-BniHSIzDNo3MPhWzmnzCkEvyR30ypuKpQBz2Q1DW0ahPTXcpPzH20G7bJm3hJp3dfpZALSyh78mDkWWSE_UGyyRA59SVM_7DkTzORhfmWZ2DftRebSWSp4l37-SOkaJPu8s0gGYPqEstqLnjOS_m9vNY0FlGWxeunVRlbD_wBLco7Nk8vX_Mkp2IFDLFlCaZO2uTMRR5p1_bXGgQXwC51KuA==",
+      "publication_date": "2026-06-25",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "跨越一个世纪的底层与景观：香港公共图书馆巡展“梦周基金会早期中国摄影藏品”",
+      "title_en": "Mapping the Face of China a Century Ago: Hong Kong Public Libraries Stage Roving Exhibition of the Moonchu Foundation’s Early Chinese Photography Collection",
+      "summary_zh": "香港公共图书馆（包括香港中央图书馆及士美非路公共图书馆等）正在举办梦周基金会早期中国摄影藏品巡回展览。该藏品已捐赠予香港历史博物馆，内含逾2.4万张19世纪末至20世纪初的珍贵历史照片、书籍与期刊。展览展出了罕见的玻璃底片、立体照片和手工上色照片，不仅记录了鸦片战争、甲午战争等重大历史事件，也生动捕捉了当时的城市景观与底层社会风俗。",
+      "summary_en": "Hong Kong Public Libraries are hosting a roving exhibition featuring selections from the Moonchu Foundation’s early Chinese photography collection, which consists of over 24,000 historical photographs, glass negatives, and periodicals from the late Qing and early Republican periods donated to the Hong Kong Museum of History.",
+      "why_muki_cares": "媒介的物质性往往承载着意识形态的形塑。玻璃底片与立体照片等早期化学媒介，不仅是技术进化的足迹，也是西方凝视与早期本土视觉重构的角力场。从私人基金会收藏走向公共图书馆巡展，这批视觉遗存的动员过程揭示了历史图像如何被反复激活，成为公共历史叙事中可供日常检索、触摸的媒介考古档案。",
+      "editorial_signal": "早期中国摄影的媒介考古学：玻璃底片、立体摄影与公众历史记忆的再编织。",
+      "theme_tags": [
+        "media archaeology",
+        "early Chinese photography",
+        "Moonchu Foundation",
+        "glass negative",
+        "vernacular photography",
+        "Hong Kong",
+        "archival publicization"
+      ],
+      "source_name": "Hong Kong Public Libraries",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-WC4WZ6PZtJjyUJ1opf5zpIhdZ73VV6uhxhKy3KlrbYe_31usUvtVxy0pNbCrSIQfd2Jmnp_iNpeFt16DEA2kUxLLfccONUEVIHIMLgtNXmsreV1p5E7ed3eimtxCJLpO4DnRerxwUeJQbUAiWdpCgof2zs0mPfHgoGoS1qvBfLfGmo=",
+      "publication_date": "2026-07-13",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "聆听浮游生物的微观劳动：李佳宝等联合创作《深坠》亮相 SIGGRAPH 2026，以 AI 重塑生态媒介档案",
+      "title_en": "Listening to the Microscopic Labor of Plankton: Jiabao Li’s \"The Long Fall\" Debuts at SIGGRAPH 2026, Melding Scientific Data, AI, and Ecological Memory",
+      "summary_zh": "艺术家李佳宝（东北大学/东京大学助理教授）、普拉卡什（Manu Prakash，斯坦福）、泰伦特（Will Tallent）和布鲁纳（Michael Bruner）共同创作的沉浸式声画装置《深坠：降入海洋生命记忆》（The Long Fall: A Descent Into the Ocean's Living Memory）在 SIGGRAPH 2026 艺术画廊展出。该作品将斯坦福 Prakash 实验室的“重力相机”与 PlanktonScope 历经18次海洋考察收集到的浮游生物三维运动数据进行媒介化转译。装置现场包含一个拥有100个响应垫的“浮游乐器”，并以发光鞭毛藻作为物理触发媒介，同时以 AI 重建的海洋生物学家蕾切尔·卡森（Rachel Carson）的声音朗读其1951年的散文，构建出一个诗意的生态记忆网络。",
+      "summary_en": "Co-created by artist Jiabao Li, Manu Prakash, Will Tallent, and Michael Bruner, \"The Long Fall\" debuts at the SIGGRAPH 2026 Art Gallery. The work translates ocean plankton datasets into a physical, bioluminescent instrument, accompanied by an AI-reconstructed voice of Rachel Carson reading her 1951 prose, reframing marine data as a sensory ecological archive.",
+      "why_muki_cares": "它是生态主义、科学数据、媒介装置与 AI 重塑女性历史声音的绝佳结合。作品没有将科学数据作为干瘪的指标，而是通过将极微小生物的“生存劳动”（如由于重力而在海洋深处的降落与运动）放大为触手可及的音轨和活体光影，同时召回蕾切尔·卡森被低估的科学文学身体，创造了一种非人类中心主义的、兼具触觉与声音的多维档案。",
+      "editorial_signal": "非人类中心主义的生态档案：用生物物理数据与 AI 声音重写深海生命的微观劳动。",
+      "theme_tags": [
+        "ecological archive",
+        "non-human agency",
+        "Jiabao Li",
+        "Rachel Carson",
+        "SIGGRAPH 2026",
+        "AI voice synthesis",
+        "sensory media"
+      ],
+      "source_name": "Jiabao Li / SIGGRAPH Art Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyyDrkFB19wnruCJGS1RYj7vDBeZgtPlPjqGBJWPMLTuzEMgdWLaXDjHji7T5zmCNR9oS2vhJGK9PWcK_wKxnqphFf_jgX-E0eDPy6o69vPZe0U5e5FVZ4rNXH3E9-IUYK",
+      "publication_date": "2026-07-18",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition / Interactive Installation",
+    "title": "深坠：降入海洋生命记忆 / The Long Fall: A Descent Into the Ocean's Living Memory",
+    "why_muki_may_care": "它在最微观的生物物理运动与宏大的气候媒介档案之间建立起了一座诗意桥梁，并以 AI 声音合成技术复活了蕾切尔·卡森的历史叙事，提供了一个将‘科学数据转化为多感官媒介生态档案’的卓越范例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyyDrkFB19wnruCJGS1RYj7vDBeZgtPlPjqGBJWPMLTuzEMgdWLaXDjHji7T5zmCNR9oS2vhJGK9PWcK_wKxnqphFf_jgX-E0eDPy6o69vPZe0U5e5FVZ4rNXH3E9-IUYK"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "本期排除了部分在 SIGGRAPH 2026 期间发布的纯技术性渲染模型和生成工具，以及其他未能在叙事媒介上提供独特洞察的常规摄影群展，以确保所有信号在美学研究与女性主义批判性工作流上具有深层穿透力。"
+  ],
+  "covered_entities": [
+    "Sasha Kurmaz",
+    "Kraszna-Krausz Foundation",
+    "Éditions Images Vevey",
+    "Autodesk Research",
+    "June Givanni",
+    "Onyeka Igwe",
+    "MayDay Rooms",
+    "Moonchu Foundation",
+    "Hong Kong Museum of History",
+    "Jiabao Li",
+    "Manu Prakash",
+    "Rachel Carson"
+  ],
+  "repetition_notes": "本期所有信号均为 New（全新信号）。虽然本期涉及到了摄影书（Red Horse）和档案化，但与前两期的 riel Sturchio 及 Jo Spence 在研究重心、地理历史语境（乌克兰、黑人流散电影、晚清民国）上形成了完美的差异化互补。在 AI 创意技术领域，避开了上两期探讨的提示词编译及日常职场性别差异，直击 SIGGRAPH 2026 的技术前沿，重点探讨非线性创意流（StoryArc）与感官生态装置（The Long Fall）。",
+  "issue_number": 12
+}
