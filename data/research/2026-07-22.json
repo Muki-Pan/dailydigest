@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-22",
+  "model": "gemini-3.5-flash",
+  "dossier": "## 🔎 每日文化信号研究简报（第 013 期 · 2026年7月22日）\n\n---\n\n### 1. Visual Culture Signal | 视觉文化信号\n\n*   **建议标题 (Proposed Title)**: 《Photobooks USA 2000–25》登陆 ICP：在二十五载美国社会变迁的切片中，重估摄影书作为抵抗、记录与看护的媒介 / *“Photobooks USA 2000–25” at ICP: Re-evaluating the Photobook as a Medium of Resistance, Record, and Care Across a Quarter-Century of American Life*\n*   **具体源地址 (Specific Source URL)**: [https://www.icp.org/exhibitions/photobooks-usa-2000-25](https://www.icp.org/exhibitions/photobooks-usa-2000-25)\n*   **发布/更新日期 (Publication Date)**: 2026年6月11日开幕，持续至2026年9月28日（近期于2026年7月中旬进行联合策展人导览与社区俱乐部激活）\n*   **已验证事实 (Verified Facts)**: \n    *   该展览在纽约国际摄影中心（ICP）展出，汇集了过去25年来在美国出版的50多本代表性摄影书。\n    *   展览由 ICP 创意总监 David Campany、展览副总监 Sara Ickow 以及策展助理 malaika newsome 联合策划。\n    *   展览打破了“畅销书”和“经典殿堂”的传统编目逻辑，侧重于摄影书如何作为一种民主且极具可塑性的独立媒介，响应21世纪美国的社会、文化、政治、环境和经济议题。\n    *   展出书籍中包含多部探讨女性身体、性少数群体的看护、少数族裔阶级政治、身体档案的标杆性摄影作品集，如：Carmen Winant 的《The Last Safe Abortion》（2024，聚焦堕胎权与女性护理网络）、Justine Kurland 的《SCUMB Manifesto》（2022）、Carla Williams 的《Tender》（2023）、Nona Faustine 的《White Shoes》（2021）、Jess T. Dugan 的《Look at me like you love me》（2022，探讨亲密关系与跨性别身体），以及 Baldwin Lee 的同名摄影集（2022）。\n*   **推荐理由与 Muki 关联性 (Relevance to Muki)**: \n    此信号直击 Muki 的核心逻辑——女性主义视觉文化、摄影书出版劳动、关护（Care）与身体档案。它表明摄影书不仅仅是图像的物理容器，更是一种处于建制化画廊与大众媒体边缘的、具有高度亲密感与抵抗力的“次级分发通道”，尤其在记录堕胎护理劳动（Carmen Winant）、黑人女性身体经验（Carla Williams）和跨性别亲密（Jess T. Dugan）时展示了无可替代的物质力量。\n*   **重复性评估 (Duplication Assessment)**: **New（全新信号）**。虽然此前数期涉及摄影书奖（如哈苏基金会 2026 年度新书、Kraszna-Krausz 摄影书奖），但本信号属于大型机构性、跨度长达 25 年的美国摄影书历史书写与策展实践（Curatorial Research），在视野、主题的包容性（包含种族、堕胎、酷儿等交叉性议题）上提供了极具厚度的补充。\n\n---\n\n### 2. AI Research / Creative Tech Signal | AI 研究与创意技术信号\n\n*   **建议标题 (Proposed Title)**: 摆脱对话框，走向“代理就绪”创意网络：NVIDIA 联合主流创意软件在 SIGGRAPH 2026 推动 Model Context Protocol（MCP）应用 / *Beyond the Chatbox to an Agent-Ready Creative Mesh: NVIDIA Rallies Major DCC Software Around Model Context Protocol (MCP) at SIGGRAPH 2026*\n*   **具体源地址 (Specific Source URL)**: [https://blogs.nvidia.com/blog/siggraph-news-2026/](https://blogs.nvidia.com/blog/siggraph-news-2026/) (参考：[https://blogs.nvidia.com/blog/siggraph-news-2026/](https://blogs.nvidia.com/blog/siggraph-news-2026/))\n*   **发布/更新日期 (Publication Date)**: 2026年7月20日\n*   **已验证事实 (Verified Facts)**: \n    *   在洛杉矶举办的 SIGGRAPH 2026 大会上，NVIDIA 宣布了一项旨在重塑数字内容创作（DCC）管线的重大布局：将开放标准“模型上下文协议”（Model Context Protocol，简称 MCP，最初由 Anthropic 提出并开源）深度引入主流 3D 与视觉设计工具中。\n    *   主流数字创意软件提供商——包括 Adobe（Firefly、Creative Cloud 及 Express 内置 AI 助手）、Canva 旗下的 Affinity、Blender（Blender Lab）、Boris FX（Silhouette 抠像与特效软件）、SideFX（Houdini 22 节点式特效管线）、Foundry 以及 Epic Games（Unreal Engine）——均宣布支持 MCP 协议连接。\n    *   MCP 的核心机制在于打破了目前主流 AI “在独立网页对话框中提示生成”的割裂状态，转而建立标准化的本地双向上下文通道，允许 AI 代理（Agents）直接读取、评估并操作软件内的图层、时间线、骨骼绑定（Rigs）、节点树和场景数据。\n    *   AI 代理现在可以直接在艺术家的专业软件内部执行高度重复的管线劳动，如资产验证、节点树自动构建、程序化绑定、材质贴图合规性检查（Texture Inspection）及色彩管理校验，同时，这些代理将本地运行于搭载了 NVIDIA Agent Toolkit 的 RTX PRO 工作站和 DGX Station（结合本地 NemoClaw 及 Nemotron-3 Ultra 运行），无需将敏感创意数据上传至云端，极大地保障了工作室的数据隐私与物理安全。\n*   **推荐理由与 Muki 关联性 (Relevance to Muki)**: \n    该信号代表了 Muki 始终关注的“AI 本地化、工作流原生（Workflow-First）与媒介权力”变迁。它标志着 AI 与创作者协作关系正式从“生成摩擦”（仅充当文本生成图像的工具）迈向了“管线代理”（AI Agents 作为底座工具），将极大地改变 3D 设计、影视后期和数字人文研究中的技术性劳动分配，同时以本地运行（No-Cloud）的形式在制度上保障了创意劳动者的版权与数字资产安全。\n*   **重复性评估 (Duplication Assessment)**: **New（全新信号）**。与上期聚焦于前端/设计非线性叙事原型（StoryArc）的技术信号不同，此信号属于平台底座级、行业生态级别的标准统一，展示了主流 3D/视觉设计应用如何通过统一底层协议转向“代理架构”，具有极高的技术瞻前性。\n\n---\n\n### 3. Feminist Structure Signal | 女性主义结构信号\n\n*   **建议标题 (Proposed Title)**: 神经反馈的去私有化：Behnaz Farahi 团队《共振》荣膺 SIGGRAPH 2026 最佳艺术论文奖，以空间共鸣重塑身体与关护媒介 / *Deprivatizing Neurofeedback: Behnaz Farahi's \"Resonance\" Wins SIGGRAPH 2026 Best Art Paper Award, Reimagining Somatic Care and Collective Awareness*\n*   **具体源地址 (Specific Source URL)**: [https://s2026.siggraph.org/program/art-papers/](https://s2026.siggraph.org/program/art-papers/)\n*   **发布/更新日期 (Publication Date)**: 2026年7月21日（在 SIGGRAPH 2026 进行现场发表）\n*   **已验证事实 (Verified Facts)**: \n    *   研究论文《Resonance: Meditative Neural Rhythms as Collective Spatial Experience》（共鸣：作为集体空间体验的冥想神经节律）荣获 SIGGRAPH 2026 最佳艺术论文奖（Best Art Paper Award）。\n    *   作者团队包括 Ruipeng Wang（哈佛大学/MIT 媒体实验室 Critical Matter 组研究员）、Yuxiang Cheng（MIT 媒体实验室 Critical Matter 组研究生）、Zhiyan Xing 以及 Behnaz Farahi 教授。\n    *   该研究的核心艺术实践是一个交互式空间装置《Resonance》。它将传统上极为私人化、孤立的“冥想与自我数据追踪”（Quantified Self）神经反馈机制去私有化，将其转化为建筑级别的集体空间体验：通过可穿戴设备实时提取冥想者的脑电/神经信号，并将其动态转译为空间中的水体波动、物理振动与宏大光影。\n    *   该项工作在理论上重新审视了生物响应技术。它不将生物神经数据视为可被监控资本主义商业化收集、私有化分析的静态指标，而是将其看作一种促进集体感知、具身共鸣、共享关护（Collective Care）与共享空间觉察（Collective Awareness）的生态媒介。\n*   **推荐理由与 Muki 关联性 (Relevance to Muki)**: \n    该信号完美呼应了 Muki 关注的“女性主义关护（Care）、身体、生物政治学与媒介权力”机制。当下的量化自我技术和冥想 App 往往带有新自由主义的自我剥削印记（即女性将病痛与焦虑内化为个人的自我优化劳动）。Farahi 团队通过《共振》提供了一种彻底的逆向设计——将高度私密的数据反馈解构并重组为集体的空间共感，探索了技术化身体在空间中重新建立集体照护、同情心与反监控叙事的可能。\n*   **重复性评估 (Duplication Assessment)**: **New（全新信号）**。虽然此前多期涉及“关护”与“身体档案”，但这是首次通过最前沿的艺术论文形式（SIGGRAPH 2026 最佳学术论文），从生物响应技术与空间计算设计的维度，批判性重组生物测量媒介（Biometric Media）的历史和技术基础，质量极高。\n\n---\n\n### 4. China / East Asia Signal | 中国与东亚区域信号\n\n*   **建议标题 (Proposed Title)**: 重新书写跨地域女性视觉史：AWARE 联合 Bunkamura 将在东京举办《未来的痕迹：日本女性艺术家》圆桌论坛 / *Writing Women Back Into East Asian Art History: AWARE and Bunkamura to Host \"Traces of the Future: Women Artists in Japan\" Roundtable in Tokyo*\n*   **具体源地址 (Specific Source URL)**: [https://awarewomenartists.com/en/traces-of-the-future-women-artists-in-japan-then-now-and-beyond/](https://awarewomenartists.com/en/traces-of-the-future-women-artists-in-japan-then-now-and-beyond/)\n*   **发布/更新日期 (Publication Date)**: 2026年7月宣布，圆桌论坛将于2026年8月12日举办\n*   **已验证事实 (Verified Facts)**: \n    *   国际女性艺术家学术与档案机构 AWARE（Archives of Women Artists, Research and Exhibitions）宣布与东京 Bunkamura 美术馆（文化村美术馆）达成合作，将于 2026年8月12日在东京都涩谷区 Hikarie Hall 举办名为《未来的痕迹：日本女性艺术家——过去、现在与超越》（Traces of the Future: Women Artists in Japan – Then, Now and Beyond）的学术圆桌论坛。\n    *   该论坛是配合日本最大规模女性摄影师巡回联展《I'm So Happy You Are Here》（1950年代至今的日本女性摄影，目前正在 Hikarie Hall 展出）而专门发起的深化研究。\n    *   “未来的痕迹”（Traces of the Future）这一学术母题致敬了日本先驱女性摄影师石内都（Ishiuchi Miyako）在 2005 年威尼斯双年展上的标志性展览《Mother's 2000-2005: Traces of the Future》（当时该展的策展人即为笠原美智子）。\n    *   圆桌论坛邀请了该展策展人竹内万里子（Mariko Takeuchi）、日本先驱女性主义艺术史学家与策展人笠原美智子（Michiko Kasahara，现任长野县立美术馆馆长），以及 AWARE 日本代表天田万里奈（Marina Amada）。\n    *   论坛将聚焦过去一个世纪中，日本女性艺术家/摄影师在面对建制性博物馆体系、摄影史话语、画廊市场结构以及性别不平等的职业环境时所采取的突围策略，并探讨如何通过跨国数字数据库（如 AWARE 的数字化编目工作）重新书写和修正东亚艺术史，使女性的视觉劳动不再被视为“例外论叙事”（Exceptional Narratives）而得以建制化留存。\n*   **推荐理由与 Muki 关联性 (Relevance to Muki)**: \n    该圆桌论坛极富深度地串联起了 Muki 最核心的多重学术脉络：东亚区域研究、女性主义影像史建构、档案馆活化（Archival Rewriting）和美术馆建制权力体系的反思。它不仅探讨具体的视觉实践，还严肃讨论了如何从数字技术（数据库）与跨国合作层面去纠正艺术史上女性艺术家可见度偏低的系统性机制。\n*   **重复性评估 (Duplication Assessment)**: **Follow-up / Legitimate Repeat（合法后续更新）**。在 2026-07-20（第 011 期）中，我们作为中国/东亚板块的重点，报道了《I'm So Happy You Are Here》日本最大规模女性摄影联展回国巡展。而本期 AWARE 官方最新公布的“未来的痕迹”学术圆桌论坛，是该项目在“研究与档案网络建构”维度的最前沿深化。标记为 **Follow-up** 能够帮助 Muki 保持对该重要课题的长期研究粘性与连续性。\n\n---\n\n### 5. Archive / Long Read / Opportunity | 档案 / 深度阅读 / 机会板块\n\n*   **建议标题 (Proposed Title)**: 陨石、算法与不息的凡人呼吸：居港艺术家作品《Sternwerk》荣膺 SIGGRAPH 2026 最佳艺术画廊奖，以物质碎屑谱写时间的“反纪念碑档案” / *Meteorite, Algorithm, and Ephemeral Human Breath: Hong Kong-Based Artists' \"Sternwerk\" Wins SIGGRAPH 2026 Best Art Gallery Award, Constructing a Material Archive of Deep Time*\n*   **具体源地址 (Specific Source URL)**: [https://s2026.siggraph.org/program/art-gallery/](https://s2026.siggraph.org/program/art-gallery/)\n*   **发布/更新日期 (Publication Date)**: 2026年7月\n*   **已验证事实 (Verified Facts)**: \n    *   居港艺术家及学者 Alvaro Cassinelli（香港城市大学创意媒体学院副教授）与 Tobias Klein（香港城市大学创意媒体学院副教授兼研究员）联合创作的交互式多媒介装置作品《Sternwerk》荣获 SIGGRAPH 2026 最佳艺术画廊奖（Best Art Gallery Award）。\n    *   该作品围绕三个核心元素构建：一盘重达百余斤、呈心脏形状的太古铁陨石（代表地质深处的时间——Deep Time）、一个经典算法模拟程序（康威生命游戏——Conway's Game of Life），以及流动的观展人类。\n    *   在装置物理结构中，陨石作为计算机处理器的“散热器”（Heat Sink），在低温运行中凝聚空气中观展人类呼吸产生的水蒸气。\n    *   随着冷凝的水滴在重力作用下滴落，水滴的声音经过电子声学放大，并随即对运行生命游戏（细胞自动机模拟）的底层算法模型进行瞬间清零和重置。每一次呼吸的水滴滴落，都意味着一个虚拟演化宇宙的消亡与“重启”（Restart）。\n    *   每一滴水所携带的微量人类唾液、皮肤碎屑与空气浮尘残留物，都会永久沉积在陨石的矿物表面上，形成一个随时间生长的“物质档案”（Material Archive）与“反纪念碑式历史物证”。\n*   **推荐理由与 Muki 关联性 (Relevance to Muki)**: \n    此信号是 Muki 所坚持的“图像历史与非人能动性、物质性档案（Material Culture / Media Archaeology）”的绝佳深度案例。创作者颠覆了技术装置“单向表达”的定势，通过气温、重力、水分和矿物碎屑，将本不可见、瞬息即逝的“人类呼吸与生物残余”固定在了代表数亿年行星深部时间的太古铁陨石上，构建了一种不依赖于数码媒介和建制叙事的、自发的物质档案。同时，这也是中国香港/东亚本土前沿数字创意媒体研究（School of Creative Media, CityU HK）在世界舞台（SIGGRAPH 2026）的最高奖项证明，兼具地缘价值与媒介史厚度。\n*   **重复性评估 (Duplication Assessment)**: **New（全新信号）**。该作品在此前虽曾作为艺术家 Tobias Klein 和 Peter Nelson 的共创项目在香港汉雅轩画廊进行过局部的早期艺术小规模展出（“形态之韵”展），但在 2026年7月荣膺 SIGGRAPH 2026 的年度最佳艺术画廊大奖（Best Art Gallery Award），是其在学术和国际艺术科技界获得的最新重大发展，标志着其媒介考古档案方法论（Material Archive of Deep Time）获得了全球图形与科技艺术权威平台的最高规格认可。",
+  "citations": [
+    {
+      "title": "icp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU6YWODxQyDZoge1HIrQPFNw7H9TEpoXn8poXmcHKJvwyhGh3myaoK3H6dTgJhKDHt3T0ZpyhNOorEnsgHaMB7LyM9KiXQl7ceTTZbwFjJf14eBypwMKlmuNwfR_vtuBxcqJep7q0-oUzMeb0="
+    },
+    {
+      "title": "icp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6CO-TigXrPds36x27YVu6KIEywzRHWc9296znRk8MQN9qizrXyE1HRgI9a01dPWm7kCbOo-4ja52X08uZKNNltEjY59Y2ivyH8rcsyaMgM1O-m7UWtl8QEKNpwsjvQ1nOrmZAobu8uzO8opw08jn0WdKbGg9GhrOV9MgW"
+    },
+    {
+      "title": "icp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfWFQ33uXWL1EhXs4E4H1viG_169Q0VT1Lh5JpHRgwy1FOhj2_i5Jm2eYmJI_IkS5JHRezP6wsdwRzqrKfdR5hPnCJ5TRWH6GWYoAS9UITFI8EYF2WVcL4gl-saEDr0iNa3pIjVa5aQnCE-_RONPZFOGppt6rGGm1xB1MnYmYz8A-5VHduDIXuP6zfPVFoaGNo-DFlDls="
+    },
+    {
+      "title": "artforum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYz4Lb4H59zMekAxSOguqDlaoCCAZ4btxMhyzqjZU_3ggo8tSIvwF2zLwMrnuhWmbtMOr5S50fZURFwmylVnlS3J1djoDTLqtjS0R4Ez64lFLP0Fv-pqxQKD8ZrHFLchvA0esSmJyCEI7LXt2bSNmJ9wtoQ1AnG4GhSLfO9HuWDWzLKz79RHlgM0ohRicDtSwS8p7DB4Yb1t2mDz6q4st2JV97QcojNVWxTd5s8lLYR-LA"
+    },
+    {
+      "title": "davidcampany.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoek1qGfsJooj5dF3t_zvrDG7F-jw6ReVVLJFbFoeO2ZcIk7M5lhDHfRnJZ6LS4wtQkXWj4jIVaVd39LkvCzz3eFI0D8XYdBl5Mxns5U5apiSpo2YRoLGvsldJG1Goj30u1yiyygFnvg=="
+    },
+    {
+      "title": "nvidia.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb-5eS61Yhbq6PzEH-9WDvt1ZvgLA9tp3eh-0bF1A5KprUwo9kNnto3OZCzoIf1hVZoTZy88B7yVpj5KECOplCVqW8iO3E9VOtWaDMNLXz2a1JyRLjCpWWaN3EHxeVPeS9oOBzIvw="
+    },
+    {
+      "title": "gamesbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjl0tYsrjHWRxVwEdYMWzxvUsParvbLSMgGke3x8K4wnUSYERfGpwoOb5hjw9g78k6lPjhyn-3ebqR17Q6Yt2Sdg5Q6cnpKcuwwB6FkGONP5uLPCE7WoT9D1DHS8CEkKm6fWmybQTWq0Jah25KG9tHtULbOIbPOFAmNUHheFeqPmjjssyDBqCQ-fox"
+    },
+    {
+      "title": "ultrathink.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGChK_C1DLCef6_wqzbNdyzRFhcgRgIJ2zzDnAIRPPtY0bl9-2E_Uj6yZ_SeUXgeuYWFeMnGtXs1NtYFv4TqmhDCjCt0Y1zbnH9bsrRJURMzVJCILdYPDn2pJL2WqH7uaq-WL5iijb6NOKw-XOFMXBtMTVg686hA58bK9DfIoKW"
+    },
+    {
+      "title": "hyper.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOsrdlBGCAdi6LaNFAnbsDKAMjnEaG0yq_5uRWo4bEFugrW0g6Dgx1is2WmVtFsrlxEMcy8rLqkzokQprEft5Ght74MhHs712aBX775E5nFrNzZBb3qdTyvsBb-SYGTeqEkOyEmJxdUTkX2rbYrsYcn5Q="
+    },
+    {
+      "title": "nvidia.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExzhI_nDj6uhSzS0vqxMBvA_XmTmDohVz9iluMmzYwaaLzj3mzzNTqriy99Yy4h9O0OOZAyLKzuYU8nMoSWPkBtmTXAVPCwbtILQU7Co-UVgOVdD2xHPlNP-lRM18MS4pwTa_FzBa3"
+    },
+    {
+      "title": "vp-land.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECzMthKGo-5i7zGzDf_eBzx-kg-CutCp6fdbxnUIUVkrhgeISvz3fC8LH4JlR2JjD1-1XbH9toRWwYS-RwU6AISzcCoxata05Kt9lmkglR5cQv6AVgMSziywiS_Reg0OPmbiMjKnZSJYyga6MiZNag3Olp5RNureg_ZWDaHH1d5J8yTnzM5hWWGtyvX-NbbH9i-p2ecT_VUXuWqoNLsPTV1UBUfTs5cw=="
+    },
+    {
+      "title": "gamesbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFumd4efSAsNhFAUx8JZWilaGrIDoQcD8qaJZMM08h2c6VVbdsheocJeu3iM9MIwJT6hit2AYmZuo8jQjbrtx1RJsfN-21cRfuInKDeUlLjjT2Elc9A5ool2WcPDw7BV-uovmzPOCAeoVuaL2QORwSqe5GM5j1ChwtgcLV4Sb8ti_fjva9pXMAPkW2T"
+    },
+    {
+      "title": "siggraph.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7tPKqgU2w22V9CIfmoZmhNzYyeL9Kd-IYUa7kSFLTWTlMm6sIu1uAWPW7QTctDgBaOkCi_cBUnAu_FVv_b3rBe_v1HlasoTKo25CUqIeVcW4tTPWPoomyY4QWrouOldmPudA="
+    },
+    {
+      "title": "mit.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvb475mnN0SwKDXFnz7Hb-No5m9MTyneTqPJ_-Ea-qfjTjaXi_IlEnlz_tabOhDSa_KjcaHybWncULTedRpHeDZ_m29xdPdDA6T0jTLQ6vO04riCqOVZVAuHEdD2q9Z3Jc4XrrNsJ2J0k8SlbPFCEUWQ=="
+    },
+    {
+      "title": "yuxiang.design",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr-ssfmHsBmF-UVy1hZ8UbZT5Tt4pzx3p8zm_ubAspaPv9heyHZokRPeBwV45NrKbGACHFqLPfoN3Utw7nh9B7SqpDvt4-9U1cTIY6_Dpc5es="
+    },
+    {
+      "title": "researchgate.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkT16oM-Q-eL56nTMArw7RN9K-MOYNwYtBc_MWXSZOqzuSlY_a1ZKkdRWmo00VAdzIRrmR9-NKOyuR3uPQCIho93MCItYz8euClDnFCN94hr12yNasJ9LVsKTO62wAGb0e5X3hENhNwtyhUxo1H3Nh4kxRpXA_Uy3pULCfBFe9SoMfoybG6au3sddEcQ=="
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFicds-8tXFyODhD09wlyf6qoHkCRaprhrwkgDZvxi-qbvmZqBGXGkgVXIZZ949Qd3UIY0ki-XbAD6wb1OXU1_BJmd9UIjZweROBiOxrpVi98u6iyMX0WZPMtC0Elw3s17x8fqkbg4p9UbklEu9s8JBzTBqRWqF3cWZlRpr_68PYgYGIPexE7dNPHP2Nv1LvCyhteJdHdWvzFcHa3vNHCHwIF2ZlfYW"
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoz3O3KBsl58IofcWlPPYMMNiqMo-PlP-VHHAhf9FqKDhnN6aju26m00nwx8WKqcBt1e6rySg-1HxpE5-wDOvbuEjoAmKIpDqUt_0kiljnru-J9dFwOgLdZhnuOfOE-9tv86BqsTizAWKt4vzFB4Er_b-ehvymSnPggxaw5XjqN0kfWAhFeiTRmTS3n35RK7jT5_I="
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBVmG7aXfECz7nSErtadvqGBgzrjzlYkZCKjG8nYEi_9LkxH-xpQn8W0YkN4-DMeqR2eq3txwhzyw9h4keDHipc5TnHXxoa-215T2F5f4kQo7ushER8lIJU9Utwrra9BjZBbEwtMcLfS-bGUG1MdPpIl24iL-jOMtD8zlS2zvL9AuHPHwecQhZ96BgwLZXNRgQlb6yFYTo1UEKGucSWm39CuqYhhQy"
+    },
+    {
+      "title": "siggraph.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBg2pqR-n52Mf-b1O4nbozdk30OMlM96WBsuh3h6g1sedDgvWHl9TVfVcCJQI1IK2fjI2w_MMKtUvxtHaNRaktA3cgjv5g1TR_ULTYO7lkTQWguSzFWZITIQpSZ6kATeyOf3xLcA=="
+    },
+    {
+      "title": "siggraph.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXng2lDvcI-KSx6WfCN57MAcspjzA2dB-UNKyUu4efYuR3LEsmcmUu3TJYc9Q3AFnnGOYkSFgdJiTXPyi-9vVgdn9nvl66WSeAOoOa7H44su-CB1gogsDOYJsqRlz8kT4wQEo6xfaZQy2P1HGWDWloz7doWx0IwzamtwGTwtteWtxOGwYbXwi7hvr6-HJDfSFpC1HO_Ck="
+    },
+    {
+      "title": "conference-schedule.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDS2ECr9vuAH4D6urcIrLJPZHyZosKNPCA8rQxNF2P8XNQPengrsWsN-3d5VZ1KKxwp4SiVwQwaUIs5oXyHOI3Jf_o13p32ntzIFX18oZV8Emew6pANKz7m6mraWfNBvQbFydlH1QaGiNSxY2_Aw5PXIvMc7pH8JF7P98D2YJtvxIw"
+    },
+    {
+      "title": "wenweipo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpTsRdryMm85pHyOcN7XS-eRYFokAqJdyYOc-9DdQgz_8DUf0vfZoJIMA984mmAdL1EKpCk-Yc3c36MLEK86IbLs6kJB36JvJv47S4LXG_Hg_Bf3YTMGdO72cBjtYHlajF1hyG9WjX3seeBUaj39VCnULeC08-EmeX_g=="
+    },
+    {
+      "title": "cityu.edu.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1sdpcSoWlpAoTfJc9-l4zSEOpY5-YREvu8Bxcpq2qcqnKQtg5zKSCutKLRv4-_Dsw0tq12NzrfTH9ozzxF1J-HfyKNZy4bF8NRHjT4-yaXJQ7D7Jvg_EeZa8wAV30egK7nyA-SfEP1kmulWrnPaThyiQfvT6FK9MNGZ8VPrJJvij2174d6tuuy7jsJ7SX6PBvNoroMLuzPBMOkuzQc-LvaZ3jxLse"
+    }
+  ]
+}
