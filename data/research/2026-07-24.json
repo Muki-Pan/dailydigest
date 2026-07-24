@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-24",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Issue 015 (2026-07-24)\n\n### Editor's Note\n本期强信号聚焦于“工作流交互与档案媒介的边界重写”。DIS 2026 最佳论文探索了把 AI 代理嵌入光标的“流式辅助”设计，试图重构创作者的工作流；媒体考古学家 Erkki Huhtamo 呼吁在全球地方化视角下开展常套（topoi）流动的跨文化考古。在展览中，NMWA 闭幕特展通过纤维与陶艺消解了抽象艺术与女性手工艺的性别藩篱；伦敦日本之家的跨世代双人展则交织了日本原爆与夏威夷流散史。此外，MUUS 档案金为策展学者提供了极具实操价值的第一手研究机会。这些线索在媒介历史重构和技术实操上都值得持续追踪。\n\n---\n\n### Stories\n\n#### 1. [Visual Culture Signal] 媒体考古学先驱 Erkki Huhtamo 发表主旨演讲：呼吁打破欧洲中心主义，从全球化视角审视文化“常套”的跨界流动\n*   **Original Title**: *Media Archaeology Pioneer Erkki Huhtamo Delivers Keynote: Calling to De-Center Europe and Track the Glocal Migration of Topoi*\n*   **Source URL**: [https://www.uantwerpen.be/en/projects/arts-and-media-archaeology/public-keynote-erkki-huhtamo/](https://www.uantwerpen.be/en/projects/arts-and-media-archaeology/public-keynote-erkki-huhtamo/)\n*   **Image URL**: `null`\n*   **Summary**: 媒体考古学先驱、加州大学洛杉矶分校（UCLA）教授 Erkki Huhtamo 在安特卫普大学发表了题为“全球化媒体考古学：问题与前景”的主旨演讲。他指出，媒体考古学长期偏向西方和欧洲视角。对此，他主张引入“全球地方化（glocal）”研究维度，重点关注文化“常套”（topoi，即不断重复出现的视觉或文本公式）在跨越种族、语言和意识形态边界时的迁移、变异与控制机制。这一视角有助于解释早期视觉机器与图像经验如何在全球流通中发生演变。\n*   **English Summary**: Media archaeology pioneer Erkki Huhtamo delivered a keynote lecture titled \"Globalizing Media Archaeology: Problems and Promises\" at the University of Antwerp, advocating for a glocal framework that tracks how recurring cultural topoi (clichés and formulas) migrate and mutate across linguistic and ideological boundaries.\n*   **Why It Matters**: 这项研究对于打破西方中心主义的影像史书写极具启发。Huhtamo 提出的“常套研究（Topos Study）”方法，能够直接用于东亚早期移动影像、视觉奇观及跨国图像公式的媒介考古，帮助研究者识别图像表象背后的历史模版。\n\n#### 2. [AI Research / Creative Tech Signal] DIS 2026 授予最佳论文奖：基于《Fairy Cursor》探索“流中助手”型 AI 代理，摆脱对话框驱动的创作流\n*   **Original Title**: *DIS 2026 Best Paper: \"Fairy Cursor\" Reimagines AI Agents for In-The-Flow Assistance, Moving Beyond Chatbox-Driven Workflows*\n*   **Source URL**: [https://dis2026.acm.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4c_Tb3rhSIJm5usOZbb7S-PiaKm3KZ7d-WwMkzx4WAyH8IYgjFQg4ZVZOJplRob4093mU4_1SZrKsTqFSS6Lqh_UQVBXvHmcZ7UISAq-)\n*   **Image URL**: `null`\n*   **Summary**: 在新加坡举办的 ACM DIS 2026（交互系统设计会议）上，由 Yining Cao、James Hollan 和 Haijun Xia 合作撰写的论文《Exploring Fairy Cursor as a Form of AI Agent for In-the-Flow Assistance》荣获最佳论文奖。该研究针对目前生成式 AI 对话框（Chatbox）交互模式对创作流的干扰，开发了名为“Fairy Cursor”的 AI 代理。该代理直接嵌入在光标中，能根据用户的即时操作和场景上下文，在创作流程内部提供实时的低阻碍辅助，避免了在主界面和输入框之间的频繁切换。\n*   **English Summary**: The paper \"Exploring Fairy Cursor as a Form of AI Agent for In-the-Flow Assistance\" won the Best Paper Award at DIS 2026. The research introduces a cursor-based AI agent that assists users directly within their active workspace, resolving the workflow disruptions caused by traditional chatbox-driven interfaces.\n*   **Why It Matters**: 该研究直击 AI 工具箱“对话框焦虑”的痛点。它将 AI 交互从“单次生成”转变为“流式交互”，把代理技术无缝织入创作者的物理操作中，对设计 AI 原生工作流具有极其具体的落地启示。\n\n#### 3. [Feminist Structure Signal] “Making Their Mark” 抽象收藏展临近闭幕：NMWA 展出八十年女性作品，打破“艺术”与“手工艺”的性别化藩篱\n*   **Original Title**: *“Making Their Mark” Nears Its Close: The Shah Garg Collection at NMWA Reshapes Eight Decades of Abstraction, Eroding the Gendered Boundary Between Art and Craft*\n*   **Source URL**: [https://nmwa.org/exhibitions/making-their-mark-works-from-the-shah-garg-collection/](https://nmwa.org/exhibitions/making-their-mark-works-from-the-shah-garg-collection/)\n*   **Image URL**: `null`\n*   **Summary**: 由 Cecilia Alemani 策划的“Making Their Mark: Works from the Shah Garg Collection”特展于 2026 年 7 月 26 日在华盛顿国家女性艺术博物馆（NMWA）闭幕。展览汇集了 1946 至 2024 年间，近 70 位女性艺术家（包括 Joan Mitchell、Janet Sobel、Pacita Abad 等）的约 80 件抽象作品。策展通过并置 Janet Sobel 1946 年的滴画与 Joan Mitchell 晚期巨作，确立了女性在抽象主义演化中的奠基地位，并重点呈现了长期被贬为“手工艺劳动”的纺织与纤维媒介，如何挑战男性主导的艺术规范。\n*   **English Summary**: Curated by Cecilia Alemani, the exhibition \"Making Their Mark: Works from the Shah Garg Collection\" closes at the National Museum of Women in the Arts on July 26, 2026. Featuring 80 abstract works by nearly 70 women artists from 1946 to 2024, the show highlights how female abstractionists used materials like textiles and ceramics to challenge traditional patriarchal hierarchies of art and craft.\n*   **Why It Matters**: 该展提供了一个制度性重写艺术史的实例。它不仅重估了女性在抽象运动中的史实定位，更通过将“编织、纤维、陶艺”等传统女性家务劳动媒介推向学术殿堂，为反思艺术制度中的性别分工提供了极佳的策展参照。\n\n#### 4. [China / East Asia Signal] “Kyotographie” 首次登陆伦敦：川田喜久治与岩根爱跨世代双人展亮相 Japan House London\n*   **Original Title**: *Kyotographie Debuts in London: Kikuji Kawada and Ai Iwane's Cross-Generational Exhibition Rewrites Japanese Visual Memory Through Hiroshima Ruins and Hawaiian Migration*\n*   **Source URL**: [https://www.japanhouselondon.uk/whats-on/exhibition/kyotographie-kawada-kikuji-x-iwane-ai/](https://www.japanhouselondon.uk/whats-on/exhibition/kyotographie-kawada-kikuji-x-iwane-ai/)\n*   **Image URL**: `null`\n*   **Summary**: 伦敦日本之家举办首场摄影展“Kyotographie：川田喜久治 x 岩根爱”（展至 10 月 18 日），呈现了两位日本摄影师关于创伤、记忆与流散的对话。93 岁的川田喜久治展出其 1965 年里程碑式摄影书《地图》（Chizu），以极具物质性的抽象画面记录广岛原爆遗迹。木村伊兵卫奖得主岩根爱（b. 1975）则呈现其在夏威夷拍摄的《Kipuka》系列，探寻日本福岛与夏威夷移民群体通过夏日盆舞（Bon dance）等仪式建立的跨地域历史纽带。\n*   **English Summary**: Japan House London presents its first photography exhibition, \"Kyotographie: Kawada Kikuji x Iwane Ai,\" running until October 18, 2026. This cross-generational dialogue pairs Kikuji Kawada's post-war masterpiece \"Chizu (The Map)\" with Ai Iwane's award-winning series exploring the cultural ties and rituals of Japanese immigrants in Hawaii.\n*   **Why It Matters**: 展览提供了一种通过影像档案连接不同地理历史创伤的研究视角。川田对战争遗存的间接微观凝视，与岩根对流散移民仪式的长期田野式考察相得益彰，为东亚视觉历史的重构与身体记忆的研究提供了一种出色的跨代际和跨地域方法。\n\n#### 5. [Archive / Long Read / Opportunity] MUUS Collection 启动首届研究学者金：2 万美元资助，支持策展人深入二十世纪纪实与时尚摄影档案\n*   **Original Title**: *MUUS Collection Launches Inaugural Research Fellowship: $20,000 Grant to Support Curatorial Projects in 20th-Century Photography Archives*\n*   **Source URL**: [https://www.muuscollection.com/](https://www.muuscollection.com/)\n*   **Image URL**: `null`\n*   **Summary**: 艺术基金会 MUUS Collection 宣布设立首个“研究学者奖学金”，面向全球学者与策展人开放申请。该项目旨在发掘机构所保管的二十世纪美国标志性摄影师（包括 Deborah Turbeville、Rosalind Fox Solomon、Larry Fink 等）的物理及数字档案。入选者将获得 2 万美元资金支持、赴新泽西州物理档案馆的交通食宿资助，以及利用其全新“MUUSEUM”数字门户开发一年期策展或出版方案的机会。申请截止日期为 2026 年 7 月 31 日。\n*   **English Summary**: The MUUS Collection has launched its inaugural Research Fellowship, offering a $20,000 grant and full travel expenses for a curator or academic to spend a year researching its extensive 20th-century photography archives. The fellow will leverage physical assets and the new MUUSEUM research portal to develop an exhibition or publication concept. Applications close on July 31, 2026.\n*   **Why It Matters**: 这是一个具有含金量且时效紧迫的档案研究机会。它为专注于二十世纪女性先锋视角（如 Deborah Turbeville、Rosalind Fox Solomon 等）和数字档案馆实践的策展人，提供了直接触碰物理接触印片、手稿和相机等第一手媒介材料的罕见通道。\n\n---\n\n### Covered Entities\nUniversity of Antwerp · Erkki Huhtamo · UCLA · ACM DIS · Yining Cao · James Hollan · Haijun Xia · National Museum of Women in the Arts (NMWA) · Cecilia Alemani · Joan Mitchell · Janet Sobel · Japan House London · Kawada Kikuji · Iwane Ai · MUUS Collection · Rosalind Fox Solomon · Deborah Turbeville\n\n### Theme Tags\nmedia archaeology · topos study · Erkki Huhtamo · globalizing media archaeology · Human-AI interaction · AI agents · Fairy Cursor · DIS 2026 · creative workflows · abstract expressionism · fiber art · craft versus art · Cecilia Alemani · gendered labor · Janet Sobel · post-war Japan · Hiroshima · Kipuka · Iwane Ai · transnational identity · diaspora · MUUS Collection · research fellowship · photographic archive · curatorial research · Rosalind Fox Solomon · Deborah Turbeville\n\n### Repetition Notes\n*   **Follow-up (DIS 2026 / AI agents)**: 本期在 AI 领域避开了模型和产品发布，转而引入 DIS 2026（新加坡）关于流式 AI 代理（Fairy Cursor）的原生工作流探索，与前两期报道的 SIGGRAPH 2026 的空间与行为 AI 形成机制接续。\n*   **New**: 所有 5 篇故事均为全新信号。排除了已在 2026-07-22 期报道过的 AWARE 东京圆桌及先前 Woman Made Gallery 的征集活动，精选了时效极高（7 月 31 日截止）且深入 Rosalind Fox Solomon、Deborah Turbeville 等女性纪实/时尚摄影师物理档案的 MUUS 研究 scholars 金。\n\n---\n\n### Editor's Pick\n*   **Selected Story**: MUUS Collection 启动首届研究学者金：2 万美元资助，支持策展人深入二十世纪纪实与时尚摄影档案 / *MUUS Collection Launches Inaugural Research Fellowship: $20,000 Grant to Support Curatorial Projects in 20th-Century Photography Archives*\n*   **Exact Source URL**: [https://www.muuscollection.com/](https://www.muuscollection.com/)",
+  "citations": [
+    {
+      "title": "uantwerpen.be",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6uVslOVaNbuqWmaTbPz69TKOahtIVMVW5k0_t4XK4a7RLw-PjzjDpPYg9IEu9NDZRN4lBCz0Asgav5rAVs3SL98htY2mGd2UARPscUtVIPRNJ5PJVGhUb0n-MZy1K9AwpQDjotW2UOArMnxUr1chogmvZ8LngiHD8vriTqVF9W6brZz-AjBrl0BGDu7Zq3c9uaFkn6vZkxYYyQS2KP6VIz516RwqMpCw-MVkuVSWQkR6Jf2gPzxdCxhxDfzjuufYvM0cEaTXzK3dDrbO47fS2"
+    },
+    {
+      "title": "uni.lu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0F8owWgLljtyrT-VgXZikOCHolSBJxPd2ryKzd91w74558ydR7TyF_bPgK1s_13teTm2v4ocrPptoGCXB6wrmBW82zEu6Poo72uPNilm_Y0sQ3JWUfLvXKJuuV_fkxqRQ8UlAYuxgg2MWhle598sBAavlOwjWbVQsMEKHul0yHIATmqVn_SwsZ5OdLzVrSLdVtc1IVHkq7uMpPJmALOvYiD90ZwQ61IpOsjeNf7M="
+    },
+    {
+      "title": "acm.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4c_Tb3rhSIJm5usOZbb7S-PiaKm3KZ7d-WwMkzx4WAyH8IYgjFQg4ZVZOJplRob4093mU4_1SZrKsTqFSS6Lqh_UQVBXvHmcZ7UISAq-"
+    },
+    {
+      "title": "acm.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpAUv835Lc9lDbWai8SLdXNiohcbY5AhUg3N8YG1_D1OBn7SvGfIOrQQAEFHFZlokVPC8xbGr1x7Pk_6IYi7lTHuBykpoTx3eTCHzlfVTlEPwuslfCeaHMMHFDt8PRQ8sNOV-pOs6TjEAFbVdElHc="
+    },
+    {
+      "title": "cmu.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkwhSPyiqP9dXMKPWVHgGh64SmjayuKKunioNyQ0u5wwLfenyOSb2vgxQ5f60vfgnT8nfRjIfBrQWCVlprF9txkkAS5PxVrDVqpxrqJSH1a3A-jEeAW8dg3vOxoA=="
+    },
+    {
+      "title": "nmwa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3d6J0Sg_y338JGWr0lrhSpoTZfkCALTGbaIoXMdt_W6n7o42uSQx3zYZ4HvOYtKIz1QTMJMfBaTUrrDUQfVb002C0Vc2qsDyuLRGoUQSB16HqPsCk9dmDlClB2miEg_4F4RAaH7iUpVOGMCJ9FeUheikIziGCjy4YTtCCFScq7wR4Xj36MoPw8Q=="
+    },
+    {
+      "title": "makingtheirmark.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2_jrplevD-2Aspj_PZedHB2qA0YNiE9caHLL1lJlpuFw2OEkUot_gs4KkTp8FytkM38AVoHgOL2iwJY99-9aARAK6yMskKRcHbxTWuZfPyfhFZQlIxllUfG37d3B_7jnZp3rCsEdr"
+    },
+    {
+      "title": "washingtonpost.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrH0nUvJKu4mNoz7tHESmKKjWNHo2RALiwcEkiIdjmBVcXtkrdPVdlZBZJxTB7_rlJe-qA4Ka5fkmVdpp7WL4BQjs501RcIFd9071Kp3KCPaT3Rj207m_mJEJEIeN7mwYen0BSinNzQti3wh1BDah0abLY0qjc_EBZhiDel3yBqIBRQEH91dsxn4dLA=="
+    },
+    {
+      "title": "eastcityart.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHby3kZr3QcTQaxw5lTLiYGExfP_kEB5845HWRRbxuD1VRDu6Cc1eAKfMkWnE0rk6JZTxjhfuGgRzR3aWVeD-wMJIoPdbWztbuW2-6K6xjIglC7zMMhP672WiaX2u81xrguiXzN__edIQv3WV4nUDKe"
+    },
+    {
+      "title": "tinakimgallery.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdR5dF30hSKLD2oyFbdH92qOzAzyFrCF6lyIz3uo71ICcDqT9JQ4UUxYXybVIo0ZGs02T0Vek0nZgqUitT5-xiqxYQxhoxpIDguXgUPMjTIchtLLYIUq-jWKEG2K-yGPiAzP-9eY6c1PjTmX-EVYn05hjdGCrbTml67HqNac1y-S87bo2CAvmCYvBpyO97AWfpp5mj7HgY4EkwkfkaMt6kxqCQ8rNMBnY-PbZL1gul2aNwmydxCnaB3xlWfhs="
+    },
+    {
+      "title": "japanhouselondon.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCykWeUoNHGmJRnt0w2mf7_SGJ8KJpZF6SX4t2kROcGQH3s2z11KGnaW779FY2dHDRxZ382XKsQ9slU9z3g-PpqVmkVRVzulgskdjvAvWCDaHlvz9zsQlYWUivs2DMt8rPRXJibviwzr3ciN5qiat4h_3hRvPLmU5dUd7IEJP-vMY63-A="
+    },
+    {
+      "title": "japanhouselondon.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsXMK2D0uNWiWMfIZucmkBFfCGh9rE3kREKzlUcTaZsLpF-HrohyBLvH1DctdCfRC9XNNXEq4fgEge7e9nlaoQktWHF2LXiuDlSfm6T6qL8Bqntv346pt5X84ITybZYSjssGsmouSP73s-EMDgplJxsRyFv2Un2Ttv"
+    },
+    {
+      "title": "theguardian.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNhSWw9XUEfqpiHlthVG5_9nWN_rKu77sPVzD0faAQSPLGDdKK7Mwmj7d8p46Je_CEYUHE7QUDQijECTnEb5LpnA-VTbVVjA5i79fahetON6WDzjtzZEL3tP7YsemdUZY3rvEWADB4y7qlHEGRPCyD1UYeQDzRCMvgEOLWHYwUgbTnTPSLPJ1Ev4_LByB4P_RQINh4kOQRXHzvZJZ9fxP0F4sZ7JQ3cnuqdiTasSdmOAm88aeO0g=="
+    },
+    {
+      "title": "japanhouselondon.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhkEfau3ubFDVbL_w2vwz3xHvz62YGH67_J97B3vXcRLrUSeJ5KHlK6-8lSWb8cZrV7pYSy8M8L81COb63eGKcpDSPyhLcc32MA5_KAV7pWWsdbhEsSUVaSpDKlsB4XgJt40xYK3s4AJJ18zYGt6aUdGB4rXSTWyr4NH2aPsYyuI2rpjZq-aIWPTE-5zMRlWBw"
+    },
+    {
+      "title": "japanhouselondon.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSolbSf-Q6tijq84mMJYQHNApuHBJAidm1KfdKEH7t95fp7U5HEms9aXZJz1D_8HSuoLBRBzABMvjY0IqexVaTjOnS7VlSKWRBW69ttRgEfobmFGzHNtk8mtxokEScxRpJAKvzaSpXYxDt1p960nMRO9cM18YcW7z95y0fhdR6y41hRqncA5GWcobaIUtlOA=="
+    },
+    {
+      "title": "muuscollection.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-4zzLBDeNev6zz7ncC78rSWVrcoWPZMHpBSOXhOT6sYO0LpD39G0BwNrsMyTK1RGeadSPP7ryixJAgg-CMePm9EwMaE9CbSStSU0zMky8GQ=="
+    },
+    {
+      "title": "on-the-move.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0khYLuG_2aHpZHrln6awKTQN-pUCJauWfLE3kb98uBEmgsOAkPAY8z2OTdvsKTtHDk_XlSD6DSV4410KWqKaqPBVDHL1G2FeKn4XK0SG_-vGqXfX1iafu3oJKPQR604vz_Mjj5lrZ7LjwMxN93kzPZyN8dDgy9N46OcZF3MY_aLMPTCfnkgf6pI0="
+    },
+    {
+      "title": "artealdia.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOehOMLYi9Vj5gEL1x2iIOhsIHN2NQB8VJ8d3Il9ufekBkT0lRiWrsNGsSV-gRP9hfnt-MSvfe51ayJzHOc5W7t7DPfdXgMGJk0swhgBL3kp1AOG-U1xECjPHaHHxqIsIZcg0iOkFBfU4Ls3vch6BHMy7m7JNKfS6FzuzEXEwzMTrdoVeGl_HfgTPVh1ESQvPM6Gkvd2LYs0TzmC8ht_EwnXof"
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyPpI6t15OoFnzJYpKfRzb4zFPD3zd2sY0r58ge7OgvJwlO9Gghr4OrKwwRMYbjBhntcaNTugbooF_CN2OdwVBo28huyK_GdVMcj17_rnyYU0Hlk_EG5Q3xsFkmfmX0q0lgA56X7-1pOgsz7TfKxM99pvflRQFZn9dQbL7syN6H5BmMIk="
+    }
+  ]
+}
