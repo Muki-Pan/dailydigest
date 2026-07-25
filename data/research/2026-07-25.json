@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-25",
+  "model": "gemini-3.5-flash",
+  "dossier": "## Muki's Daily Digest (Issue 017) — Research Stage Evidence Dossier\n\n**Current Date (Achor):** 2026-07-25  \n**Editor-in-Chief & Curatorial Researcher:** AI Agent for Muki  \n\n---\n\n### Section 1: Visual Culture Signal (Photography, Exhibitions, Photobooks)\n\n*   **Proposed Chinese Headline:** `柏林全新节日 PHOTO BOOK SUMMER 亮相：以“门”为题，探讨城市子文化与摄影书作为社会媒介`\n*   **Proposed English Title:** `PHOTO BOOK SUMMER Debuts in Berlin: Museum of Subcultures Spotlights Urban Subcultures and the Photobook as a Social Medium`\n*   **Source URL:** [https://musuku.de/](https://musuku.de/) (and via [visitBerlin.de](https://www.visitberlin.de/en/event/photo-book-summer))\n*   **Publication Date:** July 17, 2026 (Festival opening date, running through September 22, 2026)\n*   **Verified Facts & Scope:** \n    *   **Organizer:** 由柏林子文化博物馆（musuku – Museum of Subcultures）主办。\n    *   **Venue:** 柏林国立图书馆波茨坦大街馆区（Staatsbibliothek zu Berlin, Potsdamer Straße）。\n    *   **Theme:** 首届主题为“门”（Open Doors），聚焦柏林作为相遇、子文化和日常故事发生地的城市生态。\n    *   **Exhibition & Formats:** \n        *   “Berlin Wonderland – Hidden Treasures”：在 Stabi 大厅展出，复现 1990 年代两德统一后柏林米特区（Berlin-Mitte）被艺术家、占屋者和电音文化占领的空置空间历史，展示复版摄影书《Berlin Wonderland》中的珍贵历史影像。\n        *   “Berlin Wonderland Road Show”：使用五辆改装货运自行车作为移动画廊，在柏林街头流动展示大画幅城市摄影作品。\n        *   “Fragments of the City”：汇集多位摄影师作品，拼贴出柏林的多维城市肖像。\n        *   该节日将在 9 月举行“摄影书日”（Photo Book Days），包含国际嘉宾的讲座、展示和书摊。\n*   **Why It Matters to Muki:** \n    *   此信号提供了一个非常规的摄影书活化案例。它没有将摄影书限制在白盒子展厅或静态阅览室，而是通过“货运自行车移动展厅”以及与特定城市历史空间（90年代柏林废墟与占屋）的结合，将独立出版物转化为公共干预与社会记忆的流动媒介。\n*   **Context & Duplication Assessment:** \n    *   *New.* 本信号与之前报道的阿尔勒摄影书奖（2026-07-23）或 ICP 美国摄影书展（2026-07-22）不同，它更强调“子文化（Subcultures）”及“城市公共流动媒介”的属性，提供了极佳的策展媒介考古案例。\n\n---\n\n### Section 2: AI Research / Creative Tech Signal (AI-Native Workflows & HCI)\n\n*   **Proposed Chinese Headline:** `SIGGRAPH 2026 研讨会《Lines and Minds》：重新思考人工智能时代的“视觉抽象”与人类意图`\n*   **Proposed English Title:** `SIGGRAPH 2026 Workshop 'Lines and Minds' Reassesses Visual Abstraction and Narrative Intent in the Era of Generative AI`\n*   **Source URL:** [https://linesandminds.github.io/](https://linesandminds.github.io/) (via [SIGGRAPH 2026 Conference Technical Workshops](https://s2026.siggraph.org/))\n*   **Publication Date:** July 19, 2026 (Workshop held date)\n*   **Verified Facts & Scope:**\n    *   **Event:** 在洛杉矶举办的第 53 届 SIGGRAPH 2026 大会上举行。\n    *   **Speakers & Panelists:** 汇集了知名认知心理学家 Barbara Tversky（斯坦福/哥伦比亚大学，《Mind in Motion》作者）、著名漫画家兼漫画理论家 Scott McCloud、以及 Adobe Research 的首席科学家 Aaron Hertzmann 与 Rubaiat Habib 等跨学科专家。\n    *   **Key Themes:** 研讨会探讨了“视觉抽象”（Visual Abstraction，如毕加索的《公牛》系列，将复杂的解剖结构简化为几条线）作为人类认知、空间推理和视觉叙事的核心机制。\n    *   **AI Challenge:** 研讨会明确针对生成式 AI（如当前的多模态扩散模型）的局限性提出讨论——当前的生成式 AI 过度追求像素级的高保真写实和语义精确度，但在处理人类模糊、直觉、迭代的“抽象线条”、草图思维以及非语义意图传达（sketch-based interaction and intent-driven agency）时依然存在鸿沟。\n*   **Why It Matters to Muki:** \n    *   对 AI 工作流的研究不能仅停留在“如何用提示词生成高清图像”的工具层面。本研讨会引入了认知心理学与漫画媒介理论，揭示了“视觉简化与抽象”才是人类的高阶心智劳动。这为设计下一代“支持模糊、不完整草图迭代”而非“自动化像素填充”的 co-creative 人机协同流提供了极高的方法论价值。\n*   **Context & Duplication Assessment:** \n    *   *New.* 本信号跳出了工具功能发布的焦虑，从“认知科学-草图交互”的媒介底层审视 AI 的图像生成逻辑，是对前几期物理光标交互、MCP 协议以及叙事决策粘合剂（StoryArc）的有机理论深化。\n\n---\n\n### Section 3: Feminist Structure Signal (Women, Labor, Care, Bodies, Media Power)\n\n*   **Proposed Chinese Headline:** `NMWA 举办马洛·帕斯卡个展：通过对现成日常女性图像的物理化干预拆解视觉拜物教`\n*   **Proposed English Title:** `NMWA Stages Marlo Pascual Solo Exhibition: Dismantling Visual Fetishism Through Material Interventions on Found Feminine Imagery`\n*   **Source URL:** [https://nmwa.org/exhibitions/marlo-pascual-making-something-out-of-something/](https://nmwa.org/exhibitions/marlo-pascual-making-something-out-of-something/)\n*   **Publication Date:** July 24, 2026 (Exhibition opening date, running through February 28, 2027)\n*   **Verified Facts & Scope:**\n    *   **Artist:** 马洛·帕斯卡（Marlo Pascual, 1972–2020），活跃于“图像世代”（Pictures Generation）脉络下的美国女性艺术家，2020 年因癌症去世，享年 48 岁。这是她 15 年来首个美术馆个人回顾展。\n    *   **Venue:** 美国国家女性艺术博物馆（National Museum of Women in the Arts, NMWA）。\n    *   **Exhibition Content:** 展出 17 件创作于 2009 至 2014 年间的装置作品。\n    *   **Methodology & Materials:** 帕斯卡从二手旧货店（thrift stores）及网络中搜集大量无名、复古且带有时装/戏剧魅力的女性肖像照片。她通过放大、肢体裁切、甚至用物理手段（撕裂、折叠、粉碎）破坏图像，然后将放大到家具或雕塑尺幅的图像嵌入厚亚克力（Plexiglas）中，与日常却令人意外的现成实物（如石块、蜡烛、日光灯管）并置组合，使二维图像转化为具有体积和重量的物理雕塑。\n*   **Why It Matters to Muki:** \n    *   帕斯卡的方法直接解剖了“图像作为身体容器”的权力机制。旧时尚照片中被凝视、被规格化的无名女性，通过物质性的干预（图像的毁损、雕塑化重组），其表象的完美被“物理痛感”和日常废料所戳破。这种媒介考古式的干预手段，为反思影像对女性身体的商品化、拜物教化提供了一种极具触觉感和物质张力的视觉策略。\n*   **Context & Duplication Assessment:** \n    *   *New.* 虽 NMWA 在 2026-07-24 中出现过（Making Their Mark 抽象收藏展），但该展已临近闭幕。本次为帕斯卡最新开幕的个人回顾个展，且其“回收现成肖像进行物质破坏”的摄影装置实践，与此前侧重织物劳动的抽象展览在理论切口上完全不同。\n\n---\n\n### Section 4: China / East Asia Signal (Archives, History, Visual Arts)\n\n*   **Proposed Chinese Headline:** `东京都写真美术馆举办出光真子大型回顾展：以早期录像艺术解剖家父长制与主妇日常`\n*   **Proposed English Title:** `Tokyo Photographic Art Museum Staged Major Mako Idemitsu Retrospective: Dissecting Patriarchy and Housewife's Daily Life via Early Video Art`\n*   **Source URL:** [https://topmuseum.jp/exhibition/5417/](https://topmuseum.jp/exhibition/5417/)\n*   **Publication Date:** June 18, 2026 (Exhibition running through September 21, 2026; major symposiums/screenings taking place in July 2026)\n*   **Verified Facts & Scope:**\n    *   **Artist:** 出光真子（Mako Idemitsu, b. 1940），日本实验电影与录像艺术（Video Art）的绝对先驱。\n    *   **Venue:** 东京都写真美术馆（TOP Museum）。\n    *   **Scale:** 美术馆在 2016-2017 年完整收录了其全部胶片、录像及装置作品，本次展会及放映共呈现 45 件作品，是其收藏后的首次完整、大规模回顾展现。\n    *   **Key Artworks Shown:** \n        *   《Woman’s House》（1972）。\n        *   《What a Woman Made》（おんなのさくひん，1973）：其奠定艺术声誉的处女作录像，镜头极简地记录了马桶里旋转的卫生棉条，配以冷静、临床式的旁白，批判日本社会对女性生育与身体的禁锢和工具化。\n        *   《Another Day of a Housewife》（主婦の一日，1977）：主妇在狭窄厨房和家务劳动中日复一日，而画面角落的电视监视器里，始终有一只巨大的“眼睛”在监视、评判她是否履行了得体的家庭职责。\n        *   1980年代的《Great Mother》录像系列及《Hideo, It's Me, Mama》（1983）：利用电视肥皂剧（Melodrama）的双重叙事，解剖日本现代家庭内部母亲与儿子之间病态的共生依恋，以及主妇在隐性家父长制下的自我贬抑。\n*   **Why It Matters to Muki:** \n    *   这是东亚女性主义媒介考古学的教科书级案例。出光真子利用 1970 年代刚刚兴起的便携式录像带（Portapak）这一“轻便、廉价、无需工业制片厂许可”的民主媒介，将创作指针直接拨向极度私密的家庭内部。她创造性地使用“画中画（Monitor in Monitor）”和家庭肥皂剧戏仿，生动展示了社会监控和家父长权力是如何在最日常的照料劳动、身体排泄和母职依恋中秘密运作的。\n*   **Context & Duplication Assessment:** \n    *   *New.* 本信号虽然涉及日本女性创作者，但与前两期偏重平面摄影的战后日本女摄影师群展（I'm So Happy You Are Here）不同，出光真子是**早期动态录像与新媒体装置**的核心先驱，弥补了 Muki 栏目中对东亚早期新媒体艺术、录像媒介考古的拼图。\n\n---\n\n### Section 5: Archive / Long Read / Opportunity (Grants, Residencies, Open Calls)\n\n*   **Proposed Chinese Headline:** `匈牙利 Eidolon 启动 2026 年度民间摄影资助计划：2.5 万欧元支持日常影像与网络文化研究`\n*   **Proposed English Title:** `Eidolon Centre Launches 2026 Grant: €25,000 for Projects Exploring Vernacular Photography and Networked Image Culture`\n*   **Source URL:** [https://eidoloncentre.hu/](https://eidoloncentre.hu/) (and [phmuseum.com/grants/eidolon-grant-2026](https://phmuseum.com/grants/eidolon-grant-2026))\n*   **Publication Date:** May 25, 2026 (Open Call issued, running until September 30, 2026)\n*   **Verified Facts & Scope:**\n    *   **Organizer:** 匈牙利布达佩斯“Eidolon 日常摄影中心”（Eidolon Centre for Everyday Photography），国际上极少数专精于民间日常/非艺术史主流摄影（Vernacular Photography）研究的学术与策展机构。\n    *   **Grant Funding Pool:** 总计 25,000 欧元（约合瑞典克朗或美金等值，可自由支配用于人员费、差旅、生产及合作费用）。\n    *   **Thematic Categories:** \n        1. *Category 1: Contemporary Everyday Photographic Cultures*（当代日常摄影文化）：资助对 21 世纪数字化图像、社交媒体平台、网络图像流散、线上身份构建、以及网络视觉文化的政治、历史和美学影响的研究。\n        2. *Category 2: Everyday Photographs of the Past*（过去的日常照片）：资助对 19、20 世纪日常平民摄影、家庭相册、民间相纸档案的重新挖掘、整理和去殖民性/替代性叙事研究。\n    *   **Eligibility:** 面向全球艺术家、学者、独立研究人员、策展人、收藏家和作家。\n    *   **Jury:** 包含瑞典独立导演组合 Axel Danielson & Maximilien Van Aertryck（作品《Fantastic Machine》曾获柏林和日舞影展大奖）、英国摄影家美术馆（The Photographers' Gallery）数字策展人 Sam Mercer、学者 Catlin Langford 等。\n    *   **Deadline:** 2026 年 9 月 30 日。\n*   **Why It Matters to Muki:** \n    *   该资助完全绕过了精英主义的纯艺术摄影体系，直击“民间与日常影像（Vernacular Images）”。它既包容了历史相册档案的媒介考古（Category 2），又极其前沿地鼓励对“社交媒体与网络图像文化（Category 1）”的批判性研究。这对于 Muki 研究“图像历史、数字流散与平台媒体权力”提供了最精确、高质量的研究资金与合作网络指向。\n*   **Context & Duplication Assessment:** \n    *   *New.* 本期排除已在昨日（2026-07-24）报道的 MUUS Collection Curatorial Fellowship（由于其截止日为 7 月 31 日，极速过期，且不宜重复提及）。Eidolon Grant 2026 截止期为 9 月底，且专注于“平民日常摄影（Vernacular）”这一非主流艺术史的边缘档案，完美契合 Muki 的长期学术追踪。\n\n---\n\n### Excluded Topics & Empty Sections\n\n*   **Excluded Topics:**\n    1. **MUUS Collection Research Fellowship 2026-2027**: 尽管仍在申请期内，但鉴于其在 2026-07-24 期已被深入报道，为严格遵守去重机制，本期坚决予以排除。\n    2. **SIGGRAPH 2026 \"Resonance\" & \"Sternwerk\"**: 两项获奖作品和论文虽在近期仍有热度，但在 2026-07-22 期已作为主信号刊发，不可重复进入本期版面。\n    3. **Asia, The Apparatus (ACC Gwangju)**: 7月初曾有新鲜艺评，但因 2026-07-19 已经使用该信号，故在东亚及档案板块均不予二次采纳。\n*   **Empty Sections:** *None.* 所有五个板块均找到了极其强劲、时效度良好、且理论深度完美契合 Muki 审美与学术脉络的全新一级信号（New Signals）。",
+  "citations": [
+    {
+      "title": "musuku.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGniTsxovgdkATrOJatfJkzhQtJRG00su7b4A9JgrpE8R96vgqNn5897W_PGqTx9GI4N925IFuGmNqJdnL9ZrZSLhX1Ap7MN7OV32htqdi-ccyNbSEdTYUEq7y0FQ=="
+    },
+    {
+      "title": "visitberlin.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnkXotbAO2yf9km5SOokOwiNjwO3YE__QJY6ND2BJ27mCwLrYYG_2GIzir9QX7-EIE3AE4uovCak1kuXiSA5bwhdAwt0XWZCEyB-Nt8OWDki5rdsdDmmVTe7SlTwkjAU_ruaZp1PVABtl"
+    },
+    {
+      "title": "siggraph.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmzHEZqv2W_IeVcptLUtA5CiTM3TMO4MVn56eehTjq3R_VYGorBKHoaDiDhf1GOps76WMKI2OaAj2iJJgZnC0HiI8dFU4iPnXgPCzYorVZyIuipSu5ElfTxRXPprH5ahzfvPufikiZe4DqblVyRomtrtK_tDybSIP7hLbJDZBa6nidxXLB90-Ib4PmmMpw7suWDcyjMnqJs6aG6cJhGscPfhQ="
+    },
+    {
+      "title": "github.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE86xs7FtWoM_ihdkr-UoyVf77p-6-Yj3czhHN0OiCpOd5292Joi_nWS87l7tZhxdbwnMfnEcLtcB1ASyaK7nE0Cwl6u2MIyKA1tXQBECCE6vbjQ3OmcAE="
+    },
+    {
+      "title": "siggraph.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0kWSyGgU8RdjakveOxfpmYWDXZCvI8_uv2XpezzK15pp3gRLiiUwpSZy-Z6Q0XldzBDxTtPvKPCS2LXJZkn4NQhThCe0RcA4Jan9WcsJCzg=="
+    },
+    {
+      "title": "siggraph.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_FjwKGnVkun34suAdFRJd-SNbNW4bwNlALXslVOYqzyaiBNU7bBDQgkULT5deYi5HhXvDsWR-Uf1QTFFjqKuhsyyLtgKygHwz4t-x6iXZgSdS4cyg0Nsp93giKZWrLld2laoORO63dO72NOOuf95pIDywLuAQCoEwskQLQZmnPrl17zlVpkcWJY6h66JV6lihDDTvf39fBVA1JsUrULGFBIt8exNbY9aNvDVZ4RNZGBqn"
+    },
+    {
+      "title": "siggraph.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgwfy2zraFmoDxxXWg350p_445rk4faBeTUtvKTaIKEzAXTW6xuxJjIYtKvBS0QWsNlCgLdyVuaoZcte0h4gwgdmVM1zgHZ-UgOPhah1tKuR4djgfhcSeRspULeC1D8Xf2CPwybe3rAFiy50Jwam_MfP0AlzUv1FRPrlK4-BZduMG_M_X6sd8gFm10-NPnT2hv-M2j-ZGGm1iPTvwrUVNwQSduK3w="
+    },
+    {
+      "title": "github.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoQbXRBHxgboN6hN9zeyWfWCWgw8ojFbylhsLYJjiakTK67tJ9tQZ5TMYqFjfZdEEp-REfsEMF4Phzot__q-__w4BRcJWzwnGPHOSO1HuNmCMXF1q9IN80HIq2eZW8hYnK8QubJQ=="
+    },
+    {
+      "title": "nmwa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpT2i_UzlRRBYg9-iVt6WkGj9hRvK4Qq2-JXR0AoafMBr4GXXw-qlsptCVE_-bk3s83lZfB79PYgNUM8HEXAWO1P8R7YkuNOiFVjdbULGHVVEC7fhjTosAqTR8D2Y_6WWwKjyKMzqyJqWD7Mgttvpa9ADKDV9GsKhbeHM_axqyACKK"
+    },
+    {
+      "title": "nmwa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExk-mRNRDvoVe9WpKFaXXF_TFDZkiIngmY0lbpwQ-jgHdmUgu1BozZWkFu3Ipw6HbSCptuz73n28VDI9YdpGFBud6BZpzme2tbROK16vDEYnxkBJZ-fi83hs0Kse_eBVZjQBJrAbBbUwZHq7A7sMDulmjwnI-rgi9z5aeN"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVoPS7Yq9T4rnwLHR2RY1fhYg4LSwbeEH3Lg5Fbz-_9jOYh3npp3i9CnA5qUrUUtO_cLiGrmT_ykFNTce7tFZsZM2NyN7GyIvDv41jjHHJeqNc6OSbYd5cPoYV"
+    },
+    {
+      "title": "prtimes.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnrKd5rYJ32pLp-pGg9ouYTaAzVotbV1GP7Nkuglk2QHR9SSlGP39K9Toks80NGLkvga1CLouMSpAQ6WMU1oW_uNZYW9SDQ8ldVzVxrlG-LyerDbjS0nF5n4fUoK5NXvuVMWEWZ-m7Uf3Vz4e5WgRC"
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs8rYpdzEIoIDCPP7xyZvR_SG0wkTi0Ul1bF65bKBaIZcb-R4ML2f2WW3579f1oqtu4cCZrD423tj24EExmNuZwXf-fu5b2BAlQnO-lrP_JmCdH3JTa29J4D6IWgH1hqfYODf6xQHN9013Y3UMGMKJxpZZYkV3SL9iCvD8uqnzMQI="
+    },
+    {
+      "title": "artfacts.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmG0EZyGmz0lWSmblT6iGygMBXwkbOl-1VpQFu5SYEKQqGOWEomohunzHw6u_tOLKzAPBQgwfeFlwDVnQldAnbHUrrP-Lv5MIkDtnUOkY0vN9nar2BSnXYnlvyH7u4yWfyYn8_C2Y-y1kuN7PfzNzzDuWL3JnbaoU_Sh6P9lQFqVZgzSWHtwSBYYoj19DfofsOHx_mtUtLyAkk"
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj67ISdP3S8vY3kEi5NCLyFyL8oa2vyGBbAQjAze4HghSWmrFFVdmQ8kd23wrs1gWYQOgr68utIP0mgehoWG89GtC6w9-aprwQ9Ud9LZcxObPi54djHvdIgavgS1_wtgYQ"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs8ADGOSyBn_jhjfqK4vdSzpmDFDQlkhvdNLoetOLmH7vVWK0XoYc2j6QskRcHV4GyjBoQIQXCOKocjYVp7mjG2AdSJPtxisRi6SE-ZVAMiRHVMoU9H_53EwGEhpfnjggXlw65991nIIyKEdO5DW_itizuaN7RNPspkupZPSJaD_GmUKY="
+    },
+    {
+      "title": "eai.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGexdFSZ_kzfFyw_8Swreztm95MavdGs5kmwtTJV3xZq5eVTBBjYVvhlX5HLVOAgM-N4luuNEdt2WtZ7dJEwcHzxJ6Y_FB02op--7NjwJrkgQ1Bsyts_fR3UMAEEpdXlLKvA=="
+    },
+    {
+      "title": "ameblo.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV2Q8AO9WhgeSd3qrpcAyWENw4ft-GCMIalYyh1Efj7oojt85wywWy9rlUREVkCJRINaikRfezJNrhZiHxSW9J04FfmD1jRozOLGskK86hbiFp1B9yAGnEwQQ7TkbDOw9ZYX9ivWkc"
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdxT18lH8GQmd3jr3S-p7rpyw9-Y8h3zJwW_Gkgid6o4MQkP9GEaZ_wFRGXxdumjIt7lTVJZcw9SJ0uLeRVEqu_4WULDvjlBAy9WwOq-YjZIR2p8HlrrPLpajFWSpz1fda2BI="
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlZ8JPFEI1u68yt5yIRe6md7N2z9T6k_FFnsOfbOT5FGh2rAiB2qzcPQDpJo0kimubIEQ_aFAP6Zg7GKHbIBnvAfxfUMQi_NrRXjOXYycz9WK17zNKpE9KJy8InUf73hf4o79nTkhXq1upfqmKIMRAZ_4YJ3GjPntx2AXUVPjfSPxNNg=="
+    },
+    {
+      "title": "everydayphotography.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9sBEqPid1xjAd9jJX02MAhfnW7EC787dLEKTXQLAViTis2V73ZTHRWfzSTSv77KcqPKFDxHZvQ7MfG8ES035NL8bpOnuXJFcgrIdOR_gfZV_cUaH7TG28Btu3JA=="
+    },
+    {
+      "title": "on-the-move.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyE17ISNTkxZUPI2WoLEpCQeimKKHLW3lgif61MQ-hUrCIZqBnOm5_EeRLW46qJMFqaSk6qT6YyWXJZAYWfzDvUtxmnEbN6a0goPY7DtcfeKJVl855O8I23jBZlzGN_fHJsVezOPYo6AXK2LTVBB7XEojaiWGIy6LBmnO4TIgrEQ=="
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiyxMhe1ssvG07GAmtSfyis3BriAnjXkYHAjMvvjt8ddvtQiNI2w79L-BGXn5SjYV80uBDbUnlmC_gvEXr6Hif-xbtubDVHXizeTN51LM4QIO5XjZdThzwahKp9x9ibpNN6Xqm6BYCthpoRS_dIdWkg75sc_oquDrVZLzh3Fj9lT9QVBISIicGFw=="
+    },
+    {
+      "title": "fundsforngos.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd_i_fVdXO4YwdhxGUi4uYzrmAslnpzJgeR8XADy5gpi_2ZL8iTHsujKJinSLACMe06QPN4GLn4sOmsVbhpZ5IY8dXZjLaLuV5E_0U4t2WqYyYC2JYQ9wbGsB1mPSl3hfRT-4jlQN2B-PJoCdnJYwmxBgaFubJ9bfNBa4Ge2Jum3QKwjX-Glw3gBmLG72Dv69A92xdyQ=="
+    },
+    {
+      "title": "everydayphotography.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3lyvLfan3e5mgX4U8D1wBWb-qViYLVmkzfwBkt1ypgUhi3FzliN5-lQKHZdjlGNoOsmRBd_2mtSbM3Z1v26B5WoE_hYqOTWY3aEWKmz1qCH_BPVyf0JhIGq8DEY1laqOU2UWy2AE="
+    }
+  ]
+}
