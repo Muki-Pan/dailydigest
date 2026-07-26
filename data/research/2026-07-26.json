@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-26",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki's Daily Digest Research Dossier\n**Issue No. 017** | **Date: 2026-07-26 (Asia/Shanghai)**  \n**Search Window:** 24 Hours to 7 Days (Focusing on late-breaking signals from July 23–26, 2026)\n\n---\n\n## 1. Visual Culture Signal\n\n*   **Proposed Section:** Visual Culture Signal\n*   **Exact Title (Chinese/English):** 菲尼克斯艺术博物馆将办特展《狂喜之境》：以 100 件馆藏探讨摄影如何重塑时间的“非线性”维度 / Phoenix Art Museum to Open \"Ecstatic Time\": 100 Artworks Explore the Fluidity of Time in Photographic Alchemy\n*   **Specific Source URL:** `https://www.allaboutphoto.com/photo-articles/photo-article/1614/ecstatic-time-the-alchemy-of-photography`\n*   **Publication Date:** 2026-04-18 (Exhibition scheduled: 2026-07-29 to 2027-01-03)\n*   **Temporal Status & Duplication Assessment:** **New**. 虽然昨日提及了日系摄影，但该展是美国本土美术馆与顶级摄影学术机构的最新联合策展项目，且理论内核聚焦于 Hollis Frampton 的非线性时间哲学，属于全新策展范式信号。\n*   **Verified Facts:** \n    *   **展览概况**：美国菲尼克斯艺术博物馆（Phoenix Art Museum）将于 2026 年 7 月 29 日推出特展《狂喜之境：摄影的炼金术》（*Ecstatic Time: The Alchemy of Photography*），展期持续至 2027 年 1 月 3 日。该展是该馆与亚利桑那大学创意摄影中心（CCP）建立学术合作 20 周年的纪念项目。\n    *   **展品规模**：展览汇集了近 100 件横跨摄影史的代表性馆藏，包含早期实验性显影工艺及当代概念摄影作品。\n    *   **核心策展理念**：展览标题源自先锋电影理论家霍利斯·弗兰普顿（Hollis Frampton）提出的“狂喜之境”（ecstatic time）概念（源于希腊语 *ekstasis*，意为“置身于自身之外”）。展览旨在反思摄影不仅是记录现实的纪实工具，更是一种能够通过暂缓、扭曲和重组 chronological time（线性编年时间）来重塑人类感知与 temporal dimensions（时间维度）的流体媒介。展出作品包括川田喜久治（Kikuji Kawada）的经典银盐作品《闭上眼睛的新婚夫妇，东京，1974》（*New Couple Who Closed Their Eyes, Tokyo, 1974*）。\n*   **Relevance to Muki:** 该策展项目为摄影史研究和媒介考古学提供了一个重要的理论基点——将摄影从“纪实索引物”解放为“时间的炼金术式干预”。Hollis Frampton 的时间哲学引入，为探讨图像的物质性、非线性叙事及感知重建提供了极具启发性的策展范式，直接对标 Muki 关注的“图像历史与媒介考古”范畴。\n\n---\n\n## 2. AI Research / Creative Tech Signal\n\n*   **Proposed Section:** AI Research / Creative Tech Signal\n*   **Exact Title (Chinese/English):** AI 原生设计工具 Paper 获 3400 万美元 A 轮融资：基于 HTML/CSS 画布打破设计与 AI 代码代理的交付壁垒 / AI-Native Design Platform Paper Raises $34M Series A: Breaking Handoff Barriers with an Agentic HTML/CSS Canvas\n*   **Specific Source URL:** `https://www.pulse2.com/paper-raises-34-million-series-a-to-build-design-platform-for-the-agentic-era/`\n*   **Publication Date:** 2026-07-24\n*   **Temporal Status & Duplication Assessment:** **New**. 这是一个极高规格的行业底层工作流转向信号，发生在过去 48 小时内。与过往几期介绍的 SIGGRAPH 单一学术算法不同，它代表着设计界对 AI Coding Agent 时代的系统性重构。\n*   **Verified Facts:**\n    *   **融资详情**：旧金山 AI 原生设计平台开发商 Paper 宣布获得 3400 万美元的 A 轮融资。本轮融资由 Accel 和 ICONIQ 领投，Designer Fund，WorkOS 联合创始人 Michael Grinich，以及来自 Anthropic 和 OpenAI 的多位一线工程师和设计师以个人天使身份参与。\n    *   **技术与工作流革新**：不同于传统的、基于私有画布（proprietary canvas）技术的传统设计工具（如 Figma），Paper 的核心画布完全基于 HTML 和 CSS 进行实时渲染。这种架构允许设计资产直接与生产环境代码连接，使得 AI 编码代理（如 Claude Code 或 Lovable）能够与人类设计师在同一个共享画布空间中直接读取、编辑并同步更新界面设计，消除了传统设计与工程（handoff）之间的静态草图流转。\n    *   **市场现状**：自 2026 年初发布 “Paper Desktop” 共享工作区以来，其年经常性收入（ARR）已增长 25 倍，客户列表包括 Ramp、Lovable、Vercel、PostHog 以及 Y Combinator。\n*   **Relevance to Muki:** 完美切合 Muki “AI 原生工作流与创意技术”的研究重点。它说明 AI 时代的创意协作正在彻底告别“人类绘制静态 Mockup -> 程序员重写代码 -> 重新微调”的陈旧路径，转向“人机共用一个 HTML 状态树进行实时转译”的协同网络。Anthropic 与 OpenAI 两大巨头工程师同时跟投，确证了“Agent-native”将是设计工具的确定未来。\n\n---\n\n## 3. Feminist Structure Signal\n\n*   **Proposed Section:** Feminist Structure Signal\n*   **Exact Title (Chinese/English):** 女性主义艺术家 Joyce Kozloff 公开“游击队女孩”身份：解密经典海报创作背后的性别化劳动与匿名抵抗策略 / P&D Pioneer Joyce Kozloff Unmasks as Founding Guerrilla Girl: Deconstructing Gendered Labor and the Strategy of Anonymity\n*   **Specific Source URL:** `https://hyperallergic.com/938927/joyce-kozloff-reveals-herself-as-guerrilla-girls-founding-member/`\n*   **Publication Date:** 2026-07-24\n*   **Temporal Status & Duplication Assessment:** **New**. 游击队女孩（Guerrilla Girls）作为二十世纪最重要的女性主义艺术集体，其创始成员在保持了 41 年的绝对匿名后首次 unmask。这是过去 48 小时内国际艺术界和女性主义史学界最重大的档案解密事件。\n*   **Verified Facts:**\n    *   **事件细节**：美国装饰与图案运动（Pattern and Decoration Movement）先驱、女性主义艺术杂志《Heresies》创始人、现年 83 岁的艺术家乔伊斯·科兹洛夫（Joyce Kozloff）在 2026 年 7 月 22 日接受美国大学艺术协会（CAA）旗下学术平台《Art Journal Open》的“女性主义访谈计划”（Feminist Interview Project）时公开承认，自己是著名匿名女性主义艺术集体“游击队女孩”（Guerrilla Girls）的七位初创成员之一，其当年的历史化名（alias）为俄国先锋派女艺术家“柳博芙·波波娃”（Liubov Popova）。\n    *   **海报历史披露**：科兹洛夫首次透露，她正是游击队女孩最著名的海报作品《身为女艺术家的好处》（*The Advantages of Being a Woman Artist*, 1988）的主导起草者。该海报的灵感源于她在科勒艺术与工业驻留项目（Kohler Art/Industry Residency）期间的观察：当时同组的年轻男艺术家们在驻留期间带着他们的女大学生女友，而这些女友不仅要负责他们的日常家务和做饭，还作为无偿的“工作室助手”在工厂里帮男艺术家干重体力活。\n    *   **关于匿名制的反思**：科兹洛夫表示，她当年强烈主张保持匿名并不是因为害怕艺术界的报复（当时外界的普遍推测），而是为了彻底摆脱 1970 年代女性主义运动中出现的“名人化女性主义者”（celebrity feminists）现象，避免聚光灯聚焦于个体，从而将公众视线牢牢锁在性别不平等和劳动力剥削等具体议题上。\n*   **Relevance to Muki:** 极其珍贵的一手女性主义媒介权力与机构批判档案。科兹洛夫的解密揭示了《身为女艺术家的好处》这一名作背后的具体生产关系——对底层无偿女性家务劳动与助手劳动的剥削。同时，它对“匿名抵抗”作为一种反肖像权力和反名人机制的媒介策略进行了深刻的历史复盘，直接呼应 Muki 对“女性、劳动、看护与媒介权力”的研究。\n\n---\n\n## 4. China / East Asia Signal\n\n*   **Proposed Section:** China / East Asia Signal\n*   **Exact Title (Chinese/English):** 第27届上海P&I影像展：经典国货乐凯发布全新C400彩色胶卷，Z世代主导的“胶片复兴”成焦点 / The 27th P&I Shanghai Opens: Classic Brand Lucky Launches C400 Color Negative as Gen-Z Powers a Surging Analog Film Revival\n*   **Specific Source URL:** `https://finance.sina.com.cn/tech/it/2026-07-25/doc-imypvpyk5365448.shtml`\n*   **Publication Date:** 2026-07-25\n*   **Temporal Status & Duplication Assessment:** **New**. 本届上海 P&I 影像展于 7 月 23 日至 26 日在上海世博展览馆举行，这一发生在当下申城的实体影像盛会，提供了一个极具东亚和中国本土特质的“逆向技术考古”切片。\n*   **Verified Facts:**\n    *   **展会概况**：第 27 届上海国际摄影器材和数码影像展览会（P&I SHANGHAI 2026）于 2026 年 7 月 23 日至 26 日在上海世博展览馆举办。\n    *   **胶片回潮热度**：尽管佳能、索尼、尼康等数码巨头展示了最新的 AI 算力后期和高规格数码矩阵，但经典国货“乐凯胶片”（Lucky Film）和富士胶片的展台却在展会期间被大批年轻的 Z 世代（甚至“10 后”）摄影爱好者包围。\n    *   **新品发布与销售**：继 2025 年乐凯在停产十余年后重启 C200 彩色负片引发市场轰动后，乐凯在本届展会正式线下发售其历时一年研发、感光度更高的 C400 彩色负片。由于采用了创新的自动贩售机模式销售，备货在开展第一天迅速被抢空，海外经销商现场亦开启大量批量采购洽谈。乐凯副总经理陈焱指出，去年的 C200 销量约 50 万卷，而在海内外年轻市场强劲需求的推动下，乐凯 2026 年的彩色负片销量目标将力争达到 150 万卷。\n    *   **核心用户反馈**：现场的青年摄影师指出，尽管 AI 辅助后期技术无处不在，但银盐感光工艺代表了摄影的根本物理保留过程，胶卷的仪式感与实体光影印记是数码和生成技术无法替代的。\n*   **Relevance to Muki:** 这是一个极具社会人类学与媒介考古学价值的本土信号。在多模态 AI 与合成影像大行其道的当下，中国年轻一代创作者逆流回溯到“银盐工艺”这一物理和化学媒介的根本，通过追捧乐凯 C400 展现了对“可触知、物理性光影印记”的抵抗式复兴。这为东亚当代视觉文化中的“逆向技术浪潮”与实体图像档案保护提供了极佳的本土实证。\n\n---\n\n## 5. Archive / Long Read / Opportunity\n\n*   **Proposed Section:** Archive / Long Read / Opportunity\n*   **Exact Title (Chinese/English):** 圣母大学雷克林·墨菲美术馆面向全球招募摄影策展博士后：参与万件摄影档案的整理与数字化研究 / Curatorial Postdoctoral Fellowship in Photography at the Raclin Murphy Museum of Art, University of Notre Dame\n*   **Specific Source URL:** `https://www.higheredjobs.com/details.cfm?JobCode=178825838`\n*   **Publication Date:** 2026-07-24 (Application deadline: 2026-08-17)\n*   **Temporal Status & Duplication Assessment:** **New**. 刚刚在过去 48 小时内发布的北美顶尖高校摄影策展与学术档案研究资助计划，时间极其新鲜，申请截止日期就在三周后，具备强烈的时效性与专业对口度。\n*   **Verified Facts:**\n    *   **项目概况**：由礼来基金会（Lilly Endowment Inc.）全额资助，美国圣母大学雷克林·墨菲美术馆（Raclin Murphy Museum of Art, University of Notre Dame）面向全球公开招募 4 个领域的博士后研究学者，其中包含 1 席专职“摄影档案与策展博士后”（Postdoctoral Curatorial Fellow for Photography）。\n    *   **聘期与任职条件**： fellows 任期为 2 年（预计自 2026 年 9 月 28 日至 2028 年 9 月），有延长 1 年的可能。入选者需在圣母大学驻校工作，并与馆内首席策展人紧密协作。\n    *   **档案职责范围**：该学者将主要负责对美术馆内最庞大、需求最高的研究资产——超过 10,000 件的永久摄影藏品档案进行系统的学术编目、断代方法论研究、跨学科诠释和学术数字化转化。这些藏品横跨摄影史的所有时期、工艺和技术风格，包括近年来该馆在摄影领域极其活跃的重大新购藏。\n    *   **截止日期**：申请截止日期为美国东部时间 2026 年 8 月 17 日 11:59 PM。\n*   **Relevance to Muki:** 这是一个为摄影学者、策展人量身定制的高质量研究机会。直接涉及对一万件跨时期摄影物理底片与原作档案的接触、数字化整理及跨学科释义，不仅是一次深度的实操学术历练，也为中国和东亚的馆藏档案分类和数字化实践提供了直接的方法论镜像，是 Muki “摄影、展览、摄影书与策展研究”方向的极佳学者资助出口。",
+  "citations": [
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw0RCkF0OJ1oQvWHJig2Aifjq9vgsFrn2TlWap--b65WsteNBiPq2PGAlzkcxFNNV2QvSjKiCXyLJ4I3j7cnup82qxeHAVblv5hfQ-Pl7MvrnDkPmk6RvtV9k5jSjh7m1w4KcD1id7uPoNK92Me3_Z0648W-sFJdB6wOfUsxIQrwQNRtO5aapmjfantoZPQPtrRDrQlp01mDCrhtHyU5Vc"
+    },
+    {
+      "title": "pulse2.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjeUeK-xkSmNLEkk1WQB3xy6lQZ8oC6GkKO8mbcalpJoLAolVif53N1ItMV_rTAgghaYAAwOxMmpYZ_yCa_YP-Ml1zBKTu4ZK8llUClDs-mVcfJLMSjwO60kDtTxsxoKtf7k-mctDMb0KkDDjfFbBbmEM6AAGToDG2EPMvdnKKdShPRjXi7iWeKWk0kML0p0UwlAJZTdFE"
+    },
+    {
+      "title": "finsmes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG26336dwS7LUU9hB4q86kb5LeeusAMDt9YevNNPxZrn6SS7ZRAEV3iFyATh80NU259YYv-T_fyJhJUk5X8kIztNeqgEdiGnfkIK-721c7ng46GUkDLQhrR1aa7gKo0rMIjI2_8gSzat7ZhmFg481HeVtuXznFA3LDhBIX-jgY5"
+    },
+    {
+      "title": "thesaasnews.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoBDpZ7pCsvDwHzaihdAV_7ooyMS9KJ_qwKnV-ZpUnpJm4Wk_zT0Yd4DrBXSnKftm2b_RqbNFOhyTeIkDkzeO6HK59OaWWvFGM2VIZuHy4h8phOIPuLi_Q7PKBzaIVAUhQms8jjjqynoagRoDbQbPfzA=="
+    },
+    {
+      "title": "runtimewire.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkHaNHeGNf5xip4y3UcW2mwfnAASaQHmqpkQsdiCJ1UrraVkl09gmGaln3Kkev19CbgRp2fuipO4uFbXaj6GeQwx9JqYyBmpcMnOnk9YDWafnEQk_aGgILCjUfTtprY_K4VWIJ0cLV9f6DCDCoureWlXqUfNUR2fSjDHF_0-Uz8OsLNvdQXGUlCSY2spRhaxPv"
+    },
+    {
+      "title": "valueaddvc.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLUUrCy1-NYCm_fZUKDoN5e03utl-jbxrZcQDmkM1oduCodkuUhaq2jwmKZHCfE5Y1Hw8r-NVyQGFCPkHy5OIWzmj9mao5F0Cd7uNBgmzW82u3xXFhAX9069KdvgTr1kWRskHNUNcVX9eGERIv_hE48_K00lFZ7RvWlRyqjQ=="
+    },
+    {
+      "title": "ocula.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpY8wXLGlz-mVdtUBjf4cf0A5Ia9GChYzZvF3DEUpVMWoE3sm-cLabZ3ID9haruz9REQWPZEeojv5OOW4yAt9qKJkGBia4tQkp3InmSWr39_JMqQ49n058NcEP6Fqi7on5Szl7UetYj4mHeREAfXHkUUZU5WJjKvaUbIRyWB1rbE3L-xtVWtHN"
+    },
+    {
+      "title": "hypebeast.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWz6AQBr3CsUZwea251E_Km5T3E6BNTMmbeJ6JnHW3wP5iOSx60yaEeq2pGtADXLzntBQGVb-C-VCojG9-yI66B80cGPmjp5swUH5V0iIqwTb6_WJwA83b0W2oKP0iAacp6Mc7hY1UvHfc2cqS_rBoQFeLHKoQFJBUxKHCKjJG9v6_s1SOig=="
+    },
+    {
+      "title": "hyperallergic.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHz-7TvLebJuopowEc6dBelKtR-p_ODcv7LYrSvxNa2d6yQzeZTmcsvxy10f4SU_Wp4dOnq1Xp6TL9tKbP0ax-dnspi_BsRJcu1-gZMwzKYmIMQ8GtR7bzu6tsHslfvVHk2dUZAQl7t9mvc4C0178IjR96xI0pk3D4abbMh6LbEbi5KydXuI5UO-cu7kmIRYIW"
+    },
+    {
+      "title": "collegeart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZKo0fjRfpQuNcxGrvMpOzhygtfK8tm0YWs-y38NqfREVS3PPUToeRjlKnuhgF9xEwXOe2zfT0v_QA5Tj5eiZ7mB1UXcYQuMigAmDg0cZPHNjsyWuoHIPv6yPE7nQJxFk="
+    },
+    {
+      "title": "usaartnews.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFDWOurNQr-uq4gf_KXV76xPSl_vNSYzD-4NNfmMiXJ2lZvx-kLyUZ0H1QmxVvip9ZoX_lA_yYOPbzUvk3QYBcaLHdrxGOhNbkimqFR8OMp5CnUOZLSv8Oglzzf-07mvIa_zLpwcanShmmRREOCykmiJimt2HomPJoyaLlQMbEa31eSRjFizjLdiOMyR_kAwCtKertXL1tsx6rmA=="
+    },
+    {
+      "title": "collegeart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAHhIEgynaSTHv9wq8ZzeHEFgm7-Oy_h1ODOhHxHATU6eqafFlNhwlfy2S05mjk4s56bLR917t1Ux1V-B6NUgpZf7umGbLS4TrL5vaZlU-SvdBGzB9Oby1eQOt_laTKkzklw=="
+    },
+    {
+      "title": "jfdaily.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBhiHDw9DT60aX3UOeEdruZVMgzreMAh8cSRCLySZjcV6W9dSFuMaJzw3qsAGmlJoI0LV6AdLKF9PHz1zELj2AD3uWeIkovv6902NLAswUubtMgGXbhPL16D4sXoLSulN6O-_4"
+    },
+    {
+      "title": "shifair.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8YatT2mM1tIcwCO8HvSEn2bhIy0PZ_dVRtoi3hBfoObCHOpoZ1YNhxHRgOA2pbHPOSV_eO6pNYJmWVrpqBhJD6hPe14Dyq0jHAS36ON4aRlBYDREtr8BMoHQm8gLm5RMckMrF35vCtWeAz_Y="
+    },
+    {
+      "title": "sina.com.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYiwzRvfJTAaiG9RIr_4E3aonyR6n7K3IEcNnc_Bd98g675_XpxnwQv3R-ZpLqI8fzlsxA4kWbAMFXTIDytYrLv5aYI-q0FTP08aKo1z6jKtGBs22ckcl8IFwM4WJ_Y9ZBjTfabK-tOn0Ef_UOflpNCoLDbWayRYhuWx0btqD4yaZKlmv8Hw=="
+    },
+    {
+      "title": "ea360.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxiEHt18Qg1563NjQ21LuJjx_ctxnN76cdKQj8ejXR9lrBXb-iN-eM7rggHjX7sz7xQgif8PrNhOywIm5H1URHyFs8TnMInCQrpK_RtxSxxgFGxtrxKN7yoZKUYnltEI_2-w=="
+    },
+    {
+      "title": "163.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa6rkA2UGegfcT3q7nuxSKEro2RnXsPXdgvpybHrKgrUR7414KsBDxuGHk-UbfpS9jDcgX7H_4M_GCDFsL9gb1Io2g655l-NR5oZ671_siCP3_XT2dgmVHxrkubws7iaYnJkV_ACUNVJrM"
+    },
+    {
+      "title": "higheredjobs.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFApI8JhlnBKb4HpaH7qRBnKBQbRffVxJ_3NZwOU_frjRnEs4Y00UfjExotGGfz4wmPufhzUiFMLDVf11ka0msrp9Tlmtv7Uu8GyCtQA-9PreJgU7y63WK2bhpEGtxEY2hyh6Af2Rzp0wayv6Y_lfNwD4sGzT64wD0="
+    },
+    {
+      "title": "hercjobs.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9XiviZnzvQ_gEhgnud8A0z71FpsusR0O42vpgjk4brr4gBj5vZTgEw0jaBp8BbXCuyCzvJw9uSm8Ly1gyXGjcP5jifHaMm-E3i_dKd0A1QrCD9gUhgyHFw911yEBQFTpljNALWbOO_qbU-c5ly8z-CekOvEWDG3C7eUMU8g7sVmEevcDmxGpeuyUsEnxg1Ckj5tacYSHWhuX3KG4fM2Xc_aP_I4gT"
+    }
+  ]
+}
