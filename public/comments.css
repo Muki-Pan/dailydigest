@@ -144,7 +144,8 @@ footer a {
 }
 .comment-card {
   box-sizing: border-box;
-  height: 100%;
+  height: 420px;
+  max-height: 420px;
   display: flex;
   min-height: 290px;
   flex-direction: column;
@@ -164,7 +165,12 @@ footer a {
   outline: 0;
 }
 .comment-card-body {
-  margin: 0 0 34px;
+  display: -webkit-box;
+  flex: 0 0 auto;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 6;
+  margin: 0 0 22px;
   font-size: clamp(19px, 1.65vw, 26px);
   line-height: 1.25;
   white-space: pre-wrap;
@@ -177,6 +183,11 @@ footer a {
   opacity: .66;
 }
 .comment-card-source {
+  display: -webkit-box;
+  flex: 0 0 auto;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
   margin: 14px 0 0;
   padding-left: 14px;
   border-left: 1px solid currentColor;
@@ -186,7 +197,7 @@ footer a {
 }
 .comment-card-arrow {
   display: block;
-  margin-top: 18px;
+  margin-top: 12px;
   font: 18px var(--sans);
   text-align: right;
 }
@@ -234,5 +245,5 @@ html { background: #dededb; }
   .comments { grid-column: 1 / -1; }
   .comments-shell { padding-left: 20px; padding-right: 20px; }
   .comments-grid { grid-template-columns: 1fr; background: transparent; }
-  .comments-grid .comment-card { min-height: 240px; border-right: none; }
+  .comments-grid .comment-card { height: 360px; min-height: 240px; max-height: 360px; border-right: none; }
 }

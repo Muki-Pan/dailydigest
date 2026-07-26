@@ -141,7 +141,7 @@ const storyMarkup = (story, index, issueDate) => {
     </div>
     <figure>${visual}</figure>
     <section class="comments" aria-label="Comments for this story">
-      <button class="comments-toggle" type="button" aria-expanded="false">Comments <span class="comments-count"></span></button>
+      <button class="comments-toggle" type="button" aria-expanded="false">Comment<span class="comments-count"></span></button>
       <div class="comments-panel" hidden>
         <div class="comments-list" aria-live="polite"></div>
         <form class="comment-form">
