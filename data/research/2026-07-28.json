@@ -1,0 +1,107 @@
+{
+  "date": "2026-07-28",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki's Daily Digest: Evidence Dossier & Curatorial Signals (Issue 019)\n**Date:** 2026-07-28 (Shanghai/Beijing Time)  \n**Search Window Used:** 30 days (July 1 to July 28, 2026)  \n**Editor-in-Chief & Researcher:** Curatorial AI Agent for Muki\n\n---\n\n## 1. Visual Culture Signal\n\n### [Title] TOP Collection: Tomorrow's Dining Table\n* **Proposed Section:** Visual Culture Signal (or China / East Asia Signal)\n* **Source URL:** https://topmuseum.jp/exhibition/5419/ (Tokyo Photographic Art Museum Official Page)\n* **Publication / Launch Date:** Exhibition dates: July 2 – September 21, 2026\n* **Duplication Assessment:** **New** (First time featuring this specific exhibition, which is part of the Tokyo Photographic Art Museum’s 2026 TOP Collection series)\n\n#### English Summary\nThe Tokyo Photographic Art Museum (TOP) presents \"Tomorrow's Dining Table,\" a curated exhibition drawn from its 39,000-work collection that uses food as a sociological lens to explore memory, environment, and social isolation. Featuring 70 works by 14 Japanese artists—including Rinko Kawauchi, Mikiko Hara, Tokuko Ushioda, and Okinawa pioneer Minoru Yamada—the show investigates the dining table as a site of intimate memory, regional ecological shift, and the solitary living conditions of an aging society.\n\n#### Verified Facts\n* **Institution:** Tokyo Photographic Art Museum (東京都写真美術館), 3F Exhibition Gallery.\n* **Exhibition Scale & Medium:** Consists of approximately 70 photographic and moving-image works drawn from the museum's permanent collection of 39,000 pieces.\n* **Thematic Structure:** Divided into four chapters:\n  1. *That Time, at That Table* (那时的餐桌): focusing on intimate family dining, kitchens, and childhood domestic memories.\n  2. *Between Food and Place* (食物与地方): connecting culinary culture with local environments, fishing ports, and agricultural landscapes.\n  3. *Within the Environment* (环境中的食物): addressing ecological change, food production, and environmental disasters.\n  4. *Tomorrow's Dining Table* (明天的餐桌): reflecting on solitary eating, aging populations, and shifting social structures.\n* **Participating Artists:** 14 Japanese photographers/artists including Shinzo Shimao, Mikiko Hara, Rika Noguchi, Tokuko Ushioda, Rinko Kawauchi, Ikko Narahara, Minoru Yamada (pioneering postwar Okinawan photographer), Ryuji Miyamoto, Izuru Takeya, Manabu Miyazaki, Hiromi Tsuchida, Asako Narahashi, Masaru Iwai, and Tatsumi Orimoto.\n* **Key Artworks Featured:** Shinzo Shimao’s *Life 1980–85* series, Tokuko Ushioda’s *ICE BOX* (1986), Rinko Kawauchi’s video installation *Cui Cui* (2005, containing 223 slides), and Minoru Yamada’s *Begging Hands, Itoman Fishing Port* (1960).\n\n#### Relevance to Muki\n* **Why it matters:** 该展览不单是以“食物”为静态拍摄对象的作品集，而是提供了一个将日常身体消耗（食物）、性别化家务劳动（备餐与日常照料）以及地缘生态变迁融为一体的视觉考古案例。展品如潮田登久子的《ICE BOX》和川内伦子的《Cui Cui》，直接将女性主义视角的微观日常照料（Care）放置在公共美术馆的社会史框架下，对 Muki 开展的“身体、照料与东亚影像研究”具有直接的策展参考价值。\n\n---\n\n## 2. AI Research / Creative Tech Signal\n\n### [Title] Traceable Scholarship: Page Anchors and Ariadne’s Thread for Humanistic Inquiry in the Age of Generative AI\n* **Proposed Section:** AI Research / Creative Tech Signal\n* **Source URL:** https://arxiv.org/abs/2607.20916 (arXiv Paper Landing Page)\n* **Publication Date:** July 22, 2026 (arXiv announcement on July 24, 2026)\n* **Duplication Assessment:** **New** (A brand new preprint introducing a highly original framework for digital humanities and agentic workflows)\n\n#### English Summary\nFudan University researcher Deyu Jing proposes \"Traceable Scholarship,\" a normative and infrastructural framework designed to keep AI-assisted humanistic research public and refutable by ensuring every LLM-generated claim remains anchored to a verified source. The framework introduces mechanisms such as \"page anchors,\" \"Scope Contracts,\" and \"NO_EVIDENCE\" declarations, demonstrating its viability via a three-layer reference implementation (AIH-Infra) applied to a 29-volume Kant knowledge base.\n\n#### Verified Facts\n* **Author & Affiliation:** Deyu Jing (Fudan University, Shanghai, China).\n* **Core Problem:** Generative AI's fluency allows LLMs to produce scholarly-sounding text in seconds, but framing this solely as \"hallucination\" misses the structural risk: synthesizing convincing arguments without clear sources, page numbers, editions, or evidential boundaries.\n* **Key Framework Components:**\n  * *Traceable Scholarship* (可追溯学术): defined as the epistemological constraint and minimum normative condition under which humanistic research remains public and refutable.\n  * *Page Anchors & Dual Page Numbers* (页面锚点与双页码): physical and digital hooks back to exact locations in original texts.\n  * *NO_EVIDENCE Declaration* (无证据声明): an epistemic discipline where the system explicitly outputs \"insufficient evidence\" instead of falling back on LLM background knowledge to hallucinate a plausible answer.\n  * *Scope Contract* (范围契约): requires every agent call to document exactly what was requested, what was retrieved, which files were enabled, and which boundaries were empty.\n* **Reference Implementation:** A three-layer architecture called **AIH-Infra**, consisting of:\n  1. *Contexture* (document structuring module),\n  2. *Open WebUI AIH-Infra* (traceable knowledge base),\n  3. *AIH-Infra MCP Server* (Model Context Protocol agent gateway).\n* **Case Study:** Tested on a 29-volume knowledge base of the Kant *Akademie-Ausgabe* (康德学术版全集) to demonstrate retrieval correction, evidence grading, and judgment downgrading.\n\n#### Relevance to Muki\n* **Why it matters:** 针对大语言模型对人文学术话语的侵蚀，本研究未停留在抽象的伦理批判，而是从“媒体考古学”和“知识基础设施”的底层逻辑出发，用一套名为 AIH-Infra 的 MCP Agent 架构（Model Context Protocol）重新设计了学术搜索与生产的界面流。它提出的“无证据声明（NO_EVIDENCE）”和“范围契约”对 Muki 构建个人数字图像档案馆、防止 AI 工具在分析历史影像与性别文献时出现“顺从性幻觉”具有极高的技术实践参考价值。\n\n---\n\n## 3. Feminist Structure Signal\n\n### [Title] Ana Mendieta: Shifting Boundaries of Body, Land, and Displacement\n* **Proposed Section:** Feminist Structure Signal (or Visual Culture Signal)\n* **Source URL:** https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta (Tate Modern Official Page)\n* **Publication / Launch Date:** Exhibition dates: July 15, 2026 – January 17, 2027\n* **Duplication Assessment:** **New** (The first UK major exhibition of Mendieta in more than a decade, newly opened this July)\n\n#### English Summary\nTate Modern presents the UK’s first major in-depth exhibition of Ana Mendieta in over ten years, bringing together newly remastered films, early paintings, and late sculptural works. The retrospective highlights her famous \"Silueta Series\" and examines her historical ties to the New York feminist and activist scene, particularly through her early membership in A.I.R. Gallery.\n\n#### Verified Facts\n* **Institution:** Tate Modern, London.\n* **Exhibition Scale:** It is the UK's first major in-depth show of the Cuban-born American artist in over ten years.\n* **Curatorial Scope:** Features iconic works alongside newly remastered films, early paintings, and late sculptural pieces, several of which have never been seen in the UK. \n* **Key Series Featured:** The famous *Silueta Series* (轮廓系列), where Mendieta recorded the presence and absence of her own body on natural landscapes using ephemeral materials like fire, water, and flowers.\n* **Biographical & Activist Context:** The exhibition highlights her development in the experimental Intermedia program at the University of Iowa (1972–1977) and her later New York activist involvement, including her membership in A.I.R. Gallery (the first nonprofit, artist-directed gallery for women artists in the US).\n* **Sponsors / Institutional Research Support:** Research for the exhibition is supported by the *Hyundai Tate Research Centre: Transnational* in partnership with Hyundai Motor.\n\n#### Relevance to Muki\n* **Why it matters:** 阿娜·门迪耶塔（Ana Mendieta）的作品是女性主义视觉文化中关于“身体、土地与流散政治”的终极坐标。本次回顾展的独特之处在于展出了她“最新数字化修复的影片档案”，展现了她如何使用胶片和摄影作为记录身体痕迹（Presence/Absence）的媒介。这对 Muki 关注的“女性身体作为反抗档案”以及“跨国流散身份的媒介考古”提供了极为核心的研究养分。\n\n---\n\n## 4. China / East Asia Signal\n\n### [Title] Dial-A-Poem Hong Kong: Reimagining Giorno's Telephone Hotline as a Public Auditory Archive\n* **Proposed Section:** China / East Asia Signal\n* **Source URL:** https://www.mplus.org.hk/en/exhibitions/john-giorno-dial-a-poem-hong-kong/ (M+ Museum Official Exhibition Page)\n* **Publication / Launch Date:** Curatorial essay \"Dial-A-Poem: Transmissions from Hong Kong\" published on July 10, 2026; Exhibition on view until August 30, 2026.\n* **Duplication Assessment:** **New** (A brand new, locally adapted auditory archive/exhibition at M+ that has not been covered in prior issues)\n\n#### English Summary\nM+ Museum presents \"Dial-A-Poem Hong Kong,\" adapting American poet John Giorno’s radical 1968 public poetry hotline into a localized auditory archive. Featuring newly recorded readings by thirty local poets in Cantonese, Mandarin, and English, the exhibition utilizes telephone sculptures in the gallery and a working public hotline (+852 3009-9386) to examine poetry as a medium of shared memory and linguistic identity.\n\n#### Verified Facts\n* **Institution:** M+ Museum, Focus Gallery (Level L2), West Kowloon Cultural District, Hong Kong.\n* **Concept Background:** Based on American poet John Giorno’s (1936–2019) original *Dial-A-Poem* project launched in 1968, which aimed to democratize poetry by making it accessible via a telephone hotline.\n* **Hong Kong Adaptation:** Features newly recorded readings by 30 local poets in their original languages (Cantonese, Mandarin, and English).\n* **Participating Poets:** Includes Bei Dao (北岛), Yam Gong (饮江), Xixi (西西), Tim Tim Cheng (郑点), Cao Shuying (曹疏影), Derek Chung (钟国强), Yasi (也斯), Lok Fung (洛枫), Chow Hon Fai (周汉辉), Sonia Wong (黄钰莹), Eric Yip (叶晋玮), and others.\n* **Interaction Mechanism:** Visitors can pick up physical rotary telephone sculptures in the gallery to listen to randomly selected poems. Additionally, the public can dial a live local phone hotline (+852 3009-9386) to hear the archive from anywhere.\n* **Curatorial Writing:** Accompanying the exhibition is an in-depth essay by Jacqueline Leung, published on M+ Magazine on July 10, 2026, which critiques Giorno's original New York activist/counterculture network and compares it to the contemporary multidisciplinary, localized landscape of Hong Kong poets.\n\n#### Relevance to Muki\n* **Why it matters:** 这是一个极佳的“声音媒介考古学”案例。它打破了纸质出版对诗歌与地方声音的垄断，将电话系统这一“过时”的通讯技术转化为承载城市复杂地缘政治、方言记忆（粤语、英语与普通话的三语交织）和情感关护的物理界面。对于 Muki 探索“反常规图像的非视觉档案”和“东亚声音地景的历史重构”具有直接的技术与策展启示。\n\n---\n\n## 5. Archive / Long Read / Opportunity\n\n### [Title] Open Call: Lee Ufan Arles x Guerlain Art & Environment Prize 2026\n* **Proposed Section:** Archive / Long Read / Opportunity\n* **Source URL:** https://www.leeufan-arles.org/en/prix-art-environnement-2026/ (Lee Ufan Arles Prize Page)\n* **Application Deadline:** July 31, 2026\n* **Duplication Assessment:** **New** (A seasonal open call of highly prestigious standing that directly fits Muki's target ecosystem; never listed before)\n\n#### English Summary\nThe Lee Ufan Arles Foundation, in partnership with Maison Guerlain, invites applications for the 4th edition of the Art & Environment Prize (2026). Open to international contemporary artists of all disciplines, the prize offers a 6-to-8-week fully-funded residency in Arles in early 2027, complete with a production space and a solo exhibition during the prestigious Rencontres d'Arles 2027.\n\n#### Verified Facts\n* **Organizers:** Lee Ufan Arles (李禹焕阿尔勒基金会) in collaboration with Maison Guerlain (娇兰).\n* **Theme & Focus:** Seeking strong conceptual projects that foster new dialogues with nature, long temporalities (temporalités longues), environmental concerns, and the poetic use of natural materials.\n* **Winner’s Package / Benefits:** \n  * A 6-to-8-week residency in Arles, France, scheduled for early 2027.\n  * Provided with a dedicated production studio and fully-funded accommodation in the heart of Arles.\n  * Curatorial and institutional support to produce a site-specific project.\n  * A minimum 2-month solo exhibition at one of Lee Ufan Arles’ galleries (such as Espace MA) during the *Rencontres d'Arles 2027*.\n* **Application Eligibility:** Open to international contemporary visual artists, designers, and curators at any stage of their professional career. Applicants must submit a conceptual proposal, a CV reflecting solo/group exhibition experience, and a portfolio.\n* **Application Deadline:** July 31, 2026.\n* **Recent Laureate Highlight:** The 3rd laureate, French-Iranian artist Pooya Abbasian, is currently showcasing his residency outcome exhibition, *Soli-Sombre* (at Lee Ufan Arles until October 4, 2026), which uses old photographic techniques and video projection to trace the ecological migration of the *baccharis* weed.\n\n#### Relevance to Muki\n* **Why it matters:** 该资助不仅提供丰厚的海外驻留支持，其核心亮点在于“与阿尔勒摄影节（Rencontres d'Arles）的展览无缝对接”。申请方向高度契合 Muki 关切的“身体、非人物质性与深层时间档案”。当前得主 Pooya Abbasian 利用古老影像技术（Procedprocédés anciens）与杂草研究相融合的《Soli-Sombre》项目，更是为生态媒介与视觉考古创作者提供了一个极具示范效应的申请范本。\n\n---\n\n## 6. Excluded Candidates & Duplications (Self-Edit Audit)\n* **The MUUS Collection Research Fellowship (2026):** Excluded because it was already featured as the primary opportunity in the `2026-07-24` issue.\n* **Creative Breakdowns (Dutch researchers' paper on human-AI collaboration):** Excluded because it was already thoroughly addressed as the core technology signal in the `2026-07-27` issue.\n* **LensCulture Photobook Prize 2026:** Excluded because it was highlighted in both `2026-07-27` and `2026-07-26` issues.\n* **Nancy Bowen's Solo Exhibition in SoHo:** Excluded because it was covered in the `2026-07-27` issue.\n\n---\n*The dossier above contains 5 distinct, high-quality cultural and technical signals with validated URLs and dates up to July 28, 2026. Ready for curation.*",
+  "citations": [
+    {
+      "title": "tokyoartbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY4jXWPiIvf5j09-qFJcFvin2Ux_b17XQ-bW5P16LrEO0HmfjIUFEYM7EpOmXZmoB7nNYVwG63dwGOdt1wI7sMo4UqC0AJXik2Hk4KOk50L_cgRQ9ML9uHFfVTx3k18HkZu43qatRhiO9IQP6Lz5C2S2THwJqvWJ_Cgpkg9caDsF4NJ0TxZzQks1ZMrJJuJhVd25gS-VNWFA=="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAtNegMydJ_bFKXVSYOs9zteQautl7ef6wqJgoxYuRxSODCF_il63UXENmc-dcfZlUKJjgkzQmZl0CSwwX1ODyV1YH4g23cLgjqJEH6vMM7t5W0tfONizgsefmxgfrFPeg1XajQDNPZylAhZd7eDlrfc-aAbzhcV8DYpVtx_hd2b8rjqsxVjoT-qRnV6A="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyNpWhVVAGiayPfo2ZlhIvpVHpOiDpnfd6bZ19hnL7yFAJfa5l5lIyMdoye8J-KiZY-cATocrWGoRPjiJdxXs3qcmr8eHATQONF1pWSB7gWrrWPDv2fXH_2ADis2o6riruQA=="
+    },
+    {
+      "title": "timeout.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ9cuEx1IowKi5qYxS_PRq1Qem-F1FBaXAA_rBls2GDtUouYh02Xc8iNlK6A8rZVcAoFjLHn4G5mJJDS9UHl9J3QE7WbVRbKqmqnW2plN3-eAJd6As1uecyyW03BCbIoRXDUeprSoi3T_Mx2-MXZDRukR0dq1gRUE2QLM1"
+    },
+    {
+      "title": "monocle.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF69PyKFbU0hczMrKKqMekDmcGhUVPA0JTqerXREYDm1aolOopaY0fwNrFsJ0EHoeF3OiRD5Nnv4cEAzvdAaNWVkUKubvs9jbO2C_lswyOruzpBYALMOL4MayK42rMUNeMlD-nJQQBmDJN4BZ0ahZ0mFlidsBFVeQ_R4F1qoiwFS5wmo3vjcMYkWGk="
+    },
+    {
+      "title": "bulgarihotels.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOm5hPVJfSJRiOTom0JzxWbmsFnkwyykQhtSLySuNthjebNRbmUMqPDlTKM-5ac8bEmTsfWmvtJb7b0cP95PfRzreS5Ti6K3pp1pgwvPuAplixkZPtmsHV9AMNQtAFk9V34ck3mLA0D5W9GyONLbmS3jmXMvlfTm09awwPA3V-6LDcNkg3a7TlXEJ-yflWFWcgtOYeN8c="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhHQIx3-2Gu0ay4G_xI5SGL2Yc3GuWKGd63M2TaTJZwoTr17R4w-mtNc_jShnMKfUNWH1UwK4oHz635Ren6FRSxtH27I5keJV8MGeHTQ3sXB-e05SNU1ywxQ=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJavZu3Kk3oPFy_oSq9Bo0punU6QtWS7kuxrJjgmzLbhAGlfGJSz14alBhzFd6-sHicSRaQ5uVhpBbUB78e_YhyrdbjkbF-RfdyjpPXXwQMaCmxtLi5FdIxec1cE6tq1vz9d5sVyRRo-lO"
+    },
+    {
+      "title": "aiinfoforge.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0KWWjvRbAbKfiuEZg_aCZKwzQpEUB3s6OsH6yWefFgq3G2EZWX9f2ByUiJ1nnAJpQDDfQgrUL_7XHTcYVs00Ubl87Ci_kiNJpmO5VGC614GG5AD1p9eaTfyST4AVlegLj1ZX4"
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh_wgudn6BqjrH_W-FjvGNQGF44hORsSGzLXFhKNT24CBUoClZllY4WDjU08vtq1WVZWcj1gtAQWU88sMWG8w_C_p-HL6apsS8wt9hfokmduXHDmBgag=="
+    },
+    {
+      "title": "researchgate.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA-_dmTEFcnpWcEjxRRv0Mzifq215YbWFSBiqoaz-ZIsPhgmJJF5-lAgaKay_9orbe-GXMyW27WXbKqxMLM4mqoggtF0ADxX7hoAVK4U7r_mZg-cMZXua4yCOtFGrGkmToOXzIjvcZkKh0ObYROZHGt8ZqofOpUbqVuB6JeRUrdAZ_sDELjTveD8qRCDLG7TN7dYxPXLiRB2ir1NtVzErRWzl6cFKGg4LrZ72d"
+    },
+    {
+      "title": "tate.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiGt9xm706EOXnWuBG1anyA3bcZD1LbEafYUH3zQ9tIJrtcmf9VDtdKpkGR9JNClLrj5zLqzFzBFyOWpI1K1XdE1NgZvvNbiG7b09O5f6crx2ADaPgmAjiC0eRkaIZNk8aLs4Y1YPhp7vEvuMq_Q=="
+    },
+    {
+      "title": "tate.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvNn95N_9xxTGLwv0LjktGCWtwP_i4ldpxnsEU2pY4IE_SFb6KAq-HRV7gK5TwuDLjrfLDRJ1e_WpXlBeIcbGM9VHy77UZlVVHX146UzgzKua03MNz3pmKAhAfbuQJRruoFVEjzBOqrioO87ct4Q=="
+    },
+    {
+      "title": "mplus.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC5j825xBFzYPjNWpGW6R9WFYZpg8EpgwDpl0ZTdOL8__zgv9Cn-pe83fmYVlQvSoO-q5wMQqK2ELcOYwcwu4-Pi7k6BUeA4zLa4wkiU_lpMT05klinVYWlPhBE0B3v4M70c76JiSv8bmiyJLRwcFS07-_"
+    },
+    {
+      "title": "westk.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO9n_Dlhxjae_f1mbeLAiDnICKI-5YI3zokyiis-hTWIOsQuNyKTphtW72bIhdEhg9D-kLY-TuYCCSktIlgozggbK5-AVymvFgnJTbj2SPLq6Li7fbOvK6-yPKZ9BAM6s31VCKbsERnw=="
+    },
+    {
+      "title": "mplus.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmDH2zq3T6Fqwfcye54Q2SEyG4EG1CrpTjbeT4TTD1kxvyL1Hmh0g4Dhuhx5VNBKANwUX1aDtTJSYY-v8Q44Akbw4n8p-uoX8yX0ctyQEyPDBTTtNLYftRlzH9OtuNkx8zwMhKyTU7KVJXtqQMZx8w4nrYBkZADn2QTwISqgFMef_Lyg=="
+    },
+    {
+      "title": "mplus.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS1FtEWVRo9rUgdMK4mzvgjxb9Hcfr7H3ChtFvdmswwlmpfuOsv9m-WK-5iz_ScudP9eI_1hLqiEH7ayiRvgFz4W54kpnEkV6X4Qps47v7Q3KCGawSYJ-nKDNMQqJFCbIuSPFU5IJ9-pnkG6DBG5A7oSjRo3cCQ1LJyCQdD3VUpjiQj3KXRg=="
+    },
+    {
+      "title": "mplus.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExR0MILPz7bAGno2_CqOIlb8vQJ4TWGkhzGsBLntT_ytuew1ucYoT-tLmaDqsAz0g7KU-1pyunXFd_8F5Yqhup06aXI3kicRxJfbCTvvK6cs7enzXdxx5962UkJOg="
+    },
+    {
+      "title": "leeufan-arles.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMiewYETqAYUsYgjhvq7srqKlPYwZuY4vj36L6wCc-h-tNqzHWEHnKPL9Z61q4I7nv4ps4aLwBXk1zfd--1qMd6cePpNPmuafwW4Ad-L6ce3L0aHAW7GpPMGdjSVyYe79hQi1MMzGOaBBxUQw6W20-4Ic="
+    },
+    {
+      "title": "reseau-dda.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkKPD0ZAbRpD3TJCDqxw_XEHDn5J7zpme58MT71NzWH4wv5aqv-YQu6dWPNvlTjVULVtE00BOKIs4ZFSysffYAJlJEIIHpK3ln2anW9mY="
+    },
+    {
+      "title": "guerlain.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw4oigBUoTZ_2kSqj4PIJp-dwG2mosw0pX5Xh30i9LRqp-4Q5lilPfEVQVHDV6GwHhoxgmzoZKYV1nO7D80ZKTOUQwPE9eVKSzRRNjCwH-KYKnaI3rTftNkRPr5wxzCPR0luHl-Ko9vUD27NrcapXGikUgfRTgDoVZNfCx"
+    },
+    {
+      "title": "canvasonline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCE4MAeM8rLuEX7FmQPaC4frdvFnu-IYqd6rzy2EFTo9H_mgQZI4VJJZoHV662UdAYCbBkiY3Wq7x8O2TXTTqgjVIhgiaVGunOLmqpzqnE18MF9Du-1nJYkaKhmX37IDH5hO1KgDqdRACMvuDMm3zPRnpRjCzRkvEKkLDaXkC6IPyT59OGumckEbC4P_L98tqT8A=="
+    },
+    {
+      "title": "tokyoartsandspace.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIH5dNAHdvWuHhyAwBtLdufzlUuGPsmsgFucXXsTiv7IDGQCG_wPxPj2i5apblIgbZFOA7bjS6BQz3ekRKapjgHDgULxTvufXLu7VVI6-wyOfaBul_oK-NwGQt8oJ9SEfjNSETjOinDxv-s_U6GJkGNz7IDxbTXByx6KqncqZpulzv-WI="
+    },
+    {
+      "title": "p-a-c.fr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEHy4rQf7eoB5lbXJqq5DKd8M2aMJY3yD7akYwLGMxUDxqxfsW1dcyM2cC-LTRSbd5DDfhbq5PVCHGsDvKGxCXHZ1cD5ZORGe8gBIK1o1KmxvxEG9h0HCs_emlR_pLDHBNeYPf-HKdlHipZ-FE2f2EyAa64wWQ_Sd1TNVigmWkHCzGIk5h_8IZNIWrbyPSflQKPzMUnwdt2O0G9Tf0bYuUbw=="
+    },
+    {
+      "title": "1854.photography",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPsbxotL5bdxaVj-diNWWrAIM3-CkIkAlaHv42euiqNgiUU9Ul6KxcU9eAq3Cy8KGH7nyGcI_8zZ6Cg9vXUMpdrRjDHoUjfT3LmhcB2KCpsxlzGiduqsHs-rx2ovVVj9yQ70-Ntc7xGBUo8XJqemk35LPAzE2sGHMr9S6XtTlfIyPOzGI9_iU="
+    }
+  ]
+}
