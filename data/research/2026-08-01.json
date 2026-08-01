@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-01",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki Daily Digest: Research & Evidence Dossier\n**Date**: August 1, 2026  \n**Issue**: 023  \n**Search Window**: Past 24 hours (expanded to 7 days for regional and creative technology confirmations)\n\n---\n\n### Section 1: Visual Culture Signal (Photography, Exhibitions, Photobooks)\n\n*   **Title**: Tom's Stretch\n*   **Source URL**: [https://www.davidkordanskygallery.com/exhibitions/toms-stretch2](https://www.davidkordanskygallery.com/exhibitions/toms-stretch2)\n*   **Publication Date / Run Time**: July 10, 2026 – August 22, 2026\n*   **Verified Facts**: \n    *   This group exhibition, on view at David Kordansky Gallery in Los Angeles, spans over 80 years of artistic creation.\n    *   Curated by David Kordansky, the show features more than 70 artists whose work engages with the legacy of Tom of Finland (Touko Laaksonen, 1920–1991) and his radical vision of the body.\n    *   Participating artists include: Tom of Finland, Matthew Barney, Cassils, Peter Hujar, Robert Mapplethorpe, Monica Majoli, Paul Mpagi Sepuya, Cindy Sherman, Martin Wong, Jonas Wood, Ramsey Alderson, Steven Arnold, and many others.\n    *   The exhibition highlights themes of fantasy, intimacy, bodily vulnerability, and physical liberation while tracing Tom's underground networks of distribution and alternative media.\n*   **Relevance to Muki**: It directly speaks to the history of underground imagery, body politics, and the construction of alternative archives that circumvent normative representations.\n*   **Duplication Assessment**: New.\n\n---\n\n### Section 2: AI Research / Creative Tech Signal (AI Workflows, Agents, Creative Tech)\n\n*   **Title**: Black Forest Labs Launches FLUX 3: Multimodal Image, Video, Audio and Action Model\n*   **Source URL**: [https://blackforestlabs.ai](https://blackforestlabs.ai) (Waitlist page: [https://bfl.ai/models/flux-3](https://bfl.ai/models/flux-3))\n*   **Publication Date**: July 23, 2026\n*   **Verified Facts**:\n    *   Black Forest Labs has released FLUX 3, a multimodal foundation model trained jointly across images, video, audio, and robotic action within a single architecture using the \"Self-Flow\" matching objective.\n    *   Unlike traditional pipeline systems that patch separate image, video, and audio generators together, FLUX 3 generates video up to 20 seconds long with natively synchronized audio (including dialogue, sound effects, and ambient noise) in a single pass.\n    *   FLUX 3 Video and FLUX 3 Action are currently in gated early access. Audi is already using FLUX 3 Action (the FLUX-mimic robotics variant, co-developed with Zurich-based mimic robotics) on real factory production lines.\n    *   An open-weight version, \"FLUX 3 Dev,\" is planned for release later in 2026.\n*   **Relevance to Muki**: FLUX 3 marks a structural shift in AI-native creative workflows. Instead of disjointed, multi-tool editing pipelines, native audio-visual coordination inside one set of model weights enables seamless, sound-aware b-roll generation and direct camera/scene control for indie visual media practitioners.\n*   **Duplication Assessment**: New.\n\n---\n\n### Section 3: Feminist Structure Signal (Women, Labor, Care, Bodies, Platform Power)\n\n*   **Title**: Lee Bul: From 1998 to Now\n*   **Source URL**: [https://www.mplus.org.hk/en/exhibitions/lee-bul-from-1998-to-now/](https://www.mplus.org.hk/en/exhibitions/lee-bul-from-1998-to-now/)\n*   **Publication Date / Run Time**: March 14, 2026 – August 9, 2026\n*   **Verified Facts**:\n    *   This special exhibition at M+ West Gallery in Hong Kong represents a comprehensive survey of South Korean artist Lee Bul (b. 1964).\n    *   Co-organized by M+ and the Leeum Museum of Art in Seoul, the show features over 200 works, including sculptures, installations, and 2D works from her studio and collections across Asia.\n    *   The exhibition is structured in three parts:\n        1.  *Landscape of Utopian Dreams*: Architectural installations from her *Mon grand récit* series (2005-ongoing) and 2D works from her *Untitled (Willing To Be Vulnerable—Velvet)* and *Perdu* series.\n        2.  *The Body and Technology*: Focuses on her pioneering *Cyborg* and *Anagram* series (late 1990s and early 2000s).\n        3.  *Inside the Artist's Mind*: Showcases sketches, drawings, and maquettes.\n    *   The exhibition ends on August 9, 2026, before touring to M HKA in Antwerp, Belgium (Nov 13, 2026 – Mar 7, 2027) and the National Gallery of Canada.\n*   **Relevance to Muki**: Lee Bul’s practice is a foundational landmark in East Asian feminist sculpture, exploring modified bodies (cyborgs), beauty standards, and gendered vulnerabilities through technological and dystopian frameworks.\n*   **Duplication Assessment**: New (Never featured in past 7 issues).\n\n---\n\n### Section 4: China / East Asia Signal (Local or Diaspora Visual/Archival Work)\n\n*   **Title**: Ellen Pau: She Moves\n*   **Source URL**: [https://www.sculpture-center.org/exhibitions/13175/ellen-pau-she-moves](https://www.sculpture-center.org/exhibitions/13175/ellen-pau-she-moves)\n*   **Publication Date / Run Time**: May 28, 2026 – August 16, 2026\n*   **Verified Facts**:\n    *   This is the first US survey exhibition of pioneering Hong Kong media artist Ellen Pau (b. 1961), co-founder of Videotage and the Microwave International New Media Arts Festival.\n    *   Curated by Freya Chou and co-organized with Asia Art Archive in America (which hosts Pau's extensive digital archive), the exhibition is on view at SculptureCenter in Long Island City, New York.\n    *   It features 14 video works and installations from the late 1980s to the present.\n    *   Key works include *Song of the Goddess* (1992), which superimposes subway footage with Cantonese opera scenes of legendary female performers Yam Kim-fai and Pak Suet-sin (highlighting their secret 40-year lesbian partnership), and *Pledge: Bik Lai Chu #4* (1995/2026).\n    *   Pau's long career as a professional hospital radiographer has deeply informed her artistic exploration of body-imaging technology.\n*   **Relevance to Muki**: Ellen Pau's intersectional history as a healthcare worker (radiographer) and underground queer media art pioneer presents a profound case study in body technologies, labor, and East Asian feminist media archaeology.\n*   **Duplication Assessment**: New.\n\n---\n\n### Section 5: Archive / Long Read / Opportunity (Open Calls, Grants, Databases)\n\n*   **Title**: The Ian Parry Photojournalism Grant 2026\n*   **Source URL**: [https://www.ianparry.org](https://www.ianparry.org)\n*   **Deadline**: August 31, 2026 (Picter submission portal closes August 31, final student verification extensions run to September 1)\n*   **Verified Facts**:\n    *   This free-to-apply international photographic competition supports young photographers who are 24 or under, or enrolled in a full-time photography program.\n    *   Benefits for the recipient include a £10,000 grant to fund their chosen documentary project, a year-long loan of Canon camera equipment, publication of images by media partner *The Guardian*, and inclusion in the Hamburg Portfolio Review and the VII Mentorship Programme.\n    *   Includes a year-long personal mentorship with Giles Duley, CEO of the Legacy of War Foundation.\n    *   The grant was established in honor of photojournalist Ian Parry, who died at age 24 while covering the Romanian revolution for *The Sunday Times* in 1989.\n*   **Relevance to Muki**: An exceptionally high-quality, zero-fee global funding opportunity for emerging visual researchers and documentary photographers in Muki's community.\n*   **Duplication Assessment**: New.",
+  "citations": [
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsezBIEpN863suaEREEFBNN-qVAtqSvtICiLjITTm7IYziuVlkFyRnAaeFRkGEJXUUun_Sdw3bl9zHeqg7TbhsXotMGj4PciSOEAtKMPUkILMejh-kSltYAuLzVoR9rA=="
+    },
+    {
+      "title": "davidkordanskygallery.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyU-PhrVpfdxnY2AEFASRJGdTwiS5Z3hd4Iyzs3Wjabh-H-l5_1ujpKaL8wvB7NpV4G-_v_Kp3TY6FXff6YMynX1vIFOxHiVfQiRKL2LelmZefXUQXLv0zDdGHKC6gTjC6VkpTdKUEOL4RirSCHfjs34aTKA=="
+    },
+    {
+      "title": "artwrld.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLqWmBgWkZZ5Oxu9ZPjGOuhXiciXRhc_uo3OzMd1XdJGmqNHGwjzBTBuQOAuOOQP-V4V0fCN2Se6mQSKwXZOp7P7pho9oLeL0aJkAn6cHjIqgixHr69W_SgUxse9rYwKGeXA=="
+    },
+    {
+      "title": "bfl.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF79tECLuirhPN5XXoN85zyAYK3lPmUYRcEjf9w1PKGCCGFgQoahXXVML5x7J9u-tmhQBSmnsJpZvItO4SMnwPs4KE55qpmpTA22lg5nZvmxtAP"
+    },
+    {
+      "title": "ngram.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaum0d_CvxS_-bsC8e_k17FtW0u2fD61k4J6Ku-fKp6QVNKe-_LhnMxhgeM8FetI5NLBIFjJ66SaRxC_W-3xa3NZXMOV3_YBE9yUl2GjuyLP0vOL-9HtAXauQvh7FQK58p6FRiA1sDx52SeZHp6ukyJpsANW_8KI0="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElei9nVVw45Zh59TjccH--cUiZf3q0LGCydivAfmcNLU31xVUCY105KaF4FrX0aVbTxzzDaJvOnEyEGnCLsNBktrtoKKdSjuA6qhfHylKumudkjycK9-xZ9PvKghigQEy6"
+    },
+    {
+      "title": "venturebeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6KFvYWDvGBAeDBwOjhC_zhxWbuYH89C8Kmj_HtD-cxUHAd6KS72PzFqIDxCDfvJae-MhIqgP_ty8ETiodFlNprcrLRKhEyXDcCVqc-D8MH_r961fDmLpiZtgvU87Vde2f8NDmSOjkFPVdTxbjJ0PPwWBppKtg8yb9HIhXv8hBdym6eE8ivAZx59xTt72ipxv_18OHSN6liMpKSJ7uTb__UBbuB3xBM4PMhF4zyeH1jxVFEBFHZbTIORjKuMDh3GCRdVcRKapZBsclrexHoCyJE1GpdRof0w=="
+    },
+    {
+      "title": "marktechpost.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa4LVMvT1-WKP0a5mzC8qIqS6JGHbD9_dzAkDV5_nnacM49vdhM2EcPE0LUp2kOUkuhuxZdBdOm1OZvnBX9Vs3h8DX6pPcjRqb2YfFMJLalsIwPeEDBA6DqVZ5EoOjmnLzrLxCWDPLT5-Q7kyT3_YFwdsCiMsp6hy7ObxYfGMQr1VRD1mi3CcdQ8nNmVwN8Jyu14ZKE5gFyRjvRdMbFLwGbH_W2lTWAhDbUMZU2PmowbedrA3FZoMJvrrGq701bevZedqJNiqfFB01kg=="
+    },
+    {
+      "title": "nyu.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE8vIgvuB49j0JfRUPdkGU6CMPPa-4qYbn34i598-y2ajHGLnvbuADWHA1KC9fkF19cU_wP_g16IAwcXDl_skucsQ2DGTcbtrCR6lBx_HXf33icRm6VmawPR7g4l5yNfbpVBTznorlOWmr6OnH_S5555150yY2vgemJoGV9awAKHGafKEauxFd70hkaO0w6WwwmpoMfkTiVA0V8OmcEY9-aFl5-WM-Qw=="
+    },
+    {
+      "title": "mplus.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVNtGaLbNtZHvBil59voZkomagjAyPQsc1cWGBbrZS19Fa4cHOEXygEsKiDAbuqvGh3TD8E0XSSLLnzq8njEjpFI144nWotFNz-aL3w5T6qXgGkPjVUh6GcpyVEY1PT5jkcfgm5MDFNS8xrDGe4vlvmFOhpxNDjw=="
+    },
+    {
+      "title": "moussemagazine.it",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfVx-flD_mjamuDYU35iX97cgtKq6upTITAbtkocQbSpLgVxTZsVEmnXsscDql2bqGWEJF-7LXAyMCBEArhPCbk4tME-EEjbXn--Jp95Glgc5SuEteGpEalrmz6Mm9_bWFuADQhJEcNWRyNajpKC8hD5G9yb4VwkGH1y3SS-_QEE3gtTlz-Q=="
+    },
+    {
+      "title": "muhka.be",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJ6xp5FIdELXxgmTPmwmOdSNKskOhU0_V4hWmEJc1gjbjU2_v7paQ4Q2dmXltxH4dlkfoB8puPUuBsgDrOFW8I7eJATIfxCj04KYQgPM0SKP4hMmks-c49Cal4a2pFxH_5siCPIria6kL_Ks0A38qx8ng"
+    },
+    {
+      "title": "sculpture-center.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq6Ve43PAbuQDeqGX87cLcN0MwMLXrzv2ItOVMdOrGryPcIqBwrYNB49sDz4ra8GBONmJH_2cKacwWOqGlOYyWM26KThcz9XHfihGSuPHEwZe6cg7Femx_AWwxZW2-YwsR-k-5CPLUBMT-YwaR0wZ9-a4_aB_dx2-DoM8F"
+    },
+    {
+      "title": "aaa-a.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmgD2YGVa_PXMaLffhz2vh9bempBgILmkJ3q9IvWrr3ogkBI6d6yA-vMMYPveNKU_6ws7OJWxL9Hl1VMk_f8QugCxwrppL46xAyvHC2p91KlAQ3AP80g-PfQkrHB0u2aETlO0L-LpBtD-Y"
+    },
+    {
+      "title": "aaartsalliance.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2n7VJ2ak3VNbeOTcG0cVuD6vMi0gCvj4rdykTx1Sa45QK1OcanOe7iquLBPUYKan5ZGCtYoREKcJrP0ZD5GUJziuBF5PGJ4BUpiu6qb3C1CXBFsMJ3JevsxDXpi0gJX5_3gZRYrEHvrboXVwVmPM="
+    },
+    {
+      "title": "kiangmalingue.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk0sXcry_ZfWlwjFtsn7R8L3_3ovPHg1aqlamsf9Q5ymycxNUO21ke6xtfNgs77JawUxPDAeyPvEeq-NhcJh1QM8Y6JIlElzE860Ubx-kEhRoKw82UvVHmPZLjolLI6AP8gbZDwnx0bAWD"
+    },
+    {
+      "title": "scmp.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs56e7h0s6XbbKYjD7Nguf6AKFfCJbc2yz4yl-I1w8JmP3kpXaKy3qGqqNAd5jhzxy7qkyF8QDXrIvSrbBH_t6yn8C9TZAur5ffo7iniV4tgL1xM6m0_IdCNDOgqokGZIAB8X-bnyfVHNFfJXvcG8T3QUlF_0CIJZxKhMh2jTFe8DesdP3_-HqCz5AV7s2kxS6zdPgqmXp3PwVS0l263Qlg-ru5Db85P5b8v7nl00MKK5VRCZ91mZhhQ=="
+    },
+    {
+      "title": "screenslate.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfVihgOkH_SpBOP57niNAjISSo41WPQoqOY-yAewEUOxCXccWUmx3hvpQ5bepv_dJU7BT1mpmJRvj4XEU_01PqRq3uD51SEwEfq70_UZe_ZB1IXlj_-lP-7gW2nHsB67HrwYg62TGQQkK5mABm1A=="
+    },
+    {
+      "title": "ianparry.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTWjZPF3mt-TuL1FRLi-32x1tUcgK4BYhjdK6oTD5X_mi-ReUaDQFQRAPBitI5e9M7MHSxZB8Xh6RVdQXX5c4kH38rds7Vcmcb1Fz78VdwgNlfB8Kx4SMVNsDE7FUrPKI8SfxFIXnFyvfZv0OCMpQihJI="
+    },
+    {
+      "title": "photocontestcalendar.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOtmLX-nj326C_6grQV9aSJtjv4JeVrKc10VS0Aswfr-ztmoeOge3ej-eXdFs2ZpqvQ9U_Wuk5Rdvsw2fEc9GCuvOSZSAO6r8OyqqjmDyyvAvNiWnYv36mWfQZVftT955kOBeiw8WKa3WqFl0Iy9Geh8ssRsjRs_9mNdWDjtN6Jg=="
+    },
+    {
+      "title": "buddy4study.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtx_uKPqnIhm3JGCfZHP48Yf856xMHiiHedeyiEjRziI-tJWbG16GHmA-7P90S4NC0SYQavJwN33M0DuLBagE1A4iZH9lpdIojtQ20zkjiGk0oXLHQHSQUt6pSbCSKWIgiHuZudq9WETueUA3tCrxzEcbNmlzbFMDB1d2CfY_MNJvnFxSEvA=="
+    },
+    {
+      "title": "picter.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9F79vKpZ3LmPmAKW69ZbhSye_m933oziUvueXiAyBNedDXDRA4ohW8xVymy70Sc-jccrCi1TUZcupx1niei6litJkLyQWpifu9G3VTGOxu7C8bomUzP_hUvVGn0CxlSNHLFJncksLRIf23areuK6rBrI9ocrPSrPsl6Q="
+    },
+    {
+      "title": "opportunitydesk.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWOodN26rnMu7TFMxIufTzF7klx3Y3sz_-HS3LtbsIJYXVtCi1cYsMAOuF9yg185Xkgwa8ZVGBhybBjTA_Gm7R7geFMCSqpAsT9djZr8Jk8Dd9cXFjxqLkRD60O6-hNkkqTeJC792MiHMaeqE-1Bzq6eeTzStuOqfM2asR-KQ28Hef"
+    }
+  ]
+}
