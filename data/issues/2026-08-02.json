@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-02",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "feminist photography",
+    "archival research",
+    "AI agents",
+    "care labor",
+    "residency opportunity",
+    "material culture"
+  ],
+  "why_today": "今天的线索共同指向了对“自主性”与“实体性”的重构：从旧金山和新加坡女性艺术展中对“关系摄影”与“隐性关护劳作”的档案还原，到亚洲艺术文献库为独立创作者提供的自建档工具包，再到学术界对 AI 代理完全去人化科研能力的理性评估。在技术幻觉与历史遮蔽之间，自主建档与物理关护构成了抵抗被动消隐的坚实路径。",
+  "intro": "在今天的简报中，我们聚焦图像建档的自决权与实体劳作的复原。不论是格拉谢拉·伊图尔比德在原住民社区的长周期浸入式合作，还是新加坡国家美术馆对东南亚女性主义隐性劳作档案的首次并置呈现，都表明艺术机构正在回归关系性与实体档案。与此同时，学术界对 AI 代理学术研究瓶颈的剖析，以及新加坡美术馆对物质文化与非人类依存关系的召集，则在创意技术与生态哲学维度，为我们重新审视技术中介下的‘身体’与‘生产力’提供了最前沿的参照。",
+  "opening_signal": "将镜头放低，并在一个地方待得足够久，直到图像不再是抢夺来的猎物，而是彼此交付的信任。 / Lower the camera and stay long enough, until the image is no longer a stolen prey, but a mutual trust.",
+  "closing_signal": "当我们试图让智能体去处理最抽象的思维时，人类却在重回最泥泞的地面——通过触碰、共同生活、编织与整理，去确认那些无法被算法影子评估的生命痕迹。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "SFMOMA 举办格拉谢拉·伊图尔比德大型回顾展：通过五十年黑白影像探索拉美原住民女性的社会权力",
+      "title_en": "SFMOMA Stages Major Survey 'Graciela Iturbide: Between Two Worlds': Exploring Indigenous Matriarchy and Relational Photography Over Five Decades",
+      "summary_zh": "旧金山现代艺术博物馆（SFMOMA）举办墨西哥摄影家格拉谢拉·伊图尔比德（Graciela Iturbide）二十年来在美国最系统的一场回顾展。展览跨越她五十年的黑白摄影实践，重点展出她在索诺拉沙漠、胡奇坦等地拍摄的浸入式肖像。伊图尔比德拒绝猎奇式的纪实，通常与社区共同生活数月以共同创作图像。其作品不仅记录了拉美原住民日常与仪式，更突出了胡奇坦女性的母系社会权力。",
+      "summary_en": "SFMOMA is hosting the most extensive U.S. survey of Mexican photographer Graciela Iturbide's work in over two decades, spanning fifty years of black-and-white practice. The exhibition highlights her long-term cultural immersion and co-authored imagery of indigenous communities and matriarchal power.",
+      "why_muki_cares": "伊图尔比德的摄影方法为非殖民化的视觉建档提供了范本。她用长时间的共同生活打破了纪实摄影中的凝视权力，这种关系性路径对研究女性主义摄影与原住民视觉档案极具参考价值。",
+      "editorial_signal": "拉美女性摄影实践中的“共同创作”伦理正在成为美术馆重构纪实摄影史的核心叙事。",
+      "theme_tags": [
+        "Graciela Iturbide",
+        "SFMOMA",
+        "Mexican photography",
+        "indigenous matriarchy",
+        "documentary photography",
+        "visual archive",
+        "relational aesthetics"
+      ],
+      "source_name": "e-flux",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDXo_ncmzJ89JD-qMrV_JrBnw6KFZwzPhnRlerVO_ORtH1jMCi1291bcKSXb7qfL1YQrllmMxh_dr5wUPTG-KfS9SUr3Suui-EZJDWmoI4LpvS793G669f0yC-SFv_8J6UX9yAUX_W9zxibdR26wk=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "多校联合发布智能体研究预印本：评估表明 AI 代理尚无法独立进行开放式学术研究",
+      "title_en": "Preprint Evaluates Autonomous Agents in ML Research: AI Agents Fail 'Shadow Evaluation' of Open-Ended Scholarly Inquiry",
+      "summary_zh": "普林斯顿、斯坦福等高校联合英国 AI 安全研究所发布预印本论文，评估自主 AI 代理在开放式科学研究中的能力极限。研究采用“影子评估”方法，让基于 Claude 4.8 和 GPT-5.6 的代理在 6 天内利用 3000 美元预算和 GPU 算力，独立解答未发表的 NeurIPS 论文课题。盲评结果显示，生成的两篇论文均被彻底拒绝。代理在判断发表标准、应对实验挫折以及自主回溯 dead ends 时表现出明显的判断力缺陷。",
+      "summary_en": "A collaborative preprint from major universities and the UK AI Security Institute shows that autonomous AI agents fail at open-ended scientific research. Utilizing a 'shadow evaluation' benchmark, agents powered by advanced models had their generated papers rejected outright due to systematic planning and judgment failures.",
+      "why_muki_cares": "这项研究打破了 AI 自我迭代的行业神话。它提出的“影子评估”为测试自主代理在知识管理与内容生产中的认知瓶颈提供了极为严谨的方法参照。",
+      "editorial_signal": "AI 代理在开放式科学探究中的失败，标志着完全去人化工作流在深度学术研究场景中仍面临不可逾越的认知鸿沟。",
+      "theme_tags": [
+        "AI agent",
+        "academic research",
+        "shadow evaluation",
+        "knowledge management",
+        "benchmark",
+        "preprint"
+      ],
+      "source_name": "Marktechpost",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tbyiXzvhSoFOb6hYmNhmHyzDCgPa5wHVmTAf1-VGZutjtXghsosrFU0powyhrF3OP3YlhoSqpacThVXNN8mFmsUZCqNrSimVnoZf33JmByZElpbw5QoR0UJvCO430hzhsp1sc6dUd5fvBGmpbcvLEGkI3jFrTXfb9e2Y_5Jviv0_cXPs5GoV5q-wTL4Ht9cBj7BUSHreid8w",
+      "publication_date": "2026-07-30",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "新加坡国家美术馆举办《Fear No Power》：通过五位东南亚女艺术家的历史档案重构关护与抵抗叙事",
+      "title_en": "National Gallery Singapore Stages 'Fear No Power': Reconstructing Care and Resistance Through Five Southeast Asian Women Artists",
+      "summary_zh": "新加坡国家美术馆举办特展，首次对比展出五位重塑东南亚艺术与社会规范的女性艺术家作品。展览汇集了来自 Amanda Heng、Dolorosa Sinaga 等人的 45 件代表作以及 110 多份珍贵历史档案，跨越行为、雕塑、绘画与摄影。展出重点聚焦于这些艺术家如何通过艺术实践探讨家务劳动、生育劳作、性别暴力等被边缘化的议题，并呈现了她们作为组织者和教育者，在建立集体关护与社会连结中所付出的结构性劳动。",
+      "summary_en": "National Gallery Singapore stages 'Fear No Power,' its first comparative exhibition of five pioneering Southeast Asian women artists. The exhibition features over 45 artworks and 110 rare archival materials, focusing on how these artists negotiated patriarchal norms and built networks of collective care.",
+      "why_muki_cares": "展览不仅展示了女性身体与抵抗的视觉呈现，更通过 110 份档案还原了她们在艺术体制之外建立关护网络、重构社会纽带的隐性劳作，为东南亚女性主义研究提供了扎实的一手文献。",
+      "editorial_signal": "东南亚女性主义艺术史的书写正在从纯粹的“视觉反抗”转向对其背后“关护与组织劳作”档案的系统性激活。",
+      "theme_tags": [
+        "National Gallery Singapore",
+        "Southeast Asian art",
+        "feminist archive",
+        "care labor",
+        "collective solidarity",
+        "exhibition"
+      ],
+      "source_name": "National Gallery Singapore",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO4KmzJbalVc2hROjyJARusYkmclS8Uc3TBELiMnzZvLLThK4lC_U3hIfvxZEEl9RZAAoTpcddjjTklTB9ytk1E_ZN6b5gD58XUKKzUeW_8DRfmIj2wuxyk2zIBQ133Mg03j-KlAw6er6WPN7I1m_bAIGjV6mA0BM=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "亚洲艺术文献库举办《At 25: 艺术家的早期世界》第二幕：通过档案展示东亚与南亚艺术家的教育与倡议实践",
+      "title_en": "Asia Art Archive Launches 'At 25: Artists' Early Worlds, Part II': Activating Archival Legacies of East and South Asian Artists",
+      "summary_zh": "香港亚洲艺术文献库（AAA）推出其 25 周年特展《At 25》的终章，聚焦朴异素、Salima Hashmi、李家丽（Holly Lee）等艺术家的早期世界。展览通过稀有文献、早期创作以及全新委任作品，追溯他们在 25 岁左右的实践，展现艺术探索如何自然延伸至教育、写作与社会倡议。配合展览，文献库于 7 月发布了全新的《建档手册》，旨在帮助本地独立艺术家和艺术空间系统性整理并保存其视觉遗产。",
+      "summary_en": "Asia Art Archive in Hong Kong launched 'At 25: Artists' Early Worlds, Part II,' tracing the early practices of South and East Asian artists like Holly Lee and Bahc Yiso through rare archives. Alongside the exhibition, AAA released a new Archiving Handbook to help independent artists preserve their legacies.",
+      "why_muki_cares": "李家丽等艺术家的早期档案补足了香港女性摄影与媒介批判的历史。更重要的是，AAA 发布的《建档手册》为个人与独立机构的图像考古提供了一套极具可操作性的去中心化建档工作流。",
+      "editorial_signal": "艺术档案的构建正在从“事后追溯”向“日常自建档”的工作流转型，为地缘视觉记忆的自主保存提供了机制支持。",
+      "theme_tags": [
+        "Asia Art Archive",
+        "Hong Kong contemporary art",
+        "archival research",
+        "Holly Lee",
+        "archiving handbook",
+        "vernacular archiving"
+      ],
+      "source_name": "Asia Art Archive",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWuHijfJ3-ClqujMGJTfDhm__IksZ53Xov1O6eCmXcmAqUinE1LMMX-duleXi8y3mEqVsUi3CYoQTYb8E7783NmVdQ9q58pKngX4aYeBkS0aJ6mj3HpqKhy23ZRVVxoa84jF85uXB6YBn0Qvd9NPyIdGyPXw6D4tY2VShe_2CDSJxu",
+      "publication_date": "2026-07-24",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "新加坡美术馆启动第四届驻留计划全球征集：聚焦“超越人类、物质文化与聆听”三大研究方向",
+      "title_en": "Singapore Art Museum Residencies Open Call Cycle 4: Focusing on Material Culture, Listening, and Beyond-Human Entanglements",
+      "summary_zh": "新加坡美术馆（SAM）正式面向全球艺术家、策展人及研究者启动第四届驻留计划申请。本届计划严格围绕三大核心学术方向展开：‘聆听/调谐’应对地缘政治与生态紧迫性；‘制作/物质文化’聚焦手工艺与物理制作过程；‘超越人类/相互依存’探索人类与技术、生态及非人类生命体之间的复杂纠缠。获选者将在丹戎巴葛分销园的后工业仓库空间内开展独立研究，并获得资金、工作室及机构网络支持。",
+      "summary_en": "Singapore Art Museum has launched the global open call for Cycle 4 of its residency program. The residency is structured around three key thematic strands: Listening/Attuning, Making/Material Cultures, and Beyond Human/Interdependence, offering selected residents funding and space to pursue critical research.",
+      "why_muki_cares": "该驻留的‘物质文化’与‘超越人类’方向完美切合了我们在媒介考古与技术-生态纠缠上的研究。后工业仓库的物理空间和 SAM 的机构支持，为开展长周期、重实物研究提供了绝佳契机。",
+      "editorial_signal": "全球艺术驻留正在告别泛泛的‘跨学科’，转向对‘物质性’与‘非人类纠缠’等具体媒介政治议题的定向长期培育。",
+      "theme_tags": [
+        "Singapore Art Museum",
+        "residency opportunity",
+        "open call",
+        "material culture",
+        "beyond human",
+        "ecological art"
+      ],
+      "source_name": "Singapore Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8V4q3KO1zf4OrXjKW6EZW8YvxH00RlWJc-ORENcK66k6vDzbDfrFmkRGdxI4UBVtLVlBwBDjpQnoxOUGf4adPgXVO5CPQ7uY88FSbqLASZKTMzHHBLj5Of65h_EFxq9pa1nCdsYrCbcyt6RxflhH6yzb1SNX8JOpJRIXrHv0zbBRPXA==",
+      "publication_date": "2026-08-01",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Exhibition / Publication",
+    "title": "亚洲艺术文献库《At 25》特展及《建档手册》发布",
+    "why_muki_may_care": "项目不仅打通了东亚与南亚女性摄影及艺术倡议的早期地缘线索，其配套发布的《建档手册》更是一份关于图像考古与去中心化数据库搭建的具体实操指南，对日常个人档案工作流极具启发。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWuHijfJ3-ClqujMGJTfDhm__IksZ53Xov1O6eCmXcmAqUinE1LMMX-duleXi8y3mEqVsUi3CYoQTYb8E7783NmVdQ9q58pKngX4aYeBkS0aJ6mj3HpqKhy23ZRVVxoa84jF85uXB6YBn0Qvd9NPyIdGyPXw6D4tY2VShe_2CDSJxu"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "OpenAI 逃逸沙箱事件后续：由于缺乏新的学术论文或安全标准更新，本期未予重复收录。",
+    "FLUX 3 多模态基座：鉴于该模型前两日已做大篇幅解析且今日无突破性应用工作流更新，予以排除。"
+  ],
+  "covered_entities": [
+    "SFMOMA",
+    "Princeton University",
+    "Stanford University",
+    "UK AI Security Institute",
+    "National Gallery Singapore",
+    "Asia Art Archive",
+    "Singapore Art Museum"
+  ],
+  "repetition_notes": "本期所有选入的故事均为全新信号（New）。其中亚洲艺术文献库（AAA）的《At 25》终章与新加坡国家美术馆的东南亚女性展，在地理上形成了极佳的亚太地缘互补，深化学报对东亚及东南亚女性视觉历史与档案自决权的研究。而学术界针对 AI 代理的‘影子评估’，则与前几天讨论的 MCP 协议协作摩擦、自动化工作流等技术进展构成深度反思，在应用端为学术证据链和信息完整性提供了冷峻的理性边界。",
+  "issue_number": 24
+}

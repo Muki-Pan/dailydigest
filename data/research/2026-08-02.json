@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-02",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Issue 024 (2026-08-02)\n## Research & Evidence Dossier\n\nThe following dossier compiles the strongest cultural and technological signals identified from primary institutional sources, research preprints, and curatorial announcements over the past 24 to 72 hours, aligned with Muki's research lines.\n\n---\n\n### Candidate 1: Visual Culture Signal\n\n*   **Exact Title**: *Graciela Iturbide: Between Two Worlds* at SFMOMA\n*   **Proposed Section**: Visual Culture Signal\n*   **Specific Source URL**: [https://www.sfmoma.org/exhibition/graciela-iturbide-between-two-worlds/](https://www.sfmoma.org/exhibition/graciela-iturbide-between-two-worlds/)\n*   **Publication / Opening Date**: July 11 – November 29, 2026 (Exhibition active in August 2026)\n*   **Verified Facts**: \n    *   The San Francisco Museum of Modern Art (SFMOMA) is hosting the most extensive U.S. survey of Graciela Iturbide's photography in over two decades.\n    *   The exhibition spans five decades of the Mexican photographer’s black-and-white practice.\n    *   Key works include her immersive portraits and series of Seri Indians in the Sonora Desert, Juchitán women (highlighting matriarchal social power), and daily life intertwined with ritual and death.\n    *   Curatorially, the exhibition highlights Iturbide's method of long-term cultural immersion (sometimes living with communities for months) to co-author imagery rather than taking an exoticizing, documentary approach.\n*   **Relevance to Muki**: Directly supports Muki's interests in *photography, exhibitions, and curatorial research*, specifically focusing on a legendary female photographer's lens. It demonstrates an ethics of relational access, intimacy, and non-colonial indigenous visual archiving.\n*   **Duplication Assessment**: New signal. Although Graciela Iturbide’s historical work is widely known, this major survey exhibition at SFMOMA represents a new curatorial framework and stage.\n\n---\n\n### Candidate 2: AI Research / Creative Tech Signal\n\n*   **Exact Title**: *Can AI agents conduct open-ended AI research? Early evidence from two case studies* (arXiv:2607.27191v1)\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Specific Source URL**: [https://arxiv.org/abs/2607.27191](https://arxiv.org/abs/2607.27191)\n*   **Publication Date**: July 30, 2026\n*   **Verified Facts**:\n    *   Researchers from Princeton, Stanford, UC Berkeley, Johns Hopkins, Toronto, Georgetown, and the UK AI Security Institute released a preprint evaluating the limits of autonomous AI research agents.\n    *   They designed a novel methodology called **\"shadow evaluation\"** (影子评估): agents (powered by Claude Opus 4.8 and GPT-5.6 Sol Ultra) were given 6 days, a $3,000 budget, GPU credits, and unpublished research questions from NeurIPS 2026 submissions.\n    *   The agents had to conduct open-ended machine learning research without human help. The original authors graded the agents' generated papers blind.\n    *   Both papers were rejected outright, scoring 2 out of 6 (reject) and 1 out of 6 (strong reject).\n    *   The review highlighted five critical failure modes: poor judgment of what constitutes a publishable standard, uncreative responses to research shortcomings, ineffective backtracking from dead ends, and post hoc experimental decisions.\n*   **Relevance to Muki**: Challenges the mainstream \"recursive self-improvement\" hype by demonstrating that AI agents cannot yet \"hill-climb\" their way through open-ended cognitive inquiry. It introduces \"shadow evaluation\" as a critical methodology for testing agent limitations, directly impacting AI-native knowledge management and research workflows.\n*   **Duplication Assessment**: New signal. This is a foundational, highly empirical critique of autonomous agent capabilities released in late July 2026.\n\n---\n\n### Candidate 3: Feminist Structure Signal\n\n*   **Exact Title**: *Fear No Power: Women Imagining Otherwise* at the National Gallery Singapore\n*   **Proposed Section**: Feminist Structure Signal\n*   **Specific Source URL**: [https://www.nationalgallery.sg/content/nationalgallerysg/sg/en/exhibitions/Fear-no-power.html](https://www.nationalgallery.sg/content/nationalgallerysg/sg/en/exhibitions/Fear-no-power.html)\n*   **Publication / Exhibition Date**: January 9 – November 15, 2026 (Exhibition active in August 2026)\n*   **Verified Facts**:\n    *   National Gallery Singapore presents its first exhibition comparing five major Southeast Asian women artists who reshaped artistic and social norms: Amanda Heng (Singapore), Dolorosa Sinaga (Indonesia), Imelda Cajipe Endaya (Philippines), Nirmala Dutt (Malaysia), and Phaptawan Suwannakudt (Thailand).\n    *   The exhibition gathers over 45 major artworks and 110 rarely seen archival materials spanning performance, sculpture, painting, and photography from the 1960s to the 2020s.\n    *   The curatorial theme focuses on how these women used art to negotiate deeply entrenched patriarchal norms, exploring marginalized topics such as care work, reproductive labor, gendered violence, and political dissent.\n    *   It highlights their multifaceted structural labor as organizers, writers, and educators who built networks of collective care, resistance, and solidarity.\n*   **Relevance to Muki**: Intimately aligns with Muki’s interest in *structures around women, labor, care, bodies, and media power* in East and Southeast Asia. The inclusion of over 110 archival materials makes it a prime example of activating counter-archives.\n*   **Duplication Assessment**: New signal. Although it opened earlier in 2026, it is actively running in August and has not been covered in any previous issue of the digest.\n\n---\n\n### Candidate 4: China / East Asia Signal\n\n*   **Exact Title**: *At 25: Artists' Early Worlds, Part II* at Asia Art Archive, Hong Kong\n*   **Proposed Section**: China / East Asia Signal\n*   **Specific Source URL**: [https://aaa.org.hk/en/programmes/programmes/at-25-artists-early-worlds-part-ii](https://aaa.org.hk/en/programmes/programmes/at-25-artists-early-worlds-part-ii)\n*   **Publication / Opening Date**: July 24 – October 31, 2026 (Opened late July 2026)\n*   **Verified Facts**:\n    *   Asia Art Archive (AAA) in Hong Kong launched the concluding chapter of its 25th-anniversary exhibition, addressing the question: \"What were you doing at 25?\".\n    *   This chapter features Bahc Yiso (South Korea), Salima Hashmi (Pakistan), Holly Lee (Hong Kong), and Raqs Media Collective (India).\n    *   Through rare archival materials, early works, and newly commissioned pieces, it traces their early worlds, showing how artistic practice naturally expands into education, writing, and advocacy.\n    *   In tandem, AAA launched its *Archiving Handbook* (written by Jocelin Kee and Aki Kung) in July 2026, aimed at helping independent artists and local art spaces systematically organize and preserve their visual legacies.\n*   **Relevance to Muki**: Directly addresses *archives, image history, and media archaeology* in East and South Asia. The project showcases how artists-as-archivists \"shape how their practice, peers, and legacies are understood\" (Özge Ersoy), while Holly Lee’s inclusion highlights Hong Kong's feminist photographic history.\n*   **Duplication Assessment**: New signal. This exhibition opened very recently (July 24, 2026) and marks a major milestone for independent archiving methodologies in Asia.\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n*   **Exact Title**: *Singapore Art Museum (SAM) Residencies Open Call: Cycle 4 (2027/2028)*\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Specific Source URL**: [https://www.singaporeartmuseum.sg/art-events/residencies/open-call-cycle-4](https://www.singaporeartmuseum.sg/art-events/residencies/open-call-cycle-4) (via base [https://www.singaporeartmuseum.sg/](https://www.singaporeartmuseum.sg/))\n*   **Publication / Deadline Date**: Applications open August 1, 2026; Closes September 30, 2026.\n*   **Verified Facts**:\n    *   The Singapore Art Museum (SAM) has officially launched its global open call for Cycle 4 of its residency program.\n    *   The program targets international and local artists, curators, educators, researchers, and creative practitioners.\n    *   Cycle 4 is strictly structured around three core conceptual strands:\n        1.  *Listening/Attuning*: Practices responding critically to the sociopolitical and ecological urgencies of our time.\n        2.  *Making/Material Cultures*: Foregrounding hands-on material inquiry, craftsmanship, and the process of physical making.\n        3.  *Beyond Human/Interdependence*: Addressing the complex relationships and entanglements between humans, technologies, ecologies, and other-than-human life forms.\n    *   Selected residents will pursue independent research in SAM’s post-industrial warehouse spaces at Tanjong Pagar Distripark, with access to funding, studio space, and institutional networks.\n*   **Relevance to Muki**: This opportunity perfectly aligns with Muki's focus on technological-ecological entanglements, craft/materiality, and curatorial research. The \"Beyond Human/Interdependence\" and \"Making\" strands represent the exact intersections Muki follows.\n*   **Duplication Assessment**: New signal. This call opened exactly yesterday (August 1, 2026).\n\n---\n\nPlease let me know if this dossier meets your expectations. Upon your approval of these candidates, I will proceed to edit the final structured Chinese-first cultural signal brief with English titles and summaries, formatted strictly to the JSON schema.",
+  "citations": [
+    {
+      "title": "openai.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqupbmYAX7e_Oal05BpbOpvKJcUjMOECsFaOvxztILBxfE18zqPgcmY_pkotcw1k9CJ3Wisjry60x-b7zGLA60zG2vMUj1Uh3qoD21pCk6jUqJRDAm8oZO4rVDulQnyfiitH-kurviJLJang=="
+    },
+    {
+      "title": "medium.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELokbqR1xYpQ1sywBs9GQSie4EeyMN3uB-PHiQOSNdEJruAV7pilNKdFv1cyZKayRyFGKFPm-OG0rekVzdB3zXKH4Vh4qSuToEDGFTs-fshIZ7xykAuGJeagFlEbXjGY4NmsJH51EPF7nrILuAqbAmNSBtOkb5GlKWo2bb01CCz2x_-VcJ57YSP0G6kHSrFI2xUoUh9L4ZC9mFCdoNNXAs_g=="
+    },
+    {
+      "title": "futurumgroup.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsxXxA9RSnxaz81zNFoipSnbrqEtjsyH5J5W3M2BJsBBiFILshbCTAqq7Fs_UXfvPGjZnAD4OL5_dKYlwJbLmcPYy-Q816nqwFx7Gj7LEdR0FAHqHze2pEnrnX6eQ7eUkms5g_k5R1gs9FSh50PRf7Z1AzJRBkx219o0bWySBiIpKJjkwM8QS8ruMuf-_BANhHoUSLzlS9oNiNBF0KBA=="
+    },
+    {
+      "title": "marktechpost.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3tbyiXzvhSoFOb6hYmNhmHyzDCgPa5wHVmTAf1-VGZutjtXghsosrFU0powyhrF3OP3YlhoSqpacThVXNN8mFmsUZCqNrSimVnoZf33JmByZElpbw5QoR0UJvCO430hzhsp1sc6dUd5fvBGmpbcvLEGkI3jFrTXfb9e2Y_5Jviv0_cXPs5GoV5q-wTL4Ht9cBj7BUSHreid8w"
+    },
+    {
+      "title": "geneonline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElc-rJwOdrx1H3kMyhSuJkG0XxDuSBY6rx5s--vD__OZnffNOkPgjOKUewQWXkiLSTQFMfZ-FSZ0S_fVuRiC4xL5Sej5ODMkA3CWWQaQXH0uMVlKV-VgdBrno27z-cUKAFKQ9bprF0NusnNRucAK73rnT9V4dd_0ZlBPDbyIGSCC1SQUZH8f_z3JwYDRDYWWEvkKLRxD90ELRVJwH2TPTtqExgbJTdIUGWExfjk0QrOxkZHQ=="
+    },
+    {
+      "title": "rdworldonline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB2HjoJncQHol70W5gdpx6zTfRsskqr4af8xINBEK7F-mWSXHeqGH5zZifEr7cikwQqbBqVT4ceBZtaT2KV05Ee7sbZk5EvIWlzjg0_ENr__y4r7Gx-y_DL4KIjc1w8FOY_8Z6p4RqPi-mY1W7xcWP0dyR__gKsI3t7NTPImQqVD6l8QydFJxBXAVe6hv7f9MxU2tX4iJ-"
+    },
+    {
+      "title": "coderhouse.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0lkZsPeoBdSeiukeL-5_Gu00i41_SuzDBQo7rzpAxyyjGwWzB3fbs8ATgwLjEDev5Vb_ybSm7-_GA-uA77Ak6LCUtvZ6nH7EmkOotTYNhReMF3JSq9uDrLQaEcxClw6pcULcsLX4NYnen4clre_x6ZGIEI3ILHcDvJ_do1NWADw409pWXBIjCxr8M_qqsE_7SuBkcWp7XPDTT9Osz4Q=="
+    },
+    {
+      "title": "nationalgallery.sg",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO4KmzJbalVc2hROjyJARusYkmclS8Uc3TBELiMnzZvLLThK4lC_U3hIfvxZEEl9RZAAoTpcddjjTklTB9ytk1E_ZN6b5gD58XUKKzUeW_8DRfmIj2wuxyk2zIBQ133Mg03j-KlAw6er6WPN7I1m_bAIGjV6mA0BM="
+    },
+    {
+      "title": "asianartcontemporary.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9vhE3DnAbx_xBykVczhJvRldvQ_8brmyCOkN5S2WTrRfS9Mlu-yhp0Aar9d8kmqwxemsqKsK4sIc87uOEpKIGdYlT5ACEMO9SmMzN3KLtda4cNEb6ETmPG-Lq5ZW3cpSdiTXwiSy_-uBLGbEngbF_wt6IeFXTREazorQKXNmSkVWpF7vpfvUAWKAsggo4J_vW_3hFvEy_9OWAi_SJdo_C5zT3DDVxjRo5Q6o_rooJlpNQK3nGDOuEikAnRkg5sKsG"
+    },
+    {
+      "title": "google.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTqgFOy57nme6LGe9SrFeZ_N11D_dhO4466MoyLnWbunqSxSafuRkRb6O4JCnN6Q0rpb0R9FYPvF8CqN_ntmOHwMebsMUwRYe7xecUOquRSsgQNTrvzUfSEpKzTMFfwvyy_wn4YtSFcQ=="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDXo_ncmzJ89JD-qMrV_JrBnw6KFZwzPhnRlerVO_ORtH1jMCi1291bcKSXb7qfL1YQrllmMxh_dr5wUPTG-KfS9SUr3Suui-EZJDWmoI4LpvS793G669f0yC-SFv_8J6UX9yAUX_W9zxibdR26wk="
+    },
+    {
+      "title": "aaa.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWuHijfJ3-ClqujMGJTfDhm__IksZ53Xov1O6eCmXcmAqUinE1LMMX-duleXi8y3mEqVsUi3CYoQTYb8E7783NmVdQ9q58pKngX4aYeBkS0aJ6mj3HpqKhy23ZRVVxoa84jF85uXB6YBn0Qvd9NPyIdGyPXw6D4tY2VShe_2CDSJxu"
+    },
+    {
+      "title": "aaa.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJIM6doozvVDK3GW4Fbft_c8qw6hF5OFACfuxm32zDD697Z1ylQ8Vad9xPLQIMWta4aisK108qqGPOMHy5dGiruzIaGEUMJN2NznZz3qciwiQaM4KI1xpG3fw0pA0xvRz-QMcwdMUHrSbe3bUihHLti4gp-dUobFuANgz2vVIduoZZ"
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuX2BSvyc9xNA360FPPmfs7qMucYGZCW7JodpZImnn_1W5O7wdF48ahBvscegK5YZgNsnNsj2337kf8rkDKrsNi1sP1kF8YywsU-oBoSMEIR4S83akdzkDt1x6cqX79nIwfhA3Fe3pyOxAyZypryZk5KrdyYl8V2Vzt-X6d3K4KY7BhjFrXQKytNrq43983IVmU1iAVrknIxW1W-Tt2VYO0SGhK2c="
+    },
+    {
+      "title": "aaa.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOjixQy_S9NalkJpm0kQE_StzYCCTBgIiL04BmmA6AkSqZ5cdv0w5uS1zfPZglcjMSi8nybT7TvwTzUQ7hGkcbZxMWQ_CSimG0PEkJk4jsWDKupcWiAtpi9wnI3uQaqM7ia0agpvWh2rEpxycFZ4CAfLf96CABlIhW5S2EmJVRqO4MMfFSkFnfVQ9KIoX-HnAHgrxtVKp3m69A"
+    },
+    {
+      "title": "artreview.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjY-Diq6exy_E8eZYacsdntCLpKJCN8QCrdAxp0_rfkMRwC6pybuSXlmwcdLQ52SHLC5xHZGlZ0IBI_EKePb-JCFhog4anD7Q9AOZBkG-FZotKD3cktx8KEm7_LetqBh__erDy65S5Ntu0"
+    },
+    {
+      "title": "singaporeartmuseum.sg",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8V4q3KO1zf4OrXjKW6EZW8YvxH00RlWJc-ORENcK66k6vDzbDfrFmkRGdxI4UBVtLVlBwBDjpQnoxOUGf4adPgXVO5CPQ7uY88FSbqLASZKTMzHHBLj5Of65h_EFxq9pa1nCdsYrCbcyt6RxflhH6yzb1SNX8JOpJRIXrHv0zbBRPXA=="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaRhVdbd-Z3_CxmiW06pwKWsMVhlOflcJsUs7H-PVA_y-RXK3NA81bnl7pvf4PSBI6-4XxQNnBZcdF1jkVFbpTnCkzOsbQqo1HpID9-L9x-S-J1qDFWmu3lGYvxrutavjaAFBpSP_J3oUBaTdqOghbJa3Xxvrk21TjOLMZYBfzdnOFcAcfSS2B6BI="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYNVuG0k-hNO4Qm3ZO4CP7RpQaQlNmhH86sLgLTxc42i9cEQHUbSHyR8GPcU0s2cfsTtqWno_pg2iEnafaEsKNhMK4KS2mD7kabrQiqlahAn6JtzAsXMGJ7y6tUyDG1YQDXfUJBhUvMJNe7G20Be9iw7rlRYAOQtebvjTUMT5kh-e5X8wz8vxO--A="
+    }
+  ]
+}
