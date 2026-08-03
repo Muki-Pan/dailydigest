@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-03",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "替代摄影工艺",
+    "多智能体协作",
+    "反 AI 污染规制",
+    "日本女性摄影史",
+    "东亚图像考古",
+    "流散艺术家资助"
+  ],
+  "why_today": "今天的内容交汇于对真实性与物理媒介的坚守。皇家摄影学会展示了创作者用替代工艺对抗数字饱和的实践。新北市美术馆重勘戒严时期民间影像的叙事抵抗。AWARE 论坛探讨了如何将日本女性摄影师写入艺术史主干。而在技术端，YC 开源的多智能体框架通过代码级规范，对 AI 生成的模版化内容进行自我约束。这些信号共同展示出，无论在历史档案还是在前沿算法中，保持差异性与物理触觉都是抵抗均质化抹除的关键手段。",
+  "intro": "本期学报聚焦图像媒介的物质性回归、地缘叙事的反向建档以及人工智能协作的规则重构。今天的五个核心信号展现了全球学者、创作者和工程师在面对‘数字化均质’与‘制度性边缘化’时的不同行动路径。我们能看到东亚女性摄影家和民间纪实先驱如何通过底片、工作样册与民俗杂志构建非官方的抵抗性档案，也能见证开源技术领域如何通过严苛的‘防 AI 模版化’规范，在流式智能体协作中保留设计的严谨与反思能力。这些跨越时空与媒介的实物证据，为我们提供了重要的工作流灵感与学术参照。",
+  "opening_signal": "在均值化数字图像与模版化生成算法的双重包裹中，寻找物理介质的温热和反向档案的缝隙。",
+  "closing_signal": "向历史深处寻找那些曾被遮蔽的‘民间’底片，或者在算法框架中用代码拒绝大模型标志性的文风与配色，都是对特异性与差异性的坚守。未来的艺术史与未来的智能体，都将在这种去均质化的努力中，重新校准自身的坐标。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "英国皇家摄影学会举办第 167 届国际摄影展：于萨奇美术馆呈现 48 位艺术家的当代视觉与替代工艺探索",
+      "title_en": "The 167th RPS International Photography Exhibition Opens at Saatchi Gallery: Showcasing Contemporary Vision and Alternative Photographic Processes by 48 Artists",
+      "summary_zh": "英国皇家摄影学会（RPS）第 167 届国际摄影展将于萨奇美术馆开幕。本届展览从全球 5,200 多名投递者中遴选出 48 位摄影师的 113 幅印刷原作。展出作品除探讨环境、冲突与身份等议题外，更集中呈现了大量“替代摄影工艺”（Alternative Processes），展示出创作者对物理触觉与材质差异化的主动回应。美国摄影师 Marcy Palmer 凭《Seeds of Strength and Resilience》获大奖，台湾出生、现居伦敦的摄影师 Léa Chen 凭作品《The Stars That Don't Look Back》获 30 岁以下青年艺术家奖。",
+      "summary_en": "The 167th RPS International Photography Exhibition at Saatchi Gallery showcases 113 works by 48 global photographers, spotlighting alternative photographic processes and material touch. Marcy Palmer won the IPE 167 Award, while London-based Taiwanese photographer Léa Chen received the Under 30s Award.",
+      "why_muki_cares": "展览展现了数字图像饱和状态下，摄影创作者向替代工艺与手工物质性的回溯。同时，台湾青年摄影师 Léa Chen 探索个体记忆与星空成像的媒介语言，为研究东亚流散青年的视觉创作提供了优秀的样本。",
+      "editorial_signal": "摄影创作者正在通过替代工艺主动回应数字时代的图像饱和，重建物理触觉与材质差异。",
+      "theme_tags": [
+        "RPS",
+        "Saatchi Gallery",
+        "alternative processes",
+        "Léa Chen",
+        "Marcy Palmer",
+        "materiality",
+        "exhibition"
+      ],
+      "source_name": "Royal Photographic Society",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmMPV55i2XVPlpBUloD3rpGVatu86kIfeLCcmEo1bXbHhq9_70Sxyaz6-jzpg9tph1U-GtV2Nr--DiSvyG-FaFWtOvZ_J2fRGK0MzrOL1D1V6OhpSRWoBAdco=",
+      "publication_date": "2026-07-23",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "Y Combinator 开源多智能体协作框架 QM：在工程与法律日常流中探索防 AI 提示词污染的系统工程",
+      "title_en": "Y Combinator Open-Sources QM: A Multiplayer AI Agent Harness Exploring System Engineering and 'Anti-Slop' Quality Controls",
+      "summary_zh": "Y Combinator (YC) 在 GitHub 上正式开源了其内部使用的多智能体协作运行框架 'qm' (Quartermaster)。该系统基于 Node.js/TypeScript，主要解决多个 AI 代理在团队协作时面临的权限与上下文冲突。其核心设计采用持久化沙箱和隔离机制。该框架在内置的网页设计前端智能体中，写入了极其严苛的‘防 AI 模版化’（anti-slop）规则，包括彻底禁止在生成文本中使用破折号（Em-dash），以及在生成特定网页时禁用典型的 AI 偏好配色组合，以此避免视觉和文本上的‘模版感’。",
+      "summary_en": "Y Combinator has open-sourced its internal multi-agent framework 'qm' on GitHub to coordinate enterprise tasks. Notably, the framework introduces code-level 'anti-slop' rules, banning typical LLM visual and textual patterns such as em-dashes and generic AI-preferred color schemes.",
+      "why_muki_cares": "该项目展示了多智能体沙箱协作的底层工程落地。其‘Anti-slop’机制通过代码级规范，将大模型标志性的文本和配色确立为‘AI 污染’并加以规避，为研究 AI 时代的原生美学与批评提供了极其具体的工业参考。",
+      "editorial_signal": "AI 工作流正在从个人提示词时代迈向制度化、沙箱化的团队多智能体协作，同时开始将大模型的文风和色彩偏好视为需要规避的“垃圾信息”。",
+      "theme_tags": [
+        "Y Combinator",
+        "qm framework",
+        "multi-agent",
+        "anti-slop",
+        "creative workflow",
+        "LLM design"
+      ],
+      "source_name": "GitHub - Y Combinator",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkL60liTd0qkh4GFJmNp-Gon6rMdUBQc0B41emHoidWdHYsIsfXXkp3RjskIzoYChfH4twSfU-B5vex_d7h4D3knqlbU56k1I5Ri736ryzDOCij4_beVBpqPIvQsl-JlYA4Ww=",
+      "publication_date": "2026-08-01",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "Follow-up",
+      "title_zh": "AWARE 将在东京举办“未来的轨迹”日本女性摄影家论坛：探讨战后至今女性创作的制度化困境与艺术史改写",
+      "title_en": "AWARE to Host 'Traces of the Future' Roundtable in Tokyo: Addressing Institutional Constraints and Art History Revision for Japanese Women Photographers",
+      "summary_zh": "非营利组织 AWARE 将于 8 月 12 日在东京涩谷 Hikarie Hall 举办‘未来的轨迹：日本女性摄影家——过去、现在与未来’圆桌论坛。本次活动配合正在展出的日本女性摄影巡回特展展开。策展人竹内万里子、资深策展人兼艺术史学家笠原美智子以及 AWARE 日本代表 Marina Amada 将共同参与。论坛将聚焦 1950 年代至今日本女性摄影师面临的社会、文化与专业制度约束，并论证如何通过具体的策展与文献化行动，将女性创作写入艺术史的主干叙事，改变其作为‘边缘例外’的现状。",
+      "summary_en": "Nonprofit organization AWARE will host the 'Traces of the Future' roundtable in Tokyo on August 12, featuring curators Mariko Takeuchi and Michiko Kasahara to discuss systemic constraints faced by Japanese women photographers and ways to integrate them into mainstream art history.",
+      "why_muki_cares": "论坛关注东亚女性、图像历史与制度权力的交叉议题。日本本土学术力量与法国 AWARE 文献库的国际联动，为东亚女性主义影像研究从‘临时展览’走向‘长期档案建制’提供了具体的行动案例。",
+      "editorial_signal": "国际文献网络与本土学术力量的联动，正在推动东亚女性视觉历史的研究从碎片化的临时展览，转向长期的档案建制与制度性改写。",
+      "theme_tags": [
+        "AWARE",
+        "Japanese photography",
+        "feminist archive",
+        "Michiko Kasahara",
+        "Mariko Takeuchi",
+        "art history"
+      ],
+      "source_name": "Archives of Women Artists, Research and Exhibitions (AWARE)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3R7E4wVxGhz1t2RW0xfRrabB2EeKcokH6eLnmcGZbW540KpIVJena6CaikwcAnLpF0anu2EdriTYtaw4PwODpXV5MdJlwbMybFwOZ7LBcPgo-wmuOCIw6WTAbBTcx2TzBwePtcCeWF6Pf8iUPpFl6MX8YGtXsbg5jPAaAvG1HWZdFkuAlDihnusUuYUAWIEEKOuPbbOv_1S7ZtwuEBv44RELd6K1t",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "新北市美術館舉辦《民間／攝影：紀實影像的敘事生成》特展：重勘戒嚴體制下“民間”作為現實意识的非暴力抵抗空間",
+      "title_en": "New Taipei City Art Museum Presents 'Minjian / Photography: Documentary Vision and Its Realist Inflection': Re-exploring the 'Folk' as a Resilient Realist Space Under Martial Law",
+      "summary_zh": "新北市美术馆推出由学者张世伦策划的研究型展览《民間／攝影：紀實影像的敘事生成》。展览特别保留汉语拼音‘Minjian’以维持其面对西方术语时的地缘抵抗性。展览收录了松山虔三、张才、黄则修、黄永松、姚孟嘉、张照堂、梁正居、林柏樑等八位活跃于日治时期至 1980 年代的摄影先驱作品，并引入工作样片、手稿、原始杂志版面等文献。展览论证，在台湾战后戒严体制、沙龙画意摄影垄断主流时，市井劳作等‘民间’现场成为了摄影家绕过审查、生长出本土现实意识的隐秘通道。",
+      "summary_en": "New Taipei City Art Museum presents 'Minjian / Photography', curated by Chang Shih-lun. Featuring eight pioneering photographers from the colonial era to the 1980s, the exhibition explores how the 'Minjian' (folk/vernacular) realm became a covert site for cultivating realist consciousness under Taiwan's martial law.",
+      "why_muki_cares": "这是东亚图像历史与纪实摄影史的重要学术梳理。展览展示了摄影如何通过民俗调查、独立出版、工作样片等多媒介生态构建‘非官方的反向档案’，能直接参考其媒介权力结构的研究路径。",
+      "editorial_signal": "“民间”不仅是民俗学的研究对象，更是戒严体制下摄影家绕过官方沙龙审美、构建反向现实意识与非官方图像档案的隐秘媒介空间。",
+      "theme_tags": [
+        "New Taipei City Art Museum",
+        "Minjian Photography",
+        "Chang Shih-lun",
+        "Taiwanese photography",
+        "martial law",
+        "media archaeology"
+      ],
+      "source_name": "New Taipei City Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG11KRBNxa2aIIXDO1vmRMpNB3cUR4_VOVpbBEeuLuFcB2IdzHA6lsB0iJ8CI0ECktWZDEBDujakXF2reSE21Zef_X0OGMre4oic1bvz8tW5iLCO2FrH22XC7wVsLARh1oaHi4C9D_w9U=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "AWARE、City of Women 与奥地利格拉茨美术馆联合启动 BRIDGE 研究驻留项目：资助女性与非二元性别流散学者改写欧洲艺术史",
+      "title_en": "AWARE, City of Women, and Kunsthaus Graz Launch BRIDGE Research Residencies: Funding Female and Non-Binary Diaspora Scholars to Revise Institutional Archives",
+      "summary_zh": "AWARE、斯洛文尼亚 City of Women 与奥地利格拉茨美术馆联合发起 BRIDGE 研究驻留项目，属于欧盟‘创意欧洲’框架下的两年期合作计划。该项目面向全球学者、独立策展人和文献研究者开放申请，重点资助针对在欧洲处于流亡或流散背景的女性及非二元性别艺术家开展的研究。入选者将获得全额资助，在巴黎 Vassilieff 别墅驻留 3 个月（含每月 900 欧元生活津贴、接入 AWARE 资源中心与蓬皮杜学术网络），或在格拉茨美术馆和卢布尔雅那驻留 1 个月，通过批判性档案重估修正艺术史。",
+      "summary_en": "Jointly launched by AWARE, City of Women, and Kunsthaus Graz under Creative Europe, the BRIDGE Research Residencies offer fully-funded programs in Paris, Graz, and Ljubljana for scholars to conduct critical archive revisions focusing on displaced female and non-binary artists.",
+      "why_muki_cares": "为从事性别研究与图像档案工作的策展人和学者提供了顶级的全额资助通道。其立足于流散、女性身体、关键档案改写的方法论，展示了欧洲当前机构反思与去殖民实践的前沿路径。",
+      "editorial_signal": "欧洲艺术机构通过“创意欧洲”建立跨国联合资助，将档案修正的视线聚焦于具有流散和流亡背景的女性及非二元性别艺术家，推动机构层面的解殖实践。",
+      "theme_tags": [
+        "BRIDGE residency",
+        "AWARE",
+        "City of Women",
+        "Kunsthaus Graz",
+        "diaspora artists",
+        "archival revision",
+        "open call"
+      ],
+      "source_name": "Archives of Women Artists, Research and Exhibitions (AWARE)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEnupjmNt3mz42ar0zxwVMULKjvBOqyGv1mgri_EXfj3T2Fxpxfqe8ebga-RfT_OgMHr7H3oLoHJC9zqUU0iV2inbrK4q3xy75GcddchpYpY4icY-I66rbt-QPa6qUUYtZy4Fpx2HezehaK8fqgAzUvAPkVH6RMj_yZrHkxMWIMsM4Huzw4653xl4mWqF7AvDDmR5Bygwet8hl-Sf1TmnDl5mSAOBrl4XyPUq_pH-Ql_B_3lqqdZM2BL92TNM93iltF4_IlOYmtptiMw4DA==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "China / East Asia Signal",
+    "title": "新北市美術館舉辦《民間／攝影：紀實影像的敘事生成》特展：重勘戒嚴體制下“民間”作為現實意識的非暴力抵抗空間",
+    "why_muki_may_care": "通过保留拼音‘Minjian’展现对西方学术话语的抵抗性，系统展示了戒严时期台湾摄影家如何利用工作样片、民俗调查等反向档案构建非官方的现实意识。这是东亚图像考古与媒介权力史极其扎实的研究范例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG11KRBNxa2aIIXDO1vmRMpNB3cUR4_VOVpbBEeuLuFcB2IdzHA6lsB0iJ8CI0ECktWZDEBDujakXF2reSE21Zef_X0OGMre4oic1bvz8tW5iLCO2FrH22XC7wVsLARh1oaHi4C9D_w9U="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "AI 代理沙箱逃逸事件（上期已讨论过类似安全取证工作流，且本次主要聚焦在多智能体工程落地，故排除单点安全新闻）",
+    "巴黎摄影书奖征集（前几期已覆盖）"
+  ],
+  "covered_entities": [
+    "Royal Photographic Society",
+    "Saatchi Gallery",
+    "Y Combinator",
+    "Archives of Women Artists Research and Exhibitions",
+    "New Taipei City Art Museum",
+    "City of Women",
+    "Kunsthaus Graz"
+  ],
+  "repetition_notes": "本期除 AWARE 的东京论坛作为 7 月 30 日日本女性摄影展的跟进（Follow-up）学术议程外，其余四个故事均为全新信号（New）。RPS 的替代工艺探索与新北市美术馆的民间纪实文献，在‘媒介物质性’与‘非官方反向档案’的维度上形成了互补。YC QM 框架中对 AI 文本与视觉模版化的‘反套路’（Anti-slop）控制代码，与前几期讨论的 MCP 协议、工作流系统摩擦形成呼应，从工程代码层面为创意技术的研究提供了去均质化的设计参照。",
+  "issue_number": 25
+}

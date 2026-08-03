@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-03",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki's Daily Digest (Issue 025) — Research & Evidence Dossier\n**Research Date:** 2026-08-03\n**Search Window:** Past 24 hours to 7 days (July 27 – August 3, 2026)\n\n以下为针对 Muki 核心关注领域（女性主义视觉文化、摄影、东亚地缘、档案与媒介考古、AI 原生创意流、平台与劳作结构）筛选出的 5 个高质量、高实效性的文化信号学术档案。\n\n---\n\n## Candidate 1: [Visual Culture Signal]\n\n### 1. Title\n* **Chinese Title:** 英国皇家摄影学会举办第167届国际摄影展：于萨奇美术馆呈现 48 位艺术家的当代视觉与替代工艺探索\n* **Original English Title:** The 167th RPS International Photography Exhibition Opens at Saatchi Gallery: Showcasing Contemporary Vision and Alternative Photographic Processes by 48 Artists\n\n### 2. Specific Source URL\n* `https://rps.org/ipe167`\n* *Supporting Source:* `https://artdaily.cc` (Reported on July 23, 2026)\n\n### 3. Publication / Launch Date\n* **Exhibition Period:** August 7 – September 11, 2026\n* **Announcement Date:** Late July 2026\n\n### 4. Verified Facts\n* **展览背景**：英国皇家摄影学会（RPS）国际摄影展（IPE）是世界上历史最悠久的当代摄影展。\n* **入选规模**：本届（第167届）展览从全球 5,200 多名投递者中，由专家评审团遴选出 48 位摄影师的 113 幅印刷原作。\n* **特邀评审团**：包括 Jaskirt Dhaliwal-Boora（社会介入艺术家）、Lydia Goldblatt（摄影艺术家）、Max Gorbatskyi（利物浦 Open Eye Gallery 策展人）、Irene Lombardo（Magnum Photos 资深文化经理）以及 Dr. Michael Pritchard（摄影史学家）。\n* **核心大奖得主**：\n  * 美国摄影师 Marcy Palmer 凭作品《Seeds of Strength and Resilience》获得 IPE 167 大奖。\n  * 台湾出生、现居伦敦的摄影师 Léa Chen（陈）凭作品《The Stars That Don't Look Back》荣获 30 岁以下青年艺术家奖（Under 30s Award）。\n* **地质与技术路径**：展出作品不仅探讨环境、冲突、身份、社区和家庭等时代议题，更集中呈现了大量“替代摄影工艺”（Alternative Processes），展示出当代创作者对物理触觉与材质差异化（tactile differentiation）的主动回应。\n* **平行活动**：伦敦摄影冲印与分发中心 theprintspace 将于 8 月 20 日举办单夜特别展，并于 8 月 21 日举办两场日间讲座，指导艺术家如何针对特定纸张优化打印，并介绍其面向全球的自动化艺术品一件代发（dropshipping）服务。\n\n### 5. Relevance to Muki\n* **研究参考**：契合 Muki 对“摄影、展览与媒介物质性”的关注。本次展览集中体现了数字图像饱和时代下，全球摄影创作者集体向“替代与手工工艺”的物质性回溯。\n* **东亚线索**：台湾青年摄影师 Léa Chen 斩获青年奖项，其关注个体记忆与星空成像的媒介语言，是东亚青年流散创作的优秀研究样本。\n\n### 6. Duplication Assessment\n* **Classification:** New\n* **Justification:** 往期未曾提及本届（第 167 届）RPS 国际摄影展的具体入选名单与具体参展工艺。\n\n---\n\n## Candidate 2: [AI Research / Creative Tech Signal]\n\n### 1. Title\n* **Chinese Title:** Y Combinator 开源多智能体协作框架 QM：在工程与法律日常流中探索防 AI 提示词污染的系统工程\n* **Original English Title:** Y Combinator Open-Sources QM: A Multiplayer AI Agent Harness Exploring System Engineering and 'Anti-Slop' Quality Controls\n\n### 2. Specific Source URL\n* `https://github.com/yc-software/qm` (Primary Repository)\n* *Supporting Source:* `https://runtimewire.com` (Analysis on August 2, 2026)\n\n### 3. Publication / Launch Date\n* August 1 – August 2, 2026\n\n### 4. Verified Facts\n* **项目发布**：Y Combinator（YC）在 GitHub 上以 MIT 许可协议正式开源了其内部使用的多智能体（multi-agent）协作运行框架 **qm**（Quartermaster，意为负责船只下层统筹的“军需官”）。\n* **开发背景**：该系统由 YC 在内部运行 50 多个 Hermes 智能体以协助日常财务、法律、活动和工程流程的实际经验提炼而来，旨在解决单兵 Agent 走向团队协作时面临的权限与上下文冲突。\n* **技术架构**：核心基于 Node.js/TypeScript，使用 Fastify 框架处理 HTTP。其核心设计是“隔离”（Isolation）——它为每个员工、Slack 频道或项目分配独立的、可持续的持久化沙箱（Durable Sandbox）、专属记忆区、文件目录、密钥凭证查看区和调度计划，由一个中央 policy 核统一进行身份验证和审计。\n* **防套路设计（Anti-slop Skill）**：\n  * 在其针对网页设计的内置前端智能体技能（frontend skill）中，YC 写入了极为严苛且具体的“防 AI 模版化/防套路”（anti-slop）规则。\n  * **标点禁用**：在生成文本中彻底禁止（COMPLETELY banned）使用破折号（Em-dash “—”），因为这被确认为 LLM 最显著的文风硬伤和视觉破绽。\n  * **配色禁用**：在生成高档消费品或手工美学网页时，强制禁用特定的 AI 偏好配色组合（如背景色 `#f5f1ea` 和 `#f7f5f1`），要求严格遵循特定的真实设计系统，避免视觉上的“模版感”。\n* **安全局限**：QM 官方文档公开承认其威胁模型存在局限，如可绕过的指令策略、运行时的明文凭证、尚未完备的内容审查和治理控制，建议仅作为有工程能力的 Startup 内部小范围试点，而非开箱即用的商用 SaaS。\n\n### 5. Relevance to Muki\n* **工作流范式**：从“个人单次 Prompt 对话”转向“团队多智能体沙箱协作”的标志性开源底层框架。\n* **审美反思**：其“Anti-slop”机制通过代码级规范，将 LLM 标志性的文本风格（如破折号）和视觉配色确立为“AI 污染（Slop）”并加以规避。这对探究 AI 原生视觉与文本批评具有极高的前沿参考价值。\n\n### 6. Duplication Assessment\n* **Classification:** New\n* **Justification:** YC QM 框架于 7 月 31 日首发、8 月 1-2 日释出代码深度解析，属于 24 小时内爆发的全新核心创意技术信号，此前从未被日报提及。\n\n---\n\n## Candidate 3: [Feminist Structure Signal]\n\n### 1. Title\n* **Chinese Title:** AWARE 将在东京举办“未来的轨迹”日本女性摄影家论坛：探讨战后至今女性创作的制度化困境与艺术史改写\n* **Original English Title:** AWARE to Host 'Traces of the Future' Roundtable in Tokyo: Addressing Institutional Constraints and Art History Revision for Japanese Women Photographers\n\n### 2. Specific Source URL\n* `https://awarewomenartists.com/en/evenement/traces-of-the-future-women-artists-in-japan-then-now-and-beyond/`\n\n### 3. Publication / Launch Date\n* August 12, 2026 (Forum Event Date)\n* Announcement active from late July 2026\n\n### 4. Verified Facts\n* **论坛发起**：非营利组织 AWARE（女性艺术家、研究与展览文献库）宣布，将于 2026 年 8 月 12 日在东京涩谷 Hikarie Hall（巡展现场）举办名为“未来的轨迹：日本女性摄影家——过去、现在与未来”（Traces of the Future: Women Artists in Japan – Then, Now and Beyond）的圆桌论坛。\n* **学术背景**：本次论坛配合正在东京 Bunkamura 展出的全球巡回特展《我很高兴你在这里：1950年代至今的日本女性摄影》（I'm So Happy You Are Here）展开。\n* **核心对话嘉宾**：\n  * **竹内万里子**（Mariko Takeuchi）：本次特展的策展人。\n  * **笠原美智子**（Michiko Kasahara）：资深策展人兼艺术史学家，长期致力于推进日本女性艺术家与摄影史的性别视角研究。\n  * **Marina Amada**：AWARE 日本地区代表。\n* **核心议题**：论坛将聚焦于探讨 1950 年代至今，30 位日本女性摄影师在不同历史阶段所面临的社会、文化与专业制度约束，并深入论证：如何采取具体的策展和文献化（archival）行动，将这些女性创作真正写入美术馆与艺术史的“主干叙事”，而非仅仅将其作为“边缘的例外”（exceptional narratives）。\n\n### 5. Relevance to Muki\n* **地缘与劳作研究**：直接契合“东亚女性、图像历史与制度权力”的研究线索。\n* **方法论参考**：笠原美智子等日本本土学术力量与法国 AWARE 文献库的国际联动，为东亚女性主义影像研究从“临时展览展示”走向“长期档案建制”提供了具体的行动案例。\n\n### 6. Duplication Assessment\n* **Classification:** Follow-up\n* **Justification:** 2026-07-30 的日报曾报道了东京 Bunkamura 巡展的开幕，但本次 AWARE 官方发布的 8 月 12 日圆桌论坛是全新披露的具体学术议程与嘉宾阵容。\n\n---\n\n## Candidate 4: [China / East Asia Signal]\n\n### 1. Title\n* **Chinese Title:** 新北市美術館舉辦《民間／攝影：紀實影像的敘事生成》特展：重勘戒嚴體制下“民間”作為現實意識的非暴力抵抗空間\n* **Original English Title:** New Taipei City Art Museum Presents 'Minjian / Photography: Documentary Vision and Its Realist Inflection': Re-exploring the 'Folk' as a Resilient Realist Space Under Martial Law\n\n### 2. Specific Source URL\n* `https://ntcart.museum/exhibition_content.aspx?id=H2606003`\n* *Official Press Release:* `https://ntcart.museum` (Published on July 15, 2026)\n\n### 3. Publication / Launch Date\n* **Exhibition Period:** July 18 – November 15, 2026\n* **Archival Release Date:** Late July 2026\n\n### 4. Verified Facts\n* **美术馆项目**：新北市美术馆推出大型研究型展览《民間／攝影：紀實影像的敘事生成》（Minjian / Photography: Documentary Vision and Its Realist Inflection），由台湾知名影像学者张世伦策划。\n* **研究视角**：展标题中的斜杠“／”代表“民間”与“攝影”之间相生相伴的动态辩证关系。展览特别保留了汉语拼音“Minjian”而非直译为 folk 或 vernacular，以保持这一地缘概念在面对西方术语时的抵抗性与主体性。\n* **参展艺术家**：松山虔三、张才、黄则修、黄永松、姚孟嘉、张照堂、梁正居、林柏樑等八位横跨日治时期、战后戒严期至 1980 年代的摄影先驱。\n* **多媒介文献还原**：展览不仅陈列摄影原作，更系统引入了这些摄影家当年的工作样片（work prints）、手稿、手抄文献、杂志原始版面（如《漢聲》等民俗调查杂志）以及纪实影片（如黄春明与张照堂 1975 年联合执导的纪录片《淡水暮色》）。\n* **地缘媒介考古**：展览论证，在战后长期的戒严体制下，当台湾主流摄影界被带有官方色彩、唯美真空的“沙龙画意主义”（salon pictorialism）垄断时，街头市井、民俗信仰和常民劳作等“民間”现场，反而成为摄影家绕过政治审查、触碰社会真相、生长出本土现实意识的隐秘通道（indirect pathways）。\n\n### 5. Relevance to Muki\n* **媒介考古学**：这是近两年来东亚地缘图像历史与纪实摄影史最重要的一次学术梳理。\n* **档案实践**：它展示了摄影如何通过民俗调查、独立出版、工作样片等多媒介生态构建“非官方的反向档案”，完美对应 Muki 对于“中国与东亚”、“图像历史与媒介权力结构”的研究兴趣。\n\n### 6. Duplication Assessment\n* **Classification:** New\n* **Justification:** 该新美馆核心研究大展于 7 月中下旬正式对公众开放，本期属于首次在日报中进行系统性的文献架构梳理，无重复。\n\n---\n\n## Candidate 5: [Archive / Long Read / Opportunity]\n\n### 1. Title\n* **Chinese Title:** AWARE、City of Women 与奥地利格拉茨美术馆联合启动 BRIDGE 研究驻留项目：资助女性与非二元性别流散学者改写欧洲艺术史\n* **Original English Title:** AWARE, City of Women, and Kunsthaus Graz Launch BRIDGE Research Residencies: Funding Female and Non-Binary Diaspora Scholars to Revise Institutional Archives\n\n### 2. Specific Source URL\n* `https://awarewomenartists.com/en/evenement/open-call-research-residency/`\n\n### 3. Publication / Launch Date\n* **Application Deadline:** August 31, 2026\n* **Project Term:** 2026 – 2028 (Residencies slated for late 2026/2027)\n\n### 4. Verified Facts\n* **项目背景**：由 AWARE（巴黎）、City of Women（卢布尔雅那）和 Kunsthaus Graz（奥地利格拉茨美术馆）联合发起，属于欧盟“创意欧洲”（Creative Europe）框架下为期两年的“BRIDGE：建设、修正与包容——流散与性别平等”（BRIDGE: Building, Revising, Inclusion – Diaspora and Gender Equality）研究计划。\n* **申请资质**：面向全球学术界学者、艺术从业者、独立策展人和文献研究者开放申请，申请需提交 500 字英文研究提案、一页纸动机信及一页纸 CV。\n* **三个方向的全额资助驻留席位**：\n  * **AWARE（法国巴黎，3个月）**：提供入住巴黎 Vassilieff 别墅（Villa Vassilieff）44 平方米独立生活与创作工作室的机会，每月提供 900 欧元生活津贴，全天候接入 AWARE 庞大的女性艺术家资源中心，并深度对接 Pompidou 艺术中心的学术网络。\n  * **Kunsthaus Graz（奥地利，1个月）**。\n  * **City of Women（斯洛文尼亚卢布尔雅那，1个月）**。\n* **核心研究旨归**：重点资助针对在欧洲处于流亡状态、或具有移民/流散背景（exile, migratory or diasporic backgrounds）的女性及非二元性别艺术家进行的研究。旨在通过“批判性档案重估”（critical revisions of archives），系统修正这些艺术家在欧洲建制化美术馆、国家档案馆以及主流艺术史书写中被长期系统性边缘化和低估的现状。\n\n### 5. Relevance to Muki\n* **优质机会**：为 Muki 读者群中从事性别研究与图像档案工作的策展人、学者提供了顶级的全额资助学术通道。\n* **学术方法**：其立足于“流散、女性身体、关键档案改写”的方法论，是欧洲当前机构反思与解殖实践（decolonial practice）的最前沿展示。\n\n### 6. Duplication Assessment\n* **Classification:** New\n* **Justification:** 该 Creative Europe 联合学术驻留项目的申请通道于 8 月底截止，此前从未在日报的 Opportunity 板块中出现，信息完全保真。",
+  "citations": [
+    {
+      "title": "rps.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmMPV55i2XVPlpBUloD3rpGVatu86kIfeLCcmEo1bXbHhq9_70Sxyaz6-jzpg9tph1U-GtV2Nr--DiSvyG-FaFWtOvZ_J2fRGK0MzrOL1D1V6OhpSRWoBAdco="
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQWqpj7F-2guwXFlXVCPwBo6tpIRXog-LvHezg5DtncKJsyi0GGNBwLkglAZkocmGLLG7ON-kmnGJXekuZPMDMqjDsYJVMJCcbda7KGgLCh9_hK4qmRSgSQiHHiOz__KOExk0uRX7VdSKOS9Dv3gD60zmD5mhLms5in-K4--DmzMtpnZeK2eIfi2ircpL4Qhhda3kTt0ak2xzZ48bBJj-k"
+    },
+    {
+      "title": "artdaily.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIis4agky9DdXj9YlhZzGpsYr7sa1Jg97arJiJV4C8o3_Ef0knqVQaptc87OhobnDkK2FXDfgqLfqKkWCv_O1-uIn2z22dt7mAaBVShPoZ-stiAq9yE2NZsfarrSV7gvkZEk63bWxJ2UtFv2PiDpGpm28jlQOfryRiSP5ANR_dXDE1lo0sYwLwjQTHcbTWU_mKh8cSnvE55rFLqDc-1XUxQCD95bVJZL8lrg2ZK0X3vtLoljU_"
+    },
+    {
+      "title": "saatchigallery.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBGbcP8yefMDRSKyyM1aL1CSTJs0riK9dkhmIRxUbFg5RypXzBgDZY2PePuDpcH-tO6KRRPZdIxz4HgsIB99rV8P1VZ9nNY1Jv51cmFyzny6CCKqzeNQgId1UJHOlMMtf5mAkY8Xw7O3KC1vaZWyFtXM_F9D_oLTwAlL31S4rNh7Mhh6nZ3ERkVPXpdw=="
+    },
+    {
+      "title": "amateurphotographer.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjoP6r8RbAgASY0s6sYmm8BvGaF9c0JCDvnPOwL8WrUOVeCI_U9eNtSE4_OYfvpTdQMXqgi1JmKjcw_ALTclp_z140OLYWFomxjDcQ0PaZEWWfrtwOmzSe_ahnIgPnlSnAsoPo3EBazqLRVGYKt0_Fh7YWau4hOZhb1_b0vTc5omU9GOR3iOXEqtak5stn8nNRcN6yo9hYvLVrOS9KF8ruub8_zSC_blLpbdHxKiHQea9phrPtOCtBvtx78IK8GVAY88mUKPH1iutJElIHkg6bh_KzPa0vz9qD3ebg6HeUnJBlJg=="
+    },
+    {
+      "title": "trendhunter.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH94unJjGC7Gq55sh0nMrPQYLIpi77sULRYW3Bd7XdgFMwdYwrPCpKgkOzsNYhj3LGvfYXxJ9Ol_jzARi0NajmHmvMx5bJJSjz3MxAP0y51RQG0rwPUKzGLHe0jJ098Es-btrP9wtSv80p5Zl6EqfttlwAvp0jbeA0kob7npA=="
+    },
+    {
+      "title": "rps.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaPk9a1fDTpewyHRhIEOjaj1ouncNSCo6Z5HBjZnCxTOEO0einYPY3lUlH4BD-iqeQtwLw2s0qyb3o9Ii-5riI9oq9b8MMc2AwuL7A7UBkoB3JG9T_D90lY_jEx_8b7GVqZJT9laW6IzMp"
+    },
+    {
+      "title": "runtimewire.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDAld068iSlNyd3iQb7Ep3wEAumgYuseggHP7JUDLrPJFy4VoJ-3m7wnWrw6wsSjQ550V4sff1EQ7sLN3uK3HFOABu5C6GS6YTneViae7_jYf3PXStJ9A9LyaTTsJiPSzkH5dY1Ko-IVBdGb6k37oYDPg4A-ZrsvHMpuAusr1RoA2ZjVo-RlkgelEPRYSouHtj"
+    },
+    {
+      "title": "startupfortune.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNTzSLG3lSIBcwSMUgwRvfmxCD_Mr7qvsy-kf_sqkLu-LklGc167EdDiWYIGdUZaM-lyTnhTAza8RDkIgNjf4x_YA-0u6uGdO1NcEehK4yI2W0SX016L8ZSUlemZKgd6t5Wsb5jk3hvduv3NdgGwLLAuVBqMWB_61jmGOluHbM68hM-BDvjt82YUx9U76NjFbmryssr1e_2cE="
+    },
+    {
+      "title": "enterprisedna.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQkHW56whJqlWgajOVZZ5JmjPyJzsKPt-iQc9RFgAY-5BBzWiFbHqDTavxnuKbieHWj98rm0NKJ8O7Ps3oXzREfVT-LG7lJm4zS9nNUxfY2jHMFo_g9XUT-D898fivU-nnEcsVvssPMSg1Sy4a7fhtrMKShrQHJyDdH0og1jJn0fMatJzuq1VLxGjdMG5vzKGS-4QwqPE2mCVaUNsqgBwe0zVYQegyQt9SJs9zIFJTL_iWhQ=="
+    },
+    {
+      "title": "wavect.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElkmRiSo8Np76SrDnDOTzWv8-xtiws6ogRpiLFbwyQATmlBffZAleUPPXhNVxS0rZWt7Ezp1VgU0guCqcUj2hpOnjo_7mBy1h9XlI3DC8sWyZ3zi8je7jFn0whwwH2HL0mWi5cHAepKw=="
+    },
+    {
+      "title": "ycombinator.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkL60liTd0qkh4GFJmNp-Gon6rMdUBQc0B41emHoidWdHYsIsfXXkp3RjskIzoYChfH4twSfU-B5vex_d7h4D3knqlbU56k1I5Ri736ryzDOCij4_beVBpqPIvQsl-JlYA4Ww="
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3R7E4wVxGhz1t2RW0xfRrabB2EeKcokH6eLnmcGZbW540KpIVJena6CaikwcAnLpF0anu2EdriTYtaw4PwODpXV5MdJlwbMybFwOZ7LBcPgo-wmuOCIw6WTAbBTcx2TzBwePtcCeWF6Pf8iUPpFl6MX8YGtXsbg5jPAaAvG1HWZdFkuAlDihnusUuYUAWIEEKOuPbbOv_1S7ZtwuEBv44RELd6K1t"
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqEnupjmNt3mz42ar0zxwVMULKjvBOqyGv1mgri_EXfj3T2Fxpxfqe8ebga-RfT_OgMHr7H3oLoHJC9zqUU0iV2inbrK4q3xy75GcddchpYpY4icY-I66rbt-QPa6qUUYtZy4Fpx2HezehaK8fqgAzUvAPkVH6RMj_yZrHkxMWIMsM4Huzw4653xl4mWqF7AvDDmR5Bygwet8hl-Sf1TmnDl5mSAOBrl4XyPUq_pH-Ql_B_3lqqdZM2BL92TNM93iltF4_IlOYmtptiMw4DA=="
+    },
+    {
+      "title": "apple.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgYvpmqRsdoQCzvkk32RzNcLswE3e82HFOqmheCvtiExqOZTusM_Iw_aNgvTvm-hw-hpvpzP7QNr0g9Xv375g0oRnzAipjW3tlYpzgP-pjks4Lw8v6ndn6jW7E0_sWAkZP3W3Mi2StvbjshAeRbDDzK4R-H9FJ16OgWjD2BoduD50yq7GIu2T2qe6XaAySL5J98TARsY2d1P_Efi3QDxVeYaB6DGI="
+    },
+    {
+      "title": "ntcart.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG11KRBNxa2aIIXDO1vmRMpNB3cUR4_VOVpbBEeuLuFcB2IdzHA6lsB0iJ8CI0ECktWZDEBDujakXF2reSE21Zef_X0OGMre4oic1bvz8tW5iLCO2FrH22XC7wVsLARh1oaHi4C9D_w9U="
+    },
+    {
+      "title": "ntcart.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbYDssBVAa63_tEx2POwZbLyqbk3sHdRX6SgDVk--5x3RrQgUakLHCHNaZnzmyKT1NOnavuiZGdXDP3p6eOtIUETJXrt5iJCOsLbwHQFOTB-w1MyXPAA7kpq62SJoaWvv4_BzOikUT2X1K5IJlJxw="
+    },
+    {
+      "title": "ntcart.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmZo7inU9cvLCMQnVKGoB7eDNuvf5Z_bkGxrtmH4li1yF8r7Zt4RGjbn_YNN8UKGcKldzdFqyK27hp3-SImvXefGhI-TAdS43urdMMG54CWptvnYsKIf48v2T7iNtixe-kz-9L0cDUHcBCu8R06rM8iV-MmilgXCaotD69gw=="
+    },
+    {
+      "title": "ntcart.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXXcFqlBF5rfzjE-jSqWMcvSdZbUPq7wuUZtdCDCIMLRo5jau33MArnlHw22AAAwGQBsc7s2mHDycxupTv9q7LuveY5gswr6AmubR6bNyZ9EQec5YxOSSevoDjNJ05lSfCuXwZcXb6Lmi-soicLjUKVlQ="
+    },
+    {
+      "title": "apple.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFccg4thqCfpbdQDFVi1zCatccyBijg5htf_z2CKixFlk2xg7RodMlt0HaLFtO5xBm7uxc27TiQ_2-1f82WFR1ZpAqMKLk-cpl5hu6TmONJiaDbTaKrCHmE8Ru9Ecyj3ot5_ajFh2N2MuOKdcedh_Uhq4i4OXYYSzzRlt5iNz2gKJoOajZ3y7XZHEmZtmb03YqLj8DWfJ5aDlXOPlT-ZDGAdtds6t9zbjRqmTtIit12HyGzoScu0QUde-Vgvc0HGq97vuL517tNPAFImPgc38JhH4VvUxM6"
+    },
+    {
+      "title": "ntcart.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-PFNTEKhi4BgHVE6pCs7K4VUMrl_Ox4w5zpF5wf3m1Jq2p5T05QHG3CyKR8ywCWC0hW2Kf7WzI1xoeqKlTRjcmiSbzYfEilOajxgruYyYBUXxAggkdi9xfU3fAosDStjtKc12p1InIeqb"
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETPMQcXkrg84zGALsG5SHjUIqmaySSwGSIsnksvJn93uf9G-NEvy6z_2khvR4bydV8EiKtfBzrFABzOn44u679Zti-bW-FygzV5WVTWhkZBfghkX0bKq3M-20-gZpk6h5e9jbesuZT_2QXiWO938LeFugKfnxFLdgvcL7FqSupRbYUS_DNZAvvls-Q7ne1LnhH0Uc="
+    },
+    {
+      "title": "reviewedbyartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_iW1TdpuVBSazNh5hl0dK5SOhveeJC_mp5TupLcU1fdcxpUD5JPWctkQZvZXw9JLqeUajtyNqIo-4xkzBvFLNWxN2mzoUOypuBVmdaTE9yDDd7KvNHMPNX8kIxazDKoRmG9qCCb0HVw=="
+    }
+  ]
+}
