@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-04",
+  "search_window": "7d",
+  "reading_time": "约 7 分钟",
+  "topics": [
+    "摄影书史",
+    "独立出版",
+    "空间AI伦理",
+    "女性艺术家",
+    "战后日本雕塑",
+    "地缘政治与档案",
+    "LensCulture",
+    "媒介物质性"
+  ],
+  "why_today": "今天的文化信号聚焦于‘实体媒介作为记忆载体的保存’。ICP 对过去 25 年美国摄影书的社会史进行了总结，加州艺术学院也展示了 Vivian Sming 等女性书籍艺术家的独立出版实践，说明纸张与合作劳作如何保存记忆。多田美波的回顾展将这一物质探索推向了工业雕塑。与此同时，谷歌紧急下线空间生成 AI 的事件，则揭示了真实的地理图层作为事实底座所面临的媒介信任危机。",
+  "intro": "本期我们在摄影书史、地缘空间 AI 伦理、女性主义出版实践以及东亚战后前卫雕塑四个方面抓取了最新动态。我们关注实体媒介与数字化虚构之间的拉扯，特别是不需要制作现成样书的 LensCulture 摄影书新奖项，正在为创作者提供更务实的路径。",
+  "opening_signal": "真实的卫星图上开始出现未发生的火灾，而纸页间的手工折痕正悄悄固定住真实的痛楚。",
+  "closing_signal": "当坐标与像素变得可以轻易篡改，书籍与实物雕塑所固有的物理重力，或许正在重新成为我们锚定真实世界的微弱坐标。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "ICP 举办美国摄影书展：展出 50 多部作品重估过去 25 年的社会变迁与视觉演变",
+      "title_en": "ICP Presents 'Photobooks USA 2000–25': Over 50 Titles Re-evaluating Social Shifts and Visual Medium Evolution of the Past Quarter-Century",
+      "summary_zh": "纽约国际摄影中心（ICP）举办《美国摄影书：2000–25》特展。展览精选了过去 25 年出版的 50 多本代表性摄影书，聚焦这些书籍作为一种媒介，如何回应美国 21 世纪的政治、环境和经济议题。展出作品包括 Alec Soth 的经典之作，以及 Carmen Winant 记录堕胎诊所日常劳作的《The Last Safe Abortion》等。",
+      "summary_en": "The International Center of Photography (ICP) is hosting 'Photobooks USA 2000–25', featuring over 50 photobooks that address social, political, and environmental shifts in 21st-century America. Curated by David Campany and colleagues, the selection highlights the medium's role in documenting contemporary history, including Carmen Winant's archival project on reproductive care labor.",
+      "why_muki_cares": "展览为理解摄影书作为社会档案的演变提供了文献参照。特别是 Carmen Winant 等艺术家的作品，把身体政治、女性关护劳作与书籍出版相结合，展示了如何用印刷媒介记录边缘历史。",
+      "editorial_signal": "摄影书正在被重新确立为一种自主的、具有干预性质的社会史档案载体。",
+      "theme_tags": [
+        "ICP",
+        "photobook",
+        "David Campany",
+        "Carmen Winant",
+        "social archive",
+        "visual culture"
+      ],
+      "source_name": "davidcampany.com",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9AvwDgeYxs-oUynLLbR2eXwlTtogddxiqhsuZ8PdH-ZN_G2B7NgBJTfHssiEU6Kad1uZeCYy92KssG7DhMY42LHOgSXcJc21-6y34jAj-j1L4TnlTZyOu-EGYvcXgwsWjP20EaX8VyQ==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "谷歌下线 Google Earth 空间 AI 生成功能：地图生成工具面临假卫星图与信息链信任危机",
+      "title_en": "Google Rolls Back Earth AI Feature: 'Nano Banana' Integration Sparks Fake Satellite Imagery and Geospatial Trust Crisis",
+      "summary_zh": "谷歌在其 Google Earth 网页版上集成了名为 'Nano Banana' 的空间图像生成模型，允许用户在真实的卫星地图上通过文本实时生成场景。上线不久后，安全研究人员便成功绕过限制，生成了包括虚构难民营在内的假航拍图。由于 Google Earth 属于事实核查的底层地理数据，此类假图像的传播可能严重破坏地理信息的可信度，谷歌已于随后紧急下线该功能。",
+      "summary_en": "Google quickly removed the 'Nano Banana' spatial image generation feature from Google Earth following concerns over simulated satellite imagery. Security researchers bypassed safety filters to generate realistic but fake aerial photos of sensitive areas, highlighting a trust crisis for geospatial verification.",
+      "why_muki_cares": "这触及了图像历史与媒介考古的核心命题。卫星航拍图曾被视为客观物理事实的记录，而地缘 AI 的端到端物理造假，为研究 AI 时代的视觉证据链与地缘政治提供了警示性切片。",
+      "editorial_signal": "生成式 AI 正在侵蚀原本具有物理客观性的卫星测绘图层，使地理真相底座面临媒介性质的转变。",
+      "theme_tags": [
+        "Google Earth",
+        "spatial AI",
+        "satellite imagery",
+        "information integrity",
+        "media archaeology",
+        "forensics"
+      ],
+      "source_name": "pcmag.com",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUm6DOddvI20vBLYU3ey7EefPxbLO6qiiObWUC8Nzbng9sBgIFmCWWo65UNzUJ4OLLqEVxSjoK9EWOX0UxONPmD8sCw3UUmafL1SiHJyvHRex90feOHwdDbYG3GEe-ZoLcPJuoGkrj1ZDkafNgV21UDjdg4vPzV9AlYIfaqVW7Qz0Jaw5RCCEf6rQ_mO-jTwDJXnwfqTHRMpMAKqp2-w==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "CCA 举办《细读：湾区三位书籍艺术家》展：Vivian Sming 等女性创作者以独立出版探索社区与关护",
+      "title_en": "CCA Presents 'Closer Reading: Three Bay Area Book Artists': Vivian Sming and Female Creators Reconstruct Community and Care Through Independent Publishing",
+      "summary_zh": "旧金山加州艺术学院（CCA）画廊宣布举办《细读：湾区三位书籍艺术家》展览。作为美国国家女性艺术博物馆全球倡议的一部分，展览聚焦 Macy Chadwick、Kate Laster 和 Vivian Sming 的书籍艺术实践。其中施明（Vivian Sming）通过其创办的独立出版平台 Sming Sming Books，将出版视为一种艺术合作和社区培育机制，以此保存边缘群体的身体、创伤和声音记忆。",
+      "summary_en": "The California College of the Arts (CCA) is hosting an exhibition featuring Macy Chadwick, Kate Laster, and Vivian Sming as part of a global initiative by the National Museum of Women in the Arts. The artists use independent publishing, particularly Sming's Sming Sming Books platform, as a collaborative practice to preserve marginalized histories.",
+      "why_muki_cares": "本项展览展现了女性创作者如何将出版从单纯的印刷复制转化为一种女性主义的关护劳作，为我们观察东亚流散创作者在北美西海岸的出版网络提供了一个具体样本。",
+      "editorial_signal": "独立出版正在被赋予去中心化档案和社区关护媒介的社会属性，超越了传统书本的实物定义。",
+      "theme_tags": [
+        "CCA",
+        "Vivian Sming",
+        "independent publishing",
+        "book arts",
+        "feminist archive",
+        "care labor"
+      ],
+      "source_name": "cca.edu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZx5GizYw9QjlyQjRI_iiSUdRPdwwvgbhPf2RdeurQOy9Ax9CGGFXa62hsThHtDUmQMBeULCq0CWRfy5YzQbfk93tXeOrbP_2EV5O2SBaMakAyRG89WMsw8jO4buKxefEyWUVinJyXa6j5srd11mXOng==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "东区域现代美术馆举办多田美波首场回顾展：以工业材质与光之雕塑重写战后日本女性艺术史",
+      "title_en": "Museum of Contemporary Art Tokyo Presents First Tada Minami Retrospective in 35 Years: Rewriting Postwar Japanese Women's Art History Through Industrial Materials and Sculptures of Light",
+      "summary_zh": "东京都现代美术馆（MOT）举办多田美波在东京 35 年来的首场个人回顾展。多田美波是日本战后抽象艺术和环境艺术的先驱，她在男性主导的工业重构和建筑设计领域，采用不锈钢、水晶玻璃和亚克力等新兴工业材料，将其转化为干预光影与空间感知的雕塑与装置，包括她为皇居等公共建筑设计的大型光壁档案。",
+      "summary_en": "The Museum of Contemporary Art Tokyo (MOT) is staging the first major retrospective of Tada Minami in Tokyo in 35 years. A pioneer of postwar Japanese abstract and environmental art, Tada used industrial materials such as stainless steel, glass, and acrylic to manipulate light and space.",
+      "why_muki_cares": "多田美波的创作处于雕塑、重工业劳作和媒介物理技术的交汇点。本展为研究东亚女性前卫艺术家的媒介物质性（materiality）和制度化生存史提供了关键的文献支持。",
+      "editorial_signal": "重估战后东亚女性前卫艺术不仅关注她们的身体经验，更在重新发掘她们在重工业与公共空间设计中的媒介探索。",
+      "theme_tags": [
+        "Museum of Contemporary Art Tokyo",
+        "Tada Minami",
+        "sculpture",
+        "Japanese art",
+        "materiality",
+        "women artists"
+      ],
+      "source_name": "mot-art-museum.jp",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRpOG-BqCiBjglQJ0LjbQudhTjlLlQ74d3u_2EMCfuFU7MZRyp0a4mdGh5SoCiPMe19KLUEEHbwHcY8wv1giixiyZ07dklEKR3HyC2sMRuya7QQ-zVipWk7QOjg5EpXOqiEOQBX8r5ni_fPj9V-3s=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "首届 LensCulture 摄影书奖 2026 启动全球征集：全额资助项目出版与洛杉矶实体展出",
+      "title_en": "Inaugural LensCulture Photobook Prize 2026 Launches Global Open Call in Partnership with Nazraeli Press",
+      "summary_zh": "LensCulture 联合摄影出版商 Nazraeli Press 启动首届摄影书奖的全球征集。优胜者将获得全额资助，由 Nazraeli Press 设计、印制并全球发行其未出版的图像项目。入围创作者还将获得现金资助，并在洛杉矶 ShowLA 空间参加实体展览。该奖项的一大特点是不要求提交现成的摄影书样书，评选完全基于图像本身和项目概念，降低了自费制作样书的门槛。",
+      "summary_en": "The inaugural LensCulture Photobook Prize, in partnership with Nazraeli Press, offers full funding for the design, printing, and global distribution of an unpublished photographic project. Selected works will be exhibited at ShowLA in Los Angeles, with applications evaluated purely on visual concepts.",
+      "why_muki_cares": "该奖项降低了传统摄影书比赛要求自费制作高成本样书（dummy）的门槛。对于缺乏资金支持但拥有扎实纪实或艺术项目基础的东亚青年创作者来说，是一个直接的分发与传播机会。",
+      "editorial_signal": "摄影书资助模式开始打破由昂贵手作样书主导的评选惯例，回归以纯粹图像概念和视觉连续性为主导的评价体系。",
+      "theme_tags": [
+        "LensCulture",
+        "photobook award",
+        "Nazraeli Press",
+        "open call",
+        "independent publishing",
+        "exhibition opportunity"
+      ],
+      "source_name": "lensculture.com",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHui8SvMXybh54LqWym5MECYy_ABveERSUSsFQmie-L5OJx_W7NlURu38u1j9fWXyqFaJdTCdTJV1r_a-rboZCRvVTrWgXN8NXx4S8eGDKzPJOVFhXIIWOn1Z_-DNtrZ0IeUQlrFDmLA_mQ13Zr3A==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "CCA 举办《细读：湾区三位书籍艺术家》展：Vivian Sming 等女性创作者以独立出版探索社区与关护",
+    "why_muki_may_care": "它将出版活动从单向的物质制造重构为多向的关护网络，其独立平台 Sming Sming Books 为流散创作者建立社区提供了宝贵经验。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZx5GizYw9QjlyQjRI_iiSUdRPdwwvgbhPf2RdeurQOy9Ax9CGGFXa62hsThHtDUmQMBeULCq0CWRfy5YzQbfk93tXeOrbP_2EV5O2SBaMakAyRG89WMsw8jO4buKxefEyWUVinJyXa6j5srd11mXOng=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "排除了部分缺乏物理展示证据的 AI 概念演示。过滤了部分画廊的常规商业群展，优先保留具有制度重估价值的美术馆和机构级特展。"
+  ],
+  "covered_entities": [
+    "International Center of Photography",
+    "Google",
+    "California College of the Arts",
+    "Museum of Contemporary Art Tokyo",
+    "LensCulture",
+    "Nazraeli Press"
+  ],
+  "repetition_notes": "本期所有信号均为全新（New）线索。尽管 ICP 摄影书展的标题形式在前期的 headline rules 中作为反例提及，但本期首次对其实际策展内容和选书逻辑展开系统引介。谷歌空间 AI 撤回事件和多田美波的材质雕塑，从数字虚构的解构与实体媒介物质性的重建两个极端，深化了我们对媒介可信度的考掘。",
+  "issue_number": 26
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-04",
+  "model": "gemini-3.5-flash",
+  "dossier": "以下是为 Muki 整理的**第 026 期《Daily Digest》文化信号研究档案与候选故事清单（Evidence Dossier）**。\n\n本期重点筛选了过去 24 小时至 7 天内，在**摄影书史、地缘空间 AI 伦理、女性主义出版实践、东亚战后前卫雕塑、以及影像出版机会**等关键维度上的最强信号。\n\n---\n\n# Muki's Daily Digest (Issue 026) - Research & Source Dossier\n\n## 1. Visual Culture Signal (视觉文化信号)\n\n*   **项目名称**：ICP 推出《美国摄影书：2000–25》特展：五十多本作品重估过去四分之一世纪的社会变迁与视觉媒介演变\n*   **英文标题**：ICP Presents \"Photobooks USA 2000–25\": Over 50 Titles Re-evaluating Social Shifts and Visual Medium Evolution of the Past Quarter-Century\n*   **具体地址（Source URL）**：`https://www.davidcampany.com/photobooks-usa-2000-2025/`\n*   **发布/开展日期**：2026年6月11日 – 9月28日（目前正在展出中）\n*   **证实的事实（Verified Facts）**：\n    *   **地点与策划**：展览在纽约国际摄影中心（ICP）举办，由 ICP 创意总监 David Campany、展览副总监 Sara Ickow 及策展助理 malaika newsome 共同策划。\n    *   **规模与内容**：精选了过去 25 年间出版的 50 多本代表性摄影书，不以销量或传统奖项为标准，而是聚焦这些书籍如何作为媒介，去回应美国21世纪的社会、文化、政治、环境和经济议题。\n    *   **收录艺术家与作品**：包括 Alec Soth 的《Sleeping By the Mississippi》（2004）、An-My Lê 的《Small Wars》（2005）、LaToya Ruby Frazier 记录家庭的《The Notion of Family》（2014）、Justine Kurland 的《SCUMB Manifesto》（2022）、Carmen Winant 记录堕胎诊所日常劳作的《The Last Safe Abortion》（2024），以及 Rahim Fortune 的《Hardtack》（2024）等。\n*   **与 Muki 的关联性（Relevance）**：\n    该展是过去 25 年美国摄影书出版生态的一次重要系统重估。其中收录的 Carmen Winant 和 Justine Kurland 的作品，直接将女性身体政治、照护劳作与激进出版实践相结合，为 Muki 追踪“摄影书作为社会档案与干预媒介”的演变提供了极佳的文献参照。\n*   **重复度评估（Duplication Assessment）**：\n    本展在 2026-08-03 的“Headline Rules”中曾作为反向范例的标题提及，但此前未在任何一期的实际内容中进行报道或展开，属于**全新信号（New Signal）**。\n\n---\n\n## 2. AI Research / Creative Tech Signal (人工智能与创意技术信号)\n\n*   **项目名称**：谷歌紧急下线 Google Earth 空间 AI 生成功能：Nano Banana 2 地图生成工具面临假卫星图与信息链信任危机\n*   **英文标题**：Google Abruptly Rolls Back Earth AI Feature: \"Nano Banana 2\" Integration Sparks Fake Satellite Imagery and Geospatial Trust Crisis\n*   **具体地址（Source URL）**：`https://www.pcmag.com/news/nano-banana-removed-from-google-earth-amid-misinformation-concerns`\n*   **发布/事件日期**：2026年7月30日上线，7月31日撤回（事件在 8月1日—8月3日期间引发全球科技与媒体考证界大讨论）。\n*   **证实的事实（Verified Facts）**：\n    *   **技术机制**：7月30日，谷歌在 Google Earth 网页版上集成了名为 \"Nano Banana 2\" 的空间图像生成模型。用户可以直接在真实的 3D 卫星、航空地图上，通过文本提示词实时生成并覆盖逼真的虚构场景。\n    *   **滥用与失控**：上线不足 24 小时，开源情报（OSINT）和安全研究员 Henk van Ess 等人便成功绕过安全限制，在真实的地理坐标上生成了“美墨边境虚构难民营”、“伊朗核电站起火”、“加沙被炸毁的医院”以及“华盛顿特区大洪水”等真假难辨的假航拍图。\n    *   **谷歌下线回应**：由于 Google Earth 是记者、事实核查员和危机调查员公认的地理真相底座（baseline layer），此类截图的传播严重侵蚀了地理数据的可信度。谷歌于 7月31日紧急下线了该功能，并称将重新评估安全防护栏。\n*   **与 Muki 的关联性（Relevance）**：\n    这涉及图像历史与媒介考古的核心命题。长期以来，卫星航拍图被视为不容置疑的“物理事实记录”，而地缘 AI 生成（Geospatial generative AI）直接在国家测绘底座上实现了“端到端的物理造假”。这一事件为 Muki 探讨“AI 时代的视觉证据链、地理政治与图像自决权”提供了极具警示性的媒介考古学切片。\n*   **重复度评估（Duplication Assessment）**：\n    此事件发生于 72 小时内，属于**全新信号（New Signal）**。\n\n---\n\n## 3. Feminist Structure Signal (女性主义结构信号)\n\n*   **项目名称**：CCA 推出《细读：湾区三位书籍艺术家》：Vivian Sming 等女性创作者以独立出版重构社区、关护与媒介实验\n*   **英文标题**：CCA Presents \"Closer Reading: Three Bay Area Book Artists\": Vivian Sming and Female Creators Reconstruct Community, Care, and Media Experimentation Through Independent Publishing\n*   **具体地址（Source URL）**：`https://portal.cca.edu/events-calendar/women-to-watch-2027-closer-reading/`\n*   **发布/开展日期**：2026年8月4日（今日新闻发布），展览期为 2026年9月2日 – 10月23日。\n*   **证实的事实（Verified Facts）**：\n    *   **地缘与背景**：旧金山加州艺术学院（CCA）校园画廊宣布举办该展，作为美国国家女性艺术博物馆（NMWA）全球倡议项目《Women to Watch 2027: A Book Arts Revolution》的北加州区域贡献展。\n    *   **核心创作者**：展览由 Anthea Black 策划，聚焦 Macy Chadwick、Kate Laster 和 Vivian Sming（施明）三位旧金山湾区书籍艺术家的出版与创作实践。其中，Vivian Sming 被选为代表该区域入选 NMWA 2027 华盛顿主展的最终十六位全球艺术家之一。\n    *   **艺术方法论**：Vivian Sming 通过其创办的独立出版平台 *Sming Sming Books*，将“出版”本身视为一种合作性的艺术实践和社区培育机制，把手工折叠、Risograph 印刷与数字媒介融为一体，保存边缘群体的身体、创伤和声音记忆。\n*   **与 Muki 的关联性（Relevance）**：\n    紧密契合 Muki 关于“女性、平台与媒介权力”的研究。Vivian Sming 将出版从纯粹的物质复制，转化为一种女性主义的“关护劳作（care labor）”与“逆向档案构建”，为我们理解东亚流散创作者在北美西海岸的艺术生态提供了一个具体的组织网络范例。\n*   **重复度评估（Duplication Assessment）**：\n    2026年8月4日当天刚刚发布的最新美术馆议程，属于**全新信号（New Signal）**。\n\n---\n\n## 4. China / East Asia Signal (中国与东亚信号)\n\n*   **项目名称**：东京都现代美术馆举办多田美波 35 年来首场回顾展：以工业材质与光之雕塑重写战后日本女性艺术史\n*   **英文标题**：Museum of Contemporary Art Tokyo Presents First Tada Minami Retrospective in 35 Years: Rewriting Postwar Japanese Women's Art History Through Industrial Materials and Sculptures of Light\n*   **具体地址（Source URL）**：`https://www.mot-art-museum.jp/en/exhibitions/Tada-Minami/`\n*   **发布/开展日期**：2026年7月31日发布，展期为 2026年8月29日 – 12月6日。\n*   **证实的事实（Verified Facts）**：\n    *   **展览定位**：东京都现代美术馆（MOT）举办多田美波（Tada Minami, 1924–2014）在东京 35 年来的首场大型个人回顾展。\n    *   **创作背景**：多田美波是日本战后抽象艺术与环境艺术的先驱，她在男性主导的工业重构和建筑设计领域，大胆采用不锈钢、有机玻璃、水晶玻璃、亚克力等在当时经济腾飞期新兴的工业材料，将其转化为干预光的折射、反射和空间感知的雕塑与浮雕。\n    *   **展出内容**：展览汇集了她从 1940 年代早期绘画、代表性光造形雕塑（如《Space Eye No.4》和《Mirage》），到她为日本皇居新宫殿、帝国大饭店等公共建筑设计的大型光壁与吊灯装置档案（如 1970 年的《黎明》）。\n*   **与 Muki 的关联性（Relevance）**：\n    多田美波的实践处于“雕塑、重工业劳作与物理媒介技术”的交汇处。她将光这种非物质的现象作为雕塑的“主角”，在战后日本的城市扩张中占据空间。这为 Muki 研究东亚女性前卫艺术家的媒介物理性（materiality）和制度化生存史提供了极其关键的文献支持。\n*   **重复度评估（Duplication Assessment）**：\n    属于**全新信号（New Signal）**。\n\n---\n\n## 5. Opportunity / Archive Signal (机会与档案库信号)\n\n*   **机会名称**：首届 LensCulture 摄影书奖 2026 全球征集：联合 Nazraeli Press 全额资助出版、发行并举办洛杉矶展览\n*   **英文标题**：Inaugural LensCulture Photobook Prize 2026 Launches Global Open Call in Partnership with Nazraeli Press\n*   **具体地址（Source URL）**：`https://www.lensculture.com/photo-competitions/photobook-prize-2026`\n*   **申请截止日期**：2026年8月12日\n*   **证实的事实（Verified Facts）**：\n    *   **资助额度与出版**：大奖得主将获得由 LensCulture 联合世界著名摄影出版商 Nazraeli Press 提供的全额资助，将其未出版的图像项目设计、制作并向全球分发（单项出版物出版价值超过 2.5 万美元）。\n    *   **其他奖项配置**：5位入围者和10位决赛选手将获得全球推广。其中入围者将获得 500 美元现金资助，并在洛杉矶 ShowLA 空间举办实体展览，与 LensCulture 创始人进行 1 对 1 视频咨询。\n    *   **申请资格与提交材料**：面向全球所有年满 18 岁的摄影师和艺术家。申请者需提交 20 至 30 张图像、一份项目陈述和简短的个人简历。该奖项的一大特点是**不要求（也不接受）现成的摄影书样书（book dummy）**，评选纯粹基于图像的项目概念。\n*   **与 Muki 的关联性（Relevance）**：\n    作为首届（Inaugural）举办的专项摄影书出版资助，它打破了传统摄影书比赛“必须自费制作高完成度手作样书”的高资金壁垒，对处于中期积累阶段、缺乏样书制作成本但拥有扎实纪实/艺术项目基础的东亚创作者，是一个非常直接且极高含金量的流水分发和学术出圈机会。\n*   **重复度评估（Duplication Assessment）**：\n    属于**全新信号（New Signal）**。\n\n---\n\n### 💡 编者评估与研究结论（Editor's Assessment）\n\n1.  **地缘与物质媒介的流转**：本期信号在“**出版与空间的物质化**”上形成了非常紧密的对话。东京都现代美术馆的多田美波回顾展（重工业材质与光的非物质介入）和 CCA 的 *Closer Reading*（Vivian Sming 的实体书籍与社区印刷实践），共同指向了**女性主义如何在坚硬的社会空间和轻盈的印刷纸张之间建立劳作网络**。\n2.  **摄影书的知识生产自主权**：ICP 的《美国摄影书25年回顾》提供了大周期的学术归纳，而首届 LensCulture 摄影书奖则在这一关节点上，为当下的个体创作者提供了打破制度化分发壁垒的具体切入机会。\n3.  **技术事实的危机与重置**：Google Earth 在推出 24 小时内下线 AI 生成功能的事件，揭示了“虚构图像如何通过地理真相底座实现证据篡改”，极大地丰富了 Muki 正在推进的“AI 时代图像取证、媒介考古与视觉主权”的研究。\n\n*(若以上证据档案通过您的审核，我将在下一阶段为您正式排版并翻译输出 Issue 026 的 JSON 内容。)*",
+  "citations": [
+    {
+      "title": "davidcampany.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9AvwDgeYxs-oUynLLbR2eXwlTtogddxiqhsuZ8PdH-ZN_G2B7NgBJTfHssiEU6Kad1uZeCYy92KssG7DhMY42LHOgSXcJc21-6y34jAj-j1L4TnlTZyOu-EGYvcXgwsWjP20EaX8VyQ=="
+    },
+    {
+      "title": "digitaldigging.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHH2Jg2jnxGbP0QQKkmA4bcWON0EPgFkambQrPlINwsf_dmHyhE4A3Jk0rPoY-CVNEBDL2DGBvaZpCPGXNG3hhOtz7hznymMtAgE3aGZRmBrogfIf3X27RwQJM2it8Cf-2oU_swvWzRil47QCHq_GLwv8rCOvN4Q=="
+    },
+    {
+      "title": "businessinsider.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUrHwa26O2HG10oR8U6U6-vAyG26OxCU-s5ekCha_wPdWn9XER6coZCbogCbka0Wdz-phuZQxqzsrfKLMbsHFvzFmzoH0jZMXDY7leL-ZpKxtpsM1jRxyGSOjvxNdBGxYMYeM0etuvJ27usd0rY7jTkHnzQ0lOHx-eC3h1M1gwAba9IH2tXNv8V34zMHx3K5T9620GWysEeNMCUYyfGkkgUtM="
+    },
+    {
+      "title": "pcmag.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUm6DOddvI20vBLYU3ey7EefPxbLO6qiiObWUC8Nzbng9sBgIFmCWWo65UNzUJ4OLLqEVxSjoK9EWOX0UxONPmD8sCw3UUmafL1SiHJyvHRex90feOHwdDbYG3GEe-ZoLcPJuoGkrj1ZDkafNgV21UDjdg4vPzV9AlYIfaqVW7Qz0Jaw5RCCEf6rQ_mO-jTwDJXnwfqTHRMpMAKqp2-w=="
+    },
+    {
+      "title": "explainx.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Zq_ApP16ljcMDh3Pzslp6dkfGgm1vc8mHYQHzsNc2jHewBVNv9NC_Gxnhz3FiZ69qOCujNsYoE1Srfbl08Aff-pyip5E3yEv3zKdsU-O7HZ9kA4sxRkSHnKf1l68fCJJxZrzKs-3lbgaDmFuOiHpdd-t0sWD8lcQmmohedUheJo="
+    },
+    {
+      "title": "wthr.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG45Mvz24GM0vQVYrUtz-7bZ-SZP47qHgbjCO_E3JNJ5KKynawdUUp9wDy9IcVtIfj4OHpp2j20zWQvUQIDW-91C90wCBioIvL0KfkoAerTWeQJTWRMF-9dO_vJTkgeuaZ8Tmo7E5uMZcVqklKWa0TgmCgYk_jxXGapjQFvEI_X3XBqQGJ-jYPVMIUhgBjl1MWg6O6Gpbav5Flt5U8w3TJsXianHYuuit_L-zPtCIXe52B1zmXEsc5dsya85UP8hobAn3wXsUXoEEiAHn-wkG2UXrE6yqIIlvFZmWy-tJTj"
+    },
+    {
+      "title": "cca.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUT7Nwkiq8DG8R9lFoywhs1J_jU_97VErfXcYoUZLzXPA659A2cVPQiVVJg4F2Rh79ACbWpz77DY6LKJFyjkrd5DHd0ZMtj_aBQUNCeMQZveYXYITjtyh6Q0E_ujY41Ab79nPfVTAkMBSGeGKl2jM="
+    },
+    {
+      "title": "cca.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZx5GizYw9QjlyQjRI_iiSUdRPdwwvgbhPf2RdeurQOy9Ax9CGGFXa62hsThHtDUmQMBeULCq0CWRfy5YzQbfk93tXeOrbP_2EV5O2SBaMakAyRG89WMsw8jO4buKxefEyWUVinJyXa6j5srd11mXOng=="
+    },
+    {
+      "title": "nmwa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtseYcVNMXj6HSLC3JLqNg3G1M41t8XKMUSoWyz5l7zj1iCNAv_WChQ5p4WyNhNXnVFVdp3VneEtzg6BRSq1eCP8K0VxkJ2zvWNAGJRrIOgC7IZKIDEPo1xyKoD_O3_LmEcEvgnbXlpRUxG6j6q7YZs_AQSRjOAKnhQrB6LwxhWyKyrMf7pTmYZ1Ah3fRLyv5nC8SthD6jBQl411cW1OOoivc_F1G2I7WyfWhxDC5BGtFEv8FRg79bpv-f2wh5EpFL3uxUOpuDy7AUxOVYVlhYZOY7wk3w0S_HRdoGIYo="
+    },
+    {
+      "title": "timeout.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7lsKxd3kFBkXkQiQ7qeodDCXMpAF_Qz4rZa7-jkR7Xf0QOzxFpFFivVPb2FzjPotEhpMX8fghtdC0jkogFPjGbmcsIZe0C0uIuesxn6MCoxmx7RmIH4LjEx5oyqF1pZ3G80o="
+    },
+    {
+      "title": "tokyoartbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJhA1fxfibFxWGq5VvZHCK8oGAUQd6BlwM1oeWymjnewWMOi1UUCPsE4lqyKubmJ2kEnKtlaQpDVug9vdW_a5gz77hYAYTm607lTxcC0XV4ZdkHSQtRBz0K0KDvDuix1c1mwrLQzvu_nFTH_JTfNsjBgGgIWFwX6T0Vech1VWa_II="
+    },
+    {
+      "title": "mot-art-museum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRpOG-BqCiBjglQJ0LjbQudhTjlLlQ74d3u_2EMCfuFU7MZRyp0a4mdGh5SoCiPMe19KLUEEHbwHcY8wv1giixiyZ07dklEKR3HyC2sMRuya7QQ-zVipWk7QOjg5EpXOqiEOQBX8r5ni_fPj9V-3s="
+    },
+    {
+      "title": "tokyoartbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0H5HDnQYYBai6VDbAHlG3azviKKyoHBcOFpUFkh7xHlSPuR4N2vc75iqHFdot7wPKYAQ3XRrhvZsX_w0g8zWiQbSC6V6V5oo53TjmE5p7azc_9yf_7IraS05Jale6xb0TqpHjEAKrE2leGyz1WVbF3kbZJXGKDJiE3JIP-lbvdHg1xqquRQ2hCmSLHi585bU="
+    },
+    {
+      "title": "lensculture.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHui8SvMXybh54LqWym5MECYy_ABveERSUSsFQmie-L5OJx_W7NlURu38u1j9fWXyqFaJdTCdTJV1r_a-rboZCRvVTrWgXN8NXx4S8eGDKzPJOVFhXIIWOn1Z_-DNtrZ0IeUQlrFDmLA_mQ13Zr3A=="
+    }
+  ]
+}
