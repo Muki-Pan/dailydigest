@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-05",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Research Evidence Dossier (Issue 027)\n\nThis dossier presents the five strongest cultural signals curated for Muki, gathered from verified institutional announcements and official releases within the past 7 days (and extended to 14 days where necessary to confirm exact exhibition launch details). \n\n---\n\n## Section 1: Visual Culture Signal\n\n### [Visual Culture Signal] Harvard Art Museums 举办《The Way We Never Were》：展出美国专业摄影师收藏，审视战后至民权运动时期的“理想化生活” / Harvard Art Museums to Present \"The Way We Never Were\": Examining Postwar to Civil Rights Era \"Idealized Life\" Through the American Professional Photographers Collection\n\n*   **Specific Source URL:** `https://harvardartmuseums.org`\n*   **Publication Date:** 2026-07-24\n*   **Verified Facts:** \n    *   哈佛艺术博物馆（Harvard Art Museums）将于 2026 年 8 月 29 日至 2027 年 5 月 9 日举办特展《The Way We Never Were: The American Professional Photographers Collection》。\n    *   该展览标志着哈佛大学“美国专业摄影师收藏”成立 50 周年。\n    *   展览由 Audrey Sands 和 Madison Brown 策划，展出 20 位专业摄影师及工作室（如 Joseph Janney Steinmetz、Harry Annas、Lucian and Mary Brown 等）的作品。\n    *   展出影像聚焦于二战后至民权运动时期美国社会构建的“繁荣、家政、顺从”等理想化生活视觉范式，并在当下的社会语境中重新审视“谁在定义美国”这一命题。\n*   **Relevance to Muki:** \n    *   提供了一个通过机构与商业“温床影像”（vernacular and professional studio photography）进行社会记忆发掘与媒介考古的研究案例。\n    *   展示了如何利用大学美术馆的藏品档案，去解构国家主流神话、家庭机制与中产阶级身体政治的视觉生产过程。\n*   **Duplication Assessment:** 全新线索。\n\n---\n\n## Section 2: AI Research / Creative Tech Signal\n\n### [AI Research / Creative Tech Signal] ArtArch 整合旗下产品，将其定位升级为“AI 原生创意操作系统”并开放智能体 CLI 与能力接口 / ArtArch Merges All Products, Upgrading Position to \"AI-Native Creative OS\" with CLI and Skill Interfaces for AI Agents\n\n*   **Specific Source URL:** `https://www.globenewswire.com/news-release/2026/08/03/2924169/0/en/ArtArch-Merges-All-Products-into-Unified-Platform-Elevates-Positioning-to-AI-Native-Creative-OS.html`\n*   **Publication Date:** 2026-08-03\n*   **Verified Facts:** \n    *   AI 视频创意技术公司 ArtArch 宣布将此前独立的社交创意社区 Skira、专业工作流平台 ArtArch Studio 以及商业引擎 Aideals 整合为统一的平台。\n    *   ArtArch 将自身定位从“AI 视频生成工具”升级为“AI 原生创意操作系统（AI-Native Creative OS）”，并新推出了命令行界面（CLI）和 “Skills”（技能）开发接口，全面向 AI 智能体（AI Agents）和开发者开放底层引擎。\n    *   ArtArch 创始人黄延（曾任字节跳动 AI Lab 工程架构负责人、智能创作工程负责人）表示，该系统旨在解决创意生成的“可计算性与可优化性”，使创意流从意图到表达实现递归、可追溯和自主演进，避免创作者仅停留在“输入提示词、等待生成”的被动操作环节。\n*   **Relevance to Muki:** \n    *   该技术动向展示了生成式 AI 如何从单纯的“对话框工具”演进为支持多智能体协作、可编程控制的“创意基础设施（Creative Infrastructure）”。\n    *   有助于 Muki 理解并实验 AI 时代去均质化、代码可控的原生创意工作流，摆脱工具焦虑，重组图像生产的管线。\n*   **Duplication Assessment:** 全新线索。承接了前期对 MCP 协议及智能体在 3D DCC 工具中落地（7月31日）的讨论，但在生成视频的垂直创意流控制层级上提供了首个“创意操作系统（Creative OS）”的工业落地案例。\n\n---\n\n## Section 3: Feminist Structure Signal\n\n### [Feminist Structure Signal] 英国开启 Tessa Boffin 全国巡展《Where We Touch the Archive》：以女性主义与酷儿框架激活 80 至 90 年代女同性恋影像与行动主义档案 / UK Launches Tessa Boffin Touring Exhibition \"Where We Touch the Archive\": Activating 1980s-90s Lesbian Visual and Activist Archives Through Feminist and Queer Frameworks\n\n*   **Specific Source URL:** `https://photoworks.org.uk/exhibition/tessa-boffin-where-we-touch-the-archive/`\n*   **Publication Date:** 2026-07-16（展览于 2026-07-18 在东博恩 VOLT 空间正式开幕）\n*   **Verified Facts:** \n    *   由 Devonshire Collective、Photoworks、BACKLIT 以及 Aspex 联合发起的英国全国巡展《Tessa Boffin: Where We Touch the Archive》正式启动，首站于 2026 年 7 月 18 日至 9 月 5 日在东博恩（Eastbourne）的 VOLT 空间展出。\n    *   该展览旨在回应英国已故女同性恋摄影师、作家、教育家及活动家 Tessa Boffin（1960–1993）挑战性别、身体与能见度主流叙事的影像遗产。\n    *   项目由 Polly Wright、Jazz Swali、Ricardo Reverón Blanco 和 Danit Ariel 四位青年策展人以跨界、互惠的共同作者（shared authorship）框架策展，展出 Boffin 的历史影像，并呈现 Sophie Mak-Schram（关注转移权力与集体关系的激进教学法工具）和 Leah McLaine（以肖像摄影作为针对被疏离的酷儿群体的关护与祈祷）两位年轻艺术家的最新委任创作。\n*   **Relevance to Muki:** \n    *   深度契合 Muki 关于“女性主义视觉文化”、“女同性恋能见度与历史遗忘”及“关护与身体劳作”的研究谱系。\n    *   展示了如何将一个历史上的个人摄影档案转化为具有当代行动力、去中心化且由社区共同激活的“生成性、集体性空间（generative, collective space）”。\n*   **Duplication Assessment:** 全新线索。\n\n---\n\n## Section 4: China / East Asia Signal\n\n### [China / East Asia Signal] 北師美術館推出《雲在兩千米》特展：陳芯宜執導的威尼斯獲獎 VR 影像化身為跨學科美術館空間裝置 / MoNTUE Presents \"Clouds at Two Thousand Meters\" Exhibition: Venice-Winning VR Film Directed by Singing Chen Transformed into a Multidisciplinary Museum Installation\n\n*   **Specific Source URL:** `http://montue.ntue.edu.tw`（信息引自 ARTouch 及北師美術館官方發布）\n*   **Publication Date:** 2026-07-29（展覽於 2026-07-25 正式對外開放）\n*   **Verified Facts:** \n    *   國立臺北教育大學北師美術館（MoNTUE）於 2026 年 7 月 25 日至 10 月 11 日舉辦《雲在兩千米》（Clouds at Two Thousand Meters）沉浸式特展。\n    *   展覽核心為台灣導演陳芯宜執導、改編自作家吳明益短篇小說《苦雨之地》中同名篇章的同名 VR 影像（該作曾獲 2025 年威尼斯影展最佳沉浸體驗大獎）。\n    *   展覽由林曼麗擔任總策劃，將單人觀影的虛擬 VR 體驗擴展為一個結合歷史地圖、原住民（魯凱族）起源神話、生態學研究（台灣雲豹）、氣味及聲音的實體美術館空間裝置，挑戰並重組了“虛擬”媒介與“實體”空間的交互界面。\n*   **Relevance to Muki:** \n    *   屬於東亞地域內最前沿的媒體考古學與跨媒介敘事（transmedia storytelling）案例。\n    *   展示了文學、生態研究、人權歷史檔案（陳芯宜前作《無法離開的人》亦有類似結構）與沉浸式虛擬技術在美術館體制內如何進行空間再創作。\n*   **Duplication Assessment:** 全新線索。\n\n---\n\n## Section 5: Archive / Long Read / Opportunity\n\n### [Archive / Long Read / Opportunity] Penumbra 基金会首届 Susan McLaughlin Riso 摄影书奖延长征集：五千美元奖金支持 Riso 印艺与影像出版 / Penumbra Foundation Extends Open Call for Inaugural Susan McLaughlin Risograph Photobook Award: $5,000 Prize to Support Risograph Printing and Photographic Publishing\n\n*   **Specific Source URL:** `https://photobooksatpenumbrafoundation.org`\n*   **Publication Date:** 2026-08-04\n*   **Verified Facts:** \n    *   纽约非营利摄影机构 Penumbra 基金会（Penumbra Foundation）宣布，首届 Susan McLaughlin Risograph 摄影书奖（Susan McLaughlin Risograph Photobook Award）的申请截止日期延长至 2026 年 8 月 14 日（以邮戳为准）。\n    *   该奖项旨在表彰和支持在全球范围内使用 Risograph（孔版油印）工艺进行创作与出版的摄影艺术家、印刷者和出版商。\n    *   奖项设立 5,000 美元的奖金，入选及 shortlisted 作品将在 Penumbra 年度摄影书论坛“In The Fold”（2026 年 9 月 23 日至 26 日）上展出，并永久存入 Penumbra 独特的 Risograph 摄影书馆藏中。\n    *   参选书籍须在 2024 年 7 月至 2026 年 7 月之间制作，且主要以摄影影像为叙事媒介。本次征集免收报名费（Free to enter）。\n*   **Relevance to Muki:** \n    *   针对高品质、独立印艺与手工摄影书创作者的绝佳资助与国际建档机会，重点关注纸张材质、物理媒介触感与数字影像实体化。\n    *   提供了 Riso 印刷工艺与独立影像出版生态的全球最新坐标网络。\n*   **Duplication Assessment:** 全新线索。填补了近期由于 Paris Photo-Aperture 及 LensCulture 等主流奖项截止而产生的空缺。",
+  "citations": [
+    {
+      "title": "amazonaws.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyDjaJlithbRVIIgTXt7MghgCOWTmecZJtxJmmAXh3AbR43yehTbUjFncNxFeEA63uVVJzQYCSRTG88gdL7LFwOi6TobSte8ROwV7blV-NiRcmMLDgk867ARpWUoSsBgweResMe4M48ExXM6BR2ra80HRzv25X_pt8Gu1QGsx13U2hdenoNdlhqxwsBl7KZMDrjPHIQs8SdtXb"
+    },
+    {
+      "title": "globenewswire.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdysZwMlzKJ0cTZageqAO7zPDhVFtFKXluBHn5emiYEgSULaeVjTDZR_HzYhBoS9uKdtykT242A67a_DHWgb-2WU7ON6PEMGTqQjW9veCpGuPLZ2I6nzc4LNamE3yn1mbz12sZtW9_C1naCn-Nw9pK65XcShRb271wUgt4e9Gj7M2i6rcmWVEcSkKe4OlxDF1vu6xwYtcsQxOff3kTCrMWsuDd9zokjBZYO7cdjzry4LJ0E5ZhMEE52R5XvZWGrORtmO7v6ZuoPNgXWf1NKeIuKr2sU0g3BjTgbizozg=="
+    },
+    {
+      "title": "photoworks.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ6ujoEn0hTnG9mwHg7fzwyu7sP5DbydoiipLIfnXOup39F-Kq2kQWP0BbEneKmI3TGU9j4MPP6MeEUX-wunGjVSNc8UmYCz1_LDcRN-YS2y_3gPL_QXau2ppTvlvynuYNRVb0w385bQeTXnvIac8V"
+    },
+    {
+      "title": "photoworks.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHasj1uVmJVRU1YW0k7-_yWefkyq-kpQicSkEsWgx97p-lQHhB1CABInY_UFxZIa6oqPfhk3wDmWuT5RWEc_IAV3-Grb_q9rM4LZicEZfCKmwPUO2yzmDzPvjX2ht9zgnV7Os-iOUPhFWq48pN7bt7oFQ=="
+    },
+    {
+      "title": "devonshirecollective.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8MzGhe6XJ_B_soeDGX_sv-kHi5Ci0jlW1_j-Y949XMvlpE0pbT5la1-qH_EYn8fpisBN1-Nu8HMYuqmSoob21BwwaZwhxEff9b4B2iBI4q5THDHy-36Faea9ehtFtI_gf6RrliY6G11O1v-vxEFx5euGCH_0JCdCzpA=="
+    },
+    {
+      "title": "devonshirecollective.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb3GX0SyG7i2WXBi-M__bQh2e144yiETQOM9aTPgTfOCbRP53tCtezEFX7-dmC7rWXew1j1W1yTqrbG3KkRttRyyt3E0AVcpkfu6FplldjaaCUcVoYKtHWyCiDsyNEL0hJedEvQR3UcWAfGpraqpL83gwz0rUQZqNuXG38tL2KvLP-bQ=="
+    },
+    {
+      "title": "devonshirecollective.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs7I_MfYRcBVz1PZjS9n8i8IUlbWgPji4MKOCfhgpmBR_T8kSZaBTgmmAvcrU8C5Vej__S5xmNaiHhksMrgFyXh9NmfdgA7luTHwrscJcMOySzLNIigmKUEfaAw10NcGwqDxVEweGQmZZMBojbuesxaPTxkotWE7gRR31VFfeLsXYbojc26gXHXcVCNg=="
+    },
+    {
+      "title": "photoworks.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe7hLOStvBImGmY-9gh-LtpZQm3vEeWTBYEh4fLAZ6ZaoN5icRb2veAitdBgoqg9eVCodbO7gAzqNkNQOzyoIV9iOfCOyRCPSYeD-ZdWGAe7KwAyaIBIb2Sx8Dwev3xs2HuMNX5P8aUPN1INAQ8DDG7kdV4IH0KRFSIEQHt2Jw2qOfSQ=="
+    },
+    {
+      "title": "ntue.edu.tw",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7dmn3-lWIiK_5Br4_fWQmPz0OKbamjkP2ka6YRPd6l99fjlumCZmiodz99qOT3j4CXXH03yd-KgtDKb_CrIQQG8TLC_v4ZI6qeq70vAO9kWHHEiV91MdgtETsPDWxRMsxpGhqLUqDmmex-CvZUeliTQ=="
+    },
+    {
+      "title": "vasari.art",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyKnCy8LssLBfYDm4mfvW6zZ5KobMJOfaE0asXR9K_sNPj1smc0P3RGpQ-MO6ASkZCl92YSzV0cr1WHYcHR4n9B0w-4lTfC-mysnQva7_c2GVeCUIxDx_WES-SzrHBZw=="
+    },
+    {
+      "title": "culture.tw",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_2jlvm2V3uvATIs3E_hC0AkF4S18bHIe1C5T6F4kTH48KqjNX97GfCIrVlLocAYpB4_MA6xDolKd2Wb6VqtsmYp71n-Lptfk41-_TT9GuHXptW9GO5Ksu9fzCl0aWPyHdNjXm5v2LmDD1MSdAFeKD6iG4EgqZ_Dql"
+    },
+    {
+      "title": "mudam.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZWimEPevIKFBl0-Il3tKEvLUgtCgE5cX1kyoG8Rce5XCE1sknLYtzF22Zw7zkE8Ix2ZK_gKrvhl5q8l74oAEn7YslLikTd-dqDSt2r3RnsaWrGNrYeq8AOlrqXUmeluEYsmZyJjwseo9dMuCBfXQqalqsCxZw7pw="
+    },
+    {
+      "title": "taipeitimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBjLoEjAJtWKITO1nLXGUMfzywF_8m99C6lE-no9YTrrYpnZV2YDFdTyfQVHoNWtTlH6ZL3H-uJNeWq7T3Sm0QnPjX9Ziu73AZDNWl36bsPjZqn1a7k5iiEdvUOe2Cg6XYM3RaNZYOz3X5cyS4BROI5M1ropeSQNHUG9KK"
+    },
+    {
+      "title": "aaartsalliance.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhhVLHdNnEJglVsRMNfQNYJ0ntns3-WVsK06DylFfWTRr8tAjEF-6MyAtojj8nLbXHfBFqgj1ilwGQzHEtUxOxJbdotqq0gopdT2X6iXUNo_pUvhytl1goisgw-7sgiWhb6A6o4GcD_T82f1IWZ3S326pClKEAivi9aBnnzfE7-IyOwfbvbkxKqlHD8ZSrEb19if_CXqUH5CjVakBJTv6eWj_nM1aFUYRC4VuHidIYdHhgSWK-LW50"
+    },
+    {
+      "title": "substack.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6lKxQMHwBdwUuWX2Pyw_W-UYC70CFyn03CXfm1BjkCIFYExr5-Srn1F58yxABspRmGwBO4M9KM-kIyA1oy26KiyH7uTOST9FUxBvJs5nNzDCUSDTCN96o2o7DYVPEPYc4gCVVdB6yMBGTflJ3BRf6uvzEFQhFD1HP9BaX"
+    },
+    {
+      "title": "penumbrafoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8FJTsV39sF0ppblCD4UTuPtFPTRmtGiavtTGc3XdLE17MLbF4y1VZkahO6z8zqAhRWf3hbHFX88gTYxoR5wvFxf752u4tMegIFMVHm5jNmnKmm7r96Zjc_Q=="
+    },
+    {
+      "title": "photobooksatpenumbrafoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8HZM35YCJiSkHApgWhvAOArhtxLg39cSXfTeclyKAcfJQ-UTqyu0hb3fHtp7wbokPlR3u9esDuST7M3A4XUw7BFsoP9sZzeYgLQtMuCJcCpDQv_9JK-VN8FYrlB5saEul"
+    },
+    {
+      "title": "photobooksatpenumbrafoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8YLtql5jQ-YxbfOQyAny33BQSvDYopPcGFw1HVAluz9XsK76EBHv0Yr0RxVwNxBkvlP0BbxyfvYPZJAAy7DvG3CFXxij8sWY49S0EPyI075xplEYFB226dpTOIZ1KMXDOQeopLDKFagmhVO0ieskvcco="
+    }
+  ]
+}
