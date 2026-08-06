@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-06",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Issue 028 (2026-08-06)\n## Research Stage: Evidence Dossier for Strongest Candidates\n\nBelow is the curated source dossier for the five strongest candidates matching Muki’s research and curatorial framework, retrieved from the past 24 hours up to 7 days.\n\n---\n\n### 1. Visual Culture Signal\n*   **Chinese Headline**: 亚特兰大举办 Kathleen Cleaver 摄影文献展：以私密照片重构这位黑豹党女性领袖的完整生命历程\n*   **Original English Title**: \"The World(s) She Made: Composing The Radical Lives of Kathleen Neal Cleaver\"\n*   **Specific Source URL**: [https://theworldsshemade.com/blog](https://theworldsshemade.com/blog)\n*   **Publication / Opening Date**: July 30, 2026 (Exhibition run: July 30, 2026 – January 4, 2027)\n*   **Verified Facts**:\n    *   **What**: The first comprehensive public photography exhibition exploring the entire arc of Kathleen Neal Cleaver’s life (civil rights icon, communications secretary of the Black Panther Party, lawyer, and retired Emory Law School professor).\n    *   **Where**: Auburn Avenue Research Library on African American History and Culture, Atlanta, Georgia.\n    *   **Curatorial Team**: Co-curated by photographer-archivist Sierra King, John Stephens, Stephanie Alvarado, and GSU Associate Professor of Africana Studies Lia T. Bascomb.\n    *   **Process**: The project was initiated in 2017. Over a three-year period of weekly meetings and retreats inside Cleaver’s home, the team protected, cataloged, and described nearly 1,000 photos from her personal collection, aligning them with Cleaver’s own oral narratives.\n    *   **Content**: Features childhood photos (as the daughter of a U.S. Foreign Service officer), BPP activist years, political exile, law career, and family life. Highly intimate photographs were deliberately omitted from the public display and kept for researchers at Emory University’s Stuart A. Rose Manuscript, Archives, and Rare Book Library, which houses her complete papers.\n*   **Relevance to Muki**: Directly links photography, activist archives, and feminist structures. It demonstrates a meticulous, years-long collaborative curatorial process and offers a practical method for translating private personal papers into a structured, public vernacular visual history.\n*   **Duplication Assessment**: New signal (New). Not mentioned in any previous issues.\n\n---\n\n### 2. AI Research / Creative Tech Signal\n*   **Chinese Headline**: ACL 2026 發表 ComfyUI-R1：首個工作流生成推理模型，以長思維鏈自動生成複雜 AI 藝術創作管線\n*   **Original English Title**: \"ComfyUI-R1: Exploring Reasoning Models for Workflow Generation\"\n*   **Specific Source URL**: [https://arxiv.org/abs/2506.09790](https://arxiv.org/abs/2506.09790)\n*   **Publication / Presentation Date**: Presented at *Findings of ACL 2026* (July 2–7, 2026).\n*   **Verified Facts**:\n    *   **Authors**: Zhenran Xu (Harbin Institute of Technology, Shenzhen), Yiyu Wang (Alibaba Group), and colleagues.\n    *   **What**: The research introduces ComfyUI-R1, the first large reasoning model (7B parameters, based on Qwen2.5-Coder) designed specifically for automated ComfyUI workflow generation.\n    *   **Technical Mechanism**: Trained using a two-stage framework: (1) Chain-of-Thought (CoT) fine-tuning for domain adaptation (incorporating node selection, workflow planning, and code-level workflow representation), and (2) Reinforcement Learning (RL) via GRPO (Group Relative Policy Optimization) with a fine-grained rule-metric hybrid reward to enforce Directed Acyclic Graph (DAG) structural integrity and format validity.\n    *   **Performance**: Achieves a 97% format validity rate and a 67% pass rate on ComfyBench, outperforming leading closed-source giants like GPT-4o and Claude.\n*   **Relevance to Muki**: Crucial for AI-native creative workflows and tool orchestration. It marks a clear structural paradigm shift where AI agents move beyond unstructured text prompting into the autonomous, logic-driven synthesis of complex, multi-model creative pipelines.\n*   **Duplication Assessment**: New signal (New). Completely unmentioned in previous issues.\n\n---\n\n### 3. Feminist Structure Signal\n*   **Chinese Headline**: 東京都寫真美術館舉辦出光真子個展：以先鋒影像「加惠，女孩吧！」重訪戰後日本女性的身體與家務政治\n*   **Original English Title**: \"Idemitsu Mako: What a Woman Made\" (出光真子 おんなのさくひん――ある映像作家の自伝)\n*   **Specific Source URL**: [https://topmuseum.jp/news/12788/](https://topmuseum.jp/news/12788/)\n*   **Publication / Announcement Date**: July 29, 2026\n*   **Verified Facts**:\n    *   **What**: A comprehensive retrospective of Japanese feminist video art pioneer Mako Idemitsu (born 1940), examining women's lives, motherhood, domesticity, and societal constraints.\n    *   **Where**: Tokyo Photographic Art Museum (TOP Museum).\n    *   **Dates**: June 18 – September 21, 2026. A special screening program will take place from August 27–30, 2026, using rare 16mm film projections.\n    *   **Content**: Features 40 works spanning her half-century career, including her iconic 1996 video piece \"加恵、女の子でしょ！\" (Kae, Act Like a Girl!), highlighting her use of early video technologies to dismantle patriarchal structures and interrogate domestic space.\n*   **Relevance to Muki**: Deeply tied to feminist visual culture, media archaeology, and East Asian media history. Reclaiming Idemitsu Mako’s work provides a concrete historical reference for how early consumer video formats (like 16mm film and video cassettes) were weaponized by women artists as tools of domestic subversion.\n*   **Duplication Assessment**: New signal (New). Not mentioned in previous issues.\n\n---\n\n### 4. China / East Asia Signal\n*   **Chinese Headline**: 首爾國立現代美術館舉辦《這（不）是概念藝術》：重新梳理 70 至 90 年代韓國概念性實踐的歷史邊界\n*   **Original English Title**: \"This Is (Not) Conceptual Art\" (이것은 개념 미술이 아니다)\n*   **Specific Source URL**: [https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018](https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018)\n*   **Publication / Opening Date**: June 19, 2026 (Exhibition run: June 19 – October 11, 2026)\n*   **Verified Facts**:\n    *   **What**: A research-driven survey examining the \"conceptual turn\" in Korean contemporary art.\n    *   **Where**: National Museum of Modern and Contemporary Art, Seoul (MMCA Seoul), Gallery 6.\n    *   **Artists**: Features 28 artists, including Ahn Kyuchul, Bahc Yiso, Choi Byungso, Chung Seoyoung, Cody Choi, Gim Hongsok, Joo Jaehwan, Kim Beom, Kim Kulim, and Kim Soungui.\n    *   **Scope**: Approximately 140 works. Unlike Euro-American conceptualism which often sought pure linguistic dematerialization, Korean conceptualism developed a \"material-conceptual\" method. It used everyday humor, absurd objects, logic experiments, and popular media (such as newspaper missing-person ads or lines drawn on dirt fields) to navigate and critique political regimes, censorship, and institutional power.\n*   **Relevance to Muki**: Provides a crucial reference for East Asian art history and media/conceptual archaeology. It offers a clear methodology for studying how regional artistic practices adapted Western artistic categories to local political realities without collapsing into pure formal reductionism.\n*   **Duplication Assessment**: New signal (New). Not mentioned in previous issues.\n\n---\n\n### 5. Archive / Long Read / Opportunity\n*   **Chinese Headline**: 台灣獨立藝術空間 ss space space 開放 2026/27 年度徵件：支持跨學科空間與媒介實踐\n*   **Original English Title**: \"ss space space – Open Call 2026/27\"\n*   **Specific Source URL**: [https://ssspacespace.work/Open-Call-2026-2027](https://ssspacespace.work/Open-Call-2026-2027)\n*   **Publication Date**: July 28, 2026 (Open Call active until August 31, 2026)\n*   **Verified Facts**:\n    *   **Who**: ss space space is an artist-run independent space and spatial research collective founded in 2020 by Sean Tseng (曾彥翔) and Sara Wu (吳依宣).\n    *   **Where**: Located physically in Section 2, Zhonghua Road, Bali District, New Taipei City, Taiwan (established physical presence in June 2023). The district is known as an industrial center for marble manufacturing, making it a hub for local artists' studios.\n    *   **Opportunity**: They are accepting proposals for their 2026/27 program, including exhibitions, performances, screenings, workshops, lectures, publications, and research-led projects.\n    *   **Support**: Selected applicants receive an NTD 22,000 grant, administrative/curatorial support, and participate in a 6-month collaborative \"Artist Development Programme\" in Taiwan.\n    *   **Deadline**: August 31, 2026. Application fee: £15.\n*   **Relevance to Muki**: High-quality regional funding and exhibition opportunity. It represents a rare, geographically grounded decentralized platform in East Asia focusing on spatial politics, independent publishing, and material agency.\n*   **Proposed Section**: `Archive / Long Read / Opportunity`\n*   **Duplication Assessment**: New signal (New). Not mentioned in previous issues.",
+  "citations": [
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWRBXEC8dAyaSpZXEXLikpybF72Y4_eAbEe8rbWipdrfVg1LoND_9xRyNcxiDhyXZDcmscZ7VVipQ7TgYwP2_Phw5Fuq3RIXz7YUsXDlfaFe0NRSz3RGKEksE7stpduFCCj0_grRe8tUKL4CmRfpGb7eJIsgehsjWemLXTlO2T_YAMIImn_A1B8HeFFiglvV6bIXk="
+    },
+    {
+      "title": "uatl.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7lE_8AvOXQu5H0uaR12DDtoucVKwv9yXk1qNNFphYruUAFLip7TJiitM-ILlOn3deRj6wsawCJFIjwtvUcaYheCF8Hdd7Ly7wNL5qCoYoo8xeJlxYiRZfnz_tLF06qqH5-hXNlTBxoGbk2Gl3xxnCmjZdBW9Pb9TaVFmZzqofdvJRZyvtOr9bkBWHzvULAUP7mtpDDhI1iM5Xdd5XDG2sXOvAooXYi5NuW58="
+    },
+    {
+      "title": "roughdraftatlanta.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-LpUxUyYEfMISpQ2FEKacTAyeVeF16Q98libWGTurBK1BntCquq9M4N4IswPiK9E89gKkRVkQEoovhYEhTUEFqr_l2PRL4dHjqKodBuy3QD_35FbptgjIwvC-sGUXT7EndbUo1nMJlYl0vJk-H1xJv0sA4ML0YDjIiuWfI1xjCfhAethJTsLEZo2DCkVl_ZHa_I75RmwyetRI3bXCIDptErxmSi2E-jFP"
+    },
+    {
+      "title": "emory.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHxbvkCIPLR4nccwtRmdh63wdrSf4hEurN68jN8axc8axu5rYYTnWyM6TBB02IfEWn5SNf-Gz4jN3jJodU8lG4_RmPibOLePnlwwnMiGLfxYA3L6OZB1atUQGmi_nBxtLkiaPujyHCIzwNLaihZWSH-tTQh_1LM_gvFKxwwuJtGjsYbzP_ZZXU39uCAljGFW6nB87z4fUDZwT5234l3M9F"
+    },
+    {
+      "title": "roughdraftatlanta.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1TMjHRbUKO9com-lygy_xKh-wY9912OKw7qGipYmONXrU44YEYobt2OvBNoWfcv-CTGLakkLHVIcHQo6O8bB177iO2MtcdKxYduj5Jzs-LfAvTeCOEhFSlbHWsXEJNVPUzz-e0oppxRb3IHCr5KtiO7JuywWbnpYjARdFepAFASSqZtlFcK2QwBdsjIzAnCGCUaU18WjHaiH40zg1RYVhz32YgY_aQJ4="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXrXjroFhVQULAijQqxJD3QDDQwzlmXkSJCC0sSYHFDGacw-tcKBxQDJKL1ojFJcmfNZx4HkQ0e_MtWwVbq8zS0v_vPzOXzjABFHpt1OdMiyITK7_fYw=="
+    },
+    {
+      "title": "aclanthology.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5_XPkly8xVFVvPNYEMdIH-o1sHW-MaiewFgS5XNDf-tYi7V2Q-AWgL4-K-iNkRnCRfsYQtJh-edZuoRfL4HNRhloCzm3ulD7tv78Z4qfNv73fGJKjrSg43Mv9qbWQV3uxqIYWmpFKsA=="
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG0hVfQtI9uUylvvDxFTq_6cqEVV-ZyEaUKMOjh-RtAwf9hRGKKYrWGmTG0QMC20e-diEOQo3x-7hDSR2UaH-9dYuagZsYuX2xnNBZ2l8CzgwEg9sAFH9BoUZYNzRC"
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBqOahND-2PDoqzbtS1EB6UBU2lfbbiVQcpAFN_5jbA82DSt1cd7_dGJ97ZeXO8mipe0LA6WtOM5jNmho2txkZ4kF5Kvn57enlJPW-VMK-lac8GF_UDUUlGWHBPH1vo9pC3llmeqPE7qcmEvFhIvuMZ6FPPfTcDfC0dE8i"
+    },
+    {
+      "title": "substack.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkLYTaK4k0Zi5hDNxUiCrTcSg-j6Cj4TR01Y6bOUedj_FOw87oal4Nj_EJWkYaKUGiYUOW9ekRJmnzUNv5TPStgUKnSppQ6oypMY-nlCMklmJ2wLUdzdV7PxHJFf63vCQS0TRCQ_4hPv4yZDiofT9O6D3NlV4iIQnu-zexhNUg"
+    },
+    {
+      "title": "prtimes.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeT0eQ3zcJ6fkWD8Tc_ogkY5w3LeEN3C0IHZudstU4ZUm8-5d83C2w_C6htqTJ4wA-n5F7yh9QGiXe5hYdZA8ClNoy_Om5qZof8byYz9wygVlhRGYnSyh-YaMTt0mDO1OTNlmyJxz3XLClImC5DxL3"
+    },
+    {
+      "title": "fashion-press.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc4V6eUXhBDoZv0EGvSUkCzQvWCiXvm5vXy6uW3Gu-QprIOSc4CTLLPUXxmeNy0qzfkNRocJRMh2fS-y-mlliaP9dwo0owD-nvdKPDVMBJS_OoL0eIkF4iKX1163XY"
+    },
+    {
+      "title": "k-artnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1eNjW017zEf2OXW80teHEKpUlVlsUffWtpMoIRcaFZhVizI7Rlv3Y2gAwnnYMNbfD-Pi9ETm8O8ZlIFyoFv11VdouiegH2uy9Ld1iSOmSDIJUFbq2aANjY7nAoMJU8j5OSY1OA=="
+    },
+    {
+      "title": "mmca.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK3x5cmmfsdAOy7lMvulSc6CUx_f8YgHKk1nQlC7TiFs9NNA89xydgYLUls26Ekrwjrl_ls-D-f_9pQI2xHGJnT2O_0GlZCf0YJAd-dMihj_rbhVQEU1iNDOsZkqKIDkJwjebepbE09gGEElLsB5XWFw=="
+    },
+    {
+      "title": "mmca.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHROmeX5Dlu2T45LBg0i93zp_2hO6PSeq77CLXJ2bYnXFXRFoooK1lgMxkPc-_oo6eNi8JtmO1TqqEOYtjBlovKENnR11-BYr7nefOeCvLzv39_8g4T_MGiHCHkRGGxizMkYQIU8k0O4UMXdBJYVjcWHlXjuA32XwKov0xOuo0klz-uiQ=="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6bDi0UzWWryAWwVNWI1KEJyTaZu5Em1kRVxy0tN-YqeX1W17Ik9-o4v-huaOxfpw3BPoUA8_lyWredSQq2SeP34O7hd6JM2ZyQIYOhJ2k7UdEIQfl2TV6G7vX-jEenM1lf20lxuOY_eJ6wxC3DzSbKmUv-gGyrHmGGPtKaA=="
+    },
+    {
+      "title": "artasiapacific.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgTn8HBFjsNoF9Zzjx40k-HYuslL5sTER7U4k9DCf7sFOOS6QaAsW7wGUI65NWHOAdc7MJsdMEd_ZH5aFHY-Tohik1ZhKPHXKPba9OpvYDxAPIV4KXxUS7a0Rtgqsjpf3_t7hg-WsgNulVYQl1XILYrhhpgQ_mA7OI5LDgBh1KPogIwsQ="
+    },
+    {
+      "title": "mmca.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELjEMb_gWlM3YPIbsF5EFLeRYt75x-rDuNbzxrnkjGur9Y2cdkWilyxBcZCCRbdl0zvan7m3IgIbg6DmehKEw30FKIrk_H4Buo5itzctScTR1P75UmdA6jjYN1-km5eGFGA2ZmSxNewFXWjeu_K8WM2L8a9HRcl8HPrGOslJtvB8S8mV1MF4w3"
+    },
+    {
+      "title": "ssspacespace.work",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExuaHanAa5USHHscTXt5o__DC7lDHYf8p7WD5R-nGOtGV9GjNEGM_b2XkCC4TfDbLsW3ClT_rgNXMsNYbrdxL4r0t2HiFQXYP4E6TD9cEIR19nrpL9EGyYEKh-5wkNo3E="
+    },
+    {
+      "title": "contemporarylynx.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3uVIDOCDz8Gdljwar0ofYvlCKDorQaE6x7CQ3EhO7T-nE0dNhYOYmgWThtr_p8oSQBwtIM2p31Vv5KEOU5Q4ZYFhKD0vuU7xMmoIrGFu18vBhNT77N0Yg5ZMRd6TzIpaHICVIJagyIANmLhn_b4sYLLDi8ax9Yzvbzcz6Btkf80Cph6zWseBFhXY6LIqc-5Yka1jh"
+    },
+    {
+      "title": "swab.barcelona",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzJpzYK5AEhh_Ms6CM-_a-AU0i8LJptXKMP1UnQjz0uJkNq8NH3C7oBdyPIbivfWU_iOqjW4dcuILap7yI84AG8qEIFM1GGYlh69E7z-ene3xMxwx1KJAXDRX10viY3dQ6esTsGZoh90pQ"
+    },
+    {
+      "title": "popbee.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ3xwwvO-YO-Pu0_LiQtyjJK7gpSX10PMvylnD5jeWOorgDplE2o1w19jHCG7dbjYMHTu1TB0xJcDNSKYDeoOIkD4KKUzjBLj_T89y0DkTOJJ4x64bnoTO6uTTixUw1whrUmjNDVxhBbEuTzoTOh-s4EvZedrHZbsZ50_-I2A="
+    },
+    {
+      "title": "liste.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv1iHr3paJQuoDCZJN3TiZM-z8XJdwD3UDKpT7zem0n2T-7RWj8zep3XUQHTpU9qcuI-zsoZh3NCHuUqsLf9AyaFTl6EedqB1-hnD0BojhSMfTLyBBsVwzbqTftojoMLIuaS1-2DyrweA="
+    },
+    {
+      "title": "ssspacespace.work",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuQnscg7zRFwdrsfFaJi_FV68uxz6rp6CjZwLHQ2_JhYB7MdGvXIDSId3JKhnRYZ8UwCdpjyeAk2tkzr1I11PZXHv-UQToho4spUxj9Y4qnB1FfcbNgXKQRVst8XhG8e8rkmfwQA=="
+    }
+  ]
+}
