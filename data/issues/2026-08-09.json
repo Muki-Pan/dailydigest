@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-09",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "老龄女性能见度",
+    "图层式工作流",
+    "手语媒介考古",
+    "摄影书资助",
+    "交织性影像",
+    "关护与疾病日常"
+  ],
+  "why_today": "今天的文化信号聚焦于艺术机制与技术流程中极具张力的“微观控制”。无论是通过打折申请费来抗议性别薪资差距的女性主义空间，还是将传统图层编辑直接塞进 AI 节点的工作流重构，或是用手语线条和 15 年疾病日常刺破主流失语症的身体档案，创作者和机构正告别宏大口号，在极为具体的机制摩擦中重夺自决权。",
+  "intro": "本期简报收录了过去几天全球艺术机构、生成式工具与影像基金会的重要动向。我们关注年长艺术家在制度中的能见度、多图层生成工作流的工程重塑、聋人语言在公共技术空间中的转译，以及长达 15 年的疾病日常视觉化实践。这些信号展示了创作者如何在肉身局限与资本壁垒中，使用特定的媒介语言完成自我档案的校准。",
+  "opening_signal": "在机制的微小缝隙中，我们用具体的数字和触觉重新夺回身体的发言权。",
+  "closing_signal": "当技术生态试图用统一的算法均质化所有身体时，艺术家正通过最具体的机制摩擦——无论是丁香色的信纸、打折的申请费，还是手语在巨幅屏幕上拖曳出的轨道——在暗处固执地锚定真实的生命刻度。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "法兰克福摄影论坛举办“Gen Z：塑造新视界”：40多位年轻艺术家的复杂身体与代际档案",
+      "title_en": "GEN Z: SHAPING A NEW GAZE",
+      "summary_zh": "由洛桑 Photo Elysée 摄影博物馆策划的群展“Gen Z: Shaping a New Gaze”巡回至法兰克福摄影论坛。展览展出全球 25 个国家的 40 多位年轻摄影师的作品，关注交叉性视角下的阶级、种族与性别议题。参展艺术家包括利用虚焦影像探讨保守社会女性可见度的 Fatimazohra Serri，以及使用实验物影工艺和家族遗传玩具屋探讨跨国收养认同的 Francesca Hummler。作品展示了年轻一代如何通过替代工艺重构个人与代际档案。",
+      "summary_en": "Curated by Photo Elysée, this traveling exhibition at Fotografie Forum Frankfurt showcases works by over 40 Gen Z photographers from 25 countries. The artists reject algorithmic archetypes to explore intersectional themes of class, race, and gender through personal histories and alternative photographic processes.",
+      "why_muki_cares": "展览展示了年轻一代创作者如何告别社交媒体式的算法和模板化叙事，转向利用传统印相工艺与极端私密、交织的代际记忆，来建立可触知的个人生命档案，对年轻一代影像研究有参考价值。",
+      "editorial_signal": "年轻世代通过重拾物质工艺对抗算法叙事的均质化倾向。",
+      "theme_tags": [
+        "Gen Z",
+        "Photo Elysée",
+        "vernacular archive",
+        "Fatimazohra Serri",
+        "Francesca Hummler",
+        "intersectionality",
+        "materiality"
+      ],
+      "source_name": "Fotografie Forum Frankfurt",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45suTXwdI9FNVdk3Puq6oM92zLJHKqP5Bnw2fZhAUSFeg4lDhlmXBOdXq5xQOWRrEEYzJgix4bH1FHmKyQXNT_zdUx29iXzhO93Y-xFaMdK9LdlVQUGevDuih0YOIj6AZnM7Onfv9JCFvcLueHfIUMSrGEKQ9JgBw9g==",
+      "publication_date": "2026-08-06",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 升级 v0.30.2：原生集成多图层合成编辑器，打通生成式节点与非破坏性编辑",
+      "title_en": "ComfyUI v0.30.2 Released: Native Layered Image Compositor Merges Generation with Non-Destructive Editing",
+      "summary_zh": "节点式生成艺术工具 ComfyUI 发布 v0.30.2 更新，引入了重大的图层合成编辑器（Image Compositor Editor）。更新新增了“创建图层化图像”等节点，支持非破坏性的图层混合模式。此外，该版本还原生集成了视频模型 Wan-Animate2，并支持 ByteDance SeeDance 2.5 和 Black Forest Labs 的 Flux 3 视频模型。这次升级改变了传统工作流，使创作者无需将图像导出至 Photoshop 等外部软件即可在同一节点管线内完成多图层微调。",
+      "summary_en": "ComfyUI has released v0.30.2, introducing a native Image Compositor Editor that allows users to create layered images and perform non-destructive blending directly within generative nodes, bridging generation and traditional design suites.",
+      "why_muki_cares": "升级解决了节点式工作流中“生成”与“图像微调”的工具链割裂。它把传统的图层合成逻辑融入节点管线，实现了非破坏性图层编辑的原生自动化，对 AI 创作者重构日常设计管线有直接实用价值。",
+      "editorial_signal": "AI原生创意工具向传统多图层非破坏性设计编辑领域的深度蚕食。",
+      "theme_tags": [
+        "ComfyUI",
+        "creative workflow",
+        "image composition",
+        "automation",
+        "Wan-Animate2",
+        "non-destructive editing"
+      ],
+      "source_name": "ComfyUI GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-oPWHdERXrBChbzoP1JtyJSvS3mmtdyQ5ID0s-Zw2uwLKhLyeZGODt8SeJraNmb7XDBjdpMIWuQFAfPFdfWJtBvJiO_iMKUbLrznXE-qmhDiruQLwWA==",
+      "publication_date": "2026-08-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "哈苏基金会公布 2026 摄影书资助名单：Sturchio 姐妹以 15 年影像记录双胞胎与疾病照护史",
+      "title_en": "Hasselblad Foundation International Photobook Grant 2026: riel and Bianca Sturchio's 15-Year Visual Chronicle of Care and Sisterhood",
+      "summary_zh": "哈苏基金会公布 2026 年度摄影书资助计划，同卵双胞胎姐妹 riel Sturchio 与 Bianca Sturchio 获得 10 万瑞典克朗支持。获奖作品《before the last lilac blooms》是一部持续 15 年的影像与文本档案。由于 riel 患有慢性病而 Bianca 患有脑瘫，作品围绕她们作为 queer 伴侣和残障身体的亲密照照料日常展开。书籍的文字内容被书写在丁香色信纸上并拍入胶片中，使书本装帧具备触觉感。",
+      "summary_en": "The Hasselblad Foundation awarded its 2026 Photobook Grant to identical twins riel and Bianca Sturchio. Their project, 'before the last lilac blooms,' is a 15-year visual diary documenting queer sisterhood, chronic illness, and care labor through sensory film and handwritten letters.",
+      "why_muki_cares": "这是一个长达 15 年、将疾病与残障日常转译为视觉档案的经典案例。姐妹二人将身体局限与酷儿照护转化为具体的内容与书本装帧物质性，为女性与关护媒介研究提供了宝贵的方法。",
+      "editorial_signal": "疾病与酷儿照护档案向经典摄影书叙事和实物触觉的物质性转译。",
+      "theme_tags": [
+        "Hasselblad Foundation",
+        "photobook grant",
+        "riel Sturchio",
+        "care labor",
+        "chronic illness",
+        "queer archive",
+        "materiality"
+      ],
+      "source_name": "Hasselblad Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG_5EVCVTeYZ0vVPLozRHhjIAP19Tcvgvq02RCPjiAWLo9gM9sQf87o7TSp0bCah280pL6KY2eCNECV-DJBo5YSXIM32I8LWHLTjF-lBxn2DTrb0Q_taxElAuwpnx9NTgZfm3OaQu6jr6YOwill0BsvYaQepEKzRiK97eAuQ==",
+      "publication_date": "2026-08-03",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "首尔 MMCA 展出 Christine Sun Kim 特设装置：利用巨幅 OLED 阵列与手语线条探讨无效沟通",
+      "title_en": "MMCA Seoul Presents Christine Sun Kim Retrospective: Reimagining Communication and Non-Verbal Space Through ASL Graphic Lines and OLED Arrays",
+      "summary_zh": "韩裔美籍聋人艺术家 Christine Sun Kim 在韩国国立现代美术馆（MMCA）展出特定场域装置《Have Many Dumb Fights Against Rock》。Kim 使用油漆与粘性乙烯基，将源自美国手语的动作轨迹与漫画动态线条绘制在高达 16.6 米的中庭墙壁与地板上。装置核心是由 72 块 LG OLED 屏幕组成的弧形阵列，循环播放手语转译的抽象动画。作品将数字时代缺乏同理心的极化沟通比作“与石头对话”，从身体视角反思了主流发声制度。",
+      "summary_en": "Deaf artist Christine Sun Kim stages a major site-specific installation at MMCA Seoul. Featuring graphic sign language trajectories painted across the 16.6-meter-high atrium and a 72-panel OLED screen array, the work critiques communication polarization and linguistic exclusion.",
+      "why_muki_cares": "艺术家利用 OLED 屏幕阵列转译手语的非声音符号，展示了身体动作和无声语言如何夺回公共空间中的展示权，对于关注声音、身体政治与媒介考古的学者具有极高的观察价值。",
+      "editorial_signal": "非语言动作轨迹在美术馆机制中对主流发声权力体系的视觉占领。",
+      "theme_tags": [
+        "Christine Sun Kim",
+        "MMCA Seoul",
+        "ASL",
+        "OLED installation",
+        "body politics",
+        "media archaeology",
+        "deaf culture"
+      ],
+      "source_name": "National Museum of Modern and Contemporary Art, Korea",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnswe3v3sWTT3a83ccTTWSx341tFLNN549uNt3r8DdtqfH1gEk17qPsgCOxbTfGlXYRwi6nSaXVgNQlVZvmJV_ZKCEMq5jYHuo55EtLlp8frikm98YWV-fgvrl3mVwcG--R2On5wauj6hDVAMdqxfzQt6YsCUpjI_qH53JxfKBkrn3QmbvOcqhkMjn-w9Rn7E=",
+      "publication_date": "2026-07-31",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "Woman Made Gallery 启动 65 岁以上女性群展征集：降低申请费比例以抗议性别薪资差异",
+      "title_en": "Woman Made Gallery Launches 'In Full View' Open Call: Reducing Fees to Symbolize the Lifelong Gender Wage Gap",
+      "summary_zh": "芝加哥 Woman Made Gallery 启动名为“In Full View”的群展征集，专门面向 65 岁及以上的女性和非二元性别创作者。展览旨在探讨年长艺术家在艺术体制中的能见度、身体衰老与生命档案。征集截止日期为 2026 年 8 月 12 日，不接受 AI 生成作品。特别的是，画廊将原本 30 美元的申请费降低 18% 至 24.60 美元，通过这种具象的行为艺术形式，揭露女性因一生面临 18% 的性别薪资差距而在晚年积累的经济弱势。",
+      "summary_en": "Chicago's Woman Made Gallery has launched the 'In Full View' open call for female and non-binary artists aged 65 and over. To protest the 18% lifelong gender wage gap, the gallery has reduced the entry fee by 18% to $24.60.",
+      "why_muki_cares": "这个征集在机制设计上非常精彩。它不仅关注 65 岁以上高龄创作者的档案能见度，还通过将申请费调低 18% 这一行为，将性别薪资差距和老年女性贫困议题直接嵌入申请机制中，值得艺术机制研究者借鉴。",
+      "editorial_signal": "将宏观阶级剥削与性别薪资差异直接编码为微观申请费用的女性主义机制批判。",
+      "theme_tags": [
+        "Woman Made Gallery",
+        "open call",
+        "aging artists",
+        "gender wage gap",
+        "institutional critique",
+        "feminist archive",
+        "labor structures"
+      ],
+      "source_name": "Woman Made Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-DIHMR73d49BqVwDlQWsIY5D8La7jJrIsHaJYCNXSAQ31-CsPm8ACZjxtZcoMaBfA2zVANN98FmC9gCjcq8OWxANaKTAs1FxQ4O9crsAhcZPd2GtIv5X",
+      "publication_date": "2026-08-05",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Long Read / Opportunity",
+    "title": "Woman Made Gallery 启动 65 岁以上女性群展征集：降低申请费比例以抗议性别薪资差异",
+    "why_muki_may_care": "该项目展现了女性主义批判如何直接作用于美术馆的经济细节。不仅是对老年女性艺术档案的打捞，更是对艺术系统入场机制的逆向工程。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-DIHMR73d49BqVwDlQWsIY5D8La7jJrIsHaJYCNXSAQ31-CsPm8ACZjxtZcoMaBfA2zVANN98FmC9gCjcq8OWxANaKTAs1FxQ4O9crsAhcZPd2GtIv5X"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Bangladesh Trafficking Photobook 'LISTEN'"
+  ],
+  "covered_entities": [
+    "Fotografie Forum Frankfurt",
+    "ComfyUI",
+    "Hasselblad Foundation",
+    "National Museum of Modern and Contemporary Art, Korea",
+    "Woman Made Gallery"
+  ],
+  "repetition_notes": "本期除 ComfyUI 升级为对 8 月 6 日 ComfyUI-R1 推理框架的跟进（Follow-up）外，其余四个故事均为全新信号。金善宇（Christine Sun Kim）对无声手语的科技转译，与前天韩国传统绘画对话展中的“模拟与转译”思想形成了地缘和媒介考古层面的深层呼应。",
+  "issue_number": 31
+}

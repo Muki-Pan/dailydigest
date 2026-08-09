@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-09",
+  "model": "gemini-3.5-flash",
+  "dossier": "以下为针对 Muki 关注的研究脉络，在过去 24 小时（并向后延伸至 7 天内）进行的全球文化、技术与档案信号检索。\n\n本期为 **第 031 期（2026-08-09）的深度研究与源数据档案（Evidence Dossier）**，已为您筛选并校验出 5 个最强候选信号及 1 个备选信号。\n\n---\n\n### Candidate 1: [Visual Culture Signal]\n\n*   **Exact Title**: GEN Z: SHAPING A NEW GAZE\n*   **Specific Source URL**: `https://www.fffrankfurt.org/en/exhibitions/gen-z-shaping-a-new-gaze/`\n*   **Publication Date**: 2026-08-06 (联合策展人 Hannah Pröbsting 最新访谈发布；展览持续至 2026-08-30)\n*   **Verified Facts**: \n    展览由洛桑 Photo Elysée 摄影博物馆制作（Nathalie Herschdorfer、Hannah Pröbsting 与 Julie Dayer 策展），首次巡回至德国法兰克福摄影论坛（FFF）展出。展览汇集了来自 25 个国家的 40 多位诞生于 1995 至 2010 年间的“佐世代”（Gen Z）摄影师。\n    展览拒绝以商业标签或单一数据定义这一代人，而是通过个人叙事、复杂家庭记忆、性/别政治和移民经验，重构一种复杂的现实。核心概念为“交叉性”（Intersectionality），探讨阶级、种族与性别如何共同塑造身体的感知。代表艺术家包括摩洛哥摄影师 Fatimazohra Serri（以暧昧的虚焦与阴影探讨保守社会中的女性可见度）、中国艺术家 Ziyu Wang（《Lads》系列），以及 Francesca Hummler（利用家族遗传的玩具屋探讨跨国收养、种族认同与代际记忆）。\n*   **Relevance**: \n    对 Muki 的策展研究有直接参考价值。它展示了最新一代视觉创作者如何告别社交媒体式的算法狂欢，转向以深度个人纪实和替代/混合影像工艺（如 Francesca Hummler 的 somatic-based lumen prints 蓝晒和物影实验）来重构自身的“生命档案”与空间归属感。\n*   **Proposed Section**: [Visual Culture Signal]\n*   **Duplication Assessment**: 全新（New）信号，近期简报未曾涉及。\n\n---\n\n### Candidate 2: [AI Research / Creative Tech Signal]\n\n*   **Exact Title**: ComfyUI v0.30.2 Changelog\n*   **Specific Source URL**: `https://github.com/comfyanonymous/ComfyUI`\n*   **Publication Date**: 2026-08-05\n*   **Verified Facts**: \n    节点式生成艺术工具 ComfyUI 发布 v0.30.2（8月5日）及 v0.30.1（8月3日）更新，带来了前端（comfyui-frontend-package 1.48.7）的重大工作流重构：\n    1.  **PSD 级多图层合成编辑器（Image Compositor Editor）**：新增“Create Layered Image”（创建图层化图像）、“Add Layer”及“Layers From Bounding Boxes”（基于边界框生成合成图层）等节点，原生支持类似 Photoshop 的图层混合模式。\n    2.  **动作/姿态重构支持**：原生集成开源动画/视频模型 Wan-Animate2，并支持可选的 pose-branch（姿态分支）缓存以提高生成速度。\n    3.  **多模型混合生态**：支持 ByteDance SeeDance 2.5、Seedream 5.0 Pro 的图层分离（Layer Separation）以及 Black Forest Labs 的 Flux 3 Video 模型。\n*   **Relevance**: \n    该更新极大地改变了 AI-native 的创意工作流。过去，创作者在节点中生成图像后，必须将素材导出至传统设计软件（如 Photoshop）进行遮罩、图层合成或细部调整，再重新导回 AI 节点；而 ComfyUI 此次升级将“图层化思维”与“节点式生成”在同一个本地客户端中打通，让多图层非破坏性编辑直接在生成管线内完成。\n*   **Proposed Section**: [AI Research / Creative Tech Signal]\n*   **Duplication Assessment**: 追溯与补充（Follow-up）。虽然 8 月 6 日简报提到了 ComfyUI-R1 推理框架，但那是学术层面的长思维链研究；本信号是针对日常创意生产、图层控制与动画工作流底层的实操重塑。\n\n---\n\n### Candidate 3: [Feminist Structure Signal]\n\n*   **Exact Title**: Hasselblad Foundation International Photobook Grant 2026\n*   **Specific Source URL**: `https://www.hasselbladfoundation.org/wp/portfolio_page/photobook-grant/`\n*   **Publication Date**: 2026-08-03（哈苏基金会 8 月最新系列公共活动发布，该资助于 7 月初完成初评）\n*   **Verified Facts**: \n    哈苏基金会（Hasselblad Foundation）公布 2026 年度摄影书资助计划（各获 10 万瑞典克朗支持），资助项目包括 riel Sturchio & Bianca Sturchio 的《before the last lilac blooms》（在最后一朵紫丁香盛开前）。\n    该书是这对同卵双胞胎姐妹（riel 为 queer/残障与慢性病患者，Bianca 为 queer/脑瘫患者）长达 15 年的胶片摄影与文本合作档案。作品围绕疾病带来的身体重构、脑瘫状态下的运动机制，以及同卵双胞胎之间“被误认”的镜像纠缠展开。作品的叙事文本全部书写在真正的“丁香色信纸”上并被拍入胶片中，使书本的装帧与阅读体验充满肉身般的触觉和物理亲密感。\n*   **Relevance**: \n    完美契合 Muki 关注的“身体、看护、疾病与女性/非二元性别的亲密看护劳作”。这是一个通过长达十五年的视觉档案将“慢性病与残障的日常性”转化为艺术抵抗和世界重构（World-building）的绝佳案例。\n*   **Proposed Section**: [Feminist Structure Signal]\n*   **Duplication Assessment**: 全新（New）线索，此前从未涉及。\n\n---\n\n### Candidate 4: [China / East Asia Signal]\n\n*   **Exact Title**: MMCA×LG OLED Series 2026: Christine Sun Kim — Have Many Dumb Fights Against Rock\n*   **Specific Source URL**: `https://www.mmca.go.kr/eng/exhibitions/exhibitionsView.do?exhId=202602240001`\n*   **Publication Date**: 2026-07-31（展览开幕，持续至 11-29；近期于首尔艺术周前夕引发广泛媒体报道）\n*   **Verified Facts**: \n    韩裔美籍聋人艺术家 Christine Sun Kim（金善宇）在首尔国立现代美术馆（MMCA Seoul）推出了她目前规模最大的特定场域装置展《Have Many Dumb Fights Against Rock》（与石头进行多次愚蠢的争吵）。\n    Kim 占领了 MMCA 高达 16.6 米的中央中庭空间（Seoul Box）。她使用油漆与粘性乙烯基，将源自美国手语（ASL）的动作轨迹与经典美式漫画的“动态线条”绘制在展厅的墙壁、玻璃和地板上，将其重构为一个需要观众身体步入其中的视觉场域。装置核心是一个由 72 块 LG OLED 屏幕组成的巨型弧形阵列，循环播放手语转译的抽象动画。展览主题直指数字时代在线讨论的极化与无力感，将缺乏同理心的无效沟通比作“与石头对话”。\n*   **Relevance**: \n    对东亚地缘、技术与肉身媒介考古非常关键。Christine Sun Kim 利用先进的屏幕介质（OLED 阵列），转译聋人艺术家的非声音语言符号（手语动作），展示了身体数据如何重构公共空间，并对被主流“发声/倾听权”所边缘化的沉默系统提出了制度性质疑。\n*   **Proposed Section**: [China / East Asia Signal]\n*   **Duplication Assessment**: 全新（New）线索。虽然 8 月 6 日简报曾引介过 MMCA 的概念艺术展，但此信号属于专门的特定场域科技艺术委任。\n\n---\n\n### Candidate 5: [Archive / Long Read / Opportunity]\n\n*   **Exact Title**: Woman Made Gallery Open Call: In Full View (65+)\n*   **Specific Source URL**: `https://womanmade.org/calls-for-entries/` （在线征集系统：`https://app.entrythingy.com/womanmade/in-full-view-65/`）\n*   **Publication Date**: 2026-08-05（官方在社交媒体发布临近截止日期的一周倒计时提醒；征集截止日期为 2026-08-12）\n*   **Verified Facts**: \n    全美历史最悠久的女性主义独立艺术空间之一——芝加哥 Woman Made Gallery（WMG）发布《In Full View》（众目睽睽之下）群展征集。\n    该征集专门面向 **65 岁及以上** 的女性和非二元性别艺术家，旨在探讨在艺术界及社会体系中，年长艺术家的“能见度与不可见度”（visibility and invisibility），以及关于身体衰老、个人生命记忆和未被记录的时代档案。征集接受所有媒介（摄影、装置、雕塑、纸件等）。评委为摄影师、策展人及影像档案估值专家 Jerri Zbiral。\n    特别的是，该申请特别限制了 AI 生成内容（AI generated work 不予接受），且 WMG 官方特意将原本 30 美元的申请费降低 18% 至 **24.60 美元**，以此在申请流程中以行为艺术的方式揭露“女性一生由于性别薪资差距（女性收入仅为男性的 82%）而在晚年积累的经济弱势”。\n*   **Relevance**: \n    这是一个极为有力的女性主义制度与机制案例。它不仅触及了 Muki 核心关注的女性衰老身体、年长创作者的边缘化档案，更通过“申请费打折”这一具体行为，将宏观的劳动力剥削、资本壁垒和女性贫困问题，转化为微观的美术馆机制抗争实践。\n*   **Proposed Section**: [Archive / Long Read / Opportunity]\n*   **Duplication Assessment**: 全新（New）线索。\n\n---\n\n### Backup Candidate: [Feminist Structure / Visual Culture Signal]\n\n*   **Exact Title**: Bangladesh launches first survivor-led photobook on human trafficking, LISTEN\n*   **Specific Source URL**: `https://bangladesh.iom.int` (报道源：`https://muslimnetwork.tv/bangladesh-launches-first-survivor-led-photobook-on-human-trafficking/`)\n*   **Publication Date**: 2026-08-07\n*   **Verified Facts**: \n    国际移民组织（IOM）孟加拉分部与韩国国际协力机构（KOICA）合作，推出了孟加拉国首部完全由人口贩卖幸存者主导的纪实摄影书《LISTEN》（倾听）。\n    该项目抛弃了以往官方报告和学术研究中冷冰冰的数字和执法记录，而是将镜头和叙事主导权交还给受剥削的女工、儿童和被迫迁徙者。通过深度的肖像摄影与口述史，记录他们所面临的贫困、不安全迁徙以及性别不平等下的照护漏洞。\n*   **Relevance**: \n    展示了纪实摄影作为“反向档案”（counter-archive）的行动主义潜能。当主流媒体和政策话语试图将身体隐形为表格中的统计数据时，这本摄影书通过“幸存者主导”的影像，重构了跨地缘劳工、肉身贩卖和关护危机的政治边界。\n*   **Proposed Section**: 可作为 Candidate 3 [Feminist Structure Signal] 的强力替代或地缘补充。\n\n---\n\n**Editor's Summary for Next Stage Execution Plan**:\n今日的信号具有极强的地缘互补与机制张力：从 **MMCA 首尔中庭** 对聋人手语和无效沟通的巨幅数字转译（Christine Sun Kim），到 **法兰克福 FFF** “佐世代”多元交织的身体肖像（Gen Z）；从 **哈苏基金会** 资助的同卵双胞胎残障与疾病日常的长达十五年私人看护史（Sturchio 姐妹），到 **Woman Made Gallery** 为 65 岁以上创作者发起的、象征着揭露 18% 薪资剥削深渊的女性主义呼吁。与此同时，**ComfyUI** 的 layer/node 图层混合系统更新则展示了 AI 原生流程对传统软件版图（PSD）的蚕食与逆向工程。\n\n这批信号没有陷入宏大的后人类陈词滥调，而是以极具质感的具体事实和机制摩擦（如打折申请费、手语贴纸、丁香信纸）切入数字与实体的交界。如无异议，下一阶段将按照此证据链生成正式的 JSON 期刊。",
+  "citations": [
+    {
+      "title": "fffrankfurt.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45suTXwdI9FNVdk3Puq6oM92zLJHKqP5Bnw2fZhAUSFeg4lDhlmXBOdXq5xQOWRrEEYzJgix4bH1FHmKyQXNT_zdUx29iXzhO93Y-xFaMdK9LdlVQUGevDuih0YOIj6AZnM7Onfv9JCFvcLueHfIUMSrGEKQ9JgBw9g=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGZUqEd4Kj3rL5VEYHSpO29_BGFmNNOlz1zknciwizx_vRnHrQNXMSbDADTPuI0I7mmFVDWwHOWOkuLtKlDAXgg7mb-3kU9PdfdpttCdX8SlxiqXXbyuiP9w-TLNyi2pR8zuCm_XPQq1_JDFUGsFVgmx3H4wpD1d1iAXKOAbPmOTNM5WMVp5MvAaLVk9bbcd6z0UQv6bRNP0kEFNJeyBN6aAQ_AUpJpXVTW1Ptk0KPjJ8f2C5FcnnqUVHY1f8dRc_CT0qL9t8NM7oVbrxeNOl61NIIdACrkg=="
+    },
+    {
+      "title": "literatur.review",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE866AHP4B0j6HHD7tuV7lnSSpQOqeAkOdnp_VD71kFFlFEwQM-vymuhvqKWoKoGbDads4zVEIBhEk0LaPzHH4b-g1DTTGcimAbMJ4vas6ixsBTRjRCesgzJptdLgtu3tZXZtRBryLwrbadq4pksewYMA=="
+    },
+    {
+      "title": "1000wordsmag.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHlr2jg1DBXdyZ13frQ0XYW6VqWLNFwU4PKE41te4tfxP2vzjuWQ2BBUM6Oo1gxo18AOKW5k9VVEoW2DeA2Wx-rWkpfUEZUYEnRiA2tB_65cVTacVTxa2AQa-Y8wOmfpY="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNaDuLa-8cexuTwuCJMapkUCes3Uf_ROr7I8Hxmg79gLyiNRjI8-O5t8VQ4EOa9UiPYrIssuy4BfPpl1rDjQ0FoGoq4o6estkjDEkoP-BSNHAs-8ej07AwspV8iUuFpZvVfs3a8lMd8baArQHf9txez9NWbakz-vNa85dWsREnRLUm7qPuCqqUyuJBbOEeJ0eqVtump1gxMfhu4FWbgIiSMoUG1V5-d6-JcFpagkP5uI76Lv4GFGLfTpl6hKLXApJ4Jc5HJCKYl0DUsA-e26GqVjsbAic="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-oPWHdERXrBChbzoP1JtyJSvS3mmtdyQ5ID0s-Zw2uwLKhLyeZGODt8SeJraNmb7XDBjdpMIWuQFAfPFdfWJtBvJiO_iMKUbLrznXE-qmhDiruQLwWA=="
+    },
+    {
+      "title": "hasselbladfoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG_5EVCVTeYZ0vVPLozRHhjIAP19Tcvgvq02RCPjiAWLo9gM9sQf87o7TSp0bCah280pL6KY2eCNECV-DJBo5YSXIM32I8LWHLTjF-lBxn2DTrb0Q_taxElAuwpnx9NTgZfm3OaQu6jr6YOwill0BsvYaQepEKzRiK97eAuQ=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF62OtF6Jjc9gjFXZ4TuBzUKnMMEJAbY1h1-G22UfzMZ69KwAgG9qN3p-iJm7Eq3r9VKOV1cYGDJeIt2C8cNRtZVBXbDfKyoxZ3fMP_424fspRh7isoddq3HRN2Io9WA28E5229LtFuNS9OeL4C9jB3k1zU_T7WA4u55nK"
+    },
+    {
+      "title": "hasselbladfoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTL8Lt7waLNRAAy3om8tmAm_mXOlyPEWmugV6_6MA7954X6qxURSsLAekc-Nzax7QNpwHJNM96iJJBuMnjPZczHpSm8jsGo5VrwWDpghhHY4lNU4X0waUuubXDt3Ml9hRmra2oxjrcNw=="
+    },
+    {
+      "title": "thegommagrant.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV7-8KuQKAkofXNe86250NjgNDOowj23hyZhsuaza-pcn3HLmvNdwO4heE-hWRwDsOQeXl7KEztqgdEjuGZ98NI71BoVpjs8yQ1leU_FL0ubLkUNq9BRQx8yzWXMKkt1WvcylxfALTxmPdK2ai8E3sP1oPag0="
+    },
+    {
+      "title": "meca.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOQmaNBYLhnwLs388oge8bnYkwCG88XlRGnW-4vSUS4HMXxrfrmOyx_gKaAn2WWLjJmU66ARi1ad8ZgMOOCuJ04_StjWn29B2RjZzkolVQ7-DEKMY="
+    },
+    {
+      "title": "filmphotoaward.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9m3a2EfUNtbwli7PuX1Rt8Fj8jUUFiWNEcxpwScZi7SR0gMmGHeCUs-s6q_FzKwnJoUTbMmsNSxs8MmnJfJ7Fdk0xWsZa7yURVg1qFHDfqI65E7g9yIiQrVcfTkK0OTe0X77G7stlPPmVzTomX5TstX5imSYqWw=="
+    },
+    {
+      "title": "mmca.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnswe3v3sWTT3a83ccTTWSx341tFLNN549uNt3r8DdtqfH1gEk17qPsgCOxbTfGlXYRwi6nSaXVgNQlVZvmJV_ZKCEMq5jYHuo55EtLlp8frikm98YWV-fgvrl3mVwcG--R2On5wauj6hDVAMdqxfzQt6YsCUpjI_qH53JxfKBkrn3QmbvOcqhkMjn-w9Rn7E="
+    },
+    {
+      "title": "artfacts.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQQvM0RnJ9fRP1mfnTdWuUQEjfu31pxWtdjG8LDdsBVab9Qrb46qcRysT42GV2IxczprLVQnUgaRiXFJVTpL0tUvbum6cggu-tlSuT2xS34-wusdaw7jnNBXk9A-eS68W5uqyXy6mS3Orx8D2_J89ekIh0iZ7ye3NJoc6p_Wv9M9GDXTVvErpBh4oghwmzd8zlSsCu4gDdtx3sOa8nkG_r4fUbNBLloqhnnoXHLmKMPqnVxgIdTUeCuSuYbQ2bxF-CTh9Avu6W"
+    },
+    {
+      "title": "heni.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-WnaClsbXWyt_goqIf1g68qHbKcQEkIs82LNlDSevnXr4g0r_K4hDRk3il4YZC4LzcCwmGPqQXr1yFTWgbZqUvrFzpNzfZTv_-APcSa1sNQmK-kKcazFl4D8XFNCiwBS7EyjqXBmwWLb4h22Hd1ltGuS38vQTgFQQHU4n6Qh3qHHoWGvF0BKJK0o34yWiXQ=="
+    },
+    {
+      "title": "artasiapacific.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6gIdRP43q4EoLQOKCp2W-73ERY6TMdbQtVYrO0JrDYkxVi4eF-JCEQUsuXZ6HJKXY_yQcxhIDDYaole4nXOr1ZRfNttOEc_SfXGXLPH1t2FPlmSy6EH1qBqsEOxv3J9_NwLmrt9YtDpL-TkgHD14v6O0zhbNJZJMaJ5WZs9YbVBx4mGiFfQSeJSFqm1v2Vo92Uiigg920"
+    },
+    {
+      "title": "koreatimes.co.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9CMnnDKQMNoGpZN7ky3rqAMPch4WrwHkyi2q7DRKDT9QKsfiVYEowMqC_tY4Uv5AIivaKfX7KbEGCpIn1ojX7LEiurN919dVBxFJWLIz_PHQnmxuLURvYEE3RO7YH4UmY8H-c4B8qsGsjooJ4bOmo3KqJD_7tjU1VgDh9Quz0AWG1QGadoJosLOPNsoFGBELcoCbnGdmqvfW8f_FI9uMhGdR37Um99x1Jpu_8WRp654RjD46B4nwtA=="
+    },
+    {
+      "title": "koreaherald.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq_TFcMQL4GEmaIoT5VLerZRnT6HVf7ZX2zHGfdb3YEXtvV7Hr4M4WCh5elb0DBjrqjEx4CFQkhRAcapvhEP9Lrir5Hr1tp8y8Qs_a0i0lLtOHti0Xz4scRCjPfTmVO0qc"
+    },
+    {
+      "title": "koreatimes.co.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRL11doa5NWVge4b2tLn6E1KJwvugtvFEMXHVqOg4hPjYz6X0_8hrZtegZqHkX-egsOICc71aoL4KoDc9NHSto-7jgCRYiKKQeRevxIgby5ViK8Avf7OXpJANfqF1nrGwzXRx9PHRuVzPx6IFL6rRd_FdJWhTNLMDZqvwEN50kCgqudZ5_P8u7bLvZqsIHYQTc4_ZaLSkBUdFd87uHFfZfBiRRfxdwin1Zaaf_kEfhrVdN4xVPPQ=="
+    },
+    {
+      "title": "womanmade.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz-DIHMR73d49BqVwDlQWsIY5D8La7jJrIsHaJYCNXSAQ31-CsPm8ACZjxtZcoMaBfA2zVANN98FmC9gCjcq8OWxANaKTAs1FxQ4O9crsAhcZPd2GtIv5X"
+    },
+    {
+      "title": "ncwca.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7kK0x391OpB923UiGvXec-dvgj4hFkRyolwhfzwBtk_nBR9IL8nUpbrB0blhRs-zw7JPn8BAdWF0pUUd_VOej0Kq0OTWgmPRN6aK7gPdZh1upWm1BtvNhpX0e9i7LGqEsX2SLDOlOte8="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfnA8xF12IxUObKEjNueBoUu3xhfsHLv6MpGBpUPu6W0rLhQyJIA15yxv8iV2cYYd2DrTiSqKpv-P05QtSo_7O-wk6B6exVtU2ri790cqQy7TG_c249hQL6lJTpsceXhDhLc4bSSLJvGTRxRvgsRqIVTNdcWTZQ0TrsslCJw05CAbaoGp6ERg7Dq9LDMCZs2uY7d_KKDQFAN9PaAbvgZjG3rKCrfsH_t97pmJodRnOCrwtwOsLURdxIuN8i2S1apQxpVbntfEohao_8VytQg=="
+    },
+    {
+      "title": "artdeadline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-1vIFBcZn7kZjBqMlET7ewrvKKo0t6_uvrsL-c7QxwkKEuHoX4SD0E2YLoAPbUReWXKvo75smattLdP8mA1CzwBvAd52CSgRt8ciTi0uPPMWk6o6EQyDP9m7I3wHzOzQQRa7FyBnB"
+    },
+    {
+      "title": "entrythingy.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG7qP3y73M0Ge1jOID6P1FA9VJV83UvSH6MWWjFtdltquXXNHzrmzXS573aS_VgcTaoE6NriuCpE7Xf_3w0Z1o1gWt0qdwZBvYzLow_Nm2C7-W-UheX5GbRaCdjDzgHNHFmiHrBRFXGKVOv8k="
+    },
+    {
+      "title": "artdeadline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhCQy-p5ZYvKyqJz0MzBz091nYA3pUSudcUqyDMWPEbCaVJk14RuFu37JCXnJvyj4nyVZx24e6mnjJcD76ihzuKTDnmoMZWfAEdriPV9EjtJX_PTTFl8QUzmP6Ds9dVAOJOjebAA=="
+    },
+    {
+      "title": "muslimnetwork.tv",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENoaVHC9_61mVsK7UxYj0f-F_OhuJ-6ew0WnG9AddXMBqP2j5kD2licBM3kwXYDJuLDsTv2PhqkK91qlNCs4era6lTgxhUkoxOtZ7KFouO-N2q1X0ISUVI-c0eam5NyKyyXMZQ8rmPCTPvNhHfn1dnqqztbLvF2FQnJZNF6o5Go6ByO_Sr8hqHbqhaQb51xuJiQK3WPHJ0VNw="
+    }
+  ]
+}
