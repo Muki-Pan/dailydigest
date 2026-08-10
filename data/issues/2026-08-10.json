@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-10",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "家庭劳作档案",
+    "日常媒介考古",
+    "劳工与生态影像",
+    "AI 创意操作系统",
+    "女性创作者主权",
+    "空间去绅士化",
+    "非破坏性编辑"
+  ],
+  "why_today": "今天的信号交汇于对日常劳动空间与制度化压抑的历史显影。从新西兰矿区生态与劳工档案的延期审视，到东京都写真美术馆“明天的食卓”对家务劳作与老龄化的具体呈现，再到 20 世纪美国女性艺术家在家庭内部遭遇的创作权压抑，这些叙事都在将微观的、被遮蔽的生存现场推向公共前台。而 ComfyUI 与非盈利空间免费征集则分别从智能生产工具与物理空间的平权层面，为这些微观劳作提供了技术和机制上的自主性可能。",
+  "intro": "本期简报聚焦于“微观空间与无偿劳动的显形”。我们通过地缘影像、家庭档案与技术工作流的演变，观察创作者如何重夺话语权。本期五个故事分别从生态劳作录像、开源 AI 生成控制、女性艺术家生存困境、东亚老龄化饮食剧场以及对抗绅士化的空间机制，呈现了媒介与社会结构的深层博弈。",
+  "opening_signal": "日常的食桌与隐蔽的厨房，往往是承载劳动、衰老和沉默抗争最深的剧场。",
+  "closing_signal": "无论是将镜头对准家中的冰箱与食案，还是在算法和代码中重建非破坏性的编辑图层，这些实践都在试图于过度资本化和技术异化的日常中，重新为个体和集体的“身体”划出一片可以自主驻留的微茫空间。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "Govett-Brewster 美术馆举办《延期的经济》：通过录像与生态影像回溯新自由主义转型下的劳作与生态",
+      "title_en": "Economies of Deferral",
+      "summary_zh": "新西兰 Govett-Brewster 美术馆于 2026 年 8 月 8 日举办群展《延期的经济》。展览由 Simon Gennard 策划，展出了已故视频先锋 Darcy Lange、Fiona Clark、何锐安等人的作品。展览核心为 Darcy Lange 1987 年的录像《Lack of Hope》，记录了 1980 年代新自由主义转型期中被裁员的工人群体。Fiona Clark 则展出了 50 年来针对 Tikorangi 地区能源工业给生态及社会带来变化的影像记录，并以此对美术馆的资本赞助进行现场干预。",
+      "summary_en": "The Govett-Brewster Art Gallery presents \"Economies of Deferral,\" a group exhibition exploring labor struggles and ecological impacts during neoliberal transitions through video works by Darcy Lange, Fiona Clark, and others.",
+      "why_muki_cares": "展览将新自由主义转型期的劳工流散与生态剥削并置。Darcy Lange 在 1980 年代对劳工阶级的录像记录，以及 Fiona Clark 针对美术馆资本赞助的现场干预，为影像作为反向政治档案的实践提供了一个极具地缘特征的案例。",
+      "editorial_signal": "影像媒介在记录非正规经济与抵抗资本剥削中具有不可替代的档案价值。",
+      "theme_tags": [
+        "Economies of Deferral",
+        "Govett-Brewster Art Gallery",
+        "Darcy Lange",
+        "Fiona Clark",
+        "labor structures",
+        "ecological art",
+        "moving image",
+        "media archaeology"
+      ],
+      "source_name": "Govett-Brewster Art Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgs7Cl4Xh_O7JunM1DppMOvI26vBN-kXMw2_1E33i6vlnwK7GCmjplJQVb_hwGdpnBiYamJXWEIUPlhPzS6edZzsIhmUTE1GNhwtJQUtWloqi-gvkDzk3iPctKCBDffg2hZGkWwkd2zLb0sNAN8Na07Vx-LEJMoQ==",
+      "publication_date": "2026-08-08",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 发布 v0.31.0：原生集成 Wan-Animate2 视频控制与专业图层无损合成节点",
+      "title_en": "ComfyUI Release v0.31.0",
+      "summary_zh": "开源节点式扩散模型框架 ComfyUI 发布 v0.31.0 版本。新版本原生集成了新型开源视频生成模型 Wan-Animate2，支持姿态与参考控制并提供姿态分支缓存以实现生成加速。此外，系统新增了一组名为 ImageCompositor 的专业无损图像合成节点，原生支持类似 Photoshop PSD 的图层混合模式、多图层生成以及基于边界框的图层管理，打通了生成式节点与非破坏性编辑。",
+      "summary_en": "ComfyUI v0.31.0 natively integrates the Wan-Animate2 video model with pose/reference control and introduces ImageCompositor, a suite of non-destructive layer-editing nodes.",
+      "why_muki_cares": "ComfyUI 正在从单一的模型运行器演变为 AI 原生的专业创意操作系统。新引入的 ImageCompositor 节点和 Wan-Animate2 姿态控制直接打通了生成式 AI 节点与高可控、非破坏性编辑之间的壁垒，对创作者的实际工作流具有直接参考价值。",
+      "editorial_signal": "节点式生成流与传统图层编辑的底层融合，正在重构 AI 原生设计的控制精度。",
+      "theme_tags": [
+        "ComfyUI",
+        "v0.31.0",
+        "Wan-Animate2",
+        "ImageCompositor",
+        "creative workflow",
+        "non-destructive editing",
+        "open source",
+        "automation"
+      ],
+      "source_name": "GitHub Comfy-Org",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfkeVJtLv8cK88xW_1Po7RqhFwEt5cmRJ7KhJdThbyLczKL_CjTC_odxsu2rkur-0NxNYDgCqeamFVr_j6KMftsDQNDE4sNR4MNcsBUL8UMKH-nyBv-Q_3ySVDHS0L9_etipE=",
+      "publication_date": "2026-08-07",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "纽约 Lincoln Glenn 画廊举办女性艺术家群展：以历史档案剖析 20 世纪女性创作者的劳作困境与主权争取",
+      "title_en": "Making Space: American Women Artists and the Century of Change",
+      "summary_zh": "纽约 Lincoln Glenn 画廊举办第三届女性群展《制造空间：美国女性艺术家与变革世纪》，展出了 Dorothy Dehner、Lynda Benglis、Louise Nevelson 等先锋艺术家的 25 多件作品。画册由 Clanci Jo Conover 撰写，深入剖析了女性艺术家如何在性别分工、家庭劳作和无偿劳务中争取独立可见性。例如 Dorothy Dehner 为了不激怒其雕塑家丈夫而长期压抑自身创作的家庭困境。",
+      "summary_en": "Lincoln Glenn presents \"Making Space,\" an exhibition showcasing 20th-century American women pioneers, highlighting their struggles for creative authorship against domestic labor constraints.",
+      "why_muki_cares": "展览通过具体的个人档案与历史语境，揭示了女性创作者如何艰难突围商业画廊和家庭的双重权力机制。Dorothy Dehner 等艺术家的具体档案，为研究战后女性艺术史提供了反向档案的实证基础。",
+      "editorial_signal": "将女性艺术家的生平档案与家庭内部的无偿劳作相结合，还原其艺术生产的真实社会代价。",
+      "theme_tags": [
+        "Making Space",
+        "Lincoln Glenn",
+        "Dorothy Dehner",
+        "Clanci Jo Conover",
+        "feminist archive",
+        "women artists",
+        "labor structures",
+        "care labor"
+      ],
+      "source_name": "Lincoln Glenn",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIcj7taNnxBfpJahwjGPV9Cl4lSWdol38pp8cMCvAAOr6TE9z65S-P8_L8CTLCjVtYkJO5Yd_t7JFcf0FfLRh6DWWcGpRaS9iCs5romKaVrMZLjY_AVJGW3xiy76VCXCjnwn9wX3nlps8ZJIp2ctQdNeaV168OOKcfImQwOfVho9FYfj6Jp087oh6606Rmgx9Zx0hAV_BQ4auLeH4St131Zw==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "东区域现代美术馆举办馆藏特展《明天的食卓》：以“食物”为媒介审视老龄化、孤独饮食与家庭照护",
+      "title_en": "TOP Collection: Tomorrow's Dining Table",
+      "summary_zh": "东京都写真美术馆基于馆藏 39,000 件藏品，举办特展《明天的食卓》。展览邀请了潮田登久子、川内伦子、原美树子、折元立身等 14 位当代艺术家，围绕“食物”这一媒介探讨老龄化、孤独饮食（孤食）以及日常家庭看护等社会议题。展出作品包括潮田登久子 1986 年拍摄的冰箱静物《ICE BOX》、川内伦子展现家庭代际记忆的视频《Cui Cui》，以及折元立身与 500 位葡萄牙老人共餐的社会实践记录。",
+      "summary_en": "The Tokyo Photographic Art Museum presents \"Tomorrow's Dining Table,\" a collection-based exhibition featuring 14 artists exploring aging, solitary dining, and family care through the medium of food.",
+      "why_muki_cares": "展览将“厨房与食物”这一通常被归于日常家务劳作（care labor）的微观空间，转化为审视老龄化、代际看护与东亚日常地缘身体政治的显形剧场，非常贴合我们对非宏大叙事媒介考古的长期追踪。",
+      "editorial_signal": "日常生活中的食物与厨卫空间是承载无偿家务劳动、身体衰老和亲密关系的底层媒介。",
+      "theme_tags": [
+        "Tomorrow's Dining Table",
+        "Tokyo Photographic Art Museum",
+        "Tokuko Ushioda",
+        "Rinko Kawauchi",
+        "care labor",
+        "vernacular photography",
+        "East Asian society",
+        "aging"
+      ],
+      "source_name": "Tokyo Photographic Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2nZwi4jICw_F4DVfiaA4aOPkiDQrybCbRIdBhRwwabuMzqkxeWrQvxOKC4u1VDV8EK88PGMy-AQG38zq9yBEeCkwbQOkxms0xhjYrdfbKRlREnP9YxVmWsqhrYjk3dAteMDU=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "Hypha Studios 开放 Frieze 伦敦梅费尔区空间免费征集：优先支持无法负担高昂费用的艺术家集体与独立策展人",
+      "title_en": "Mayfair Open Call",
+      "summary_zh": "英国非营利艺术组织 Hypha Studios 联合地产基金会，启动 Frieze London 2026 期间伦敦梅费尔（Mayfair）核心区免费展览空间的全球征集，截止日期为 2026 年 8 月 16 日。获得者将免费使用位于 Dover 街约 185 平方米的画廊空间一个月。评选机制明确指出将优先考虑无法负担高昂展览或工作室费用的创作者，旨在对抗艺术市场的绅士化与排他性。",
+      "summary_en": "Hypha Studios launched an open call offering free gallery space in Mayfair during Frieze London 2026, prioritizing collectives and independent curators who cannot afford commercial rental costs.",
+      "why_muki_cares": "这是一个研究艺术劳动保障与空间去绅士化的优秀案例。Hypha Studios 通过将空置商业地产无偿置换为艺术家的公共活动空间，展示了在高度资本化的艺术博览会周中，夺回独立策展主权与关护脆弱创作生态的机制。",
+      "editorial_signal": "免费空间交换计划为高资本、高门槛的艺术地标引入了另类策展和独立劳动的抵抗微光。",
+      "theme_tags": [
+        "Mayfair Open Call",
+        "Hypha Studios",
+        "Frieze London",
+        "spatial politics",
+        "open call",
+        "funding opportunity",
+        "labor structures",
+        "independent curating"
+      ],
+      "source_name": "Hypha Studios",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ziyvy-IyfVCV0k9tAF1d1hdDZKqPKBX0m7b-hv8qreHXBV02H4dS6Jv22AfY2XEKbJcLy3DnZ0oYomMoO-iGC8DbS98kXGIdBV2IB8grGRR-AfNha6r7Kh2F44ExMNtI",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "China / East Asia Signal",
+    "title": "TOP Collection: Tomorrow's Dining Table",
+    "why_muki_may_care": "该展览将家务劳动、孤独饮食与老龄化等隐形命题，通过馆藏微观影像转化为公共身体政治的讨论，为东亚日常媒介考古提供了一个极其具体且具启发性的策展范式。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2nZwi4jICw_F4DVfiaA4aOPkiDQrybCbRIdBhRwwabuMzqkxeWrQvxOKC4u1VDV8EK88PGMy-AQG38zq9yBEeCkwbQOkxms0xhjYrdfbKRlREnP9YxVmWsqhrYjk3dAteMDU="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Filtered several minor generative model updates that lacked integration into open-source workflow environments or local creative controls."
+  ],
+  "covered_entities": [
+    "Govett-Brewster Art Gallery",
+    "Comfy-Org",
+    "Lincoln Glenn",
+    "Tokyo Photographic Art Museum",
+    "Hypha Studios"
+  ],
+  "repetition_notes": "ComfyUI 升级为对前几期关于开源创意工作流及 ComfyUI-R1 推理框架的跟进（Follow-up），其余四个故事均为全新信号（New）。其中，“明天的食卓”对家庭内部家务劳动与看护日常的图像考掘，与 Lincoln Glenn 画廊展示的 20 世纪美国女性艺术家家庭创作压抑困境互为镜像，展现了女性主义在日常生活微观档案重构层面的全球跨时空关联。",
+  "issue_number": 32
+}

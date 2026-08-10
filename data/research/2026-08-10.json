@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-10",
+  "model": "gemini-3.5-flash",
+  "dossier": "## Daily Digest for Muki: Research & Evidence Dossier\n**Issue No. 032 | Research Date: August 10, 2026**\n\nThis dossier compiles the strongest cultural and technological signals researched over the past 24 hours to 7 days, meticulously aligned with Muki's fields of interest. No facts, URLs, or dates have been inferred or invented.\n\n---\n\n### Section 1: Visual Culture Signal (Photography, Exhibitions, Photobooks)\n\n*   **Exact Title:** Economies of Deferral\n*   **Specific Source URL:** [https://govettbrewster.com/exhibitions/economies-of-deferral](https://govettbrewster.com/exhibitions/economies-of-deferral)\n*   **Publication Date:** August 8, 2026 (Exhibition Opening)\n*   **Verified Facts:** \n    *   新西兰 Govett-Brewster 美术馆（Govett-Brewster Art Gallery）于 2026 年 8 月 8 日至 11 月 15 日举办群展《延期的经济》（Economies of Deferral）。\n    *   展览由 Simon Gennard 策划，参展艺术家包括 Fiona Clark、Matthew Galloway、Ngahuia Harrison、何锐安（Ho Rui An）、Darcy Lange 以及 John Miller。\n    *   展览核心作品为已故视频先锋 Darcy Lange 1987 年的录像作品《Lack of Hope: Co-op a new future》（与 John Miller 合作），该片记录了新西兰 1980 年代新自由主义转型期中被裁员的工人群体。\n    *   展览还展出了 Fiona Clark 50 年来对新西兰 Tikorangi 地区能源开采工业给生态及社会带来变化的影像记录，以及她的最新放映项目《如果没有化石燃料的赞助，这个地方会是什么样子？》。何锐安则带来了结合政治经济叙事的表演性讲座。\n*   **Relevance to Muki:** 完美切合 Muki 对“身体、劳作、资本、地缘政治与影像媒介考古”的底层兴趣。Darcy Lange 在 1980 年代对劳工阶级的视频记录，与 Fiona Clark 针对生态剥削与美术馆资本赞助的现场干预，为探索影像作为“反向政治档案”的实践提供了一个极具力量的历史和地缘案例。\n*   **Duplication Assessment:** 全新信号（New）。\n\n---\n\n### Section 2: AI Research / Creative Tech Signal\n\n*   **Exact Title:** ComfyUI Release v0.31.0\n*   **Specific Source URL:** [https://github.com/Comfy-Org/ComfyUI/releases](https://github.com/Comfy-Org/ComfyUI/releases)\n*   **Publication Date:** August 7, 2026\n*   **Verified Facts:**\n    *   开源节点式扩散模型 GUI 框架 ComfyUI 发布了大版本 v0.31.0。\n    *   此版本原生集成了新型开源视频生成模型 **Wan-Animate2**，支持姿态与参考控制（pose/reference controls）并提供姿态分支缓存（pose-branch cache）以实现生成加速。\n    *   新增一组专业无损图像合成节点 **ImageCompositor**（包括 `Create Layered Image`、`Add Layer`、`Layers From Bounding Boxes`），原生支持类似 Photoshop PSD 的图层混合模式与图层状态管理。\n    *   更新加入了 ByteDance SeeDance 2.5 和 Seedream 5.0 的图层拆分（Layer Separation）模型支持，并默认启用了 3D 视图（3D Viewer Beta）。\n*   **Relevance to Muki:** 该更新直接承接昨日（0.30.2 升级版）工作流分析，展现了 ComfyUI 从“模型运行器”向“AI 原生专业创意操作系统”的质变。Wan-Animate2 的姿态骨架控制，以及原生 PSD 式图层管理，直接打通了生成式 AI 节点与高可控、非破坏性编辑之间的壁垒。\n*   **Duplication Assessment:** 追踪跟进（Follow-up）。\n\n---\n\n### Section 3: Feminist Structure Signal\n\n*   **Exact Title:** Making Space: American Women Artists and the Century of Change\n*   **Specific Source URL:** [https://lincolnglenn.com/exhibitions/making-space](https://lincolnglenn.com/exhibitions/making-space)\n*   **Publication Date:** July 2 – August 22, 2026 (Active/Published Catalog in August)\n*   **Verified Facts:**\n    *   纽约 Lincoln Glenn 画廊正在举办第三届女性艺术家年度夏季群展《制造空间：美国女性艺术家与变革世纪》（Making Space: American Women Artists and the Century of Change）。\n    *   展览由 Clanci Jo Conover 撰写画册，展出了 Dorothy Dehner, Mercedes Matter, Lynda Benglis, Lee Bontecou, Ida Kohlmeyer, Louise Nevelson, Harmony Hammond, Diana Kurz 等 20 世纪美国先锋女性艺术家的 25 多件作品。\n    *   展览学术重点在于探讨女性艺术家如何在充满现代性、性别分工与劳作转型的二十世纪争取可见性、创作者主权（authorship）和形式自由。画册深入剖析了如 Dorothy Dehner 为了不激怒其雕塑家丈夫 David Smith 而长期压抑自身创作才华的家庭与劳动困境。\n*   **Relevance to Muki:** 极其典型地折射了 Muki 对“女性、身体、家庭劳务压力、以及艺术史反向档案重写”的学术兴趣。它通过具体艺术家的私密档案与历史语境，揭示了女性创作者如何艰难突围商业画廊和家庭的双重权力机制。\n*   **Duplication Assessment:** 全新信号（New）。\n\n---\n\n### Section 4: China / East Asia Signal\n\n*   **Exact Title:** TOP Collection: Tomorrow's Dining Table\n*   **Specific Source URL:** [https://topmuseum.jp/e/contents/exhibition/index-4841.html](https://topmuseum.jp/e/contents/exhibition/index-4841.html)\n*   **Publication Date:** July 2 – September 21, 2026 (Current Exhibition with special events in August)\n*   **Verified Facts:**\n    *   东京都写真美术馆（Tokyo Photographic Art Museum）正在举办 TOP 馆藏系列特展《明天的食卓》（Tomorrow's Dining Table）。\n    *   展览基于该馆 39,000 件摄影与流动影像藏品，邀请了 14 位当代摄影家及艺术家展开探讨，包括潮田登久子（Tokuko Ushioda）、川内伦子（Rinko Kawauchi）、原美树子（Mikiko Hara）、岛尾伸三（Shinzo Shimao）、折元立身（Tatsumi Orimoto）等。\n    *   展览由四个展室构成，通过“食物”这一媒介，直面老龄化、孤独饮食（孤食）以及环境变迁等当代社会问题。代表作包括潮田登久子 1986 年拍摄的冰箱静物《ICE BOX》、川内伦子诗意的家族幻灯片视频《Cui Cui》，以及折元立身记录他与 500 位葡萄牙祖母共进午餐的社会实践视频《500人的葡萄牙のおばあさんのランチ》。\n*   **Relevance to Muki:** 将“厨房与食物”这一通常被隐形或归于日常家务劳作（care labor）的物理空间，转化为审视老龄化、代际看护与东亚日常地缘身体政治的显形剧场。潮田登久子和川内伦子对家庭微观档案的显影，极其贴合 Muki 关注的非宏大叙事媒介考古。\n*   **Duplication Assessment:** 全新信号（New）。\n\n---\n\n### Section 5: Archive / Long Read / Opportunity\n\n*   **Exact Title:** Mayfair Open Call\n*   **Specific Source URL:** [https://hyphastudios.com/mayfair-open-call/](https://hyphastudios.com/mayfair-open-call/) (Derived from Frieze Mayfair Hub page)\n*   **Publication Date:** July – August 16, 2026 (Open Call Deadline)\n*   **Verified Facts:**\n    *   英国非营利艺术组织 Hypha Studios 联合地产基金会启动了 Frieze London 2026 伦敦梅费尔区（Mayfair）的免费展览空间征集。\n    *   **截止日期：** 2026 年 8 月 16 日 18:00（英国时间）。\n    *   **支持额度与形式：** 获得者将免费使用位于伦敦 Mayfair 核心区（8-9 Dover Street）面积约 2000 平方英尺（185 平方米）的画廊空间，展期覆盖 Frieze London 2026 艺术周，为期约 1 个月。\n    *   **申请资格：** 面向全球艺术家集体（Collectives）或独立策展人。评选机制明确指出将**优先考虑无法负担高昂展览或工作室费用的创作者**，旨在对抗艺术市场的绅士化与排他性。\n*   **Relevance to Muki:** 为 Muki 追踪的“艺术劳动保障、反抗商业体系、下沉社区及另类空间实践”提供了绝佳的机制研究案例。Hypha Studios 通过将空置商业地产无偿置换为艺术家的公共活动空间，探索了一种在高度资本化的艺术博览会周（Frieze Week）中，夺回独立策展主权与关护脆弱创作生态的可行路径。\n*   **Duplication Assessment:** 全新信号（New）。",
+  "citations": [
+    {
+      "title": "govettbrewster.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgs7Cl4Xh_O7JunM1DppMOvI26vBN-kXMw2_1E33i6vlnwK7GCmjplJQVb_hwGdpnBiYamJXWEIUPlhPzS6edZzsIhmUTE1GNhwtJQUtWloqi-gvkDzk3iPctKCBDffg2hZGkWwkd2zLb0sNAN8Na07Vx-LEJMoQ=="
+    },
+    {
+      "title": "govettbrewster.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZEJcuu3fzNSwPBfYeYRHUgcR8pZ6woh2T40S_ylYhjZPWClHhLr7xXPzd5gC7DQcW013L7ZZIpeLp3Bo_MG2c7R1plnE0q5mbJbUCSFs-XYVjwKkzc79aBnLzjEOBDw8E5opWQLjND8-GFB6CuqAwCK1He9nfsA=="
+    },
+    {
+      "title": "govettbrewster.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxQIMG5ap0Q7qih8A0AEhw_bJn4gi4iSI-CH-Hm0_xwalL7z3rWZaep_YBqmzXlIK63dd5W1QzqUIDK6cSBvEppMGcc34xQFmZyotp1v_0QOy_BsSnymgEwCDKb3yF2wnrPnOD72nhUDZzD7_wIP_CacZwUCLjisipno400LZpkVn9zmy_vA6J7-nqR2WDRrhVYxDUDhMIgExBP-kmeX_HX1QASNAsdpUK1OSxxA=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8DYuRecxksk37u3TXboFvGgWPNMuslzQkiRYx5zKNlaR70ros6lRh80EDWcP4epUXRk6TNYTt36fP3V-2F1ODefftKD1ASyYvvFOAOsrTXalvY0lkS2FPK-0cNhZyn1VV1urDef7XpkkqApTYX9QZnNM1ZQ0feaZVF3ICcfuk6wz69poan1v_Chn_Oj2mWtE0gWCLd_GtfXOWb1k2-0zWEQRCgW-GtD7yNX9T6ZPGz9dKShZUd6JD3x7jyIGW_g31W7I-g9yoHOSVxFutred1xK4Z"
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfkeVJtLv8cK88xW_1Po7RqhFwEt5cmRJ7KhJdThbyLczKL_CjTC_odxsu2rkur-0NxNYDgCqeamFVr_j6KMftsDQNDE4sNR4MNcsBUL8UMKH-nyBv-Q_3ySVDHS0L9_etipE="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExA7vxqBInE6Fd1SFillx7Aiae62Q--7gkw8ItzUVEd1SWYhffzKybMP6L88DGAj64FKu7h_z4U8d075CyDvIscLv3tBd35zhK-ctWv9V_vBy46_125g=="
+    },
+    {
+      "title": "buttondown.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU2UBpfuZZwaWTIktZmBf2IIYtAKAptM_oB7PoeEtsEohsgzVxFuK4VM8Ov6tge99fMLkRZBtLzn9pjoeuwW3RpLDkfqmEtRpKUd9MzyaKEeHYESS-kykVYNIqopTYto7KPXDfIxbBrYmjqtd_rH1QU7hKNz0X"
+    },
+    {
+      "title": "lincolnglenn.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIcj7taNnxBfpJahwjGPV9Cl4lSWdol38pp8cMCvAAOr6TE9z65S-P8_L8CTLCjVtYkJO5Yd_t7JFcf0FfLRh6DWWcGpRaS9iCs5romKaVrMZLjY_AVJGW3xiy76VCXCjnwn9wX3nlps8ZJIp2ctQdNeaV168OOKcfImQwOfVho9FYfj6Jp087oh6606Rmgx9Zx0hAV_BQ4auLeH4St131Zw=="
+    },
+    {
+      "title": "galleriesnow.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWfEkurLwl0u9ICyzlyzF4MJXOG3VWX1vGhgjRcwv3u5mgDHDEzfXmICCkmaqNii4BtTYj5ipExduYojTJcFZskXhHbsZNjHNrz-ZOG7GTwhwcNv8C_lHZkSsCUYeherh-5HqhIbPUNNE5KbXhoS1YMZtPTCz6CK-ZNcXrQ-s4Ugd7T1-h9u4VwQjOmgg52BGWGjCP7QT0"
+    },
+    {
+      "title": "artdaily.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgykqrLsN7eeHv8xjf0P2v7Zn1VquaQJkVV4WnbYQrw6ay9f-AT0GZnElZpZNtOF_kesLyAq95u7djqNSznfXDmjwB2vbOqqy_ZM1xQFg4fN2Fzn6GpHlLvj9tn42CVkkodeCRoiqhHoGtRSHqlyHhxpQ="
+    },
+    {
+      "title": "lincolnglenn.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt9S29qvgjSibPahdqCm4jnp-6hr-CZHhSd0Cm_9T2V8ThoJkkTmmyeNrBPhhEB0MhQ3PPDOJO7cXqR3UanP4iLHlxRY0jLQPCv-mbMb8bU7oYar3x_VDcmTGEL8qj1fDAxVkTU7j_teSaDFoHx8COYs5FxfJauumYLAZqiv3smiQ6EnmkkmmpNbjeq_ZiAimv"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2nZwi4jICw_F4DVfiaA4aOPkiDQrybCbRIdBhRwwabuMzqkxeWrQvxOKC4u1VDV8EK88PGMy-AQG38zq9yBEeCkwbQOkxms0xhjYrdfbKRlREnP9YxVmWsqhrYjk3dAteMDU="
+    },
+    {
+      "title": "tokyoweekender.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSPxqa9Z26svrxC1mgZ4x5g-ZLxEykemwQ5KtUG2V4AIOuJChKVs_7vBo4puNorzLYzDcmmufjchkWV9m_tUEVKFx_NlvfKTD_qCcsg270Yf3djqoEfMfpzhzyF-uBsLI3vbcStgI_BggdVEBWLdOdwhaWs0dRz203Hj0HSSG7shWUJHTBVdZXzCJpE0sO6jmnqsXpYiIDdm_QmA=="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERLRp-ndx0Eg-TI44Tzmqtam-s6oLX13PWEeNmolDKabr8rphzc6IPWlJ7pLRITbYBqwZR72uMchUmApL7SLsAu8uhnH2A0BbddtPyVRJqhRDcBzGwqPJJ1d8smtmr9kBfTQxwlb3LfQBMTQ6vZgRsYxOMdzD_56fufFSjUjAIU-QDfPFkWGVi2k3O"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFISQMkSOjKe8OsTBYf2oeEgdiX9c1HKpUpBXIbScWSradN8PvUg6mgzsX4UeUJqxgAa7_PFg3IG04dd7R5v8IezQuxovLOo5IVh5pXHb3KV9Gmfp85xXp7-M0tJNLcl05jFQ85N5JJrOWJZ2MxLrYxdjc4ZzApNTbtGhvEqADei1A5007tJ4E3YYof_lWD"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErKUfWR-Avp8ltSPa5wzGZo5MRQKvHUUalfTYcX7T_O1sr64tjAjz1ckzeLhkZ1H3H8X9P2vH2H6W0FM2gSggUuYgWCxcAPHsNzCfo-U654SzEIvKovADOqqm-hBRUZ-Jzj0L0UWFYXCYYtirpP_wbK5NwtEuiQ4ZTa3FxhYLV-bGNtDHaS1dS5zYFQCblZgPRyQ=="
+    },
+    {
+      "title": "hyphastudios.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ziyvy-IyfVCV0k9tAF1d1hdDZKqPKBX0m7b-hv8qreHXBV02H4dS6Jv22AfY2XEKbJcLy3DnZ0oYomMoO-iGC8DbS98kXGIdBV2IB8grGRR-AfNha6r7Kh2F44ExMNtI"
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKIVgOzU5_Hy9JlduWy0ueDFYdhs22lmgYi1TgC_jNEkDIrGI8JeH3fJ2osXKxvMBuc-omiBtZExF2z-RMZ4-adkopf4O3Ff-BXsoYQlc8CHFYgbOZ1_iDqENri_ZhhS2gANVruLp5Z4UGt1vx6JhbSZuhloWF9z7DiQsOHCD4rKCMVuF52QM="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGypjG1AqvmLsOydJnkmEXyjWZm0ecZ3gkHOAca_vD7FLC8_AVrbF_1THJY9PzUDBlf1vAx5lyDHV8crAC0FNsQbeP366beZEV0KY4LCOYwricFWeiKNsGr44xsppR4VBTLARZ_U-PzVQd44G1CIuOTD3bSKFkAtvQl7_aJbrLauFTU1TA12xNIW_5SnezSsNjbk3Ndznzz8Mgnkyx_FWoFDN8o5F-RvI2NYUwjTzDXZAX9ZbI5TGGk5q13U9h82RI9ORH8w=="
+    }
+  ]
+}
