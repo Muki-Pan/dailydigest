@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-11",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "摄影书出版",
+    "端到端人物动画",
+    "女性主义行为艺术档案",
+    "民间金融空间干预",
+    "全额艺术驻留"
+  ],
+  "why_today": "今天的文化信号聚焦在非稳定、边缘状态下的媒介与空间重构。从女性主义行为艺术档案的互助网络，到百年旧典当铺里的物质空间干预，这些实践揭示了艺术如何作为社群“关护的基础设施”而存在。同时，开源角色生成技术的大幅迭代与国际顶级摄影书奖项的启动，不仅拉低了独立叙事的生产门槛，也为摄影术两百年节点下的影像流通提供了新标尺。",
+  "intro": "今天的简报精选了5个具有深度参考价值的文化与技术信号。斯洛文尼亚卢布尔雅那现代美术馆将脆弱的女性主义档案转化为共同维护的社会基础设施，为研究者提供了全新的反向档案方法论。在栃木县的旧典当铺中，当代艺术与百年民俗空间的对话正在展开。在创意技术方面，阿里巴巴开源端到端动画框架 Wan-Animate-2，通过重新设计的双分支 Transformer 实现了更自由的运镜与角色控制，显著优化了本地生成流。此外，巴黎图片展与光圈基金会启动 2026 年摄影书奖征集，Art Omi 亦开启全额资助驻留机会。",
+  "opening_signal": "档案不是死去的陈列，而是依靠持续维护与共同关护而运转的生命基础设施。",
+  "closing_signal": "从去中心化的技术工具到在历史缝隙中搭建的临时展演空间，当下的创作者与研究者正逐渐脱离宏大的体制叙事，转向更加轻盈、互助且持久的微观实践。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "Paris Photo 与光圈基金会启动 2026 年摄影书奖征集：致敬摄影术两百年下的出版媒介与影像叙事",
+      "title_en": "Paris Photo–Aperture PhotoBook Awards 2026 Open for Submissions",
+      "summary_zh": "由巴黎图片展与光圈基金会联合主办的 2026 年度摄影书奖正式启动全球征集。该奖项设立“年度首部摄影书”、“年度摄影书”及“年度摄影目录”三大类别。入围的35本作品将在2026年11月的巴黎图片展上展出，恰逢摄影术诞生两百周年（1826–2026）。本届初审评委包括艺术家 Alejandro Cartagena、Judd 基金会设计总监 Alexandra Cunningham Cameron、光圈总编 Michael Famighetti 等。",
+      "summary_en": "The 2026 Paris Photo–Aperture PhotoBook Awards have officially opened submissions across three categories, with shortlisted works to be exhibited at Paris Photo in November 2026, marking the bicentennial of photography.",
+      "why_muki_cares": "摄影书是影像物质性与叙事权力的关键载体。在摄影术两百年的节点上，该奖项的评选趋势与入围名单将直接反映全球独立出版生态在历史反思与当代媒介考古方面的最前沿探索。",
+      "editorial_signal": "全球最具行业风向标意义的摄影书奖项启动，为观察影像流通的物质边界与地缘生态提供坐标。",
+      "theme_tags": [
+        "Paris Photo",
+        "Aperture Foundation",
+        "photobook",
+        "publishing",
+        "media archaeology",
+        "photography bicentennial"
+      ],
+      "source_name": "Aperture Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxLz5KU2jrITc2xetUcWcEHCCpTrw1Iooqsgo5_U0nq-4-4pv7dhh_AIKfJs5SeBOEk_hGf2k9rFbM6G49HSMN54kEEQBohSNHkKwyDUqXK2Iew5dVjs0dXK2W",
+      "publication_date": "2026-07-08",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "阿里巴巴通义实验室开源 Wan-Animate-2：端到端 Diffusion Transformer 实现 24 帧无骨骼实时人物动画",
+      "title_en": "Wan-Animate-2: End-to-End Character Animation with ComfyUI Support",
+      "summary_zh": "阿里巴巴通义实验室开源了端到端人物动画框架 Wan-Animate-2，提供 14B 基座与蒸馏版本。该框架彻底抛弃了依赖骨骼关键点提取的传统多步预处理，通过重新设计的双分支 Diffusion Transformer 架构直接读取驱动视频的原始像素。新系统支持文本驱动的视角控制，可将相机视角与驱动视频解耦，其轻量版更实现了 24 fps 的实时生成。目前 ComfyUI 已原生支持该技术的多角色同步和运镜控制节点。",
+      "summary_en": "Alibaba's Tongyi Lab has open-sourced Wan-Animate-2, an end-to-end character animation framework using a dual-branch DiT architecture to directly process pixels without skeletal pre-processing, now natively supported in ComfyUI.",
+      "why_muki_cares": "该工具把原本复杂的角色视频合成简化为单图加驱动视频的端到端生成，且支持视角解耦。这极大降低了独立创作者在本地部署、进行高保真动态影像叙事的流程复杂性。",
+      "editorial_signal": "端到端生成架构取代传统多步管线，将复杂的角色控制流推进至实时、解耦控制的新阶段。",
+      "theme_tags": [
+        "Wan-Animate-2",
+        "character animation",
+        "ComfyUI",
+        "Diffusion Transformer",
+        "open source",
+        "creative workflow"
+      ],
+      "source_name": "GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwi1hKZ8CckmLcAkkbcuGkeQ-TVHNsHQIO3kJwbhgox-P09zDf1eb-YAuN8ShAAHjl-bABvmkQOXBDgswpvm5guMtpRawKADKXYxIdjVsjE4HrqYEsUso0x1IYA1hYvXY=",
+      "publication_date": "2026-08-07",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "卢布尔雅那现代美术馆举办《档案链式反应》：将脆弱的女性主义艺术档案重构为互助与关护的社会基础设施",
+      "title_en": "Archival Chain Reactions: Between and Beyond Archivo Pinto mi Raya, re.act.feminism, City of Women",
+      "summary_zh": "斯洛文尼亚卢布尔雅那现代美术馆举办《档案链式反应》特展。展览联合了三个无官方固定资助、处于边缘或移动状态的女性主义行为艺术档案：墨西哥 Pinto mi Raya、柏林 re.act.feminism 移动档案，以及本地“妇女之城”节庆积累 31 年的散落文献。策展团队提出“档案链式反应”，探讨档案间的互为主体与共享嵌套，让历史文献在资金匮乏状态下，通过社群维护转化为相互照护的社会基础设施。",
+      "summary_en": "The exhibition 'Archival Chain Reactions' at +MSUM unites three vulnerable feminist performance art archives from Mexico, Berlin, and Ljubljana, reimagining archives as fluid, care-oriented social infrastructures.",
+      "why_muki_cares": "本展没有将档案视作死去的历史陈列，而是将其视为在体制边缘状态下，依靠社群劳作、转译与相互接纳而运转的“生命基础设施”，提供了一种极具操作价值的女性主义反向档案研究方法论。",
+      "editorial_signal": "去中心化艺术档案的嵌套与互惠，探索在主流学术与资金体制外，如何以关护劳作维持记忆生态的生机。",
+      "theme_tags": [
+        "Archival Chain Reactions",
+        "+MSUM",
+        "feminist archive",
+        "performance art",
+        "care labor",
+        "social infrastructure"
+      ],
+      "source_name": "Museum of Modern Art Ljubljana (+MSUM)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIkPDkiYtPzwem6T3SGZLlDikbEXdVirisUP7FQDcX5YMWG3CZ3M8LxWuQ2b3iiA0Hym6Ex5-CBDp_69xhdumarh1T8-KvSzEP6hiKryN45_lVTp35-mBNue9_szB2ZC7thyXbDs8Qs6JFHUnx4NJ_xZsm-IKHsl4NB-qyM_4K6a80EA==",
+      "publication_date": "2026-04-23",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "日光 Troedsson Villa 举办《八月的光》：在百年旧典当行空间中展开的跨国当代艺术与物质对话",
+      "title_en": "Light in August at The Pawnbroker's Museum",
+      "summary_zh": "由艺术家 Anne Eastman 与落合多武联合策划的特展《八月的光》在栃木县日光市的一处百年历史旧典当铺与古董仓库展开。展览汇集了已故美国先锋艺术家 Pope.L 的遗作细节、Kiki Smith、Michael Smith 等西方观念艺术，以及大田黑衣美等日本本土创作者。作品与放映、诗歌朗读活动结合，利用典当行这一历史承载的脆弱财务关系与个人物质交易记录进行替代空间干预。",
+      "summary_en": "Co-curated by Anne Eastman and Tam Ochiai at Troedsson Villa, 'Light in August' activates a century-old former pawnshop in Nikko, Japan, facilitating a dialogue between Western conceptual art and Japanese material craft.",
+      "why_muki_cares": "项目选址远离大都市美术馆体制，将百年民间金融空间（典当铺）作为承载个人脆弱性与物质怀旧的载体。它把西方观念艺术与日本本土触觉材料进行微观、非正式的碰撞，展示了地缘空间政治与非体制策展的生动样本。",
+      "editorial_signal": "以地方民间信用遗迹为物质载体进行空间干预，将观念艺术转化为日常脆弱与物质交换的语境重演。",
+      "theme_tags": [
+        "Troedsson Villa",
+        "Light in August",
+        "space politics",
+        "Japanese contemporary art",
+        "conceptual art",
+        "materiality",
+        "vernacular space"
+      ],
+      "source_name": "Troedsson Villa",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfrLXUCGqTSJ9YzI2MEWHHiRd4ilvwyDC1u9GZ0chC0wUKCT8_7tv2XRvzkAwPV3-0nsdqpc6yRysju-_btKeIMqdbOuu-ROBO5AtYQOtDhEgEvvQYZXFY3fTTTH5Yqg==",
+      "publication_date": "2026-08-01",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "2027 年奥米艺术中心艺术家驻留计划启动全球征集：全额资助的跨学科创作生态探索",
+      "title_en": "Art Omi: Artists 2027 Residency Global Open Call",
+      "summary_zh": "位于美国纽约州根特的奥米艺术中心启动 2027 年度夏季艺术家驻留计划（Art Omi: Artists）全球公开征集。该项目面向所有职业阶段、使用各种媒介的当代视觉创作者。驻留期为 2027 年 6 月 17 日至 7 月 12 日，为入选者提供包含私人工作室、共享居住空间、膳食、特定旅行津贴和零用金在内的全额资助。申请截止日期为 2026 年 9 月 14 日。",
+      "summary_en": "Art Omi is accepting global applications for its 2027 Artists Residency. The program provides full fellowship support including private studio space, lodging, and meals in Ghent, New York, for contemporary visual artists.",
+      "why_muki_cares": "Art Omi 对跨学科、影像、空间和生态实践极为友好。其全额资助、鼓励无压力跨国社群交流的机制，是极为优质且值得向东亚独立艺术研究者与实践者推介的行动机会。",
+      "editorial_signal": "全额资助的著名跨学科驻留计划开启，注重无压力创作支持与生态社群协作。",
+      "theme_tags": [
+        "Art Omi",
+        "artists residency",
+        "open call",
+        "funding opportunity",
+        "contemporary art",
+        "interdisciplinary study"
+      ],
+      "source_name": "Art Omi",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFln_beQJuYe-HlAkBzrt4A_vMoN_phqi8FBEtuv_1oQRw6ikRVqM8MiaJ9inPt_Z-OoJK5IIMvXVAbGX6t1VpSNEZuorICeW8MQDjdZw1UFJPvyoUNmBRV",
+      "publication_date": "2026-08-03",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "卢布尔雅那现代美术馆举办《档案链式反应》：将脆弱的女性主义艺术档案重构为互助与关护的社会基础设施",
+    "why_muki_may_care": "项目将无官方资助、极其不稳定的女性主义档案从静止的历史文献，转化为依靠社群日常关护与承纳劳作维系的“活体基础设施”，这为我们研究民间与女性主义反向档案提供了极佳的理论与实践样本。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIkPDkiYtPzwem6T3SGZLlDikbEXdVirisUP7FQDcX5YMWG3CZ3M8LxWuQ2b3iiA0Hym6Ex5-CBDp_69xhdumarh1T8-KvSzEP6hiKryN45_lVTp35-mBNue9_szB2ZC7thyXbDs8Qs6JFHUnx4NJ_xZsm-IKHsl4NB-qyM_4K6a80EA=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Aperture Foundation",
+    "Paris Photo",
+    "Alibaba Group",
+    "Museum of Modern Art Ljubljana (+MSUM)",
+    "Troedsson Villa",
+    "Art Omi"
+  ],
+  "repetition_notes": "关于阿里巴巴 Wan-Animate-2 的技术介绍是对 8 月 10 日简报中提及的 ComfyUI 集成新版视频生成节点的深度技术细节跟进（Follow-up），通过解析其双分支 Diffusion Transformer 架构，补充其端到端生成对传统控制工作流的优化。其余 4 个故事均为全新信号（New）。",
+  "issue_number": 33
+}

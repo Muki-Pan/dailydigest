@@ -1,0 +1,131 @@
+{
+  "date": "2026-08-11",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki's Daily Digest (Issue 033) - Research Evidence Dossier\n**Research Date**: 2026-08-11  \n**Search Window**: Past 24 hours to 7 days (Aug 4, 2026 – Aug 11, 2026)\n\n以下为针对 Muki 研究兴趣定制的 5 个最强文化信号源与实证档案。本报告为**研究阶段的证据案卷（Evidence Dossier）**，拒绝主观推论、学术黑话与公关辞令，力求事实精准、链接有效。\n\n---\n\n### 1. Visual Culture Signal (视觉文化信号)\n\n*   **Original English Title**: Paris Photo–Aperture PhotoBook Awards 2026 Open for Submissions\n*   **Proposed Chinese Title**: Paris Photo 与光圈基金会启动 2026 年摄影书奖征集：致敬摄影术两百年下的出版媒介与影像叙事\n*   **Proposed Section**: Visual Culture Signal\n*   **Specific Source URL**: [https://aperture.org/](https://aperture.org/)\n*   **Publication Date**: 2026-07-08 (征集期：2026年7月8日至9月4日)\n*   **Verified Facts (已核实事实)**:\n    由巴黎图片展（Paris Photo）与光圈基金会（Aperture Foundation）联合主办的年度摄影书奖（自2012年起设立）正式启动 2026 年度征集。该奖项设立三个类别：年度首部摄影书奖（First PhotoBook，奖金10,000美元）、年度摄影书奖（PhotoBook of the Year）、年度摄影目录奖（Photography Catalog of the Year）。2026 年初审评委包括艺术家 Alejandro Cartagena、Judd 基金会设计总监 Alexandra Cunningham Cameron、光圈总编 Michael Famighetti、巴黎图片展艺术总监 Anna Planas 及 Offset Projects 创始人 Anshika Varma。入围的 35 本作品将在 2026 年 11 月 12 日至 15 日举办的巴黎图片展上展出，今年适逢摄影术诞生两百周年（1826–2026）。\n*   **Relevance to Muki (与 Muki 的相关性)**:\n    摄影书是 Muki 长期追踪的核心媒介。本届大奖适逢“摄影术诞生两百年”的历史节点，其选书评委构成与入围名单将直接反映当前全球独立出版生态、媒介考古实践与视觉叙事的最前沿地缘趋势。\n*   **Duplication Assessment**: New. (虽然 8 月 4 日简报提及了 ICP 的美国摄影书展，但此项为全球最具行业风向标意义的巴黎图片展-光圈摄影书奖 2026 年度正式征集)。\n\n---\n\n### 2. AI Research / Creative Tech Signal (人工智能研究与创意技术)\n\n*   **Original English Title**: Wan-Animate-2: End-to-End Character Animation with ComfyUI Support\n*   **Proposed Chinese Title**: 阿里巴巴通义实验室开源 Wan-Animate-2：端到端 Diffusion Transformer 实现 24 帧无骨骼实时人物动画\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Specific Source URL**: [https://github.com/Wan-Video/Wan-Animate-2](https://github.com/Wan-Video/Wan-Animate-2)\n*   **Publication Date**: 2026-08-07\n*   **Verified Facts (已核实事实)**:\n    阿里巴巴通义实验室开源了全新端到端人物动画框架 Wan-Animate-2，代码及模型权重（14B 基座与蒸馏版本）采用 Apache-2.0 协议开源。该系统彻底抛弃了 ControlNet 等依赖骨骼关键点（Pose/Skeletal）或表情提取的传统多步预处理管线，通过重新设计的双分支 Diffusion Transformer (DiT) 架构，利用 Time-Align RoPE 和 Sparse-Ref Attention 机制直接读取驱动视频的原始像素。升级功能包括支持文本驱动的视角控制（解耦相机视角与驱动视频）、多角色同步驱动。其轻量化版本 \"Wan-Animate-2-Lite\" 实现了 24 fps 的实时流式生成。ComfyUI 已在第一时间提供原生节点支持，包含 `WanAnimate2ToVideo` 与 pose 分支缓存节点 `WanAnimate2Cache`。\n*   **Relevance to Muki (与 Muki 的相关性)**:\n    Muki 关注 AI 原生工作流与创意智能体。该工具将原本极其繁琐的人物视频合成简化为“单张参考图 + 驱动视频”的端到端一步直出，且支持运镜视角的解耦控制，极大降低了独立创作者在本地部署、进行高保真动态影像叙事的门槛。\n*   **Duplication Assessment**: Follow-up. (对 8 月 10 日简报中提及的 ComfyUI v0.31.0 原生集成 Wan-Animate 视频控制节点的最新技术细节与架构升级跟进)。\n\n---\n\n### 3. Feminist Structure Signal (女性主义结构信号)\n\n*   **Original English Title**: Archival Chain Reactions: Between and Beyond Archivo Pinto mi Raya, re.act.feminism, City of Women\n*   **Proposed Chinese Title**: 卢布尔雅那现代美术馆举办《档案链式反应》特展：将脆弱的女性主义艺术档案重构为互助与关护的社会基础设施\n*   **Proposed Section**: Feminist Structure Signal\n*   **Specific Source URL**: [https://www.mg-lj.si/en/exhibitions/](https://www.mg-lj.si/en/exhibitions/)\n*   **Publication Date**: 2026-04-23 (展期至 2026 年 9 月 13 日)\n*   **Verified Facts (已核实事实)**:\n    斯洛文尼亚卢布尔雅那现代美术馆（+MSUM）正在举办《档案链式反应》（Archival Chain Reactions）群展。展览由 Bettina Knaup、Iva Kovač 和 Mónica Mayer 共同策展，联合了三个无官方固定制度资助、高度脆弱的全球女性主义行为艺术档案：墨西哥城的 Pinto mi Raya 艺术家档案、柏林的 re.act.feminism 移动行为艺术档案（自2008年起巡回）、以及卢布尔雅那的“姐妹城市/妇女之城”（City of Women）节庆积累的 31 年零散档案。展览提出“档案链式反应”概念，探索档案之间的互为主体、嵌套（hosting/nesting）与共享方法，将档案视为一种不稳定的、需要持续劳作、维护和照护的社会基础设施。参展艺术家包括 Cecilia Vicuña、Anna Bella Geiger、Mónica Mayer 等。\n*   **Relevance to Muki (与 Muki 的相关性)**:\n    直接回应 Muki 关心的“女性主义视觉文化、反向档案以及身体、看护劳作与地缘权力”议题。它没有把档案当成死去的历史陈列，而是将其视为在资金匮乏、机制边缘状态下，依靠社群日常维护与转译连接的“生命基础设施”，提供了一种具有直接参考价值的档案研究方法论。\n*   **Duplication Assessment**: New.\n\n---\n\n### 4. China / East Asia Signal (中国与东亚地缘信号)\n\n*   **Original English Title**: Light in August at The Pawnbroker's Museum\n*   **Proposed Chinese Title**: 日光 Troedsson Villa 举办《八月的光》：在百年典当行空间中展开的跨国当代艺术与物质对话\n*   **Proposed Section**: China / East Asia Signal\n*   **Specific Source URL**: [http://www.troedssonvilla.org/](http://www.troedssonvilla.org/)\n*   **Publication Date**: 2026-08-01 (展期：2026年8月1日至30日)\n*   **Verified Facts (已核实事实)**:\n    由艺术家 Anne Eastman 与落合多武（Tam Ochiai）联合策划、Troedsson Villa 艺术驻留项目呈献的特展《八月的光》（Light in August）在栃木县日光市举办。展览选址在一处拥有逾百年历史的旧典当铺与古董仓库（The Pawnbroker's Museum），该场地得名于一张百年前印刷的传单。展览汇集了美国先锋艺术家组合与日本本土创作者，包括 Pope.L（已故，首次在此类替代空间展示遗作细节）、Kiki Smith、Michael Smith、Whitney Claflin，以及日本艺术家大田黑衣美（Emi Otaguro）、洼田美树（Miki Kubota）、西村知己（Tomomi Nishimura）等。参展作品与工作坊、诗歌朗读及放映活动结合，对典当行这一历史承载的个人财务脆弱性、日常物质交易和 nostalgia 限制展开空间干预。\n*   **Relevance to Muki (与 Muki 的相关性)**:\n    Muki 关注东亚地缘与替代空间、媒介考古学。Troedsson Villa 在远离大都市美术馆体制的日光山间，利用百年民间金融空间（典当行）作为物质载体，让西方观念艺术与日本本土日常触觉材料进行非正式的碰撞，为地缘空间政治与非体制策展提供了极其生动的微观样本。\n*   **Duplication Assessment**: New.\n\n---\n\n### 5. Archive / Long Read / Opportunity (档案、长读与机会)\n\n*   **Original English Title**: Art Omi: Artists 2027 Residency Global Open Call\n*   **Proposed Chinese Title**: 2027 年奥米艺术中心艺术家驻留计划启动全球征集：全额资助的跨学科创作生态探索\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Specific Source URL**: [https://artomi.org/residencies/art/](https://artomi.org/residencies/art/)\n*   **Publication Date**: 2026-08-03 (征集期：2026年8月14日至9月14日)\n*   **Verified Facts (已核实事实)**:\n    位于美国纽约州根特的奥米艺术中心（Art Omi）启动 2027 年度夏季艺术家驻留计划（Art Omi: Artists）全球公开征集。该项目面向全球所有处于不同职业阶段、从事多种媒介创作的当代视觉艺术家。2027年驻留期为 2027 年 6 月 17 日至 7 月 12 日（共约 4 周）。Art Omi 为所有入选艺术家提供全额资助，包括独立的私人工作室、共享居住空间、膳食和完备的设施支持。特殊资助名额包括：Art Omi 澳大利亚委员会奖学金（含旅行津贴与500美元零用金），以及 Charlotte Street 基金会奖学金（含500美元零用金）。申请费用为 15 美元，用于维持评审系统运转。\n*   **Relevance to Muki (与 Muki 的相关性)**:\n    Art Omi 是全球最具声誉且对跨学科、影像、空间和生态实践极度友好的国际驻留地之一。其全额资助、注重无压力自由创作与生态协作的机制，非常适合 Muki 长期追踪和引介给东亚及全球的独立艺术研究者。\n*   **Duplication Assessment**: New. (与之前简报中的伦敦 Mayfair 空间征集及 FotoCreativaBA 驻留互无交叉)。",
+  "citations": [
+    {
+      "title": "artreview.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkgnVobCuwrzyRsqjlYYDYT5zd2EA6UBn5UPLV9-rXyZ25LcYp8qj3mtvzhokGdH6WFktmrdnJzz56VpUDdDpzpfK9U9_o61y0egxOK0Hj8IhtntjrdRm-GDJyOg1SrB_YvRZ7YLFco13coU5tx2tqDISKnrE="
+    },
+    {
+      "title": "mg-lj.si",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIkPDkiYtPzwem6T3SGZLlDikbEXdVirisUP7FQDcX5YMWG3CZ3M8LxWuQ2b3iiA0Hym6Ex5-CBDp_69xhdumarh1T8-KvSzEP6hiKryN45_lVTp35-mBNue9_szB2ZC7thyXbDs8Qs6JFHUnx4NJ_xZsm-IKHsl4NB-qyM_4K6a80EA=="
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZnxThIREPDdbrJGftXYVtmFCcL6EvYXvyeloE60KzhSuf8sxjczTQINupbF1G7XA2j5BQxUlfYF9el7NTho3FYdq4XoIGN4wvWcnJieTVdfaHc_mPPrNxrQPIrqoUl0TQypfIket0YigtPPc_0JM="
+    },
+    {
+      "title": "troedssonvilla.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfrLXUCGqTSJ9YzI2MEWHHiRd4ilvwyDC1u9GZ0chC0wUKCT8_7tv2XRvzkAwPV3-0nsdqpc6yRysju-_btKeIMqdbOuu-ROBO5AtYQOtDhEgEvvQYZXFY3fTTTH5Yqg=="
+    },
+    {
+      "title": "artdeadline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUxpAelrobvx7TREg1aHXQetTA3HSaLYUA9dk6wxVj5PlUcPokpSt6XhIx6lycYr0ZiLUB9IDJImwMnr_4eJXNr9nkm4plv081mJCvGI77uxx1SHVWvTm4ZHzF"
+    },
+    {
+      "title": "aperture.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxLz5KU2jrITc2xetUcWcEHCCpTrw1Iooqsgo5_U0nq-4-4pv7dhh_AIKfJs5SeBOEk_hGf2k9rFbM6G49HSMN54kEEQBohSNHkKwyDUqXK2Iew5dVjs0dXK2W"
+    },
+    {
+      "title": "parisphoto.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE7WxwbCLFDZ7ZQWczPszXMZnjf5Z8ffXp5ZrPziPAKp-vxeYC_OubbdnSXR5z1T0G7iWx0G-HzVcPgkCsmUZmF4IkSSHpQf0xnsytctFGFcBckg86jQQ_rOEbXFT_8GoqrtV7ng0q7peuPB_kF__TDv4LvhQisdQW7dhafHcMw4lCkYGo7_o4wA=="
+    },
+    {
+      "title": "photocontestdeadlines.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQc_Fp2y7ryWTpij7q4uOZeuNZRi4ifiGjlKwll56gzI2JTmRUG6KzYlZBXeYg7SaJAUBGn1vJkiWVcutHd4JbylbdCmh82UNxw1ZxQEQb7minC_RfR1OjAmbb8ERO-HkFAwYYz8mv-Ch1pw_0bSwNwwNnVkwQbTh5L9A-zF9iGrMlxrZhWAKgs_enRDdgqDgiLXbqQx8="
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuyDrTCIpnH0nR07wxdSc_NQwY87Rvb6XbMJSGgstyBJFdAGen1RhDbwJsQpjn6zkUyRjoD6hHj_qdYiytTHByz_sTURQbc2z7puwOALWi9nPRRlcydTfTVsQzUzs1mcKl0jooMzCSzNrqijm1FJfC0LzpTcYih48OpV6vi9o="
+    },
+    {
+      "title": "parisphoto.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZYRM9lK7z3daQ3JObTSniITyQ0j3_q5jN1nwqpk8OCxjUoNi5MifZWcTBVZHKuRbkU1geW3yfVTfHNBsjW3XZi8Dxpa5piGZgbJW9587hWxkx4MgZRrgD1kUJ3weGRLVr3Ck9N95SSPhRnEmn"
+    },
+    {
+      "title": "modelscope.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvbkXE9PoXnGmx8sfzCfbWQ9rS4OKew7O-3I7Pd3X6E5-tno2TyHXQV8uMI1cGU19XcNgm8e1yOHUml5MXloxDvvqTAPhTph78_AKRJmnmr8b2douKx0bMJuusG5Q0STc35DrO89T-lmIidW7_77f2YpM="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDfgsG1JIPaYxVcLw8Un2vUjHDCHTCvplBoSlKjX9dN6vSkcez0KS7nJuxlxq6I_YoHsmfP3CTEfCcWxAaJZTen51JqYK_81zlbFwm5GHSLCGRjb0FCm7o9IXs1w_RgD8pnYgj1tFYP1qwkKqYW_l1L_nW_VPSBrBkkAJeajPtKoPJYazcAhrKj_1OBqt0yC0R-Qz934kxi8biQIu"
+    },
+    {
+      "title": "pandaily.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEAIsDyKzS_lTOMaXa22DAHbirpTcv_fp3_KrWV78zZ9sfBGtsFMfvBD82cZO85mUmXZSmZlP2tzkFUPwL1pEen9abyRIw2degLkKPkoTz-u_RKmGm8XFkxwZ-UT2g6HFCYOAESuHs7VwZrKPoI8XPbHx5gvcxTIKAlLZ0mkUVN8p9FkWYW5o="
+    },
+    {
+      "title": "github.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwi1hKZ8CckmLcAkkbcuGkeQ-TVHNsHQIO3kJwbhgox-P09zDf1eb-YAuN8ShAAHjl-bABvmkQOXBDgswpvm5guMtpRawKADKXYxIdjVsjE4HrqYEsUso0x1IYA1hYvXY="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP_Gf5o8TAOImjMTuih0XjB-ETtfSjkJLC6npde4feP8TVV3d1oDDIN6_VUwAKRPoSpoWE1l7s7O7HrspgQyRQk7avSCp6sn6mcsUkyhi-3u939qCz2UkIupDKtBpyevAtuD4jYBlkXKPXMo058247"
+    },
+    {
+      "title": "mg-lj.si",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyBwHyt1DXnPb7ImDD5lCRvRWQqcNSPYjXBCUkCUpx4X9wnPOEmGWLdhf1NkGQzlTXHaEyjZhayNCL3nsxz6VA_unGJGFMXrt50ONTb6DaHtX3TB62DrJbd_8="
+    },
+    {
+      "title": "bettinaknaup.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBLlGHOVMabO0Tr5WtFrlru_pBEj_zKSmTuJ_FXwpwgoNP8_eaCCutkcddgibxdzzlx8jdMLd6b5AZCo5059hmyihoRs7fmxxWRE-d8Uolt4xgZvuHXpKYSSwlGTv_e4BZL6a8_xV245eeebKNJeLiH3YaTkUWHsVhy8tCeruOFVsviVJcDhhLNl8j6HfmR_qSpyzv5jY_bmL7YcQCXYzNcx7gkRs0kKPlR1jvbLhcdPje7g=="
+    },
+    {
+      "title": "mg-lj.si",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ueJPeMEQ4mPIWTDFEXBdNZ5Ss2LquBp05u6XT6v6QOVumDdshodRF7m9fmc--lXisEjuDUgFnasMWKgRAycx_3eW8HqawjtJWYe89UwtWgYMqMKLgOIfPCytPkCTiVdY3hhxKn0Gu3LpVyTE3g72OwN678sawBDLf5LISmdbbJ7hHQ=="
+    },
+    {
+      "title": "artlimited.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHel4OXLHZTIlgxc17bNWwvs_g7pJL6SvvqMwONgdDwBeZSQmLLuKqUS--vsbiY6M65eoCToQnBmcVrQOo7lkYgTLHp_W2LOIhAMkF2GjF5tO1loo07asui9nMGXERHMBIWzIKgrMUMJXi0oWxKA6LNOL3UIaXcaCJbYkbU81oIKvVwSYzto9trm1i8jpacY1ZO6dJsDX-Pww=="
+    },
+    {
+      "title": "goethe.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ITnjJWQUeuhQtIuBQUEuB675yREYqYxyXYm8N0m1tCxAC3tXQkeht_5NXTltzkV00HzXlbotezAEjWg5YgdAe6tBPjBCmluVeEVcXxmS4dywxeluiPX2mhouYibNwGnKDSbQ8Qax"
+    },
+    {
+      "title": "artlimited.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbIKDGT3k6PKnPSaaNm_tt2P3XbZ40wGvK5G6ulhluwWoBFWz_GNYTg4LiiqZCa-YjEE3sjWBKys85qMmk502He50hnXSQpVmZcQ6vqjWNDrSEiGHot9I2x5Z4gBBQlutGo4sz5OC3cqeyGFs4iOZ-46xYd2xCPahvfH-WtTeNijj5f6R-Dus_V7uJ1A3AsqUBWwjop0Qw"
+    },
+    {
+      "title": "troedssonvilla.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGE4L0Flvq32bOlrKngvtEpIarTOt6r83yGXjRgj9aP0tAP9vZ3ij2dt1gLE4YuVgg-v408V7geCdZ4UzsMBAvy1jFEOnWeopYtW43ANIKXQ=="
+    },
+    {
+      "title": "troedssonvilla.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI75MnsTFw2LoNZuLCESYxWVuJn37q11yLk4lOcepqgNCYd4HzXhY-1C0c_b2ztNPSxtayVvHlrrM9Eu7JwfKpNR4KaBlwIfF0D42aOFUFFVDUTY2zBGiMQOKxTl1qCQ=="
+    },
+    {
+      "title": "artreview.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Riwj3EavDZ4CHzdGAFfmC8tPwxp_2H3EbDDKS-aM2LiFrCgDMDcI0YSWMtYLK8Y20IdCQSygRyHLCRnZ43PUZNTH432AOZ5AC1Pju--8lwMe9KbvZiA_IsuuOUGJvOsLGt9GzBqF49BEVeyGRG6Nz0QUgQ=="
+    },
+    {
+      "title": "artreview.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwDpJOEjF_O38qkp0FDDIcswRwS3K4KEV0Q3TprW5TsEvGqI7VpmYdiQp_6y5M0vfZVpUMASLWMSCfuaLQO0rRMRx6uQyJzTW7Uzy04TPJEHHyjkKZ2cRK8i5ziXgIJJR5B7rsbcsweKUofVwGGUGKSlm6Rl8="
+    },
+    {
+      "title": "tokyoartbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBKtxjZ_1yMDU63v6CiEJ0YvvURASX075FXIpWlzITlkU7IFNvtp6Yh2FSCIeS_jOf48p8-Jccy-l-aVXjssCaU1jSSEEOgMvWgkUvCzW1fNXZefWpXYRX1z2BXt46xePRQOrsmEitcLVC"
+    },
+    {
+      "title": "artomi.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFln_beQJuYe-HlAkBzrt4A_vMoN_phqi8FBEtuv_1oQRw6ikRVqM8MiaJ9inPt_Z-OoJK5IIMvXVAbGX6t1VpSNEZuorICeW8MQDjdZw1UFJPvyoUNmBRV"
+    },
+    {
+      "title": "hyperallergic.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF2h443dCT5ICOzrU3_qE2MBOoW7eYAh87yNZun5z92ukeoUm2jNK2E4dyrL0FwDqZchPgaoAheMNuGEpLLCIxxlOtNbE739hS_NBE_aFTVgwiQykAz41kwwnVQBMmjdLHQb624A34_ycWQS8="
+    },
+    {
+      "title": "contemporaryperformance.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI7qrJkZg1-pUYaAKhWMYOh4UF_8c1fALiCjhP3S6fNixBpOb3UWog3wsJY6rQ9ZvrPFYce7guDZ-fltwJOpwhr2d2cCBCgoGebnp_Y6UmU2Nx65lj9YCjDPUftJ0Jk1g91Zlc7AyZoSnl_QXrd8v-lZdZMpDn_2YHN5o2fnNDgLW025I3OMxsApSQn60KbhoRV7c="
+    },
+    {
+      "title": "artexpoworld.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeoMC2KJmvs5deEvD3oSQ8g7U_h9eTG5sxvhEgUbe-x8UzTfQykUY7WIKMflClfBnj70TT_AVYxFJcsNzQ0fqNslcepJ_fnTC_dxHkzhqAocM8WgujtxbKXRomah0VL5w6"
+    },
+    {
+      "title": "artistcommunities.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeRlD5yUDJtweCEfl6hP-dPs2KDIKIVBKaS_UmgGrXYhkuvhmwcJExoa-Uu5HI8vzBssrohs10CDCqghoMwxYO1sg7vSuedNn3aNw3FdhtNJvfYV8FA08rMZTkL1ldJ7FrEKozi9Fn9g=="
+    }
+  ]
+}
