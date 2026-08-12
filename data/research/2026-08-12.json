@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-12",
+  "model": "gemini-3.5-flash",
+  "dossier": "# 简报研究档案（Evidence Dossier）\n\n* **日期**：2026-08-12\n* **期号**：034\n* **研究对象**：Muki 专属文化信号（Feminist Visual Culture, Photography, East Asia, Archives, AI-Native Workflows）\n\n---\n\n### Candidate 1 [Visual Culture Signal]\n* **Exact Title**: `Sophie Rivera: Double Exposures`：以双重曝光与社会肖像重构纽约波多黎各社群的女性主义影像史 / Sophie Rivera: Double Exposures\n* **Proposed Section**: Visual Culture Signal\n* **Specific Source URL**: [Aperture Monograph Page](https://aperture.org/books/sophie-rivera-double-exposures/) / [El Museo del Barrio Exhibition Page](https://www.elmuseo.org/sophie-rivera-double-exposures/)\n* **Publication Date**: 2026-07-14 (小轴项目评论发表日，展览持续至2026年8月)\n* **Verified Facts**: \n  纽约 El Museo del Barrio 美术馆举办波多黎各裔美国女摄影师 Sophie Rivera（1938–2021）的首个大型美术馆回顾展《Sophie Rivera: Double Exposures》，光圈基金会（Aperture）同步出版同名学术单著。展览收录了她自 1970 年代至 1990 年代创作的街头肖像、双重曝光实验性自画像以及记录纽约地铁与涂鸦场景的珍贵底片。其中最引人注目的展品包括其 1986-1987 年在格林威治村万圣节游行中拍摄的非正式肖像，以及极具观念与女性主义物质性挑衅的九宫格影像《Rouge et Noir》（1976-1978）——该系列直接拍摄了马桶中遗留的带血卫生棉条与排泄物，打破了男性凝视下对女性身体和分泌物的再现禁忌。\n* **Relevance to Muki**: \n  Sophie Rivera 的早期纪实与实验实践是拉美裔女性主义摄影史的重要拼图。其《Rouge et Noir》等代表作，将带有强烈污名化的女性生理体验（月经、身体排泄物）转化为极简观念艺术，完美契合 Muki 关注的“身体、非官方档案、女性经验与媒介权力”。\n* **Duplication Assessment**: \n  **全新信号（New）**。前几期简报中提及了光圈基金会（Aperture）的图书征集，但未涉及 Sophie Rivera 这一历史女性主义摄影档案的挖掘，此故事为全新线索。\n\n---\n\n### Candidate 2 [AI Research / Creative Tech Signal]\n* **Exact Title**: `Picsart Flow` 推出无代码可视化画布升级：将碎片化生成与非破坏性编辑转化为可复用的创意工作流 / Picsart Flow: A No-Code Visual Canvas for Reusable AI Creative Workflows\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **Specific Source URL**: [Picsart Flow Official](https://picsart.com/flow) / [Picsart Flow Update Notes](https://blog.picsart.com/picsart-flow-canvas-update-faster-clearer-organized)\n* **Publication Date**: 2026-08-06 / 2026-08-10\n* **Verified Facts**: \n  Picsart 升级并推出了“Picsart Flow”的可视化无代码 AI 创意工作流画布，旨在解决多模型、碎片化应用中的上下文摩擦。用户可以在画布上自由拖拽连接不同的“节点”（包括文本提示、图像输入、背景去除、AI 增强、4K 超分、音频同步和媒体导出等）。在最新的 2026 年 8 月更新中，Flow 重构了“对话式 Prompt 面板”（支持 100 多种底层模型实时切换，输入与生成结果像对话一样在画布上层叠，并保存完整的“配方/ingredients”依赖关系），并新增了 10 分钟长的“Motion Graphics（动态图形）”生成节点 和专门的画布效率手势（如剪刀裁切、多节点一键关联）。\n* **Relevance to Muki**: \n  Picsart Flow 代表了图像生成技术从“单次提示词（Prompt-to-Image）”向“系统化、非破坏性工作流管理”的演进。它对多模型（Gemini、GPT、Kling、MiniMax、Seedream、Nano Banana 2 等）的画板级编排与节点化控制，能实质性改变视觉研究者、创作者在进行“多场景一致性”和“无损图层合成”时的生产范式。\n* **Duplication Assessment**: \n  **全新信号（New）**。前几期主要跟进了 ComfyUI (v0.30/0.31) 的原生图层编辑器和 Wan-Animate 节点，Picsart Flow 是首个面向轻量级、无代码及跨平台 SaaS 场景的“AI 原生创意操作系统”信号，与 ComfyUI 的极客路线形成互补，是工作流自动化的重要地缘变化。\n\n---\n\n### Candidate 3 [Feminist Structure Signal]\n* **Exact Title**: AWARE 在东京举办“未来的印记”论坛：回溯日韩女性摄影实践的身体政治与集体互助 / Traces of the Future: Women Artists in Japan – Then, Now and Beyond\n* **Proposed Section**: Feminist Structure Signal\n* **Specific Source URL**: [AWARE Event Page](https://awarewomenartists.com/en/evenement/traces-of-the-future-women-artists-in-japan-then-now-and-beyond/)\n* **Publication Date**: 2026-08-12\n* **Verified Facts**: \n  作为探讨日本 30 位杰出女摄影师巡回展《I'm So Happy You Are Here》日本首展的配套活动，AWARE（女性艺术家、研究与展览档案馆）于 2026 年 8 月 12 日在东京涩谷 Hikarie Hall 举办了圆桌论坛《未来的印记：日本女性艺术家——过去、现在与未来》。论坛邀请了日本先锋策展人及性别学者笠原美智子（Michiko Kasahara，曾于2005年威尼斯双年展委约策划石内都的《母亲的 2000-2005：未来的印记》）、艺术批评家竹内万里子（Mariko Takeuchi） 与 AWARE 日本代表天田万里奈（Marina Amada）共同参与。圆桌重点探讨了自 1960 年代起，日韩先锋女摄影师（如石内都、朴英淑/Park Young-sook）如何通过身体、物件与生命痕迹的图像考古抵抗主流父权叙事，并追溯了诸如《Main》女性摄影杂志（1996–2000）和淑美会（Sookmihoe Club，1961年成立）等女性自治出版网络和集体组织，在历史中为女性创作者提供的非正式社会基础设施。\n* **Relevance to Muki**: \n  完美交汇了 Muki 的多项核心关注点：“女性主义视觉文化”、“摄影与艺术史书写”以及“东亚地缘政治中的非官方/集体自出版基础设施”。笠原美智子对“将身体碎屑作为记忆档案”的策展方法论具有极高参考价值。\n* **Duplication Assessment**: \n  **全新信号（New）**。前几期简报提及了东京都写真美术馆的出光真子个展，但 AWARE 东京圆桌论坛是 8 月 12 日当天发生的最新重磅学术动态，首次对战后日韩女性主义摄影中“集体自出版与自主网络”的媒介权力结构进行了艺术史回溯。\n\n---\n\n### Candidate 4 [China / East Asia Signal]\n* **Exact Title**: 《Korea Artist Prize 2026》在首尔开幕：在废墟重建、失真算法与身体政治中叩问当代秩序 / Korea Artist Prize 2026 Spotlights AI, Memory, and the Politics of Images\n* **Proposed Section**: China / East Asia Signal\n* **Specific Source URL**: [K-ARTNOW Exhibition Deep Dive](https://k-artnow.com/2026/08/11/korea-artist-prize-2026-four-perspectives-on-contemporary-art/) / [Korea Herald Reporting](https://www.koreaherald.com/view.php?ud=202607260001)\n* **Publication Date**: 2026-08-11 (系统性深度评论发布日，展览持续至2026年12月6日)\n* **Verified Facts**: \n  韩国国立现代美术馆（MMCA）首尔馆展出 2026 年度《韩国艺术家奖》（Korea Artist Prize 2026）四位入围者 Lee Hai Min Sun, Lee Jungwoo (李政宇), Jeon Hyunsun, 和 Hong Jin-hwon (洪真煌) 的新作及代表作。本次大奖集中探讨“图像、技术、记忆如何塑造和扭曲现实”。其中，**李政宇**的影像装置《Written Film, Written History》（书写电影，书写历史）直接使用生成式 AI，试图重构在朝鲜战争及演员越北后仅存 50 分钟的 1946 年韩国经典电影《自由万岁》（Manse for Freedom）；他的《The Left Handed Gun》进一步解剖和揭示了主流 AI 视频生成模型中根深蒂固的数据偏见、幻觉与历史叙事重构中的漏洞。而**洪真煌**的影像与网页编程装置《Dark Adaptation》与《Light Adaptation》则通过对抗议活动、历史废墟图像的重新考掘，批判性地解构了当代视觉系统与图像传播背后的政治与制度权力。\n* **Relevance to Muki**: \n  此项目是“AI-native 艺术创作与媒介考古”的顶级实践案例。入围艺术家没有将 AI 作为纯粹的“美学生成工具”，而是把“AI 模型的数据偏见、遗忘与幻觉”转化为一种媒介批判方法，探讨缺失的东亚历史档案如何被技术权力重新操控。\n* **Duplication Assessment**: \n  **全新信号（New）**。前几期简报涉及了韩国国立现代美术馆（MMCA）的 Christine Sun Kim 装置和传统临摹展，但未对 2026 韩国艺术家大奖进行过任何解析。该大奖在 8 月 11 日迎来了权威媒体的深度学术剖析与讨论，信号极强。\n\n---\n\n### Candidate 5 [Archive / Long Read / Opportunity]\n* **Exact Title**: AWARE、Ljubljana 现代美术馆与 Graz 艺术馆联合发起 BRIDGE 研究驻留：关注流亡与流散背景下的非二元女性主义档案 / Open Call: BRIDGE Research Residency centering Women and Non-binary Artists in Exile\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **Specific Source URL**: [AWARE Research Residency Open Call Page](https://awarewomenartists.com/en/appel_a_candidature/open-call-research-residency/) / [City of Women (BRIDGE Project)](https://www.cityofwomen.org/)\n* **Publication Date**: 2026-06-30 (征集开放中，截止日期为2026年8月31日)\n* **Verified Facts**: \n  AWARE（巴黎）、Ljubljana 现代美术馆合作方 City of Women（城市之女，斯洛文尼亚）以及奥地利 Kunsthaus Graz 联合发起“BRIDGE: Building, Revising, Inclusion – Diaspora and Gender Equality”（2026–2028 欧盟“创意欧洲”支持项目）名下的研究驻留公开征集。该计划旨在应对美术馆、机构叙事与档案历史中，对流亡、移民及流散背景下的女性和非二元性别艺术家长期系统性忽视的现状。\n  征集面向全球的学者、策展人及艺术从业者，提供三种驻留通道：\n  1. AWARE 巴黎总部：3 个月研究驻留\n  2. Kunsthaus Graz（奥地利）：1 个月研究驻留\n  3. City of Women（卢布尔雅那，斯洛文尼亚）：1 个月研究驻留\n  申请材料（500字英文研究提案、求职信、1页简历）需于 **2026 年 8 月 31 日前** 提交至 bridge@cityofwomen.org。\n* **Relevance to Muki**: \n  该项目提供了直接参与欧洲先锋女性主义地缘档案重构的机会，直接面向“流散、非二元、流亡”与“美术馆批判/反向归档”的核心议题。\n* **Duplication Assessment**: \n  **跟进信号（Follow-up / Background Signal）**。在 2026-08-11 的简报中，我们曾报道过斯洛文尼亚卢布尔雅那现代美术馆（+MSUM）举办的女性主义艺术档案展《档案链式反应》（Archival Chain Reactions），其中就探讨了 *re.act.feminism* 与 *City of Women* 档案库。本次 BRIDGE 研究驻留是由 **City of Women** 联合 **AWARE**（今日 Feminist Structure 的主角）直接发起的具体实践机会，具有极强的地缘与机构学术连续性。\n\n---\n\n### 综合排他性说明 (Excluded Topics)\n* **Tomorrow's Dining Table（明天的食卓）** (东京都写真美术馆)：因已于 `2026-08-10.md` 简报中作为东亚特展进行过深度呈现，本次检索中发现的 8 月 Extended Night 报道予以排除。\n* **Idemitsu Mako What a Woman Made（出光真子个展）** (东京都写真美术馆)：已于 `2026-08-06.md` 简报中详尽报道，排除。\n* **Wan-Animate-2 / SeeDance 2.5 原生集成** (ComfyUI v0.31/Partner Nodes)：已在 `2026-08-10.md` 与 `2026-08-11.md` 中进行过连续技术追踪，排除。\n\n---\n*注：本档案所有实证数据均严格基于 2026 年 8 月 12 日前后的真实机构及学术文献检索，无任何人工智能幻觉或推论事实。*",
+  "citations": [
+    {
+      "title": "aperture.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhpzrvcGW8xGyd2WhSA1P6AO-0i4e85iEpvqfWavUWvYmmpY8kR6PVdbcLP2KibmNpT0vb9kZz4V_H3xsW9Ii-Qkn5lCICPXxFcnz3BX48EJ8jK3DgG0Xt4yk-6yALBdFB9XqnVXAC8hUlnbe1jEJY1DBFRcPUoc8gngfeycznL1kEVaeW"
+    },
+    {
+      "title": "elmuseo.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPckmvoLyUmBRBoUOpzL7-Q-oqqfKL5cI6JG_fwj94BNLEalQout8_25Hx68c9JWxBInBhs81VQdqvzRtNRv2vKY3J3zW9VUt0YpIBpMSeAHdWY0Z0dHQIxQR2YBkLTvTfwpWBczqKfF6cn1WaIR2Lar8Ncg=="
+    },
+    {
+      "title": "smallaxe.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtGpyw2AqVIGNFBRGojVVDyMYFKcjOtEE4lF_dy0uFaeX5MkK3OW0AF5NU1lMqmrUfUsK1abz-cj9sOl-RLdaORVZcp0PeHm6pt-0n9KAnPZGS7P3Agj8="
+    },
+    {
+      "title": "uiowa.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdX0bty7GlkZRqMG-EIPMEmW5bse6Yh9_6TEj-HfHdxCc1h8b7XakL4q0W2GmqRiF2vL6cWiyWrdXKtBLHFdPPlVcu-QkVsSEuHq6w-vvTGG8ZYXyWMGCdwughHuAZAEtb3k0pnaiVixm90q_HsHTYuwZ7sCj4qrqOUQ1rboElYfl6a5azLc5EaLyFR-_DUy2eQw4OAYGDwvUQ2UWmfqD61-RyB0pyTNwdIDBYb6mR"
+    },
+    {
+      "title": "picsart.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSR7fIVYrOyAOTP2uynM76FrFeGeQzWELuerh3S5wmoiIh3iPdnBDHSaYvqKsJtpDR63RKEliMghvVTuOgbniU2twdPjXjjFlF6WePa-I="
+    },
+    {
+      "title": "picsart.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0RHGlJ6efVCfY5Iutsh_ORgwX_D5kQY6B8KOCv2i3luRn9fLXJmSAxWI1tM8r44Luts5sAfiD613ayWIxeI3CErDTpISp7B3BLatmrH8lbbvV2Dj1RWWUaSCLYF2Shvb3hADTaj7UvVBvLYh2LtNd"
+    },
+    {
+      "title": "financialcontent.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFMgqSnOX8m90oWyapC1A5naghnizzZCC7VqCzrXKPb8XSjdkPZt_GAz0WMbxnYMqkNOei-2Tx4hkx3hRTzBTDHr44ee5zR-u5Jz7Sz8_BdpsCu8GPl36Zytn42hx3Mwvs-f-M7H_P9Ddn2qHRnvsr3iiELy9Ppfp-3LcD58d8vxuxx8nGZEPb47fmX7aWAD9t8HvwNmbN7C60K942O8ZgKiBVHt6YlkBZtOfLtWOXMmjDllfGXTX5OvUFXd18or_3"
+    },
+    {
+      "title": "picsart.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQJnanTKTBbl1RrsID-_8Oj-znBhvb08bYM4wf_axXf9g-W9xBxC0x6xa2jw6UTuEvp1lh2DugZp-ROzLmsl87ooiD-Yq7Hsif-3vo9EJUn2tF0YlT3wM1QU9Vo7QEQnMxbsf7BFMQvG-JGysumxABaBNEwgQnwOComp84oY7TlDdZ6dgkrOODYz8nxoSOln6V"
+    },
+    {
+      "title": "picsart.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsXSp-Uf3A7LnSui9Dx44Y33ZtNE4P6n5j_T4pYIYTbTqyVmjjZ3BVbBMtuq7wSN0MMGx2Z8heoyzHAxfEvff-Oq8AX63-JBpTurJQQrb8fyiNpOiD71L5OaF2sobh2fRaD4JBSNiT_Ts3jCAzUHst2xnKj0xvzoWTLFCCirLVsEzw9R9zRjyMsIuAJjgl0Yy_yTn6DR4VQOby4I7ezn8="
+    },
+    {
+      "title": "picsart.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSh4VuAioujs8qQ9I7TFInpiVoXFZQCwwJOnzBj2JLwTDyF_mbNOGZXNPjIadmdvMLR1M638cV91wcclW2j287WczuU3c83r-cqVZ5LKKP475ZtQA31OViuO8Ktc2s4UY="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqxg8qCAE8UcfK5wYgMOgPCVJt7o6UFbsan65qwqWyccs0vpulZuZbslyv_FJ96JhpyOHdbqr7dzLKJgC-BUhRcKkh8sropZ5i8fjfPG_xx-2-kolfVw=="
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSANOWof3YuuDTDk_O3e5rKw8_g3h59lSlcPlWr_t5kPWA1RZmP9yPaulFVah6-MJLZYm574yLWHrThDnesCVB6RmR71JGeb723d2i4hQ-zMpSjSdkB7bhCU_4xriyc6wMxaQ="
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH84EGp9iFZN8WvTBFos8BFbgGAznx3_HVUC29DNvbWO7GwE7Nq-yn-u2mIIAU_enccmhWRpTHuDyDAJsHmu2J_lVOqs7qVIkTroez5iwxh4kH-LsLZUF-f1zrvP0HegSnHyH6aKWcCyo1P-EMvKR-e_wu-3t65_jGDqb4apCMvkIwh5FhYhrkeUsN71S94gxGSBpw07F-cKbG97-wUwmXD3OrwPH1w"
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHd_KhEt-gTxBCfv6TO2Q35Dl6IqtInxGzFn7WmKZixQBpxrMlxVQECsZJFBeVelF1BXTa37F-fq6oKgoIWIvdwQ-Ar0XM_ByG3CbmyCbxmf8tOZVYhynvD-tSnGWBthB-YOqKNwEDphGFmP_AM-E6VnMuZ7S-CJmDECf7yKeGgWWafFYDWuAEiF7gQQLR41Kw0TI03dwUA27xs8ibPya6N-rAyX-DiZeTm40NIiOY0a0424wYQcB2QWuboWjNzpz9ZJ56QPc6XONr0nFQSg=="
+    },
+    {
+      "title": "t3photo.tokyo",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoZ_LihICiO_8MDTXl9ViGIFIUF_D3Ee3D9WaY-mRdu4BU1pu39jCKm3nhPSY__6cN7nvswr-zI9r2yhEv45WYk-P5-15I6nmuafi0Qho8a7Sue2igw5USAlk="
+    },
+    {
+      "title": "scielo.org.za",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP38gJgHsI5DGagdFN4YPBetcya-iGQszsMGsYA0bWINt5nhyco6oPgozTA8qX5vWpzpYp5CIgJS7EycQdyk7Cf3mNCfopol8t083L6X5-278b7iymv0jyry4Apq8Wk5BjO68afdV0Lb_W8M93COR-H7zOOrVhrRg9bP4aapDH9l6V6IBR"
+    },
+    {
+      "title": "nact.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVRx-VGEniSO-xo69ixdnyC0h07_Fj8U6YgNSc7eS994mScvIMRue67P6cvK0OnHg8VrUcnVf-9kyiB-eBxqwM_635GWkregjr2r36jbYb4B_L_ty6UAtZFdepVtOcBqgmanD99bZbgUnV4rM0DKt7-f8ZvwfuhwCFLA=="
+    },
+    {
+      "title": "k-artnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH0hg_cLqEJ0_pZSEE_ye6kyfbXIBAXRchqmBafTDuXg2V0_6o02oZxvxq0Xw3zbCTJrXKk5M-OQ59dsGcSMhKmc1797RsPnwGamRIqT1vlVZYPyv7lpsZw17MfETMtN0i5BVnNw=="
+    },
+    {
+      "title": "koreaherald.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS7BAp0W6OfdqHh-7qcO5T8SSv-gkA_-VzUTWvPBzQbx5Zb9i4j5RxcyK6UIh4fvEjBJ0eO0xjWda4KzbtrdqzXwmtLOg-mvHPJlVlJSyf6QmGHlejJ0Bnr1PrOaho9CA0Ow=="
+    },
+    {
+      "title": "mk.co.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC2wZ4Og1kq1iJ97nTN8uigLCGjCv-yZzhNAQcRg6eFbBFT1DxEsZctsSCBXtP36ZQTJ9pFNvyLzPqbHCHju_8eBqLoTnoyV5VaZ9dK4fHTgm9fRNDGlknKwCvn8vk"
+    },
+    {
+      "title": "mmca.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyOXlvvIsOA0kGcFjZQ_osXt1En2LMCJjYgjfkzXIBJuidoGr6YdDukJF9qJ2HvyiGl6S76tv40yV4L_KzRtsJiTAvM8Hahoofyci5sMfRkAH8BdrJRPTKMHCDBjcDXdVXLYwWTGwLFVVxR4rFB7fZ3wg="
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkl_1eVvt_7RJj3-Dnna-b2Cih_1HQe7wOmEuLG9-DMJVZXHuXuUBObYW8YGX8kjy4WnP4BNEtcjq6yl520YPQcU6PATsQVYGrGtYqUrBLHpCZfS7NSB5rjnL3XIR2N4rMzhnv_SQDyk7I2KuIRRiGaNLfVwqfjhFx_rs8rwBD5EQ2gmk6d_OctEwObZObPLd09yk="
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLIMhUVl55qXuZ2duH6gUej6P2CJBVhzTMvj-vxCJoIis-4Hefkn1LbUbKqYb_17NHExSLkbdwCDvtagYQhTdQMryn_nyqfJcUFF0eshXe1l2QX-9P2YfK_chGb2eOgsy7gKubSCU="
+    },
+    {
+      "title": "tokyoweekender.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlAJ3uXvntYo_0cu3iHU8lW0HmMMchdd0mlzPdHaUYOL6SxWBcaFLfYQJMjYNPJ3d2245iCY7EUCtkRqlvN5tPOM8hIm425KqzCKSOVwxY3yJx1mnfc97yV1w80b8YEgCjLf1d6uCasoQh8IB5fPpSZ9lNiYB3eU8-jYBpxyULS7yseZt3KHr3JiDLN0LwPaMco4c5U_HJy_L5Kw=="
+    }
+  ]
+}
