@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-13",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "纪实摄影",
+    "开源创意技术",
+    "水体女性主义",
+    "东亚媒介考古",
+    "国际研究驻留"
+  ],
+  "why_today": "今天的文化信号向我们揭示了微观日常、非人类生态与替代性档案在重组地缘和个人历史中的核心作用。从沙迦摄影展对空间纪实的解构，到古巴女性艺术家特展引入水体视角观照照护劳动，再到北京泰康美术馆以胶片废片和微观物证刺穿宏大叙事，以及新加坡美术馆为这些跨学科档案研究提供物理驻留载体，这些实践在方法论上形成了闭环：通过在官方主流记录之外打捞碎片，重塑我们对身体、劳动与技术的认知。",
+  "intro": "在今天的简报中，我们探讨如何利用流动的生态学（水体女性主义）和非主流媒介材料（如废片、摄影装置）来绕过或抵抗僵化的宏大地缘政治叙事。同时，开源社区对 AI 视频生成无损工作流的优化，以及新加坡美术馆启动的系统性档案与生态研究资助计划，均为这些理论探讨提供了落地为生产力与具体学术实践的工具与空间。",
+  "opening_signal": "真正的档案并不局限于纸张或数字介质，也可以是海洋的潮汐，或是被电影剪辑抛弃的胶片废片。",
+  "closing_signal": "从潮汐流转到胶片废片，这些微小的历史颗粒正在成为抵抗宏大叙事的坚实物证。寻找并激活这些被遗落的边缘档案，或许正是当前学术与创作中最具潜力的生长点。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "沙迦艺术基金会举办 Vantage Point 13：转向委任制探索纪实摄影的空间干预",
+      "title_en": "Vantage Point 13 at Sharjah Art Foundation Shifts to Commission-Based Model for Documentary Photography",
+      "summary_zh": "沙迦艺术基金会举办第13届摄影展。本届展览由策展人 Sara Al Mheiri 与 Osemudiamen Ekore 策划，首次转向委任创作与策展对话模式。展览展出 Luisa Dörr、徐冠宇、Adam Rouhana 等六位艺术家的摄影委任系列。作品通过大画幅印刷和空间装置，探讨地缘冲突、记忆协商与可见性，挑战了传统纪实摄影的定义。",
+      "summary_en": "Sharjah Art Foundation's Vantage Point 13 marks a transition to a commission-focused curatorial model, presenting works by six international photographers. The exhibition uses spatial installations and large-scale prints to examine geopolitical conflicts and memory, redefining the boundaries of documentary photography.",
+      "why_muki_cares": "展览为研究地缘政治与影像实践提供了案例。特别是徐冠宇等艺术家将摄影转化为探讨身份、边境与流散的空间装置，有助于我们理解影像如何作为协商记忆和抵抗传统叙事的媒介。",
+      "editorial_signal": "纪实摄影正在从传统的客观平面记录，转向结合特定空间、个人档案与地缘政治干预的复合装置媒介。",
+      "theme_tags": [
+        "Vantage Point 13",
+        "Sharjah Art Foundation",
+        "documentary photography",
+        "spatial installation",
+        "Guanyu Xu",
+        "Adam Rouhana",
+        "geopolitics",
+        "vernacular archive"
+      ],
+      "source_name": "Sharjah Art Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1-aexuiK-ZTskTbcaaims6R7Jtzpb6ZR0jfoN4TgQjd2HFcSK_vsv1Zxr3uP1a7-UqdMJuh9f2xOcg7Uals7KJZ9egU5yX6LZBQN8wNIrpbt07VCk4_m6znsqTPMXjExHuTNmIf7yxMInKebL9x5Y3LPpDg=",
+      "publication_date": "2026-08-08",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "开源社区发布 MiniMax H3 视频生成节点：解决长视频生成中的动作中断与无损存档瓶颈",
+      "title_en": "New ComfyUI Custom Nodes for MiniMax H3 Solve Motion Discontinuity and Lossless Archiving",
+      "summary_zh": "开源开发者在 GitHub 发布了 ComfyUI-MiniMaxH3-Contex-Loop 扩展节点。该工具包含 Loop Start 节点，支持在不中断运动依赖的情况下进行场景切片。其 Review Gate 节点允许在生成中实时同步播放音频与视频，并支持重试或中止组装。它还提供了无损 PNG 导出功能，可将检查点解码为 8-bit RGB PNG 帧序列，并在解码后自动释放内存，防止显存溢出。",
+      "summary_en": "A new GitHub repository introduces custom ComfyUI nodes for the MiniMax H3 video generator. The extension features loop-based motion continuity, real-time audio-visual review gates, and memory-efficient lossless PNG sequence exporting.",
+      "why_muki_cares": "该工具针对 AI 视频生成中的长视频创作与媒介存档痛点提供了解决方案。其无损帧序列导出和中途干预机制，为创作者在非破坏性编辑流程中提供了更底层的数据掌控力。",
+      "editorial_signal": "AI 视频创意工具正在向更深度的分帧无损控制与实时交互审查演进，体现了开源工作流对专业级影视存档标准的兼容趋势。",
+      "theme_tags": [
+        "ComfyUI-MiniMaxH3-Contex-Loop",
+        "MiniMax H3",
+        "ComfyUI",
+        "video generation",
+        "non-destructive editing",
+        "lossless archiving",
+        "creative workflow",
+        "open source"
+      ],
+      "source_name": "GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcvVSQVyLStkJjEeFqhpEcrwFDMCNDq4rCz0vfSMBD7CAKTjKPsvM-3_SnFyUmSMW028RBB0lV3i7q48fehRG-2_EB64rV-w94GMdTjpG8--P8nkgM299bn_WjNZQMJG8x91kgiW8UeZ-y1wkWgtc=",
+      "publication_date": "2026-08-10",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "赫恩美术馆将举办古巴女性艺术家特展：引入水体女性主义理论重构家务劳作与看护史",
+      "title_en": "Harn Museum of Art to Present 'Layered Lives' Using Hydrofeminism to Reframe Care and Cuban Women's Labor",
+      "summary_zh": "赫恩美术馆宣布将于 8 月 25 日推出《折叠生命：当代古巴女性艺术家》特展。展览由 Adrianne Faber Kolb 策展，汇集了 Belkis Ayón、Elsa Mora 等 10 位古巴及流散女性创作者的 60 余件作品。策展引入了水体女性主义理论，将海洋的潮汐起落与家务、看护及身体劳作周期相呼应，把海水深度隐喻为被官方遗忘的微观档案，呈现女性在危机中的维系机制。",
+      "summary_en": "The Harn Museum of Art will open 'Layered Lives' on August 25, showcasing 60 works by 10 Cuban women artists. Curated by Adrianne Faber Kolb, the exhibition employs hydrofeminism to reframe female domestic labor, care, and memory through the metaphor of the sea.",
+      "why_muki_cares": "展览将生态媒介与身体、看护劳动相结合，提供了一个值得关注的方法案例。它利用水体女性主义作为隐喻，打破了冷战地缘政治对古巴女性创作的刻板定义，有助于研究微观生活档案的重构。",
+      "editorial_signal": "女性主义艺术研究正将水体生态学与日常照护、身体劳动相联结，通过流动流散的视角去中心化宏大的地缘政治史观。",
+      "theme_tags": [
+        "Layered Lives",
+        "Harn Museum of Art",
+        "Cuban contemporary art",
+        "hydrofeminism",
+        "care labor",
+        "feminist archive",
+        "women artists",
+        "Belkis Ayón"
+      ],
+      "source_name": "Print Scholars",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1lPdetVYqyfqmIRcmq0tOAyrpJw1ltbyB5f3rRGF4qCfq6Wg4qiGsgNyiJlwdT7H21oxHV0tgW1IgVYLzzxe4GDJQ5b6G3m9g5FN5KJdrYwPestYNmXQNkOGpbmwXOvHtajc0IuDgHAildMB8cEN276hm4ldYyORS_heZSl5S7IAMULYT-cWxtAfoC5ZFyCNjw8sN6jjylO1KpuOeszzCSw==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "泰康美术馆举办《风中写生》特展：以个体微观媒介实践穿透中国当代艺术三十年历史",
+      "title_en": "Blues on White: Taikang Art Museum Explores Micro-Narratives and Mediated Memory in Chinese Contemporary Art",
+      "summary_zh": "北京泰康美术馆举办《风中写生》特展，呈现 1996 年至今中国当代艺术生态中的 74 件代表作，涵盖 56 位/组艺术家。展览展出了黄永砯的木制与麻绳骨架装置《巨蟒》（2000）、郝敬班的录像装置《Off Takes》（2016）以及蒋志探讨情感与身体瞬间的摄影《0.7%的盐》（2009）。策展旨在呈现个体生命、声音记忆与日常物证如何穿透宏大历史叙事。",
+      "summary_en": "Taikang Art Museum presents Blues on White, showcasing 74 works of Chinese contemporary art from 1996 to the present. The exhibition highlights personal memories, archival video fragments, and ephemeral everyday materials to bypass monumental historical narratives.",
+      "why_muki_cares": "本展提供了丰富的东亚媒介考古与微观影像史档案。如郝敬班对电影胶片废片的重编和再考掘，蒋志对情感瞬间的摄影捕捉，都展示了如何利用微观日常物和影像废料作为抵抗系统性遗忘的方法。",
+      "editorial_signal": "东亚艺术机构正在重新审视自 1990 年代起的当代艺术实践，通过聚焦边缘影像档案、声音记录和物质遗存，重构一个去中心化的微观历史版图。",
+      "theme_tags": [
+        "Blues on White",
+        "Taikang Art Museum",
+        "Chinese contemporary art",
+        "Hao Jingban",
+        "Huang Yong Ping",
+        "media archaeology",
+        "archival video",
+        "micro-history"
+      ],
+      "source_name": "Taikang Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr7yG_WhtjQjirMcqoq-cfBhWDtp7HjoUxLdfgqNoTIJC1rwUM9hHtZOPGzUuOGVslY4yCpGFw6ZkqPHBo80nvN8Ei-lzRrg8A_ZHXvntC49d6n7yi0zqJK-KjsRL0JqEOtdUHv0o0-yhy8qYucWk1HA==",
+      "publication_date": "2026-08-04",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "新加坡美术馆启动第四届国际驻留计划征集：设专门研究轨道探索替代性档案与生态网络",
+      "title_en": "Singapore Art Museum Opens Cycle 4 Residencies Call Focusing on Alternative Archives and Interdependence",
+      "summary_zh": "新加坡美术馆（SAM）启动第四届国际驻留计划全球征集，驻留执行期为 2027 年 6 月至 2028 年 12 月。本次征集围绕倾听地缘危机、物质文化探索以及人类之外的生态技术依存三个线索展开。计划面向国际艺术家、策展人及学者开放，提供往返机票、工作室、每月 1,500 新币津贴及全面的学术与网络资源。策展与研究轨道专门支持针对策展方法与替代性档案的历史研究。",
+      "summary_en": "Singapore Art Museum is accepting applications for SAM Residencies Cycle 4 (2027/2028), offering fully funded physical and research residencies. The program features dedicated curatorial and research tracks focusing on alternative archiving practices and ecological technologies.",
+      "why_muki_cares": "该计划的“策展与研究”和“人类之外/相互依存”等方向高度契合 Muki 关切。它为结合新媒体考古、女性主义生态技术以及替代性知识体系构建的学者提供了实质性的物理与学术资源支持。",
+      "editorial_signal": "国际当代艺术驻留正从单一的“空间生产”转向更加系统的“知识网络构建”，将物质文化史、替代性档案学与非人类生命政治确立为核心研究议题。",
+      "theme_tags": [
+        "SAM Residencies",
+        "Singapore Art Museum",
+        "funding opportunity",
+        "open call",
+        "alternative archive",
+        "material culture",
+        "curatorial research",
+        "ecology"
+      ],
+      "source_name": "Singapore Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU8vfGprSLssxEBUdmnxbZAF00_CBLk_DTdqG41Uf_hp1dzhkjPRlhqlbjiVeTBwPInOjgnABV1WhTnY45bcp8OklYIMkdICg8IR_ktdQs4WnS1iivnm71EOcmAyQHJFkm1tmUH-r8Zzs7-0IKZ0e9h9ryC3bOH1mTyCLLz8rokXzA",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Long Read / Opportunity",
+    "title": "新加坡美术馆启动第四届国际驻留计划征集：设专门研究轨道探索替代性档案与生态网络",
+    "why_muki_may_care": "该项目设立了专门的“策展与研究驻留”轨道，聚焦于替代性档案与策展方法，且其“人类之外/相互依存”的命题完全容纳新媒体考古和生态女性主义。对于研究档案制度、媒介技术与生态网络的跨学科创作者来说，是极其难得的全额资助学术通道。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU8vfGprSLssxEBUdmnxbZAF00_CBLk_DTdqG41Uf_hp1dzhkjPRlhqlbjiVeTBwPInOjgnABV1WhTnY45bcp8OklYIMkdICg8IR_ktdQs4WnS1iivnm71EOcmAyQHJFkm1tmUH-r8Zzs7-0IKZ0e9h9ryC3bOH1mTyCLLz8rokXzA"
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Sharjah Art Foundation",
+    "GitHub",
+    "Harn Museum of Art",
+    "Taikang Art Museum",
+    "Singapore Art Museum"
+  ],
+  "repetition_notes": "开源开发者在 GitHub 发布的 MiniMax H3 视频生成扩展节点，是对 8 月 10 日及 11 日关于 ComfyUI 架构更新和多图层非破坏性编辑追踪的纵深技术跟进（Follow-up），展现了生成式编辑与档案级无损输出相结合的具体工作流演进。其余 4 个故事均为全新信号（New）。",
+  "issue_number": 35
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-13",
+  "model": "gemini-3.5-flash",
+  "dossier": "以下是为 Muki 独家定制的文化信号简报研究案卷（Evidence Dossier）。本期聚焦 2026 年 8 月 11 日至 13 日期间，在全球视觉艺术、女性主义策展、创意技术以及东亚地缘档案领域出现的最新核心信号。\n\n---\n\n# Muki's Daily Digest (Issue 035) - Research Evidence Dossier\n\n## 1. 视觉文化信号 | Visual Culture Signal\n\n### Vantage Point 13：沙迦艺术基金会启动新一届摄影特展，探索纪实摄影的媒介边界与流变\n*   **英文原题**：*Vantage Point 13*\n*   **信息源链接**：[Sharjah Art Foundation](https://www.sharjahart.org/)\n*   **发布/开展日期**：2026年8月8日开展（展期至2026年11月29日）\n*   **事实陈述**：\n    沙迦艺术基金会（Sharjah Art Foundation）的摄影美术馆（Photography Gallery）举办第13届 *Vantage Point 13* 摄影展。与以往单纯的公开征集不同，本届展览标志着该平台转向“委任创作与深度策展对话”的全新模式。由助理策展人 Sara Al Mheiri 与策展助理 Osemudiamen Ekore 策划，展览呈现了来自不同地缘背景的六位艺术家——Luisa Dörr、Latifa AlBokhari、Sathish Kumar、Adam Rouhana、徐冠宇（Guanyu Xu）和 Maheder Haileselassie 的最新摄影委任系列。这些作品通过大画幅印刷、空间装置和特定的现场干预，挑战了纪实摄影的传统定义，将图像重构为协商记忆、抵抗可见性与处理地缘冲突的流动空间。\n*   **Muki 关联度**：\n    该展览为我们长期追踪的“批判性影像实践与地缘政治叙事”提供了极佳的策展案例。尤其是华裔艺术家徐冠宇（Guanyu Xu）的加入，他延续其对公民身份、边境与流散空间的视觉解构。展览对“摄影并非客观证据，而是意义角力的空间”的探讨，与 Muki 对影像历史、媒介权力结构的关切完全契合。\n*   **重复度评估**：全新信号（New）。\n*   **英文摘要**：\n    *Sharjah Art Foundation's Vantage Point 13 marks a new chapter by transitioning into a commission-focused model, showcasing six international photographers including Guanyu Xu and Adam Rouhana. The exhibition challenges traditional documentary conventions through large-scale spatial installations, positioning photography as an active site for negotiating memory and representation.*\n\n---\n\n## 2. 创意技术与智能体信号 | AI Research / Creative Tech Signal\n\n### ethanfel/ComfyUI-MiniMaxH3-Contex-Loop：开源社区发布 MiniMax H3 视频流节点，解决多场景剪辑与无损存档瓶颈\n*   **英文原题**：*ethanfel/ComfyUI-MiniMaxH3-Contex-Loop: Clip Chaining for MiniMax H3 in ComfyUI*\n*   **信息源链接**：[ethanfel/ComfyUI-MiniMaxH3-Contex-Loop GitHub](https://github.com/ethanfel/ComfyUI-MiniMaxH3-Contex-Loop)\n*   **发布日期**：2026年8月10日\n*   **事实陈述**：\n    开源开发者在 GitHub 发布了专门针对 MiniMax H3 视频生成模型的自定义 ComfyUI 节点扩展 `ComfyUI-MiniMaxH3-Contex-Loop`。该工具解决了生成式视频编辑中动作与音频连续性的技术难题。它包含：\n    1. **Loop Start（循环开始节点）**：支持在运动依赖不中断的前提下，安全地进行场景切片范围选择（scene range）；\n    2. **Review Gate（审核网关）**：允许在生成过程中播放实时同步的音频与 MP4 视频，并提供重试、重滚随机种子（Reroll seed）或中止并组装部分片段的实时交互能力；\n    3. **Archival PNG export（档案级 PNG 导出）**：能将 Safetensors 格式的检查点（Checkpoints）无损解码为连续的 8-bit RGB PNG 帧序列，并在每一步解码后自动释放场景内存，确保长视频导出时不会因累积帧数据而导致显存溢出（OOM）。\n*   **Muki 关联度**：\n    该节点并非概念性的 AI 玩具，而是针对 AI 视频生成工作流中“长片创作”与“媒介存档”痛点的具体技术方案。其“无损帧序列存档”及“生成中途干预”的机制，为数字影像创作者提供了底层非破坏性编辑的掌控力，极具实用研究价值。\n*   **重复度评估**：全新信号（New），是对 8 月 10 日及 11 日关于 ComfyUI 架构更新和多图层非破坏性编辑追踪的纵深技术跟进（Follow-up）。\n*   **英文摘要**：\n    *A new custom ComfyUI node, ComfyUI-MiniMaxH3-Contex-Loop, enables seamless motion and audio continuity for the MiniMax H3 video model. It features a real-time Review Gate for prompt and seed intervention, alongside a lossless, memory-efficient PNG sequence exporter designed for long-form cinematic workflows.*\n\n---\n\n## 3. 女性主义结构与关护信号 | Feminist Structure Signal\n\n### Layered Lives：赫恩美术馆举办古巴当代女性艺术家特展，以“水体女性主义”重构关护与劳作历史\n*   **英文原题**：*Layered Lives: Contemporary Cuban Women Artists*\n*   **信息源链接**：[Harn Museum of Art](https://harn.ufl.edu/)\n*   **开展日期**：2026年8月25日开展（展期至2027年1月3日）\n*   **事实陈述**：\n    位于美国佛罗里达州的赫恩美术馆（Harn Museum of Art）宣布将于8月25日推出特展《折叠生命：当代古巴女性艺术家》（Layered Lives）。该展览由 Adrianne Faber Kolb 策展，汇集了过去三十年中 10 位古巴女性创作者及其流散群体的 60 余件作品，包括著名艺术家 Belkis Ayón、Elsa Mora、Sandra Ramos、Rocío García Nuez、Aimée García 和 Mabel Poblet Pujol。\n    策展框架首次系统引入了**水体女性主义（Hydrofeminism）**理论。展览将海洋的潮汐起落与古巴女性的家务、看护及身体劳作周期相呼应，将海水深度隐喻为被官方宏大历史遗忘的微观档案，强调“关护（Care）、联结（Connection）以及自我与他者的维系”是古巴当代女性艺术实践的底层机制。\n*   **Muki 关联度**：\n    该展览完美回应了 Muki 关心的“身体、劳动、看护与女性主义反向档案”议题。其利用水体女性主义作为空间和媒介隐喻，打破了冷战地缘政治叙事对古巴创作者的刻板归类，为我们研究“如何将生态媒介、关护劳动与身体政治进行跨学科活化”提供了极其重要的学术范例。\n*   **重复度评估**：全新信号（New）。\n*   **英文摘要**：\n    *The Harn Museum of Art's upcoming exhibition Layered Lives presents 60 works by 10 Cuban women artists, utilizing a hydrofeminist framework to explore relationality, care, and memory. It positions the fluid properties of the sea as a visual and conceptual lens to surface marginalized counter-histories of labor and migration.*\n\n---\n\n## 4. 中国与东亚视觉文化信号 | China / East Asia Signal\n\n### 风中写生：北京泰康美术馆举办三十周年特展，探索个体微观记忆对宏大历史的媒介抵抗\n*   **英文原题**：*Blues on White: Art Exhibition Celebrating the 30th Anniversary of Taikang Insurance Group*\n*   **信息源链接**：[Taikang Art Museum](https://www.taikangartmuseum.com/)\n*   **开展日期**：2026年8月4日（展期至2026年10月7日）\n*   **事实陈述**：\n    北京泰康美术馆重磅开幕特展《风中写生》（Blues on White）。展览由辛云鹏策展，系统呈现了 1996 年至今中国当代艺术生态中的 74 件代表性作品，涵盖 56 位/组艺术家，媒介横跨影像、装置、绘画与摄影。\n    展览的核心看点包括：中国先锋艺术家黄永砯创作于 2000 年、长达 30 米的巨型木制与麻绳骨架装置《巨蟒》（Python）的最新复现；影像艺术家郝敬班的重要录像装置作品《Off Takes》（2016）；以及蒋志探讨情感档案与物质消逝的摄影概念作品《0.7%的盐》（2009）。策展框架旨在讨论个体生命、日常物证与声音记忆如何在时间的风中被感知、转译和铭记，以此穿透 grand historical narratives（宏大历史叙事）。\n*   **Muki 关联度**：\n    这是一个极佳的东亚媒介考古与微观影像史档案库。展览中如郝敬班对电影胶片废片（Off-takes）的重编与再考掘、蒋志对身体和情感瞬间的静物式摄影捕捉，都是通过“微观日常物”抵抗制度化遗忘的方法论。\n*   **重复度评估**：全新信号（New）。\n*   **英文摘要**：\n    *Taikang Art Museum in Beijing presents Blues on White, a major survey of contemporary Chinese art from 1996 to the present featuring 74 works by 56 artists. Highlighting monumental installations like Huang Yong Ping's Python and Hao Jingban's archival video work Off Takes, the exhibition examines how personal memories cut through grand official narratives.*\n\n---\n\n## 5. 档案、长读与机会 | Archive / Long Read / Opportunity\n\n### SAM Residencies Cycle 4 (2027/2028) 国际驻留计划面向全球学术与创作人才开放免费申请\n*   **英文原题**：*SAM Residencies Open Call: Cycle 4 (2027/2028)*\n*   **信息源链接**：[Singapore Art Museum Residencies](https://www.singaporeartmuseum.sg/residencies)\n*   **申请截止日期**：2026年9月30日晚上11:59（新加坡时间 GMT+8），无申请费\n*   **事实陈述**：\n    新加坡美术馆（Singapore Art Museum）启动第四届国际驻留计划（SAM Residencies Cycle 4）的全球征集，驻留执行期为 2027 年 6 月至 2028 年 12 月。本次征集主要围绕三个学术和创作线索展开：\n    1. **倾听/顺应（Listening/Attuning）**：对当代紧迫地缘与政治危机的批判性回应；\n    2. **制造/物质文化（Making/Material Cultures）**：关注物质探究与手工制作过程的身体经验；\n    3. **人类之外/相互依存（Beyond Human/Interdependence）**：探讨人类、媒介技术、生态及其他生命形式的互联网络。\n    \n    计划设有三个申请轨道：\n    *   **艺术驻留（Artist Residency）**：支持新型艺术媒介实验；\n    *   **社区与教育驻留（Community & Education Residency）**：探索艺术与公众劳作的微观交织；\n    *   **策展与研究驻留（Curatorial & Research Residency）**：专为策展人与独立学者设立，支持对策展方法论与替代性档案的历史研究。\n    \n    **资助标准**：国际居民可申请 1 至 3 个月的驻留期，SAM 官方将提供：免费往返经济舱机票、位于丹戎巴葛分销园（Tanjong Pagar Distripark）后工业仓库空间的共享工作室或联合办公空间、每月 1,500 新币的生活津贴、以及全面的机构学术资源、网络连接与公众展示支持。\n*   **Muki 关联度**：\n    这是极其符合 Muki 背景的高质量学术与策展机会。“策展与研究驻留”轨道直接面向档案学方法和替代性知识体系构建，而“人类之外/相互依存”的命题则能容纳女性主义生态技术、非人类体感知以及新媒体考古方向的深度课题。\n*   **重复度评估**：全新信号（New）。\n*   **英文摘要**：\n    *Singapore Art Museum has launched the global open call for SAM Residencies Cycle 4 (2027/2028), offering funded residencies for artists, curators, and researchers at Tanjong Pagar Distripark. The program focuses on three thematic strands—Listening/Attuning, Making/Material Cultures, and Beyond Human/Interdependence—with applications open until September 30, 2026.*\n\n---\n\n### 💡 策展人/主编推荐（Editor’s Pick）\n本期最瞩目的文化信号无疑是 **SAM Residencies Cycle 4 全球开放征集**。这并非普通的艺术家工坊，而是将“物质文化（Material Cultures）”与“人类之外的依存（Beyond Human Interdependence）”作为研究方法、由顶尖亚洲艺术机构完全资助的研究枢纽。它为 Muki 提供了将“影像媒介考古”与“非人类体生态网络”结合的绝佳物理与学术实践通道。",
+  "citations": [
+    {
+      "title": "sharjahart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1-aexuiK-ZTskTbcaaims6R7Jtzpb6ZR0jfoN4TgQjd2HFcSK_vsv1Zxr3uP1a7-UqdMJuh9f2xOcg7Uals7KJZ9egU5yX6LZBQN8wNIrpbt07VCk4_m6znsqTPMXjExHuTNmIf7yxMInKebL9x5Y3LPpDg="
+    },
+    {
+      "title": "sharjahart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn36r5eaToh_zQDmgSx5m2nxtSNQQqOyroGxL8rMD2CC1L9qtS_1vXHP30p8Xw2P3o_Uu3vAxh34B4ZYxzqCbtjEFZm0knTwtkR-OoJ4pkKIjRGSd2wtEUpk97aiwCDmR2MG74K8Dal8A-gzKv26yp8a1MYLRHscVFMGBoW_vHAWFgWhvm1IYgHpus37PMK5m1XVKQ7PAdnt6nO0GM6AoO5epMM9aIrRB-kOtVWf8e1oT8EGznvh0KCuS6oexZtSBER19NvNCm4ODtkF4="
+    },
+    {
+      "title": "sharjahart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD1vpn7vdvERQZyWVLqy9sQlZrSbdKtg3ODyspt7CvgfpQ4_aPVO1VGBPMW2JOQLCKu2noJO8GKXcovJ5w9JmKeAYbr4-U12gWpqimxp6Z9DCUFVJEp8OyVzOjzuLpCWlfIOsyODo-QaAVhTUvgkZrPk3DVCafzTq4fGmmmk4ZkeJovvo3a_mHFew4coW4dI7OZ1IXtf4kwVvybOafVdPxht21zAxzzcDqF5UT6JmWC0wFlJY="
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcvVSQVyLStkJjEeFqhpEcrwFDMCNDq4rCz0vfSMBD7CAKTjKPsvM-3_SnFyUmSMW028RBB0lV3i7q48fehRG-2_EB64rV-w94GMdTjpG8--P8nkgM299bn_WjNZQMJG8x91kgiW8UeZ-y1wkWgtc="
+    },
+    {
+      "title": "printscholars.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1lPdetVYqyfqmIRcmq0tOAyrpJw1ltbyB5f3rRGF4qCfq6Wg4qiGsgNyiJlwdT7H21oxHV0tgW1IgVYLzzxe4GDJQ5b6G3m9g5FN5KJdrYwPestYNmXQNkOGpbmwXOvHtajc0IuDgHAildMB8cEN276hm4ldYyORS_heZSl5S7IAMULYT-cWxtAfoC5ZFyCNjw8sN6jjylO1KpuOeszzCSw=="
+    },
+    {
+      "title": "taikangartmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr7yG_WhtjQjirMcqoq-cfBhWDtp7HjoUxLdfgqNoTIJC1rwUM9hHtZOPGzUuOGVslY4yCpGFw6ZkqPHBo80nvN8Ei-lzRrg8A_ZHXvntC49d6n7yi0zqJK-KjsRL0JqEOtdUHv0o0-yhy8qYucWk1HA=="
+    },
+    {
+      "title": "blindspotgallery.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDk3AoNzzOveE63ToRDUUj4jXQXz4j7yrdEJphEQck4uWGBXdpq5vmqMDLwkf1NKzBGY1Xl5jam8hmPJ6V-3-1dZSUi8wOmEv63WO5qE71YarXKKuNGwXVGRxHL5mjKMueZTXElK_55j00bfSg45mmbGmC6-LhPdYZunwJeEMyCr8NB-HUebWbvETHKjDt84qDkQ0eSox128Xf8N6QEgHHGW0V4r0QowtLSxeJoUe-b8yUwD-A"
+    },
+    {
+      "title": "reflexiongallery.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUYkA6cWIsAfbT9_yLUSuHfbGLH6E2hiDm9CYyQ7IUww-TuP99udLWKvaWBU42Yqsj7FpJxopTOdcZ6rh6mrFH5JTsypoFStv5y6Qx3ATcb0tf8bYx0iEd_boz9qLNCtV7_qDiEnK8uM6gblWlAe8UuPwzBeNayYHCdQhs1b3dvwd8wCjciEKZGCru2pn5r6VOu980SFnvwDSMytUC77SowcXeJo3u65r2WNuAD3o8hSnp5bLm4hAEPmTqPyKYQ6Te"
+    },
+    {
+      "title": "taikangartmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGimPxqzLWM849ky6Y_bzPUy52C-5bX8zesNOrNyZRz9891piAYZguGEqakpjbb2CzMIzSk7bBKtPU-VGCbVmzFsxoecuq3w9pRHAPKPJhjNr7kTF4dFzJoN2kqmmvLUHI3kIIC29OD"
+    },
+    {
+      "title": "cgtn.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqCZ2lGTtyGq-hrlehTo7X3Tyx2MEeYxwPhrevzmeVKsTRz1mP6LA3hcyuEr30ETkaG57oOTZnVrUDmqTxS6fH2ZvCXwceHKtSB2NVTczsiH7nCw98ETHwyRrBxmoNolccsLDIg3eA4NXrwptEAxGDykqNSkVgflsJXXo37HNEFjfCclEXouAfZKKiKyf6BD6aB4mI2fr9rJE8M_D3C0uoa1cmmEruGD9TN-pB0pE18ZCt0A=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnH6zY8xcD7iSB17c4rFSGMlsvZsp1GiS5GiO-nXsSg39Y37mEn2e-uKl3blSYSYxsiqQfoPc9YRXR3wL34BD4rAnJXf7Hh24XS8UuY5GzdeorsD9mFC78TZIIT9cJv4yWqj_mN6V6oiLsxIYYCT_GNN3-uwWoldc="
+    },
+    {
+      "title": "singaporeartmuseum.sg",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU8vfGprSLssxEBUdmnxbZAF00_CBLk_DTdqG41Uf_hp1dzhkjPRlhqlbjiVeTBwPInOjgnABV1WhTnY45bcp8OklYIMkdICg8IR_ktdQs4WnS1iivnm71EOcmAyQHJFkm1tmUH-r8Zzs7-0IKZ0e9h9ryC3bOH1mTyCLLz8rokXzA"
+    },
+    {
+      "title": "creativeflair.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-GrE4ghoPfZc8jRUMmdClL2R2QkS7t2jpOfM5T2WZSV4LsLfi3On4zF6aG4Ib0uLDqLTTxNuLHxsEpoH_nlok5dSzHdMnKKok_tTqU9kiww32jD9dx15kAu0BRmWy8lI7E9gHdAK-svs8QZ6UBUk9CJs9jcauyWTibPSY8fxxe-wZLVD6pKVkakUdC1l2Zsnp9wpzNokhR9K-9pNYHUpCNNhNoVCb2V0DIBI3"
+    },
+    {
+      "title": "artafricamagazine.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOR7_EmiUfMMZCnPrh3vwKLAgKhGe6dx96Fwqqz1XdZ8Q-2iyfacYDdOSWeQTRxyCz_HIXHN9vrxPLYvAIyOEQ8JJvma_2zhXMSNjxDfXB1AcbKG189407zY4_MBQW2ZXjUIoMqdnLqaKVfjhjKK2xMEuXoRXCz6sI94IcZFzt4jw="
+    },
+    {
+      "title": "smapply.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPxV4TBkBXuM1hnkrOaTu2Lp0Pqp2p4fHrSiZSXUjXi7U0xZMQ3iulTTYa-bRPisfSAAoZwEvqD_sRIoOcN0SCCB5N8kECD75o6XejvkAzZmeUwIuiz7ge"
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPYYw9rtItY9AjPL-yCujc8QaIU55kXPyGSz2eDFjX8D-bEELrjsZ_NDp_PFrvZ7omm_gaK2eIi9Sj69lbOSOhCI-UtDgaAEqSVLVfbDm14iGtK4JpL4v3gE2rAljBrM_11NjSKQoDe-wXilh0gWf6gzJnFXaKEiDV0k-UiJD1ZvSjQF7T2GGrlQ=="
+    }
+  ]
+}
