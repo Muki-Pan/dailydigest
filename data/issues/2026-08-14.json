@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-14",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "日本女性摄影",
+    "媒介考古",
+    "看护劳作",
+    "公共空间政治",
+    "游戏引擎与AI",
+    "非人意识",
+    "技术主权",
+    "声音生态"
+  ],
+  "why_today": "本期信号共同指向了对“技术与身体主权”在公共、本土及历史维度上的探讨。东京展出的日本女性摄影跨代际档案，纽约高线公园试图将女性看护与家务劳动转化为钢铁雕塑的公共提案，首尔新开媒体馆用生成式 AI 和游戏引擎拷问数字肉身，以及香港“录映太奇”四十年的媒介考古和北欧探索声音主权的驻留计划，这些微观实践展示了在主流商业叙事之外，如何利用影像、声音与空间争取身体的自主定义。",
+  "intro": "本期简报探讨了地缘影像与技术生态中的身体夺回路径。我们关注日本女性战后摄影史在东京的本土集结，以及纽约公共场域中对看护和劳作纪念碑性的空间争夺。同时，通过首尔的数字媒介展览与《艺术亚太》的录像考古，我们将目光投向数字异化、非人意识与本土技术主权的交叉地带。",
+  "opening_signal": "镜头与声音，是我们在这个过度数字化的世界中，为肉身夺回主权的具体锚点。",
+  "closing_signal": "当人工智能、游戏引擎与公共地标的宏大叙事层出不穷时，那些源自家庭看护、声音生态以及早期录像的微观档案，反而提供了最坚韧的抵抗路径。这些“非线性”的声音与影像，正在为我们重新划定肉身与技术共存的信任边界。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "Follow-up",
+      "title_zh": "“我真高兴你在这里”日本女性摄影展登陆东京涉谷：以 200 余幅作品与珍稀摄影书回溯战后女性视角",
+      "title_en": "'I’m So Happy You Are Here: Japanese Women Photographers from the 1950s to Now' Group Exhibition Opens at Shibuya Hikarie, Tokyo",
+      "summary_zh": "东京涉谷 Hikarie Hall 正在举办“我真高兴你在这里”日本女性摄影展。展览是此前在法国阿尔勒等国际巡展的日本本土升级版，由竹内万里子等共同策划。现场展出战后至今 27 位日本女性摄影师的 200 余幅作品、视频及珍稀摄影书，包括石内都记录母亲遗物的《Mother's》系列、渡边眸记录东大运动的纪实摄影，以及石川真生记录美军占领下冲绳的《赤花》系列，系统性重构由男性主导的日本摄影史叙事。",
+      "summary_en": "The group exhibition 'I'm So Happy You Are Here' at Tokyo's Shibuya Hikarie presents over 200 works, videos, and rare photobooks by 27 Japanese women photographers from the 1950s to the present, challenging male-dominated histories of Japanese photography.",
+      "why_muki_cares": "展览不仅呈现了日本女性摄影师在身体政治与微观日常层面的影像介入，现场展出的珍稀摄影书更为东亚女性自主出版物与媒介考古提供了珍贵的实物文献线索。",
+      "editorial_signal": "长期以来，日本摄影的国际叙事高度依赖几位男大师，该展览通过跨代际的系统整理，展示了女性镜头下的地缘变迁与个人史。",
+      "theme_tags": [
+        "I'm So Happy You Are Here",
+        "Bunkamura",
+        "Ishiuchi Miyako",
+        "Watanabe Hitomi",
+        "Ishikawa Mao",
+        "Japanese photography",
+        "photobook",
+        "feminist archive"
+      ],
+      "source_name": "Bunkamura",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHd7mrNck5zWmcL2WbGI7-kbiY-oo4KkwV1Hkt8LH6aMUMVy6sH6nC-lxd01sv9HUffk_qPgRhc9Glvh00Gfbl7yA5-66HW6Y-3B49DjibvFRn__bjonozLNLnYvHEt9wF-VmHKkdq2irGli83KD5XC5B-IbARUFhIGA==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "首尔市立西首尔美术馆举办金熙天个展《鼴鼠們》：以游戏引擎与生成式 AI 探讨虚实边界",
+      "title_en": "Seo-Seoul Museum of Art Presents 'Kim Heecheon: Moles' Examining the Technological Environment and the Boundaries of Actuality",
+      "summary_zh": "新开馆的首尔市立西首尔美术馆宣布，将于 8 月 20 日举办媒体艺术家金熙天的个展《鼴鼠們》。展览将展出其利用 Unity 游戏引擎创作的移动影像作品《Cutter III》与《Double Poser》，以及完全利用生成式人工智能创作的多通道视频新作《Cured》。作品以实体美术馆空间为游戏背景，探讨数字界面与技术副产品如何异化人类对肉身和自我的认知。",
+      "summary_en": "The Seo-Seoul Museum of Art will present 'Kim Heecheon: Moles', a solo exhibition exploring digital alienation and physical actuality through game engines and generative AI-created multi-channel video works.",
+      "why_muki_cares": "艺术家提供了一个将游戏引擎交互、生成式 AI 和身体数据整合的创意工作流，其媒介考古视角对研究数字界面如何异化肉身感知有直接参考价值。",
+      "editorial_signal": "游戏引擎与 AI 不仅是效率工具，在这项实践中，它们成为解构数字界面如何异化肉身感知的媒介考古对象。",
+      "theme_tags": [
+        "Kim Heecheon",
+        "Seo-Seoul Museum of Art",
+        "game engine",
+        "generative AI",
+        "media archaeology",
+        "digital alienation",
+        "body data"
+      ],
+      "source_name": "Kim Heecheon",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXLFyrkeIS4fqYeFIkVIGBssPghlGQQzjvneBcx5-__YISQCDtpU3NZQAXorw9IZC_H3cLWykQ-NjEaplxY8jd68tSyTNFiNw-qqdZQg==",
+      "publication_date": "2026-08-13",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "纽约高线公园公布 62 份公共艺术提案：以手工艺与身体劳作干预公共空间政治",
+      "title_en": "Kelly Akashi and Laure Prouvost Among 62 Proposals for High Line Plinth Commissions",
+      "summary_zh": "纽约高线公园公布了 62 份公共艺术提案并向公众征集反馈，用以评选 2029 和 2030 年展出的第七、八届“高线基座”委任项目。其中，凯莉·赤司计划用耐候钢激光切割成巨大的蕾丝杯垫雕塑，将与家务和女性看护相连的传统手工艺强行置入纽约男权象征的城市天际线；劳拉·普罗沃斯特则提案一个七臂拟人雕像，通过抱抚婴儿、举旗等动作，以温和身体劳作解构冷酷的纪念碑性。",
+      "summary_en": "New York's High Line Art has unveiled 62 proposals for its next plinth commissions, including projects by Kelly Akashi and Laure Prouvost that reframe domestic labor, care, and embodiment within the public space.",
+      "why_muki_cares": "提案展示了如何通过材质倒错与尺度放大，将隐形的“看护、家务与哺乳”等议题转化为公共地标，对空间政治和媒介权力进行具体的视觉干预。",
+      "editorial_signal": "公共空间纪念碑正在经历一场去中心化和去男权化的转变，看护和无形家务劳作正被转化为坚硬的公共视觉话语。",
+      "theme_tags": [
+        "High Line Art",
+        "Kelly Akashi",
+        "Laure Prouvost",
+        "public art",
+        "domestic care",
+        "care labor",
+        "space politics",
+        "feminism"
+      ],
+      "source_name": "e-flux",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaOpqiTjqIfV1ZTavlH8hbGdZ_mtI74G2z7yPAJe4bL_ZmQvG5OC3Qi0p4MuvkGVTCdQW6m7fWBmxb16nu-VUz5SgOXL4pusNzr-1q4MMswF27IcJNyJqWXRrPhYuue6TjUA9UOlnzaBrkPHlSqjFPlS390w==",
+      "publication_date": "2026-08-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "《艺术亚太》第 149 期出版：聚焦香港录像艺术先驱鲍蔼伦与“录映太奇”的媒介考古",
+      "title_en": "ArtAsiaPacific Issue 149 Spotlights Hong Kong Media Art Pioneer Ellen Pau and Videotage at 40",
+      "summary_zh": "《艺术亚太》第 149 期合刊聚焦香港早期录像艺术先驱鲍蔼伦及她于 1986 年共同创办的“录映太奇”四十周年历史。同时，鲍蔼伦大型回顾展《她去》正在纽约展出。合刊系统考掘了其医学影像诊断师背景如何影响其录像实践，将 VHS、AI 修复等转译技术作为对香港进行非物质存档的幽灵媒介；另有文章讨论了东亚艺术家如何将 AI 视作承载“非人意识”的痛苦感知媒介。",
+      "summary_en": "ArtAsiaPacific Issue 149 spotlights pioneer Ellen Pau and the 40th anniversary of Videotage, alongside articles analyzing AI as a sensory medium capable of 'nonhuman consciousness' in East Asian contemporary art.",
+      "why_muki_cares": "完美契合对东亚独立影像档案（录映太奇媒介库）的研究兴趣，同时将早期非数码录像实践与当前的 AI 非人意识并置，提供跨代际的历史参照。",
+      "editorial_signal": "录像艺术的早期修复 and 非物质存档，在当下人工智能和非人意识讨论的语境中，显现出媒介考古独特的生机。",
+      "theme_tags": [
+        "ArtAsiaPacific",
+        "Ellen Pau",
+        "Videotage",
+        "media archaeology",
+        "nonhuman consciousness",
+        "Hong Kong",
+        "AI art",
+        "archival video"
+      ],
+      "source_name": "ArtAsiaPacific",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpBZlUQ9frKV8Xlep6fyWojyDXFKk7OezOKLm1Z2IbfmvXJJHCONVPFkUjIH1u2oolcIHtZUbwVjnHAfiwCVTrPToQTEQXCAMhJbQ9ezzmOpE1LeyxOE1ObE5ILGSLrCPIrxswhl1IPFFJLGV0O7F_77KY1C4rGIaoQNI=",
+      "publication_date": "2026-07-07",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "M-Cult 推出 2026-2027 驻留计划：支持通过非线性技术与声音环境探索本土技术主权",
+      "title_en": "M-Cult Announces Selected Artists and Launches Nordic-Baltic Residency Open Call",
+      "summary_zh": "芬兰媒体文化机构 M-Cult 宣布了 2026 秋季驻留艺术家，台湾原住民艺术家林安琪入选，其作品融合身体、陶瓷声音和虚拟空间重构技术未来。同时，M-Cult 联合声音艺术画廊 Arte/Titanik 面向北欧和波罗的海地区艺术家，启动“居住非线性技术与声音世界”公开征集。项目旨在摆脱商业驱动的技术进步叙事，转向本土声音生态。资助包括 2 个月驻留、3500 欧元津贴和 2000 欧元制作费，截止日期为 8 月 30 日。",
+      "summary_en": "Finland-based media organization M-Cult has launched an open call for its Nordic-Baltic residency, 'Residing Non-linear Technologies and Sonic Worldings', offering EUR 3,500 stipends to explore alternative tech sovereignty.",
+      "why_muki_cares": "该项目提供了一种反思商业大厂垄断的“本土技术主权”研究路径。其将声音、原住民/女性身体、非线性档案与湿地生态结合的方法，对媒介反叙事研究有直接参考价值。",
+      "editorial_signal": "面对硅谷巨头主导的技术叙事，北欧的前沿媒介实践正通过声音艺术和非线性技术，寻求将科技工具重新“本土化”与“生态化”。",
+      "theme_tags": [
+        "M-Cult",
+        "open call",
+        "artists residency",
+        "acoustic ecology",
+        "indigenous future",
+        "Ciwas Tahos",
+        "technological sovereignty",
+        "alternative archive"
+      ],
+      "source_name": "M-Cult",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbPNiMaUKipssoD3cYQXKpPSPPKZqdc8hRjkCaEvsy4pCDPuSq5utmwXo09ICtUsRo-p8O7EySFG7LwjsSG1xcZWxU7l0RFanTunwl6SGMx6y1yLGHYmeVo72Ega80qlQYMb3jWa5swB3ccQFIdA==",
+      "publication_date": "2026-08-13",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture Signal",
+    "title": "“我真高兴你在这里”日本女性摄影展登陆东京涉谷：以 200 余幅作品与珍稀摄影书回溯战后女性视角",
+    "why_muki_may_care": "这个展览是日本女性摄影史极其罕见且全面的本土集结。现场展出的珍贵自出版摄影书，与前几日我们关注的东京论坛形成了极佳的‘实物文献-学术讨论’地缘闭环，是研究东亚视觉文化和女性媒介考古的必读线索。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHd7mrNck5zWmcL2WbGI7-kbiY-oo4KkwV1Hkt8LH6aMUMVy6sH6nC-lxd01sv9HUffk_qPgRhc9Glvh00Gfbl7yA5-66HW6Y-3B49DjibvFRn__bjonozLNLnYvHEt9wF-VmHKkdq2irGli83KD5XC5B-IbARUFhIGA=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Bunkamura",
+    "Kim Heecheon",
+    "High Line Art",
+    "ArtAsiaPacific",
+    "M-Cult"
+  ],
+  "repetition_notes": "关于“我真高兴你在这里”日本女性摄影展的呈现，是对 2026年8月12日 简报中提及的 AWARE “未来的印记”东京学术论坛的直接地缘跟进（Follow-up），该论坛的讨论地点与该实体展具有深层耦合，构成了“学术研讨-实体展览”的闭环。其余 4 个信号均为全新信号（New）。",
+  "issue_number": 36
+}
