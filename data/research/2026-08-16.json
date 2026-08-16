@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-16",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki 文化趋势简报研究档案（第 038 期）\n**检索窗口（Search Window）**：30 天（包含最近 24 小时内的最新动态，并纵向扩展至 30 天内发表的学术论文与进行中的国际展事）\n\n---\n\n## 1. 视觉文化信号 (Visual Culture Signal)\n\n*   **项目名称（中）**：柏林攝影博物館舉辦《新女性，新視界》特展：以 300 幅早期影像重寫包浩斯女性攝影史\n*   **Exact Title**：*New Woman, New Vision. Women Photographers of the Bauhaus*\n*   **Specific Source URL**：`https://www.smb.museum/en/exhibitions/detail/new-woman-new-vision/`\n*   **Publication / Event Date**：展览展期为 2026 年 4 月 17 日至 10 月 4 日，最新导览活动于 2026 年 8 月 16 日和 22 日进行\n*   **Verified Facts**：\n    *   **地点与合作机构**：由柏林包浩斯檔案館/設計博物館（Bauhaus-Archiv / Museum für Gestaltung）策划，在柏林攝影博物館（Museum für Fotografie）展出\n    *   **展品规模**：展出约 300 幅摄影作品，涵盖 29 位包浩斯女性摄影师，包括 Lucia Moholy、Florence Henri、Gertrud Arndt、Ellen Auerbach 和 Marianne Brandt\n    *   **核心议题**：展览分为“审视自我”（Viewing the Self）和“女性的图像”（Woman's Images）等版块，挑战“包浩斯女性被局限在纺织（Weaving）工坊”的传统历史迷思\n    *   **当代延伸**：邀请了 Kalinka Gieseler、Caroline Kynast 和 Sinta Werner 三位当代女性艺术家与历史档案进行对话，并由尼爾森·曼德拉學校的学生贡献了语音导览\n*   **Relevance to Muki**：直接契合 Muki 对**女性主义视觉文化、摄影书/展览、档案重构与历史重写**的关注。通过展示早期女性摄影师如何将相机作为“自我发明与经济解放”的工具，该展从媒介史和性别史的双重视角，提供了一套去边缘化的策展范式。\n*   **Duplication Assessment**：`New`。过去 7 天简报中未曾提及该展览或柏林摄影博物馆的相关动态。\n\n---\n\n## 2. 女性主义结构信号 (Feminist Structure Signal)\n\n*   **项目名称（中）**：東京寫真美術館舉辦出光真子大型回顧展：以早期錄像藝術拆解家庭日常與女性主權\n*   **Exact Title**：*Idemitsu Mako: What a Woman Made*\n*   **Specific Source URL**：`https://topmuseum.jp/exhibition/5417/?lang=en`\n*   **Publication / Event Date**：展览展期为 2026 年 6 月 18 日至 9 月 21 日\n*   **Verified Facts**：\n    *   **艺术家背景**：出光真子（Mako Idemitsu，生于 1940 年）是日本实验电影和录像艺术的先驱，曾于 1960 年代赴美并亲历美国女性主义运动，后与抽象画家 Sam Francis 结婚并育有两子\n    *   **展览规模**：展出 45 件作品（包括影片、视频和空间装置《静物》），是该馆在 2016-2017 年间完整收购出光真子所有胶片、录像及核心装置档案后的首次大规模集中呈现，部分档案为首次公开\n    *   **艺术方法与主题**：出光真子将摄影机对准厨房、客厅和卧室等微观家庭空间，并借用电视肥皂剧（Melodramas）的叙事技巧，批判性地解构母子关系、婚姻张力、家庭内看护劳动对女性创作者的压抑。展览标题取自她 1973 年确立其先驱地位的首部录像作品《おんなのさくひん》（What a Woman Made）\n*   **Relevance to Muki**：高度契合 Muki 关注的**女性主义媒介考古、家务与照护劳动、身体政治以及地缘女性档案**。出光真子在录像媒介诞生初期，就敏锐地将技术媒介与私人家庭空间、性别压迫相结合，展示了媒介权力如何在日常结构中被争夺。\n*   **Duplication Assessment**：`New`。过去简报中未涵盖出光真子的个展，但与 8 月 12 日简报中提及的 AWARE 东京论坛中关于日韩女性摄影身体政治的讨论呈强烈的地缘和学术互补。\n\n---\n\n## 3. AI 研究与创意科技信号 (AI Research / Creative Tech Signal)\n\n*   **项目名称（中）**：ECCV 2026 錄用論文《Knowledge-Centric Agents》：提出基於知識逆向與推理的 ComfyUI 工作流生成新框架\n*   **Exact Title**：*Knowledge-Centric Agents for Workflow Generation in ComfyUI*\n*   **Specific Source URL**：`https://arxiv.org/abs/2607.15845`\n*   **Publication / Event Date**：arXiv 预印本于 2026 年 7 月 17 日发表，该论文已被 ECCV 2026 接收\n*   **Verified Facts**：\n    *   **研究团队**：Zhendong Li、Lei Sun、Ruibo Ming、He Zhang、Danda Pani Paudel、Luc Van Gool、Jinjin Gu（来自 INSAIT 保加利亚苏菲亚大学、Adobe Research、苏黎世联邦理工学院等机构）\n    *   **技术瓶颈**：现有的 LLM 工作流生成方法通常将其简化为“文本到 JSON”的直接转换（如先前的 ComfyUI-R1 尝试），极易因语法脆性而崩溃，且缺乏对节点逻辑关系的深层认知\n    *   **创新机制**：该研究提出了一个全新的**“以知识为中心的代理框架”**（Knowledge-Centric Framework），包含三个核心步骤：\n        1.  **知识逆向 (Knowledge Inversion)**：从海量真实工作流中蒸馏出高维策略、结构骨架及伪代码表征；\n        2.  **知识注入 (Knowledge Injection)**：通过监督微调（SFT），让模型学会“从任务描述推理出宏观策略，再从策略细化为可执行的 DAG（有向无环图）结构”；\n        3.  **知识推理 (Knowledge Inference)**：推理阶段通过“自纠错”机制（Self-Refinement）进行双向反馈，保证了生成的 JSON 在 ComfyUI 环境下的高成功率与多样性。\n*   **Relevance to Muki**：切中 Muki 对 **AI 原生工作流、创意技术和生成式设计逻辑**的追踪。本研究标志着 AI 创意工具正从“直接生成内容（单点提示词）”彻底迈向“自主理解和拼装模块化创意管线（逻辑推理）”，为技术赋能非程序员创作者提供了关键方法。\n*   **Duplication Assessment**：`Follow-up / Ongoing`。8 月 9 日和 15 日简报中曾探讨过《Nodal Prompting》和学术界对 ComfyUI-R1 推理框架的开源探索。本论文是该技术谱系在学术上的最新纵深突破（已被 ECCV 2026 收录），从“代码生成”转向“知识表征与推理机制”，完成了理论重构。\n\n---\n\n## 4. 中国与东亚信号 (China / East Asia Signal)\n\n*   **项目名称（中）**：香港故宮文化博物館特展《A Day in the City》：九位本土藝術家以現代視角轉譯紫禁城宮廷文化\n*   **Exact Title**：*A Day in the City – An Experimental Study of Things Across Time*\n*   **Specific Source URL**：`https://www.timeout.com/hong-kong/news/this-new-hkpm-exhibition-gives-ancient-imperial-heritage-a-modern-local-twist-081326`\n*   **Publication / Event Date**：2026 年 8 月 13 日发布报道\n*   **Verified Facts**：\n    *   **策展主旨**：香港故宫文化博物馆（HKPM）推出最新实验性特展《A Day in the City》，邀请九位香港本土当代艺术家，将馆藏的紫禁城宫廷档案与历史文化遗产，通过香港本土的日常视角进行数字化、图形化和空间化的转译。\n    *   **核心参展作品与机制**：\n        *   **龙家升 (Kasing Lung，Labubu 创作者)**：将紫禁城“御花园”与香港油麻地“榕树头”并置，在其标志性角色 The Monsters 系列形象中，融入宫廷园林符号；\n        *   **张莉雅 (Kila Cheung)**：将清代末代皇帝溥仪对自行车的热衷，与 1980 年代香港街头单车文化相结合，通过混合媒介雕塑表达跨时代的青春能量；\n        *   **李志清 (Li Chi Tak，漫画家)**：创作互动空间装置，灵感源自孩子们共同建造宏大花园游乐场的白日梦；\n        *   **杜陶 (Benny To)**：提取清代“神机营”的军事营房建筑蓝图，通过 3D 打印与陶艺，将其重构为带有科幻色彩的发光窗口与未来物质结构。\n*   **Relevance to Muki**：极具参考价值的**东亚历史档案活化、物质文化转译与媒介艺术实践**。该项目展示了如何通过跨媒介设计（3D 打印、潮流玩具插画、空间装置），使原本威严、高高在上的宫廷档案库（Forbidden City Archives）转化为触手可及的现代本土日常体验。\n*   **Duplication Assessment**：`New`。过去简报中未曾报道该展览或香港故宫文化博物馆的该系列实验策展动态。\n\n---\n\n## 5. 档案 / 深度阅读 / 机会 (Archive / Long Read / Opportunity)\n\n*   **项目名称（中）**：雷克雅維克 SÍM 藝術駐留計劃 2027 開放徵集：在冰島本土藝術生態中展開跨學科創作與研究\n*   **Exact Title**：*SÍM Residency Reykjavík Open Call 2027*\n*   **Specific Source URL**：`https://www.sim-residency.info/apply`\n*   **Publication / Event Date**：2026 年 8 月中旬发布最新征集公告，申请截止日期为 2026 年 8 月 31 日\n*   **Verified Facts**：\n    *   **机构背景**：SÍM 驻留计划由冰岛视觉艺术家协会（Samband íslenskra myndlistarmanna）运行，是北欧地区最悠久、规模最大的非营利国际艺术家驻留项目之一，每年接待约 200 位全球创作者。\n    *   **支持范围**：面向视觉艺术、设计、策展研究、科学研究、创意写作等跨学科领域的创作者，支持 1 至 3 个月的自主研究与在地实验，提供独立的居住与工作室空间。\n    *   **驻留成果与网络**：包含集体引介、艺术家对谈、社交媒体展出以及在雷克雅维克市中心的公共空间/画廊展示研究成果的机会。\n    *   **地缘实践关联（2026 现场）**：目前正在该地驻留的韩国跨学科艺术家 Bokyung Jun（田宝庆，驻留期为 2026 年 7 月至 9 月）正通过视频、声音和写作，探索“身体作为人类与非人类技术系统（机器、语言、环境）之间的翻译媒介”，体现了该驻留对科技、身体与地缘政治交叉研究的长期包容性。\n*   **Relevance to Muki**：完美匹配 Muki 对**生态互助、跨学科研究网络、科技与身体政治**的驻留关注。SÍM 不仅是一个空间，更是连接北欧与全球生态叙事的研究港湾，尤其适合探索替代性地质档案与身体媒介流转的创作者和学者。\n*   **Duplication Assessment**：`New`。SÍM 驻留计划在往期简报中从未出现。",
+  "citations": [
+    {
+      "title": "smb.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR4YKbf0OG1gu-jWFFNmKn7C1yfQabmjOxQbQsFXoPAKZwZo37ZqYxzbrowe014aS2wXmGFgNNAeKYCZ5-SrsDba1heAaW502J2_PoeVOcP516NWwbZLXOceee5W-aWzHEunFlZECgv4L9TOfUv3y4H3fADn1aTF4="
+    },
+    {
+      "title": "theartnewspaper.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-CfXVD5HiHgfWbnSRm1_iyBh38SaoEOJk_-Pyey1biUOf2WYfCE2t0etpP7J3elXl9cdk-pPVhJvT80qyokGLBo6__UaR0et00lscs4ZR4GlV1mTG5GVjaAMnphhwYAYtBFWvVA4FfUxqtFHV-zAyJci3csLTYdSnmgIRJ-xYU2dTo0kHvT7qNH3WdQSNNh8qSqM2avEjvcyd3TeLZS1ZrCyJ"
+    },
+    {
+      "title": "bauhaus.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVrwQZAy3FJ50UxGI9ljxrcJRFGUIPTocGQfl43CdWTqbO6aATMMyI-E61C6AG51BZsL-VcKgpJ2vaYrzN2Gy4YA4a9d8GIdCrpHsgHClF0PAgqbqZa1LHjd33KbjQbGCgcldulHRQZzFmoalhZAZgiUvK0NsU3ZtHxb63JbUCgP2Nu8aRilyo8JVvA_jEn3-n5sWUhjw2BkY="
+    },
+    {
+      "title": "ceecee.cc",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-3r6-L0ljhZU9HtO0gS99dGEok0JbRB5Z6i0tC6YV0Tf4Ljy2GKuXiRdFd2153l61c7PeeysXQuHnePXAY_xCdTnCMBkFmhaAXBk9fb1VPbiFHZ_zY0N8VzlR6ht0arOGIRHRu7fVebTS4beCo32b0mwqNAitL04bDB_57r7N0mo="
+    },
+    {
+      "title": "label-magazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgexkT_ztL4wjZuywq8RPUEj7A43bsnAubmuqJ3u-6GWq8c1WIomyH-Xte4uzH85NKVmaV3gx8sVwzS5YLSN8HkMCQKF1Xy-sjPfyS-o24zOjPGOAwka7TsjPHapfGVfYweEZOlKDzSH-Ern22Uan60oN1skp_pUg1fN6YTvyMbS0_15dMkEd-1IHpHWYlo-SN6eRw1OqzPe6-XANhmIoSdpOu9D3EfpmFUMoIWA=="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtSOQDD1sGSDs0IU2BRU316C1evONIjAjIJxo8EA-qeykOfAspqNcz5NgfUlTK_BnhRvtMJ1HRmPPW9JPO6usiAgRWt8eKAfH0lz_ff8ORetnrOvnJzdjDdnsDQb57lDc2VegsxiqlZ5q9mAgE8ixVnAjhIlObL37EZ_g-FBcigA=="
+    },
+    {
+      "title": "tokyoartbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoGtujk21eH328B4N-lyc9ATdy6t5xpwapQsdkuy-UeDEkoU8u7Yez6RbbH_9q3b70Da0h_AjroxlORNbjMNgAjxdeQec2DI0cFhMlFKIzdz4A1GOYHi27n8Uhwad66uw0WkoNodIi0qYcsCob512TEOYmmZVBdSYht5IwmpBIcaQcZYOI76IBmEKPu2rUypJu"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9iXAF8aKsCFxrqgsWtMIkQ04j3G31NddpYAfT64EWGmVxq7nIFeRURal-4KToP5B22znmEuw1_WOUtTGjhvRAGHCa5tGZos5_T_gqfiuBvUMXdsiAqEHwxEXjT3j33Qyd0w=="
+    },
+    {
+      "title": "bulgarihotels.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpvXwNe0Z41LGQG8QF2FlcM3cUkWaMzj4OvOUpzs65ZyKEflFFOlnrM0z0ZPYHZE0ONZxdIQOsoasVM4pnuT7zVqPhPvADqZbhzaB_kyYBG5D15uBRP0EMdvfvhz1S5a4qMoX7vW_cdFomRdqQhJ7L3jqxon_Zb13olfkqSQ3XWT3M9mx0nJLN12X9TJ_UNB19kikSbMLF1J1_vL4WxWs="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4WMKnZjtsvRPeFNu6GOfAii1Qiyg-l_6QVNI2zca8o_JnEEAKxRPkLWSMOGtVepYuCxtgao5S6CkpJp-iYPvGhyAUuL_9w07hA_eeXw7du1VB4B0izOJqXUxg7gvo5K4="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_5ErEkn3wOgs8wcOTrIStzc0qBfCmfOkBGCTCTKtH-oCVam3kHRV4BCwxXEl-n9cX49nvo2CasOMLOCqsEcgoO6VQVF9CMmW5CJhzp0Aa55toAOrFQ=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqRV3Fgtq-OlTNsLXdbCG0WzaEpz5IBpvbuBaX7nKqjQmgAyyyEqw4_TTyAl6xHBGfpd9wCDSf1Qg3_he74Z1d7VWSOXVdRWXI8YpmAFuf4k_bNPUK5q9WCA=="
+    },
+    {
+      "title": "catalyzex.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeQavQ2BHBGVFxhnkmvvhe6URbbRsStP5fHeCljIQt2JQNLj2Cuno9ue-5k_U4Caj6t-OCh6GWNirUfa_GDam2V3EyPc8t9iQDBY8YOP6qmF6FVjH0JQWr16B2cjWSJEJD3Q=="
+    },
+    {
+      "title": "github.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCP50YOZbrNaIwaUtxWZQJQSYKRDBVEvodNZMdIcA1nIeCLbQljaIbTVWCO876ReROi_v7ZNHNaFedWrCfgQTalA1N1IVfaHDQuetYxSq2mw=="
+    },
+    {
+      "title": "timeout.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_agz6FughAciL4GmpzHbaF9n6Ox2rRFIhaDM6XSdW4F2OYrzqXiVSC-rSUIHTgQZQWX0E-LPlkplqDFQ4aLWtxxbTh91UgJ6eLEudLFaVh-Kk24ZXkbjC0ELXVx7bLDYQiW6_HiLCKxjbBm4hFtuyNhkGy65AxDZtMm36lluwXteyMIVoO8Zn8U2QSOIbz9_26TIQ-JK2MbmFxHaiuUmaHSLPUQhumNLgEjF7kpxIJc="
+    },
+    {
+      "title": "resartis.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdtyIOiQyn--ebkiQwA08J7ZF2iHTCoUzgxEsyJovLZXOmoojt8UfG21lDJ7eumHMVt7Jf1Sa7gh5grVriijP8GRTSdBjTEz3Cnf2YKhTFmuZBJFPZwWNvCrSvQcbZ6OtS5bONaLnFvwSGCMDxsWJGjTpSFB9y_AabsWRAgGk="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGELM4hECxqqyzV5bnPJ5DfHVs9X4iEOUOjEy26KqHrPx_tOwW_1EwhIvxChRJsTzmjYMCtCbEt1MOIReAJB9RMGtK5lKv_GFyZ6vyBUcmw8Pc747CdZ37_sFbkV4j2D2T4wvUBMBF8znZGl2OKC6IqFQeZXqovf4OFC9LRXTWwigrHukULpkDNhAIlztHGl2ISE7fhK--UYobcjc-q7Xt_-Ctm6lIFh7WtOuoC5022K2gAVhlvkCJ9pXgp5_FZkbnthfZX44E7g7oVHY2zLEq6zJGZ-ho="
+    },
+    {
+      "title": "sim-residency.info",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZToOWlk6oENx2DUl6wdcfQYT4lcomClcfg884ECjBkeNliOcM-zxvPqbfdfwL-2NWjtTOPyFEVkXO00mLR4Gk4byH3qTczlh9ylZaQueSDQYdP0wnfROTENw="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJyfGWwwpJ4om9Vj14i52yXJorvojn6eaN0UD33UCO9w702RRaqxqhygJSdsUY3z49SreQI-hLq2s3JoR34qk3-ZrkbwTs1EphkhG3cBgcoq_f7h4UnnBVg3Rkg5VKJPQijlo841Pnkp3QEAeCohEkWx0QIQ=="
+    }
+  ]
+}
