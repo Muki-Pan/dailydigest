@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-17",
+  "model": "gemini-3.5-flash",
+  "dossier": "## Evidence Dossier: Cultural Signals & Curatorial Research for Muki\n\n**Date**: August 17, 2026\n**Issue**: 039\n**Search Window**: 24 Hours to 7 Days (August 10 – August 17, 2026)\n\n---\n\n### Candidate 1: Visual Culture Signal\n\n*   **Exact Title**: Photo Book Summer Berlin / “Berlin Wonderland – Hidden Treasures” Exhibition\n*   **Specific Source URL**: `https://musuku.de/`\n*   **Publication Date**: August 6, 2026 (Festival runs July 17 – September 22, 2026)\n*   **Verified Facts**: \n    柏林首届“摄影书之夏”（Photo Book Summer）节于 2026 年 7 月 17 日至 9 月 22 日在柏林国家图书馆（Staatsbibliothek zu Berlin）波茨坦街馆区举办，由亚文化博物馆（musuku – Museum of Subcultures）主办。该节日包含一系列静态与移动展陈，核心展览为 Dietrich-Bonhoeffer 展厅的《柏林仙境：隐藏的宝藏》（Berlin Wonderland – Hidden Treasures）。该展重现了 1990 年代两德统一初期柏林米特区（Berlin-Mitte）亚文化、艺术家、空置空间与俱乐部文化的兴起，展出了重版摄影书《Berlin Wonderland – Wild Years Revisited 1990–1996》中未曾公开的高清原作组合，包括 Ben de Biel、Joe Dilworth 和 Philipp von Recklinghausen 等人的摄影实践。此外，节日还包含基于货运自行车巡回展示的大幅面户外移动展览，并于 9 月 12 至 13 日举办“千倍摄影书展”（Thousandfold Photobook Fair）。\n*   **Relevance to Muki**:\n    提供了一个将城市微观历史、亚文化档案、实体出版物与公共图书馆等制度性空间进行弹性咬合的策展参考。移动式的货运自行车摄影展也为在公共空间中解构“白盒子展览”提供了轻量化媒介考古实践。\n*   **Duplication Assessment**: **New**. 首次在简报中收录这一柏林全新摄影书节。\n\n---\n\n### Candidate 2: Feminist Structure Signal\n\n*   **Exact Title**: Let's Get It On: The Wearable Art of Betye Saar\n*   **Specific Source URL**: `https://www.robertsprojectsla.com/exhibitions/let-s-get-it-on-the-wearable-art-of-betye-saar`\n*   **Publication Date**: August 11, 2026 (Exhibition runs May 30 – August 22, 2026)\n*   **Verified Facts**:\n    洛杉矶 Roberts Projects 正在举办美国先驱黑人女性主义与拼贴艺术家贝蒂·萨尔（Betye Saar，于 2026 年 7 月 26 日过世，享年近 100 岁）的早期个展《Let's Get It On: The Wearable Art of Betye Saar》，展期至 2026 年 8 月 22 日。展览展出了萨尔在 1950 年代至 1970 年代创作的 200 余件早期历史档案与穿戴艺术原作，包括戏服设计图、手稿、服饰、珠宝及照片。展览重点恢复了她为“内城文化中心”（Inner City Cultural Center，1965年瓦茨暴动后在洛杉矶成立的多文化演艺机构）所做的戏剧戏服设计档案，将她为《安提戈涅》（1970）和《西区故事》（1969）设计的草图与最新发掘的历史生产剧照首次并置展出。\n*   **Relevance to Muki**:\n    直接触及身体政治、手工艺劳作与历史性黑人女性主义档案。展示了萨尔在进入为人熟知的装置/拼贴艺术之前，如何通过高度具身化的戏服设计和剧场空间干预地缘政治和种族叙事，对研究早期女性主义视觉文化的物质性极具参考价值。\n*   **Duplication Assessment**: **New**. 首次收录这一关于贝蒂·萨尔早期编织、服饰与剧场设计档案的全新展览。\n\n---\n\n### Candidate 3: AI Research / Creative Tech Signal\n\n*   **Exact Title**: ComfyUI Release v0.32.0 (and Patch v0.33.1)\n*   **Specific Source URL**: `https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.32.0`\n*   **Publication Date**: August 13, 2026 (Patch v0.33.1 released August 14/15, 2026)\n*   **Verified Facts**:\n    ComfyUI 正式发布 v0.32.0 稳定版本。该版本最核心的更新在于原生集成了 LTX 2.5 视频生成控制架构。更新引入了一系列全新的时空控制节点，包括 LTXV Spatio-Temporal Guidance（用于时空引导）、LTXV Modality Guidance（用于视频与音频的耦合引导控制）、LTXV Dual CFG Guider（双分类器免引导节点）以及 LTXV Duration Predictor（通过提示词预测自然镜头长度的节点）。此外，该版本新增了对 Qwen Image 3.0 与 Qwen Image 3.0 Pro 文本生成图及局部编辑节点的支持，并开始支持 grok-imagine-image-2.0。性能方面，PyTorch 的最低支持版本被提升至 2.7。\n*   **Relevance to Muki**:\n     LT2.5（LTX Video）原生时空引导（STG）和双 CFG 控制的原生化，将视频生成的时空连续性控制提升到了工业精细级。这直接改变了基于生成式 AI 的视频创作工作流，使非破坏性的、高度精确的时间维度编辑成为原生画板的一部分，而无需再依赖不稳定的第三方自定义插件。\n*   **Duplication Assessment**: **Ongoing / Follow-up**. 承接 8 月 10 日和 11 日关于 ComfyUI 核心升级和视频生成的追踪，反映了 AI 创意工作流从“Wan-Animate 姿态控制”走向“LTX 视频时空联合引导控制”的最新技术演进。\n\n---\n\n### Candidate 4: China / East Asia Signal\n\n*   **Exact Title**: Asia, The Apparatus: ACC Film & Video Exhibition\n*   **Specific Source URL**: `https://www.acc.go.kr/en/exhibition.do?PID=0202&action=Read&bnkey=EM_0000009332`\n*   **Publication Date**: August 4, 2026 (Related programs announced August 13, 2026; Exhibition open through September 27, 2026)\n*   **Verified Facts**:\n    为纪念韩国光州国立亚洲文化中心（National Asian Culture Center, ACC）成立十周年，其策划的特展《亚洲，装置》（Asia, The Apparatus）目前正在展出，展期至 2026 年 9 月 27 日。展览从 ACC 自 2015 年起收集的亚洲实验电影和录像艺术馆藏中精选作品，围绕“Dictation（外部听写）- Representation（再现）- Rewriting（重写）”三个线索展开，审视亚洲现代史中经历的殖民、分裂、审查和抵抗。参展艺术家包括 Theresa Hak kyung Cha（车学敬）、阮纯诗（Nguyen Trinh Thi，展出《47 Days, Sound-Less》）、韩玉姬（Han Okhi，展出《Untitled 77-A》）、Tiffany Sia（谢立芬）和李继忠等。展览将“装置/装置仪器”（apparatus）的概念从镜头和投影幕延伸至捕捉历史事件和重组记忆的制度性网络。ACC 宣布将于 2026 年 8 月 22 日举办相关的设计研讨会，分别讨论“电影海报作为一种电影摄影”（由 Kay Jun / Aprilsnow 讨论海报对视线、时间和运动的重新配置）与“电影海报作为政治表达”（由 KIM Somi、MIN Dong-in、ALOUD LAB 等人讨论海报和横幅在社会政治运动中的视觉修辞）。\n*   **Relevance to Muki**:\n    汇集了车学敬、阮纯诗、Tiffany Sia等 Muki 长期关注的东亚/东南亚女性创作者。该展将电影底片和档案延伸为制度与审查的反向解构装置，其“电影海报作为政治表达”的学术讨论也为平面视觉媒介考古提供了绝佳的方法论。\n*   **Duplication Assessment**: **New**. 尽管 ACC 光州曾作为其他事件背景出现，但《亚洲，装置》作为极其切合 Muki 关注点的影像艺术收藏重写展，为首次收录。\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n*   **Exact Title**: Visiting Research Curator of UNIDEE Residency Programs Open Call\n*   **Specific Source URL**: `https://unidee.cittadellarte.it`\n*   **Publication Date**: August 12, 2026 (Application deadline: September 13, 2026)\n*   **Verified Facts**:\n    位于意大利比耶拉的阿莱斯·皮斯托莱托基金会（Fondazione Pistoletto - Cittadellarte）正式面向全球招募 2027/2028 年度 UNIDEE 驻留项目“客座研究策展人”（Visiting Research Curator），申请截止日期为 2026 年 9 月 13 日。该策展人将全面主导并设计 2027-2028 年度 UNIDEE Residency Modules 的学术研究路线与驻留模块。招募重点寻找能够探讨“艺术促进负责任的社会变革”、探讨当代生态、地缘和技术变革的挑战、关注“文化工作与文化工作者的生存及生产条件”以及过程导向、研究导向实践的策展提案。\n*   **Relevance to Muki**:\n    这是一个极具含金量且与 Muki 的核心关切高度同频的学术机会。UNIDEE 是全球社会介入性艺术的核心阵地，本届招募将“文化工作与文化工作者的条件”作为核心策展路线，直接切中女性、劳动、看护与制度权力的研究脉络，非常适合用于学术追踪或自投申请。\n*   **Duplication Assessment**: **New**. 这一全新发布的 2027/2028 年度策展人招募为首次收录（此前曾收录过 UNIDEE 的艺术实践类驻留，但此客座研究策展人招募是全新的研究节点）。",
+  "citations": [
+    {
+      "title": "musuku.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1FndFZHby9p9WvVm0VXWcu74vdRt68hX-1Wlv5D4IhpHoXPVQe9Q3O8RBp1nC9i4EXmnVc45W_JKRT1MmKEUpT7YnasXEQj0AbA=="
+    },
+    {
+      "title": "andreastrogisch.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbsVwgLWs7ML75ZgrcF_RMXz1JNLInOu6E0R6W9hXzbv7f4Ywm6T8S7xM0VStbsbK0TCl_gChcqNrOPYFU943rv8I1T3LTTKLAeEYYwNoPq4WNOBQucPbuSKZnnRBZ1vgJnMv-ueyMGJJB_ANa2YG94OgIXQ=="
+    },
+    {
+      "title": "dorotheenilsson.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5SE73YNhVWoegKahqGFaa_EZRXOUOSdRZS9ZyKM4wVkwuUY9Vr3KQp0AJKw_SaVN9wo9_u630JQtt81jRabyy07-NsNOGEsmv9xnWM5TEtaFEOpxAfSZnRVuhUNA5LbrzgFmyjyQ0E0PaZBAk01KCHBNnFYX3KYiH"
+    },
+    {
+      "title": "musuku.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBG2DXfXckE5JXhJqMUTjjSwycTbLbFXVlVqugpObWs7DXYjLwc9wJJkMdCSGbLS3hobYBG74fDaNtmdilnhf_yi8aONBrJhVv7Lujy4pQcygjsNe96MYY7miqVA=="
+    },
+    {
+      "title": "visitberlin.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlWtLnPNeDwOVdoqcwj-fVej8ZY8NHkBaGpRAI-7ccHENsoKbDDQX-WYfShqxB9MWYTmgzywNJcDhh8Fyvq2AUYgTSPv8dk7RldcD1t0t8SWy6nHR2yFbHXqlNqFduRqXP7SboodO8NM8k"
+    },
+    {
+      "title": "dienacht.eu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuY46o_3m-y1bk4JxfPdlp7Zs04ApkGo7eEWlLRKFy95jzyuFQc_CxpvnAVeLLL7tGD6OQQGKKqZYqETPKP__uhUL6VIEggT-lJTGabAXkP8uedQu3Oe9Xoc4PshryDrZr6Q=="
+    },
+    {
+      "title": "robertsprojectsla.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDksjNlkZGdIeki5qfIxvO4-bxEsKQ0znpBziLh8Bd-Wasu2-gC-jt3kMEiuZ1W43awsmG7FDdokh6cJ2q_IuSpuPvCAtwAK9QQjVU86U1P5qJ0rypH4sZAXuo06RvdKrBlnGxnASI-mCbH5oNDr5Kik9qpcxlugHLApnyJwlC3rI98B3D3Qq4PdVn3sw2ZI="
+    },
+    {
+      "title": "hyperallergic.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkl48O1udvwQubxFHrrtYS7c_7tvvwX406iaXO5anl9EVLCU7e0SHPR7Ya44E-sf_NBi8poJOKtVm9DqWAAB-nE1oN8vA_8BS6O7rTqY-SOvTBTSqibCNrM28fHCI4Q0AM2Ak1fJ_Z76o="
+    },
+    {
+      "title": "textileartsla.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ENwrtM18Fegc5ovfGqQ0vMltM9DgPALGEJq9izQXLIzDsI8sHOa-cAcSBJf8l9S9yNrizpvs4Sp0diW7KgqkhQsgo5PrYiTItChtNKSS1Iavo-z9FxTWXSyARrRlj9L2rEWqpgOIG-t3a8D9wgnH9TDs3em2X5zdm525Tf0TmT5jR4pj"
+    },
+    {
+      "title": "artnowla.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcyh41gh8DNfMkjyO82isy1pvxUx43fLVWSPfLyrboXjIYXZa8L1P0WDYgitvNOJrNKhKwXqpaOhTEIPN_py8EL99esrfEqP4gIg2B-hv6l_K8VjZDPz7hcyw9d_vsbR0auZIHsK2oCowKjDPyfWmsD30UcpK1UnkyZ0MyWdo0S30NK7evBn-lS6Pns5kkRcIMp8FPSEp5QNyBv5kvIBRJx_Jw8X_wkaj4DN0GiqyUHQQ="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdQbBOgN5JIrybusxfcqmVkJ5eOGL6VpBfotgf1U7ZDMNlfQjKGstmgBN9I7nQ5eHO6SPDxdgB8IdmxiagmV4AW6SkUwiPs4U9A5c2wo-fnqqzWRj2F-8n2W31Z362HiLmMe30S-8dY8F4ksEsetnXyKUu6wRk-5KgrVkRwCXhj74p9AsqAbpvKCaf_8xdAzDhG_aRXX2DJJ_1Ju-pkup5HFs1yNQZXs-t_5Xl2vihGVu1jqfbi6okGnQ9pIrAYgNwax2Wqr4FeQ=="
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnidFXZ0Wc7Z-Z-v6J8Vqcpw1CNuGUib9ykJaB2SGS63YZCcNVdM2AparMm-mctnf2yO3RXSH_DbbmGZOV8zWj_S-ZbAK0XuG3L0OpzVaTcFjbFj37UQB60OAuDXxWffZFA=="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtgS7NRriFNGfwYNs75um8jbsb1_JU1y0S8XBu05fm_tsIu1IjmMGbqcZtAlg_RkkEllSnseA2JxwXw-BjOv23FIooBhb0ioHkz3VVMYYA8GYBulg-Ymxj4PolBm227ai-FgAm_-_jDE7IOcmFzyOHgJ531aM="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGN0KbIQpQ0i1G9g20Y_8cFzyL6B6r4InpcwfKYOGEi1WVkLp1l4HuRtSt_spPC38H5AA4mrWgsT-s2hdVPdAica75uHd080MICEk3RuvEHfBNK67hvYrAryX4KyvpUIOsq11d_TCmwAwLf5aqrRI4OHM59PhVnzh2rHbm7C5DH2wUpXagGIdvKNuZ6Cc07nngCCvojQqw0Hn8cllOByGFysW-8DJt_BAP-f009n49Rht-mjVYvg1BXYOU269DOzoYnhk="
+    },
+    {
+      "title": "k-artnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFydzE0sE368ruDCkInBMv4me_3HgHCLeqx58w0ns2Lb7vG_UgxCxVyALGex2NSNEFNkImGHaGx7O3W5W3u623zZK2PlCME-mWTh-lU8jOrWb7lqyIszaLmtqk5s0Bz6GjuXGD33A=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOjxLxnSg_8SbmsiPO0O1zjwezV4F110ue-9l6z8xEfJeJj96NVGVde_ct0gJnh_zmSFlYQPgHRzvmSTROMadlop9iJwxhz9JEn1OXaoi3s6nr0rUHpsmt3ifVm3SwOrsj491U2Z2ztFh84e2kR9nRKk3phbaPMcNYX0JrYQ=="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4n2b0PH6-yREE1bJYB4nEVzPMnxcFaApQeBDFAJxhkdogaewTdmcjy_rF9artfJz7ddxxb4WeF9nbfoNByOpy5pm79sdzEiMQGFSRyg05oaMZ6KQ0yI4f_gsjdeHof3hoWydkKqG63XmsIZEyF_bd4XabcPA="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlk4_R1JWDAMOHvEwAhfhPFhzKKrLHQh6SpaBRzFmm8zUB01Ut1NU9V23JUiB3y6-YbQ3HdpYuFAEzI2PpUHjFbecocXovaCo__nZEWmISQoN-g8zzw4EVyg48oW7xaO4kKibagxK4yCxrUGNZcXp7ZUNbTL_8tUoPmqFvwwT1WCqAHWcJf1dnNBExD0-bCtTlbbyuSRH9-nY="
+    }
+  ]
+}

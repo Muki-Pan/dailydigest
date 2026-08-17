@@ -1,0 +1,164 @@
+{
+  "date": "2026-08-17",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "摄影书与亚文化展陈",
+    "黑人女性主义戏服设计",
+    "LTX 2.5 原生时空引导",
+    "亚洲实验电影装置",
+    "社会介入式策展招募",
+    "文化劳工生存条件"
+  ],
+  "why_today": "今天的五个信号共同指向了“装置”与“媒介”如何作为个人身体和政治记忆的承载界面。从柏林摄影书之夏的街头移动展陈，到光州亚洲文化中心对东亚女性影像档案的反思，图像与纪录不再是静态的白盒子展品。同时，技术工作流的演化（ComfyUI v0.32.0）正让时间维度的视频控制变得更加底层、无损，而欧洲 UNIDEE 策展人招募则将这一探讨引向对文化工作者劳动条件的结构性审视。",
+  "intro": "本期简报聚焦于“媒介作为活化装置”。在东亚与欧美，创作者和策展人正通过重新发掘历史性黑人女性主义戏服档案、东亚实验电影、以及两德统一初期的亚文化摄影，将边缘化的微观历史重新接入公共空间。在创意技术领域，ComfyUI 带来的 LTX 2.5 原生时空引导升级，预示着 AI 影像工作流正朝向更精准、更具作者控制力的方向迭代。",
+  "opening_signal": "媒介并非被动的容器，而是重构记忆与身体权力的主动装置。",
+  "closing_signal": "在物理展厅与算法画板的交界处，我们看到一种新的档案学方法正在形成：它既关注历史现场留下的物质实体（如戏服、海报与摄影书），也敏锐地介入了数字技术的最底层工作流。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "柏林首届“摄影书之夏”开幕：以微观历史展与移动车行展重塑公共空间叙事",
+      "title_en": "The Inaugural 'Photo Book Summer Berlin' Opens, Reimagining Public Space Narrative with Subculture Archives",
+      "summary_zh": "柏林首届“摄影书之夏”于7月17日至9月22日在柏林国家图书馆举办。该项目由亚文化博物馆主办，核心展览《柏林仙境：隐藏的宝藏》重现了1990年代两德统一初期柏林米特区的俱乐部与艺术家社群文化，首次展出 Dietrich-Bonhoeffer 展厅中未曾公开的珍贵原作。此外，活动通过货运自行车在公共街区进行移动式大型摄影展，并于9月12至13日举办“千倍摄影书展”。",
+      "summary_en": "The inaugural 'Photo Book Summer Berlin' takes place at the Staatsbibliothek zu Berlin, showcasing subculture archives from 1990s post-unification Berlin-Mitte and featuring interactive mobile cargo-bike exhibitions.",
+      "why_muki_cares": "货运自行车移动展陈和摄影书节的有机结合，提供了一个在白盒子空间之外进行“移动式媒介考古”和亚文化档案重构的策展思路，对于将摄影书、亚文化和公共图书馆空间弹性咬合的研究极具启发。",
+      "editorial_signal": "摄影书展与亚文化档案的移动空间实践。",
+      "theme_tags": [
+        "Photo Book Summer Berlin",
+        "Berlin Wonderland",
+        "subculture archive",
+        "Staatsbibliothek zu Berlin",
+        "photobook exhibition",
+        "vernacular photography",
+        "space politics",
+        "Berlin-Mitte"
+      ],
+      "source_name": "musuku – Museum of Subcultures",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1FndFZHby9p9WvVm0VXWcu74vdRt68hX-1Wlv5D4IhpHoXPVQe9Q3O8RBp1nC9i4EXmnVc45W_JKRT1MmKEUpT7YnasXEQj0AbA==",
+      "publication_date": "2026-08-06",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "洛杉矶举办贝蒂·萨尔个展：首次公开 1950 至 1970 年代黑人女性主义戏服设计与身体档案",
+      "title_en": "Roberts Projects Presents Betye Saar’s Wearable Art, Unveiling Black Feminist Costume Designs and Bodily Archives from the 1950s to 1970s",
+      "summary_zh": "洛杉矶 Roberts Projects 正在举办美国先驱黑人女性主义拼贴艺术家贝蒂·萨尔（Betye Saar）的早期个展《Let's Get It On》。展览重点呈现了萨尔在1950至1970年代创作的200余件早期戏服设计、手稿、服饰和历史剧照。这批档案首次公开了她为洛杉矶“内城文化中心”多文化演艺机构设计的戏剧服饰，包括《安提戈涅》（1970）等关键剧作。",
+      "summary_en": "Roberts Projects presents an early solo exhibition of Betye Saar, highlighting over 200 items of her wearable art and theater costume designs from the 1950s to 1970s.",
+      "why_muki_cares": "这批首次公开的戏剧戏服档案，不仅是对刚过世的萨尔近百年创作生涯的纪念，更展示了她如何通过高度具身化的织物与手工艺，在装置艺术之外干预剧场、种族与地缘政治叙事，是研究早期女性主义身体政治的珍贵物质档案。",
+      "editorial_signal": "先驱非裔女性艺术家的穿戴艺术与剧场政治档案。",
+      "theme_tags": [
+        "Betye Saar",
+        "wearable art",
+        "costume design",
+        "Black feminism",
+        "Inner City Cultural Center",
+        "material culture",
+        "body politics",
+        "archival exhibition"
+      ],
+      "source_name": "Roberts Projects",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWDksjNlkZGdIeki5qfIxvO4-bxEsKQ0znpBziLh8Bd-Wasu2-gC-jt3kMEiuZ1W43awsmG7FDdokh6cJ2q_IuSpuPvCAtwAK9QQjVU86U1P5qJ0rypH4sZAXuo06RvdKrBlnGxnASI-mCbH5oNDr5Kik9qpcxlugHLApnyJwlC3rI98B3D3Qq4PdVn3sw2ZI=",
+      "publication_date": "2026-08-11",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 发布 v0.32.0：原生集成 LTX 2.5 视频时空引导与双重 CFG 架构",
+      "title_en": "ComfyUI Releases v0.32.0 with Native LTX 2.5 Spatio-Temporal Guidance and Dual CFG Support",
+      "summary_zh": "ComfyUI 正式发布 v0.32.0 稳定版。该版本原生集成了 LTX 2.5 视频生成控制架构，引入了时空引导（Spatio-Temporal Guidance）、多模态耦合引导（Modality Guidance）、双 CFG 引导等节点。此外，新版新增了对 Qwen Image 3.0 以及 3.0 Pro 模型的支持，并将 PyTorch 最低要求提升至 2.7。",
+      "summary_en": "ComfyUI v0.32.0 is released, natively integrating LTX 2.5 spatio-temporal guidance nodes, significantly advancing the accuracy of non-destructive video generation.",
+      "why_muki_cares": "承接此前对 ComfyUI 流程自动化的跟踪。LTX 2.5 的原生时空引导将视频生成控制权提到了底层无损级别。这意味着非破坏性、精细的时间维度编辑正成为原生工作流的标准配置，不再完全依赖第三方插件。",
+      "editorial_signal": "视频生成从“姿态控制”走向“原生时空精准引导”。",
+      "theme_tags": [
+        "ComfyUI",
+        "LTX 2.5",
+        "spatio-temporal guidance",
+        "generative AI",
+        "workflow automation",
+        "creative tech",
+        "non-destructive editing",
+        "Qwen Image"
+      ],
+      "source_name": "GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTnidFXZ0Wc7Z-Z-v6J8Vqcpw1CNuGUib9ykJaB2SGS63YZCcNVdM2AparMm-mctnf2yO3RXSH_DbbmGZOV8zWj_S-ZbAK0XuG3L0OpzVaTcFjbFj37UQB60OAuDXxWffZFA==",
+      "publication_date": "2026-08-13",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "光州亚洲文化中心举办《亚洲，装置》特展：以实验电影与海报讨论媒介考古与政治表达",
+      "title_en": "Gwangju National Asian Culture Center Presents 'Asia, The Apparatus', Exploring Media Archaeology and Political Expression",
+      "summary_zh": "为纪念韩国光州国立亚洲文化中心（ACC）成立十周年，特展《亚洲，装置》正在展出。展览从 ACC 的实验电影与录像艺术馆藏中精选作品，围绕“听写-再现-重写”三条线索探讨亚洲现代史。参展者包括车学敬、阮纯诗、Tiffany Sia等先驱女性艺术家。此外，中心宣布将于8月22日举办设计研讨会，讨论“电影海报作为一种电影摄影与政治表达”。",
+      "summary_en": "Celebrating its 10th anniversary, the National Asian Culture Center presents 'Asia, The Apparatus', showcasing pioneering East Asian video art alongside a symposium on film posters as political expression.",
+      "why_muki_cares": "展览汇集了多位杰出的东亚/东南亚女性创作者，将“装置（Apparatus）”概念延伸为对抗历史性审查和抵抗的制度性网络，其关于“海报作为政治表达”的视觉媒介讨论非常契合 Muki 对平面视觉媒介考古的关注。",
+      "editorial_signal": "亚洲实验电影馆藏活化与平面媒介政治的再讨论。",
+      "theme_tags": [
+        "National Asian Culture Center",
+        "Asia The Apparatus",
+        "Theresa Hak kyung Cha",
+        "Nguyen Trinh Thi",
+        "Tiffany Sia",
+        "video art",
+        "media archaeology",
+        "graphic politics"
+      ],
+      "source_name": "National Asian Culture Center",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4n2b0PH6-yREE1bJYB4nEVzPMnxcFaApQeBDFAJxhkdogaewTdmcjy_rF9artfJz7ddxxb4WeF9nbfoNByOpy5pm79sdzEiMQGFSRyg05oaMZ6KQ0yI4f_gsjdeHof3hoWydkKqG63XmsIZEyF_bd4XabcPA=",
+      "publication_date": "2026-08-04",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "阿莱斯·皮斯托莱托基金会招募客座研究策展人：关注文化工作者生存与生态变革的社会介入研究",
+      "title_en": "Fondazione Pistoletto - Cittadellarte Launches Open Call for UNIDEE Visiting Research Curator 2027/2028",
+      "summary_zh": "意大利阿莱斯·皮斯托莱托基金会面向全球招募 2027/2028 年度 UNIDEE 驻留项目“客座研究策展人”，申请截止日期为2026年9月13日。该策展人将全面主导并设计该年度的学术研究路线与驻留模块。招募重点关注能探讨“艺术促进负责任的社会变革”、当代生态/地缘变革，以及“文化工作与文化工作者的生存及生产条件”的策展提案。",
+      "summary_en": "Fondazione Pistoletto - Cittadellarte launches an open call for the 2027/2028 UNIDEE Visiting Research Curator, focusing on socially engaged art and cultural labor conditions.",
+      "why_muki_cares": "UNIDEE 作为全球社会介入艺术的核心驻留平台，本次招募将“文化工作者的生存与劳动条件”作为核心策展主题，直接回应了关于艺术劳作、社会看护与制度权力的研究，是极具含金量且与 Muki 的核心关怀高度一致的策展研究机会。",
+      "editorial_signal": "探讨文化生产劳动条件的客座策展人全球征集。",
+      "theme_tags": [
+        "UNIDEE Residency",
+        "Fondazione Pistoletto",
+        "curator open call",
+        "cultural labor",
+        "socially engaged art",
+        "interdisciplinary research",
+        "institutional power",
+        "ecological politics"
+      ],
+      "source_name": "UNIDEE Residency Programs",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlk4_R1JWDAMOHvEwAhfhPFhzKKrLHQh6SpaBRzFmm8zUB01Ut1NU9V23JUiB3y6-YbQ3HdpYuFAEzI2PpUHjFbecocXovaCo__nZEWmISQoN-g8zzw4EVyg48oW7xaO4kKibagxK4yCxrUGNZcXp7ZUNbTL_8tUoPmqFvwwT1WCqAHWcJf1dnNBExD0-bCtTlbbyuSRH9-nY=",
+      "publication_date": "2026-08-12",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Long Read / Opportunity",
+    "title": "阿莱斯·皮斯托莱托基金会招募客座研究策展人：关注文化工作者生存与生态变革的社会介入研究",
+    "why_muki_may_care": "该招募通过将“文化工作者的条件”作为核心，展现了社会介入式艺术平台在重构艺术生产劳动力主权层面的制度性努力，是一次将理论研究转化为全球驻留与共同行动的极佳实践契机。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlk4_R1JWDAMOHvEwAhfhPFhzKKrLHQh6SpaBRzFmm8zUB01Ut1NU9V23JUiB3y6-YbQ3HdpYuFAEzI2PpUHjFbecocXovaCo__nZEWmISQoN-g8zzw4EVyg48oW7xaO4kKibagxK4yCxrUGNZcXp7ZUNbTL_8tUoPmqFvwwT1WCqAHWcJf1dnNBExD0-bCtTlbbyuSRH9-nY="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "ComfyUI MiniMax H3 (8月13日已收录)",
+    "Paris Photo - Aperture 摄影书奖 (8月11日已收录)"
+  ],
+  "covered_entities": [
+    "musuku – Museum of Subcultures",
+    "Roberts Projects",
+    "Comfy-Org",
+    "National Asian Culture Center",
+    "UNIDEE Residency Programs"
+  ],
+  "repetition_notes": "关于 ComfyUI v0.32.0 发布的介绍，是对前几期（8月10、11、13、15日）简报中连续探讨的 Wan-Animate 控制器和非破坏性图层节点的纵深技术跟进（Follow-up），展现了 LTX 2.5 原生时空引导控制对底层架构的最新重组。其余 4 个信号均为全新信号（New）。",
+  "issue_number": 39
+}
