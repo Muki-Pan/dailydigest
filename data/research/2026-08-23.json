@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-23",
+  "model": "gemini-3.5-flash",
+  "dossier": "## Muki's Daily Digest (Issue 042) — Research Stage Evidence Dossier\n\n---\n\n### Candidate 1: Visual Culture Signal\n\n*   **Exact Title**: Martine Dawson — Faultlines (MEP Studio)\n*   **Specific Source URL**: `https://www.mep-fr.org`\n*   **Publication Date**: July 17, 2026 (Exhibition runs: July 17 – September 13, 2026)\n*   **Verified Facts**:\n    Maison Européenne de la Photographie (MEP) Studio 正在举办艺术家 Martine Dawson 的个展《Faultlines（断层线）》。该项目由 Laurie Hurwitz 策展，得到了法国国家视觉艺术中心（Cnap）的基金资助。展览聚焦于美国蒙大拿州的前铜矿重镇比尤特（Butte）的日常住宅。这些房屋建于早期的矿业扩张时期，地基脆弱，经过了居民因生活需要而进行的反复修缮与局部扩建。Dawson 耗时数年，通过拍摄房屋的内外结构、日常细节，并与历史档案图像进行重叠、并置，展现了这一长期受到矿业提取（extraction）和“西部开拓神话”形塑的土地上，家庭物理空间与日常生存记忆如何交织叠加。\n*   **English Summary**:\n    Maison Européenne de la Photographie (MEP) hosts Martine Dawson's solo exhibition *Faultlines*, which juxtaposes contemporary domestic photography with historical archives to explore how the physical homes in Butte, Montana, retain the overlapping memories of copper mining and environmental extraction.\n*   **Relevance to Muki**:\n    该项目将纪实摄影、提取主义（extractivism）空间政治与家庭微观档案有机结合。其将日常物件、摇摇欲坠的房屋结构作为“记忆表面”的视觉研究方法，非常值得影像历史与媒介考古方向的策展研究借鉴。\n*   **Proposed Section**: Visual Culture Signal\n*   **Duplication Assessment**: 全新信号（New）。本期首次提及该艺术家及展览。\n\n---\n\n### Candidate 2: Feminist Structure Signal\n\n*   **Exact Title**: Labouring Bodies (Museum Tinguely)\n*   **Specific Source URL**: `https://www.tinguely.ch/en/exhibitions/exhibitions/2026/labouring-bodies.html`\n*   **Publication Date**: June 10, 2026 (Exhibition runs: June 10 – November 8, 2026)\n*   **Verified Facts**:\n    巴塞尔丁格利美术馆（Museum Tinguely）举办大型女性主义群展《Labouring Bodies（劳动/分娩的身体）》。展览英文标题中的“Labouring”具有双重含义，既指雇佣劳动（生产），也指分娩过程（生物繁殖/再生产）。展览汇集了 36 位艺术家的历史与当代作品，挑战了工业时代以男性工人为主导的身体叙事，将视线转向长期被体制性忽视和不可见化（invisibilized）的“工作、看护和生育身体”。\n    展出作品包括：Evelyn Richter 记录纺织厂女工身体被机器主导的早期纪实摄影；Marilou Schultz 专为展览编织的、形似电脑芯片的纳瓦霍地毯（以此揭示早期美国半导体产业雇佣纳瓦霍女性作为廉价劳动力装配芯片的历史）；Alexandra Navratil 的影像作品《The Night Side》（2016），通过放大前女工抚摸机器零件的亲密手势挑战规范的工业生产动态；以及 Ernestyna Orlowska 的行为表演作品《Make Your Body Your Machine》（2021），通过将快递骑手的日常交付、运动操练和健身动作融为一体，讽刺在零工经济（Gig Economy）中肉身如何成为算法与应用程序的高效延伸。\n*   **English Summary**:\n    Museum Tinguely in Basel presents *Labouring Bodies*, a major feminist group exhibition that reexamines the relationship between bodies, labor, and technology, focusing on the historically invisibilized and mechanized processes of working, caring, and reproducing.\n*   **Relevance to Muki**:\n    该展览完美回应了 Muki 长期追踪的“女性、身体、再生产劳护、平台零工经济与媒介权力”结构。特别是它将早期的编织机器、电子工业装配历史与当下的零工经济身体剥削串联起来，提供了一个极具批判深度的媒介考古与女权主义策展样本。\n*   **Proposed Section**: Feminist Structure Signal\n*   **Duplication Assessment**: 全新信号（New）。\n\n---\n\n### Candidate 3: AI Research / Creative Tech Signal\n\n*   **Exact Title**: Fizgig 4.1.2 (MiniMax H3 LoRA Trainer)\n*   **Specific Source URL**: `https://github.com/shootthesound/Fizgig`\n*   **Publication Date**: August 19, 2026\n*   **Verified Facts**:\n    专门用于本地训练 MiniMax H3（目前主流的 330 亿参数开源权重视频生成大模型）LoRA 的工具 Fizgig 发布了 v4.1.2 版本。该版本的核心技术突破在于实现了“多模态数据集一键统一训练”：创作者现在只需将视频剪辑、视频配音、纯人声录音和静态照片放入同一个文件夹中，该工具即可在单次运行中同时完成视频特征与音色/人声音轨的 H3 LoRA 联合训练。该训练器对本地硬件极其友好，在 16GB VRAM 的消费级显卡上即可流畅运行且无速度衰减，并原生修复了 LoRA 在 4 步 Turbo 模式和官方标准工作流下的兼容性问题。\n*   **English Summary**:\n    The newly released Fizgig v4.1.2 enables creators to train custom MiniMax H3 video generation LoRAs locally on 16GB VRAM GPUs, introducing a unified workflow that processes video, audio, and images simultaneously in a single folder.\n*   **Relevance to Muki**:\n    在创意工作流的演进中，多模态（视频 + 声音 + 静态图像）的联合解耦训练此前通常需要复杂的脚本和昂贵的云端算力。Fizgig 将这一工作流本土化、一体化，降低了创作者在本地定制叙事 agent 和音视频连贯人物的门槛，在技术主权和独立 AI 创作管线上具有很高的实用价值。\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Duplication Assessment**: 技术跟进（Follow-up）。继 8 月 13 日简报中提到 H3 视频生成节点后，这是该生态在本地训练和自定义叙事能力（LoRA 生产端）上的最新进展。\n\n---\n\n### Candidate 4: China / East Asia Signal\n\n*   **Exact Title**: 晚夏课堂2026：庇护与异化 (Late Summer School 2026: Asylum & Alienation)\n*   **Specific Source URL**: `https://www.rockbundartmuseum.org`\n*   **Publication Date**: August 23, 2026 (Runs from August 23 to August 28, 2026)\n*   **Verified Facts**:\n    上海外滩美术馆（RAM）联合面向 21 世纪的精神分析期刊 *Parapraxis*，正式启动 2026 年“晚夏课堂”。本届课堂以“庇护与异化（Asylum & Alienation）”为主题，以 20 世纪 30 年代加泰罗尼亚精神分析学家弗朗塞斯克·托斯凯列斯（Francesc Tosquelles）在法国圣阿尔邦医院提出的“制度治疗（institutional psychotherapy）”为方法论起点——探讨如何通过“治疗机构本身”来解除既定的社会和政治规训（去异化）。\n    这是一个为期六天的集体学习与空间实验，由 Eugene Yiu Nam Cheung 策展，教师团队包括 Hannah Zeavin、Dora Zhang、Amy R. Wong 等学者。课堂将带领 30 名录取的跨学科参与者共同工作、研究、组建临时共同体，并走访上海精神健康史的关键空间，包括上海普慈疗养院旧址（现上海精神卫生中心闵行院区）、中国首个设立在精神卫生机构内部的“600号画廊”，以及触及精神分析议题的五四时期作家故居。\n*   **English Summary**:\n    Rockbund Art Museum in Shanghai, in partnership with *Parapraxis* journal, launches the Late Summer School 2026 themed *Asylum & Alienation*, which utilizes \"institutional psychotherapy\" as a framework for a week-long collective experiment and field research into Shanghai's mental health history.\n*   **Relevance to Muki**:\n    该项目将地缘历史（上海医疗和精神卫生档案）、激进教学法、精神分析与机构批判编织在一起。它将艺术机构的自我追问置于具体的城市历史（如普慈疗养院、600号画廊）之中，是东亚档案研究和机构自我批判极具张力的行动主义范例。\n*   **Proposed Section**: China / East Asia Signal\n*   **Duplication Assessment**: 全新信号（New）。RAM 举办的暑期群展“幽斯帕利斯（Youth Palace）”虽然构成了大背景，但本“晚夏课堂”是于今日（8月23日）正式开启的具体公共项目，具有独立的学术脉络（精神医学档案、社会关护与制度治疗），并非简单重复。\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n*   **Exact Title**: Open Call: Research residency — AWARE Archives of Women Artists, Research and Exhibitions (BRIDGE Project)\n*   **Specific Source URL**: `https://awarewomenartists.com`\n*   **Publication Date**: June 30, 2026 (Application deadline: August 31, 2026)\n*   **Verified Facts**:\n    致力于女性艺术家档案研究的机构 AWARE（法国）、城市之女（City of Women，斯洛文尼亚）与格拉茨美术馆（Kunsthaus Graz，奥地利）联合发起“BRIDGE 项目”（2026-2028）研究驻留招募。BRIDGE 是一个获得欧盟“创意欧洲”（Creative Europe）资助的两年期项目，旨在解决在欧洲的流亡、移民或离散背景的女性和非二元性别艺术家在机构叙事、档案和展览历史中长期处于代表性不足（underrepresented）的现状。\n    本次公开招募面向全球的学者、艺术工作者和策展人。选拔委员会将提供三种驻留资助：在法国巴黎 AWARE 的 3 个月研究驻留、在奥地利格拉茨美术馆的 1 个月驻留，以及在斯洛文尼亚城市之女的 1 个月驻留。申请截止日期为 2026 年 8 月 31 日。\n*   **English Summary**:\n    AWARE, in collaboration with City of Women and Kunsthaus Graz, has launched an open call for research residencies under the BRIDGE project, inviting global curators and art workers to address the underrepresentation of exiled and diasporic women and non-binary artists within European institutional archives.\n*   **Relevance to Muki**:\n    这是直接指向“反流亡/离散女性艺术家档案边缘化”的高质量欧洲学术研究驻留机会。对于 Muki 而言，不仅是一个直接的申请/推荐机会，更是观察欧洲跨国联盟如何通过公共资金重新修订机构档案与历史书写的政策范本。\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Duplication Assessment**: 全新地缘信号（New）。虽然 AWARE 的东京论坛在 8 月 12 日被提及，但本次公开征集是 BRIDGE 项目的首次驻留招募，地缘横跨法、奥、斯，且具有明确的申请截止日期。\n\n---\n\n### Excluded Topics & Empty Sections\n\n*   **Empty Sections**: 本期 5 个编辑入口均选出了高质量、高相关性的全新信号，无空缺板块。\n*   **Excluded Topics**: \n    *   *World Press Photo 2026 (London)*: 21日于伦敦开幕，因其偏向主流新闻摄影，缺乏更深入的女性主义视觉文化与媒介考古脉络，且 Muki 偏好严肃机构与艺术家个案，故排除。\n    *   *A Place at the Table (TAG Gallery, Los Angeles)*: 尽管其向 Judy Chicago 致敬的意图非常契合女性主义，但主要呈现的是 2D 壁画和常规个人摆件，在媒介考古和机构权力批判的深度上弱于《Labouring Bodies》，因此将有限的名额让给后者。",
+  "citations": [
+    {
+      "title": "paris.fr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3WklY7Vw65bIMjLxkJfXj7CAMIux--FbpfkKcIxJCQgV9eq8ni9wGPXUyDd6_-ydZJR3mzAuLp158Vnh42_evkJ80L9bWrlDUPiQbKK3HREznlm7dR2OeB31B7KfBQOXkBARg6KMRexie0150gDIjK9Zw39DNp9cwDmEc3T88nLdTT8gFtu6n-AUkEg=="
+    },
+    {
+      "title": "mep-fr.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE717QCcfxH0UNrzWrAg7CA3alpSi-3dTjGv0RDZOGoWqSZXVAs628jH5N15UwfSaB8Kncy4l7JASOUdxOEmE-i2g01uy8dxjPPzmnZqhS_V4kfi-i-9TdOXVVN-GyQgmlhl-6ckZqY0AQL2_1ihTdhCxuETVnKrwQ1aXgJk7G16V4qNo6dCSpJd3iR1H_Y6GW9FzZIyxXP-6WjTtLaf93NSQ2r0CzOaQsecus="
+    },
+    {
+      "title": "mep-fr.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAkohiwnJWEn5vettr_6BVNDcTI8lAgQCHepTu7__Ejqmykz_j-57pPVfTxnb65CTWHJiD26R_1-cML0ypgAQ18S12aWy81fEODXY8ml1hazMHW8jEZDYVQQ-EL39QEpLdgV5m0K8mZm1tuWu9"
+    },
+    {
+      "title": "concerts.paris",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEpZ02hm28I3aIoW6CDEWVYASdn2YDBoxqFRG3lVQ7Q6PCNqLBoQOkRtVyoAZUgXZ7F1x1mfjM8zsrUEsYPtQbDtKSl_XAHoJMG5FmTW25Wpc_iN1TTRoU6Ps8fD7gGpyw69i1jgiPCJWnCg86RTxj4r2stOFAIQUr0IF1I6wlftd9txneM23Qt-agNw=="
+    },
+    {
+      "title": "basellife.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_dow-R8uqVUJ7nNUgcF-RXPdGI0_D4NGRPVOrtloeL89HHG89yytad9ccTOH_GdNQM-R-SeEzuy_xsHMokiQYqkbesOwq_Vh2jJARyRhE5xT6K_LwnRWRimgKjMs2dWsTeuF8XVvh"
+    },
+    {
+      "title": "heni.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdshiT_KPKej3gu1SR7Tef-NymJKtLNIMpQ1pN8flmjdhDvjuR_Z44ftPnGjG2DhM-tn4vzs3OzYwbI04fvyXArmkcctdfmLB12q8YQtVUzqUovaLAVcQWde3jqG6dAugnek0iG9VQSgpn0OqfQo31nbZ1gP90T_PpT6zJwEntLgBVoio_e7Qkh9Izq6_2fUQ5Nfsl2piK31VoZC0HT3zHztRSDRW-rQS0mhLyDVVr3-EvDQ=="
+    },
+    {
+      "title": "moussemagazine.it",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcwro4ENZePTjVNThUvSLIfDJCmgq4YgmFfyLS03vvIteKjSHkbTdsTW5tfwoSLyIPOIuxwqC-A6attmaUpBuCjUROBuGoDN71XGi9NDbJckTcUN7CRK2QrcLpBw9wh_p28StS8yPSh3V8ogfAQXZQAAlWdXHNxGy_QfAlcqq54hFy-nlu2zua"
+    },
+    {
+      "title": "tinguely.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvJQ6oWXemhR5y7MupSabw8DSLoyDgrmdadPoUkRq8PvkOgZn8fuA8qo2l_tQtg7BEC7tCyy9an5b_nQXXkLpEIuzxW7IqbzMANThlf08-1S3CLGgFUKya-Lcb6qfmY2zXrqKYeTtUsuPY43fOa6Nvfa1zt_4kmgtGbNHWstB-jtLo"
+    },
+    {
+      "title": "tinguely.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3UYcv5qMtjnDDMbgXzGp3EH2VNHm5zrMqlDGQoRlBFZi-zafxsPdJxlvZoDXrNjf7qijavC08vgMRDv5KhwvkXLouC6Oti6jxi370enJ52ZBCkkEim6eAzfSxmlGMVk803x6K93yQHfmnEO8YOWjlHPjAJiYZwv-PyHJsHoI6tH9nGVRHqQ=="
+    },
+    {
+      "title": "tinguely.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7dg_X_u-U3JRVeD2oV6oLDo-wR4vPbu-Zt4WajzmHKaH_nl5f2IxjFryrmCdTw0Pi2h80URTPqLRHBe9EbZAR07tGDDGhzKmSMXcSDhzy2b3SZbbfJ0dfj-1T4bcZOgGGvHMWx5Wx9JnkqWrZVskPYGRCROT6wvRDDLppSNwMjbtsC1yfM_uxShMtvFQdup4PGayebL4="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNk0z2-LIhfMTaDTpKkzUv0CMRpKoABmKM5SkmZ7QgHaJeWJZLMWZNPGXHRil4SFIl111wN5IPbFpkpwjcGemD4eT1DTthqi9pVK3dL9I6TrynZgvZwoJC0mrb1aUeyb2kEAxEt4ooA5WWd6lSCqENH_l3nEv0VOp6KMFFc3vEjcdJyHaI1b8kUiOr3roF1CSOko7zNmCMcmg="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH14MDrm754hXQzgkYESxmxA_HhBrr1MVt4-SllMpFS6deZnU_seuoMMf1C7T7NegNxhExoBN3VRV3epna9n8gXuDXTTRikOk375ldXh74SQmWTDiAcDGo1PUpstpH7yTsc"
+    },
+    {
+      "title": "rockbundartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET_qzItjAxnAiLorpixa6KpHkC8ADCb7Je0mdVuhJj7Q6iCLz_mwk6Zm73Rh8HtbnsA-FxsQA6cUzGOZH5IFGxyL8BUCO4hHw_sbKZfXSqjp3kJ2mqMFJrXlSut2tUskrWVAQuLFfbhzdLLA8f5DBk_rzEBbVLOK39RdvnFhpg8iiup7yQtiYx-A=="
+    },
+    {
+      "title": "rockbundartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcZKe-YvBCaOWd1Eom3ye1-55EGvXbB2cf2kSNFwnmRiePKWZx5IPIeew1VGT1IEVlW1QN0sEhViUF6tSZ79dWDo4FTt8Kxd50EUbzXkl5ivP0EDPTBRlO93ZMmGYazEe1UviD6fioOXKjorlO-VsVLLK_lp3hUEcxg7GOrmdiJ0K8Mlv6XbnPTCgtx_Lh"
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExfXxLzMZJWDuHaNZIrdBNqI_Q4X9We22mCr9c598c-yOTgll4r6fAWebAS4KHBDVGRZkxEGVF81_X8ETywQkNPxy34IA30AUAuqLkAi1WaRQFzdv0zJvEjyGfXR5agoixaCZNs6WTLkk0qswbN8qlSx2U-cDRDEe7u0dpqt9HXZHQKCrYROKtRJh3Kg=="
+    },
+    {
+      "title": "rockbundartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9lzVgbr6bq9xEWbHKl2w0KkVhAlocxzxrHdibprEYfic_FC8trz6BTZuv3FvSZH_7nU93bY_1GEzugQO2dRLI4MANDPriXsSNID8tI97McmtgZ6A4s1EqAIR5BUwWfuwAHFvxWFz8TcDOY4usSuc="
+    },
+    {
+      "title": "rockbundartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRZLiebsEGhsAoNT9Qg0njGcPr067PMAgJlPPdLiCaYKEpAnnvUykheueZqRC2q2kydWZMAMZwtQbhzxsJjXWydtx8kDZT-Fes0uwr7WHjk4NVmwmV3ADbnZHh9_gzqITqh62HoaG9DwfxBXTzLPf278aPBzv7btf_Vsxic1BO"
+    },
+    {
+      "title": "awarewomenartists.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRVhqhREIvoJmYcBAIt8GjDzRstxkpQDXaF6K7y-4bv5EVznbyhb_y8YfnKxlBzAb7IKEkVfVy3uywPpgoNeKOjdzrHGoGbQBBm9mJK3ipX_jGR4dcN0jVdfl1i_r9p7ByeTP9OqYSo1luwFwFkyDxHA48Hd-FkSEVY_vtaiBGC469Eo8PQLN0OyfF1rPXLnWWPc0="
+    },
+    {
+      "title": "scopemediastudios.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF13wh6XD3km23G3s96ubBEAfDityWwD26tp6ZST3dFOdmCLKeWWnI9N99NDenPe4lbp9Gemt-IgWTjLS3TXzDwUA0-s8G8jl63Oc4x6Gl7M1uz1DBuSSjd5M97TUo2VbCdLVkqxIXCyLkAn8kpQ645oyEIMt0WGSAgX_UzXt3tDTbs3uz5vNp5S8no4w=="
+    },
+    {
+      "title": "theexhibitionists.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6POVXB3MyrzPuP5p4Clh7reV0FPvcARJzZR_PzNX8eJUS0zk8c4rMkVg8xTJP5zs49VY5D92KTmT_5XTKMKQcQzyaMvj9ZNC4Vtx_TNgXQCOKmKivgQ=="
+    },
+    {
+      "title": "artfulamphora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTWk-apw2kMaHFQpnS03GghchL1AO0k61uO-aiZey5Z4z8pDK9xyLwxmbToTrx4dDEV5GQFk_cITaKQhJ9NDn2cNSPE66bJZMdZu_RecdOYcNeSdidy0JvnbHmYSHYfRCU77ZdUkDqwcYD6cLMl7yKBXOnZebd"
+    },
+    {
+      "title": "artfulamphora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGug2lu4yPKipRf6eQloVY9MtcgmeVFgreU5LeFHd_fNDrKgfKGaMDgbplZNBZyDoTfVjlLlRqr9TLxy3w05YRPIbJaWwhaZ2zHE7KO95FV8FGKntGYzNnhTXyJZbUM2-S0E_c1Evcvz2X-nEAHl1I17FTfyg="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaz1Mgdm1wBNOK-iQT3ceifXWDpGQeR0esPRTduEFc-mVIQ5ty2qmWx-xErdJnpOLhnjrrpxAT7NcqqpZJAUmXsNfxQcSSrMuXFXtpdR74nqqQi3YIIIpKEcOlSniGBjBzDrl9tbEY90rlOsgtR5PC5xzC7daDhO3dZwYH_-8dixyRGNX3amrOM0JB9WlKrsrdRbYYSucm3KdOSFMNYNs5TIpZR4m9-1JFh7a1r5ZR09KNDWQvRMcMnfOd7XKAtjttPdVBa5HGl7HGlnp"
+    }
+  ]
+}
