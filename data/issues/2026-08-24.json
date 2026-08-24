@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-24",
+  "search_window": "30d",
+  "reading_time": "约 7 分钟",
+  "topics": [
+    "摄影书与物证档案",
+    "集体表演与身体劳作",
+    "本地多模态 AI 工作流",
+    "东亚胶彩画历史重构",
+    "国际组织多边主义反档案"
+  ],
+  "why_today": "今天的信号聚焦于“物证与身体如何重构历史叙事”。从莫兰迪故居自然光下的静物摄影档案，到日治时期美学谱系重写中的女性身体表征，再到日内瓦多边主义档案馆中被遮蔽的边缘故事，创作者正通过具体的图像和身体实践干预官方宏大叙事。与此同时，本地端多模态 AI 的硬件优化正在为单兵创作者提供更具控制力的技术支持。",
+  "intro": "本期简报探讨了如何通过摄影物证、集体表演和反档案研究，重新解读地缘政治和艺术史中的沉默地带。同时，随着底层算法的物理占用优化，单兵创作者在本地掌控原生音视频多模态同步生成的技术权能也得到了进一步增强。",
+  "opening_signal": "那些被遗忘在故居角落的平凡之物，在不施人工雕琢的自然光影中，重新显现为最无可辩驳的历史物证。",
+  "closing_signal": "当边缘社群的身体劳作走入制度化的现代美术馆，当未被记录在条约正文里的边缘手稿被重新拂拭，视觉和身体的自发生产正在悄然松动着权力结构的边界。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "乔·梅耶罗维茨新版画册发布：收录 130 多幅未公开照片，建立莫兰迪故居静物的完整物证档案",
+      "title_en": "Joel Meyerowitz: Morandi's Objects: The Complete Archive of Casa Morandi",
+      "summary_zh": "Damiani 出版社于 2026 年 8 月推出摄影师乔·梅耶罗维茨经典画册的扩充修订版。该版本新增了超过 130 幅此前未公开的摄影原作。2015 年春，梅耶罗维茨获准进入画家乔治·莫兰迪位于博洛尼亚的故居工作室。在不使用人工光源、仅依靠工作室自然光的条件下，他逐一拍摄了莫兰迪生前反复描绘的 250 余件日常物件。照片保留了桌面当年为了定位画下的铅笔标记与泛黄墙纸，将平凡之物转化为独立的摄影物证。",
+      "summary_en": "Damiani’s newly expanded edition of Joel Meyerowitz's photobook, Morandi's Objects: The Complete Archive of Casa Morandi, presents a meticulous photographic inventory of painter Giorgio Morandi’s studio props with over 130 newly added photographs, capturing these mundane objects in natural studio light.",
+      "why_muki_cares": "梅耶罗维茨通过摄影手段，将莫兰迪绘画中被抽象化的物件还原为带有灰尘与手部擦痕的物理存在。这种对创作现场和日常道具的类型学记录，为绘画媒介和图像生成过程提供了具体的媒介考古切入点。",
+      "editorial_signal": "纯粹依靠自然光与历史现场痕迹的摄影类型学档案，能让高度抽象的艺术创作重新落地为具体的物质证词。",
+      "theme_tags": [
+        "Joel Meyerowitz",
+        "Giorgio Morandi",
+        "Casa Morandi",
+        "photobook",
+        "archival photography",
+        "material culture",
+        "media archaeology",
+        "Damiani Books"
+      ],
+      "source_name": "Damiani Books",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmCwQ5soGKuSI6HxgqWqGqZOOp0s64qTcN35wby7k7d1vMV7rbs2yjdDOZKDo5p44DI3mmUdMPwMidGZlV1EFBntR6hUPkZyLh8zzIPs5REy_-RDiz5si6TbmVRclhVqCChUMzk4AWoAFZ1Dpdzbpuobh_03k2F4Zz5oT6UJXWtaPYRic=",
+      "publication_date": "2026-08-14",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "MoMA Kravis 工作室年度驻留开启：艺术家自营空间 Pageant 以集体身体劳作模糊排练与呈现界限",
+      "title_en": "Studio Residency: Pageant at MoMA Kravis Studio",
+      "summary_zh": "纽约现代艺术博物馆（MoMA）的 Kravis 工作室年度艺术驻留项目于 2026 年 8 月迎来布鲁克林艺术家自营表演空间 Pageant。该空间成立于 2022 年，专注于排斥商业层级的身体与动作表演实践。在 8 月 8 日至 30 日的驻留期间，工作室将在“封闭排练室”与“公共开放舞台”之间交替切换。驻留的核心成果包括于 8 月 21 日和 30 日举办的长达一整天的“表演马拉松”，邀请 25 位创作者呈现身体作品，并展开关于集体劳动与社群共护的公共对话。",
+      "summary_en": "MoMA’s Kravis Studio Residency hosts Pageant, a Brooklyn-based artist-run performance collective. Transforming the museum space into a porous site of live rehearsal and day-long performance marathons, the residency highlights collective physical labor and solidarity outside commercial structures.",
+      "why_muki_cares": "驻留团队将边缘空间的“集体身体劳作”模式引入美术馆核心，模糊了排练劳动与最终成品的界限。这对研究自下而上的社群关护如何干预大型机构的权力边界具有直接的参考价值。",
+      "editorial_signal": "艺术家自营社群通过将日常的身体排练与集体劳作转化为美术馆现场，测试了非层级制身体实践进入制度化空间的可能。",
+      "theme_tags": [
+        "Pageant",
+        "MoMA",
+        "Kravis Studio",
+        "performance art",
+        "body politics",
+        "collective labor",
+        "community care",
+        "institutional critique"
+      ],
+      "source_name": "MoMA",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5hnq-dUyt4O_iZRl_QmMa0opap5XAA3P1rB_o26xaO2iipIitLw8w8_ysc9ftyK1ezZaRrjsHZ_f7i1B8S8HXHFZnVA0XwqcJNuMKRIrzJqdNqNNHKLtAUO9NPrbAidgS-Ify4H2oF8fARwf35hES",
+      "publication_date": "2026-08-08",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 联合 MiniMax 启动 H3 挑战赛：在消费级显卡上实现本地原生音视频同步生成",
+      "title_en": "Comfy H3 Sync Sound Community Challenge",
+      "summary_zh": "开源节点式 AI 平台 ComfyUI 与 MiniMax 联合启动了“Comfy H3 音视频同步社区挑战赛”。比赛要求创作者直接使用 MiniMax H3 开源权重多模态视频模型，在单次推理中生成音画同步的视频。作为原生音视频双模态模型，H3 无需后期的唇形同步或音频拼接，便可在隐空间中将声音与动态画面同步渲染。ComfyUI 团队为此进行了底层硬件优化，使其显存占用缩减了 66%，即使在 RTX 3060 12GB 等消费级显卡上也能流畅运行。",
+      "summary_en": "ComfyUI and MiniMax have launched the \"Comfy H3 Sync Sound Community Challenge\" using the open-weights MiniMax H3 model. Creators can produce synchronized audio-visual clips in a single pass, supported by a 66% reduction in VRAM footprint for consumer-grade hardware.",
+      "why_muki_cares": "该挑战赛标志着多模态创作流程的转变。从“先画面再配音”的拼接流程，转向本地单卡即可运行的音画底层同步生成。这进一步增强了本地单兵创作者对复杂音视频流的控制权。",
+      "editorial_signal": "随着底层模型显存占用的优化，原生多模态音视频同步生成正进入本地消费级硬件的工作流，降低了单兵创作的技术门槛。",
+      "theme_tags": [
+        "ComfyUI",
+        "MiniMax H3",
+        "multimodal AI",
+        "sound synchronization",
+        "workflow automation",
+        "creative technology",
+        "open source"
+      ],
+      "source_name": "Comfy Org",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI-5JJWSkPVHr_9Xi69CcPDsqFbXoFO0ZQS7vR6sTjV1QLWoPd0_ak8hQX2zQZSiKtz7Ea6VDQXxWbFG18NvgNeCEdNUYsvm0zyXB5K3s63yidzQikHjhO_OWAVz71D5qle0x3nhGcBqzPfpaVrgtnbpl0HBi7HRp9c8YFopJ54uvfm75bm_ZfqUVYTzt4bHODXyjpwyTsdq7Nfgg=",
+      "publication_date": "2026-08-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "陈擎耀东京个展《续·战场的女》：重访日治时期台湾“胶彩画”的历史谱系与女性身体表征",
+      "title_en": "Chen Ching Yao: The Women of the Battlefield: Reimagined",
+      "summary_zh": "东京 eitoeiko 画廊举办台湾当代艺术家陈擎耀的个展《续·战场的女》。本次展览延伸自艺术家 2025 年同名影像作品，将其中的历史重构与叙事符号转化为绘画创作。艺术家挪用并转译了台湾日治时期“日本画”（后被更名为“胶彩画”）的历史档案，通过描绘身着制服、在战场背景中劳作或站立的女性形象，以当代视角对这一被政治更名的美学谱系进行了解构与戏仿，引导观众反思东亚近现代政治博弈对艺术史书写的影响。",
+      "summary_en": "Shinjuku-based gallery eitoeiko hosts Taiwanese artist Chen Ching Yao’s solo exhibition, The Women of the Battlefield: Reimagined. Through a contemporary reinterpretation of colonial-era Taiwanese \"Nihonga\" (later renamed jiaocaihua), the work critiques historical representations of female bodies in East Asian geopolitics.",
+      "why_muki_cares": "展览通过对台湾日治时期绘画风格的挪用，对美学谱系的更名和女性身体在战争语境下的政治编码进行了解构。这是一个优秀的东亚图像历史和媒介考古研究案例。",
+      "editorial_signal": "艺术家通过戏仿历史上的政治美学档案，揭示了东亚地缘政治冲突如何直接塑造视觉艺术书写与女性身体的表征。",
+      "theme_tags": [
+        "Chen Ching Yao",
+        "eitoeiko",
+        "Taiwanese art",
+        "Nihonga",
+        "jiaocaihua",
+        "media archaeology",
+        "body politics",
+        "East Asian history"
+      ],
+      "source_name": "eitoeiko",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsTp6XDLig826GbdSw4JzjM1kadFaux3uWxQgNYGBlLyZkra5BhulJBBhLwSyG7pTIvx_JKrRqco0gxcN1alTBUimb0nMWWyIiYJQ4sOAeyLXA1syEERmB6g==",
+      "publication_date": "2026-08-15",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "日内瓦国际组织档案馆艺术研究驻留开放申请：资助关注多边主义历史中边缘叙事的艺术创作",
+      "title_en": "Call for Applications: Artistic Research Residency and Grant for a Project Related to the Archives of International Organisations in Geneva 2027",
+      "summary_zh": "瑞士外国艺术家使馆驻留计划（EOFA）与日内瓦高级国际关系及发展学院合作，面向全球艺术家发起 2027 年度为期三个月的艺术研究驻留计划。项目要求艺术家以日内瓦的国际政府或非政府组织档案馆（如联合国或红十字国际委员会档案馆）为主要研究对象，挖掘隐藏在草图、非官方地图及“档案缺失处”的边缘叙事。入选者将获得独立的住宿房间、专业对接渠道，以及每月 1,400 瑞士法郎的生活和创作资助。申请截止日期为 2026 年 9 月 15 日。",
+      "summary_en": "The Embassy of Foreign Artists (EOFA) and the Geneva Graduate Institute invite applications for a three-month residency in 2027. Artists will receive a CHF 1,400 monthly grant to conduct archival research in Geneva-based international organizations, focusing on marginal and unofficial narratives.",
+      "why_muki_cares": "该驻留为关注反档案、微观历史与非文字媒介考古的策展人和创作者提供了宝贵的通道，不仅提供资金支持，更直接对接联合国等高门槛的历史档案馆。",
+      "editorial_signal": "官方庞大的多边主义档案库正通过艺术家的介入，被重新挖掘出非官方录音、草图等微观历史，显示了反档案实践在国际制度中的学术延展。",
+      "theme_tags": [
+        "EOFA",
+        "Geneva Graduate Institute",
+        "art residency",
+        "archival research",
+        "counter-archive",
+        "microhistory",
+        "funding opportunity",
+        "open call"
+      ],
+      "source_name": "Embassy of Foreign Artists (EOFA)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESMDZgAnsj-fLdouIo-Pz5-AbX2og9FVHogGUPEv7ePZw4soFi1VUGy_SMhE1X3inIJBydDHnMpkJfy45qWLRjAraviMTopphdidRqNsBJTzoj1Hca7Q==",
+      "publication_date": "2026-08-13",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture",
+    "title": "乔·梅耶罗维茨新版画册发布：收录 130 多幅未公开照片，建立莫兰迪故居静物的完整物证档案",
+    "why_muki_may_care": "这一摄影实践通过类型学的视觉档案，将抽象的静物画重新还原为有温度、带磨损的日常具体物件。对想要了解媒介考古、工作现场记录以及静物摄影的研究者来说，是极佳的图册范本。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmCwQ5soGKuSI6HxgqWqGqZOOp0s64qTcN35wby7k7d1vMV7rbs2yjdDOZKDo5p44DI3mmUdMPwMidGZlV1EFBntR6hUPkZyLh8zzIPs5REy_-RDiz5si6TbmVRclhVqCChUMzk4AWoAFZ1Dpdzbpuobh_03k2F4Zz5oT6UJXWtaPYRic="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "排除了一些未提供具体细节或缺乏机构学术支撑的当代艺术个展，以及部分仅有技术参数升级但缺乏实际创意工作流变革的生成式 AI 应用。"
+  ],
+  "covered_entities": [
+    "Damiani Books",
+    "MoMA",
+    "Comfy Org",
+    "eitoeiko",
+    "Embassy of Foreign Artists (EOFA)"
+  ],
+  "repetition_notes": "关于 Comfy H3 挑战赛的介绍，是对 8 月 13 日简报中 MiniMax H3 底层技术发布以及 8 月 22 日 Comfy MCP 本地代理协议开源的深层技术跟进（Follow-up），展现了这些技术在创意社区实际工作流中的闭环融合。其余四个信号均为首次出现的全新展览、出版与驻留项目（New）。",
+  "issue_number": 43
+}
