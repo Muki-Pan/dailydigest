@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-25",
+  "model": "gemini-3.5-flash",
+  "dossier": "### Research Evidence Dossier\n\n---\n\n### 1. Visual Culture Signal\n\n*   **Original English Title**: 2026 Handmade Photobook Exhibition: Tactile Intelligence and Slow Looking in Contemporary Photography\n*   **Proposed Chinese Title**: Griffin 美术馆举办 2026 手工摄影书展：以触觉媒介重塑图像的“慢阅读”体验\n*   **Source URL**: [https://griffinmuseum.org](https://griffinmuseum.org)\n*   **Publication / Event Date**: 2026-08-22（展览持续至 2026-09-06）\n*   **Verified Facts**: \n    位于马萨诸塞州温切斯特的 Griffin 摄影美术馆正举办由 Caleb Cain Marcus 策划的“2026 手工摄影书展”（2026 Handmade Photobook Exhibition）。展览汇集了包括 Amanda Sauer 和 Paige Billin-Frye 等艺术家的手工装帧作品，旨在展示无法被按需印刷（print-on-demand）所替代的媒介特质——例如纸张克重与纤维、毛边（deckled edges）、手工缝合书脊（sewn signatures）以及金属色或哑光墨水在纸面上的化学反应。策展理念强调书本作为一种“作者身份与遗产传递”的空间，引导观众通过翻阅的物理节奏，从图像的形式序列中体验与屏幕快速滑动（swipe）不同的“慢阅读”感受。\n*   **English Summary**: \n    The Griffin Museum of Photography's \"2026 Handmade Photobook Exhibition,\" curated by Caleb Cain Marcus, showcases handcrafted volumes that emphasize the materiality of photography. By highlighting choices like paper weight, deckled edges, and hand-sewn signatures, the featured artists advocate for a slower, physical engagement with photographic narratives.\n*   **Why It Matters**: \n    本展览展示了触觉和纸张物理特性如何重新定义摄影的叙事深度。在数字化图像充斥屏幕的时代，纸张的质感、缝合的缝隙与翻页的物理节奏，成为了阅读图像时的“实体标点符号”。这对于研究摄影出版、独立图像历史以及物质文化的工作流极具启发。\n*   **Duplication Assessment**: **New**. 首次出现的全新展览信号，与此前简报探讨的静物出版画册《Morandi's Objects》不同，本展聚焦于手工装帧（handcrafted bookmaking）的媒介物性与身体感知。\n\n---\n\n### 2. Feminist Structure Signal\n\n*   **Original English Title**: Layered Lives: Contemporary Cuban Art by Women\n*   **Proposed Chinese Title**: 佛罗里达哈恩美术馆推出《重叠生命》特展：以水为线索呈现古巴女性艺术家的地缘与身体叙事\n*   **Source URL**: [https://harn.ufl.edu](https://harn.ufl.edu)\n*   **Publication / Event Date**: 2026-08-25（展期持续至 2027-01-03）\n*   **Verified Facts**: \n    佛罗里达大学哈恩美术馆（Harn Museum of Art）于 2026 年 8 月 25 日正式推出特展《重叠生命》（Layered Lives）。该展览由副策展人 Sara Garzón 博士策划，系统呈现了 10 位古巴当代女性艺术家（包括 Belkis Ayón、Mabel Poblet、Adidlen Reyes 和 Sandra Ramos 等）在过去 30 年中创作的 60 余件摄影、绘画、陶瓷和版画作品。展陈空间以“水”为视觉线索，采用流动的圆形装置设计，重点展出 Mabel Poblet 的特定场域作品：一件由成千上万个印有 female 图像和记忆碎片的镜面瓦片组成的阶梯式瀑布装置。此外，展览于 10 月 1 日邀请泰特不列颠美术馆助理策展人 Jasmine Kaur Chohan 博士进行题为《乌托邦之后：古巴当代艺术中的女性主义实践》的学术讲座。\n*   **English Summary**: \n    Opening on August 25, 2026, the Harn Museum of Art's \"Layered Lives\" exhibition features over 60 works by ten contemporary Cuban women artists across three decades. Organized around the fluid metaphor of water, the exhibition addresses the lack of sustained surveys on post-1990s Cuban women's art, exploring themes of diaspora, spiritual resilience, and female embodiment.\n*   **Why It Matters**: \n    该展览填补了艺术史界对 1990 年代后古巴女性艺术家系统性研究的空白。参展艺术家将个人信仰、流散创伤以及日常生活转化为高度视觉化的批判性档案。其镜面照片拼贴与特定场域媒介装置，为女性身体地缘政治与图像再现研究提供了具体的跨媒介范例。\n*   **Duplication Assessment**: **New**. 首次出现的全新地缘特展信号，直接关涉女性结构、流散身份、身体与材料叙事。\n\n---\n\n### 3. AI Research / Creative Tech Signal\n\n*   **Original English Title**: Decentralized Node Ecosystem for MiniMax H3: Controlnet Union, Audio Denoising, and Real-Time Face Rigging\n*   **Proposed Chinese Title**: MiniMax H3 节点生态快速演进：Controlnet 多控制联合、音视频解耦降噪与实时人脸微调工作流\n*   **Source URL**: [https://github.com/MiniMax-AI/awesome-minimax-h3-integration](https://github.com/MiniMax-AI/awesome-minimax-h3-integration)\n*   **Publication / Event Date**: 2026-08-24\n*   **Verified Facts**: \n    随着 MiniMax H3 视频大模型在创意社区的应用，一套高度分化的本地端节点生态在过去 48 小时内快速成型：\n    1. 阿里巴巴 PAI 团队发布了 *MiniMax-H3-Fun-Controlnet-Union* 视频控制模型（6.8GB），单模型原生支持 Canny 边缘、深度、HED 边缘、MLSD 结构线与 Openpose 骨架，并支持视频内绘（inpainting）控制；\n    2. 音视频生成工具 LanPaint 升级至 v2.1.0，加入了对 MiniMax H3 视频加音频联合内绘（video + audio inpainting）的原生支持；\n    3. 社区开发者发布了 *ComfyUI-H3-AudioRefine* 实验性节点集，针对 H3 在 4 步极速推理（turbo LoRA）下生成的音频噪点瓶颈，提供了一种在维持视频画幅冻结的前提下、对音轨进行单独去噪重绘的解耦控制方案。\n*   **English Summary**: \n    A decentralized developer ecosystem is rapidly forming around the MiniMax H3 model, with open-source tools addressing key localized workflow bottlenecks. Recent releases include the 6.8GB Controlnet Union for multi-input video guidance, LanPaint 2.1.0 for synchronized audio-video inpainting, and custom ComfyUI nodes designed to refine audio quality on consumer-grade hardware.\n*   **Why It Matters**: \n    这些开源微型节点的爆发，展示了艺术实践者与技术极客如何通过“拼贴节点”去对抗云端大厂的集中式算法权限。音视频解耦处理节点（AudioRefine）和多通道控制节点，使 AI 音视频生成从不可控的“概率抽卡”，演进为能够在消费级硬件上运行、高确定性的精细节点工程，实质性地改善了 AI 艺术家的独立制片工作流。\n*   **Duplication Assessment**: **Follow-up**. 这是对 8 月 13 日底座技术发布、8 月 23 日轻量化 LoRA 训练（Fizgig 4.1.2）以及 8 月 24 日 H3 社区挑战赛的深度技术跟进。它揭示了从基础模型接入向局部多重控制（Controlnet）与音频微调（AudioRefine）工具深度分化和技术闭环的过程。\n\n---\n\n### 4. China / East Asia Signal\n\n*   **Original English Title**: Waves of Hidden Histories: Weaving Through History and Activism in Boston Chinatown\n*   **Proposed Chinese Title**: 波士顿东北大学举办《隐藏历史的浪潮》：以社区档案与媒介考古重塑唐人街的抗争记忆\n*   **Source URL**: [https://camd.northeastern.edu/gallery-360/](https://camd.northeastern.edu/gallery-360/)\n*   **Publication / Event Date**: 2026-08-24（展览展期为 2026-08-26 至 2026-12-05）\n*   **Verified Facts**: \n    波士顿东北大学（Northeastern University）Gallery 360 艺术空间于 2026 年 8 月 26 日开启当代艺术群展《隐藏历史的浪潮》（Waves of Hidden Histories // 隱藏歷史的浪潮）。该展由 Juliana Barton 博士策划，展示了跨学科艺术家 Lani Asunción 和 Joanna Tam 在“隐藏历史驻留计划”中进行为期一年的研究成果。两位艺术家深入东北大学档案馆和特藏库，通过复制波士顿唐人街历史上的民间草根抗争传单、多媒体海报以及还原 1979 年首届波士顿龙舟节等历史文献，回应了亚裔及流散社群在波士顿城市化进程中所面临的“集体记忆抹除”和地缘生态危机。\n*   **English Summary**: \n    Gallery 360 at Northeastern University is presenting \"Waves of Hidden Histories,\" a multimedia exhibition featuring works by Lani Asunción and Joanna Tam. Developed during their residency, the project utilizes archival research and community workshops to counter the erasure of collective memory and highlight grassroots activism in Boston's Chinatown.\n*   **Why It Matters**: \n    该项目展示了如何将高校学术档案馆转化为有社会介入能力的“反向档案”实践。艺术家没有将档案静态化处理，而是通过对早期传单、海报的媒介物性进行再造，并将之放回公共展陈空间（Gallery 360 标志性的“玻璃鱼缸式”沿街立面），将边缘社群的不可见劳动和抗争历史转译为具有触觉与视觉张力的公共地景。\n*   **Duplication Assessment**: **New**. 首次出现的全新东亚流散及地缘档案激活信号，极度契合 Muki 关于“媒介考古、逆向档案与边缘劳作”的研究框架。\n\n---\n\n### 5. Archive / Long Read / Opportunity\n\n*   **Original English Title**: Call for Participation: DARC PhD/Research Workshop 2027 \"Interstices: Research (in) the gaps\"\n*   **Proposed Chinese Title**: 2027 transmediale 与 DARC 联合启动学术工坊招募：关注数字、物质与社会结构“间隙”的推想研究\n*   **Source URL**: [https://transmediale.de/en/news/open-call-for-darc-phd-research-workshop-2027](https://transmediale.de/en/news/open-call-for-darc-phd-research-workshop-2027)\n*   **Publication / Event Date**: 2026-06-29（招募截止日期为 2026-08-28）\n*   **Verified Facts**: \n    为回应 transmediale 2027 年度主题“groundstates & fragile currents”（基态与脆弱流），由奥胡斯大学数字美学研究中心（DARC）与 transmediale 艺术与数字文化节联合举办的年度研究工坊“间隙：在缝隙中研究”（Interstices: Research (in) the gaps）向全球开放申请。工坊面向博士生、早期学术研究者、艺术家、设计师和策展人。选题鼓励探索数字、计算、物质和社会结构中的“留白”与“间隙”，如研究数据中心的污染缝隙、未被善加清洗的数据模型漏洞、拟物化界面的危机以及“暗网森林”（dark forests）中的隐秘社群等。工坊入选者将在 transmediale 期间进行成果展示，并有机会受邀为同行评审学术期刊 *APRJA* 撰写 5000 字论文并正式发表。\n*   **English Summary**: \n    The Digital Aesthetics Research Center (DARC) at Aarhus University and transmediale have launched an open call for their 2027 joint research workshop, \"Interstices: Research (in) the gaps\". Designed for early-career researchers, artists, and curators, the workshop explores structural and digital \"gaps\" in data models and network infrastructures, with opportunities for selected participants to publish peer-reviewed papers in APRJA.\n*   **Why It Matters**: \n    这是一个将批判性媒介考古、数字界面政治与艺术推想无缝咬合的高规格学术管道。其聚焦于“坏数据维护”与“算法系统黑盒缝隙”的切入路径，对于研究媒介权力、技术基础设施以及数字劳作的创作者而言，是一个难得的、能与欧洲数字媒体研究核心前沿进行深度对话并正式发表同行评审成果的绝佳机会。\n*   **Duplication Assessment**: **New**. 首次出现的学术招募信息，直接跟进 transmediale 2027 年度的最新美学议程。\n\n---\n\n### Excluded Topics (理由说明)\n*   *AWARE / BRIDGE Research Residency (BRIDGE 联合驻留)*：该招募虽处于最新申请阶段且极其符合女性档案定位，但已于上期（8月23日）简报作为重点推介。为保证简报线索的不重复性，本次予以排除，并选择与 transmediale 40周年学术工坊结合的 DARC 招募作为替代。",
+  "citations": [
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDXeoCTMpnK61JyexAMIcfrYU7afTnvLhMwXtBQ6q8XZ4OVN5mEd3jLsbnVwzVyUZ8mzTZjcO63ljvctA2XYSZyo2Zj12nV27g3R3HaKTAcqkaBP6jiOtTkSQLTaxKB_JGWYL3LtLrCHqjpjD0wT_kJAhEETYFkIqEfYMH_Lfchggp2Groe1W5bwOqghaOPegGUEcC"
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZOeOcRFjp5V7CXGgOl7i_6yYHsdTfyKTH1PDS5AbcpBu2DJ_SHA5b2-bsSBSastQ1YkjRVbFuXjn4bnmyIU3TXjwd5blFHeiIGJO0tcK1BsFL139y95ZiFVZ-RxriN2V9UshEmaEjRFmULdx078r6yWcpaSmU9XEook9ikEc4Mq_pW9uCtfNz6g=="
+    },
+    {
+      "title": "alachuachronicle.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjPSXGUIsy6yhheh02qvU4_stOC0TXA7LpbjerTnk4UmGkukInfwHdulIhw7nDjhnzftjtN4Mxx5-fx2hisRxp1dCICgVg6T0HVonHgMzKj1qa9SsWmi1HSmMhEFOYJMwwUg0sKY2nzTYyrirvT8KbCSEBBjwZcHc18bfEKOXZ9U0Yc7-OJdWG6wSv42e5Qj1hyl93bbu6AGLEu4OlZy2054QQt3K247Lw4HAjhnh88vqnaftRM5o="
+    },
+    {
+      "title": "ufl.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM2O7eF8Y4V-qegDpScJEPr9CA18Drtnf6G8fs45FE1wcUEm123J45jY5lbR1Y5EeUQ4IbRGvdB_U6Lz_BT9sGN1Wzv7v0uvbOrqG-_wmlQPc-4nnrSp4rFF9iOJd6lti14AoxIr1HEDitrKYcJM4AhA0TX_XhDdDPaFRx-Xll-duO7JghpfpJ35bYuUJMByYh7iRK9jhdv-2A0EMFgHbxQCm3lufwHLy0Bz6YrhesX00b2wc="
+    },
+    {
+      "title": "ufl.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN4mlZSMydsp1wbqg0fi6KHjdc9CFS9U1Q_kpL2sHkQV4VXezHppOd5TjIAVRdqXhILE66m94KBIGXGaX4x9ORAU2fG_reKs7oNmA="
+    },
+    {
+      "title": "ufl.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECvoTzDNo1IPRGSUAQmWJvKdiW0NZ8w2q8fqJ2uwwMIhLHG6L2BMW4o6GpTHniMmlJgzLfhgxRpHQFfesOICXK1HNpFOX5Hr9pmmV-mQLJjNyKCqXfIDk7yrwb8optvLH4solJww=="
+    },
+    {
+      "title": "ufl.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwZuW4leq6uTyJHLU5ZMTZDOmj6ZR6zO3YiJmoX4ym1rowGYGB69yyN0pMuDp7sLoAR28oqocyzAbJZp2X3pDjSfN2NTYE9bVIiSY9bsDimov_moWIGULBtpSipPvHDXZhqR-nFbeokoA7bpGeu5k7D2GcGDresPfu5o5vToZ4zKxuZ8n7Noh74SM="
+    },
+    {
+      "title": "ufl.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE77EqHuYRc2pL9hzpdqzZEoPWMZyONS6gpnaqmQ6Q3J0Dte9Y-uRFZ5Yq_gvPnS2LiW2zi-QMo3dbOGjXZ7vlxGW8Zn0cUVEHNxAso3medftcEWyMSrMKiMFhYQk072Z5iKb92w-_6FrcybEqPAK3UhnF8hKfUioAGsB8FiiAjwA=="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBOvV48B-_jw02jsOfZgGzVZVdP2-CjnnGHUJzQF-2MPBj7hqzkSxiM6s0aLefK_Fv5pmuBtyArbv-CjU38RxaYoEnB1zE9OjfZK5GZGhNy7zbd8qC8ErjL_Ln95GTkkQcJ8UMeam5Of2l37Eu3zb1DrtSbXGfYeByIcWnsgWpPegxvXlkqzssLfBbveQ302MVC6FnIrHI8Pk="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG1vA68d9snyFet_Es-9oE4Iq_Na9-JSWGJEXAt9ypez38m68E3iE1qEUmemrdN8ps_q9g7MMph8Vd8vUvnqb2v5gAb86eivbR-WQ5H8jPU8B7VsiIBiIEMAFfJ0iHklu4VyjZeyq0RdfVky3HKd9UuP-Nogw0TqEi4Zih_5AcD8Isnq68cdYvuzSdZVjyONl4C9y-AkjQdzI="
+    },
+    {
+      "title": "northeastern.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr_cDi_z1PDNVeUiFuAPpR1Ueg4FbvEt61ibohQDIKm19IFHlw8Wh-4pSLWiElnOGB7oa382JDmBARxQAVtHokhw1ZPzAT15_OTtN7UM6eOAB4JYC8VfLCAsFKI1YLGTGfSbTGvHob5E0PEBbvWZp1PvxiYxb8m6EuJ1zWFfKNz1Agb6Vq5PJt_Q=="
+    },
+    {
+      "title": "northeastern.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH2qTBN43xZ39RBpX0Dg6V7aGwybw1AsF2c0rIAAQs1sSCbCtIJlcx23U9qIFS8MzP82QNwI6QfwZoAaMZNOHAWe5WXQp5kWBlLESC0cH31Jr-URqIz2RJy14FA6JifeXYIlnQvNrSvORbcpbD70BFsGuDhLA-HC9SelPfFl1QvIBuwgXhQoPVTbRmHeX3zySS8tox9ASBZ5OhXVm8px0Rifns7x3D09B5jrSQuyXZdRuBQuUxoRJHcxtc3ec="
+    },
+    {
+      "title": "northeastern.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0VJkUJNvztckssqGmaeP0bpwinbJxbY67gDuF8QVozqtiNaHQ5enijIlUQ3xQx7SHnHgM_2rDIjk7TkmAx6i5wgicc1PBT8J0Uu6j_KnyzmDQmrh-8yYm_QvR659i3KDwPAsJGVS71wzKYSnF_zz9q-io8Q=="
+    },
+    {
+      "title": "northeastern.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAFdzpkN9aff6pBdE7ooRah4tzMfAOPkYI5DcR5we3hGcx3GAxSWjKRAx7rW5CO1VxG4lV8cMqWH_I7CH6ehUrtiRkSm0n5U0yUCGL59JLflxlRJI9VYNjgMF_RIBc12p1oqnDCxZo1IG0IT9pTaXtmNfV_gwv88DkrMh9Xo8qdr8ayDjRrIZ6eA=="
+    },
+    {
+      "title": "transmediale.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsx0Ygi0moi8CqmHmvRo3LHdh-fJYuYTEkTg2afBiBFKQ_wvltK3dteSE7C3m3Olo3ddBmFf199sZRuHYt08w2vahBpZE8WJKD1hJM_Vh4FRnmHubRtkI6_SCLju-hse6iueO3TB_kf_o3NuOaNbeF6PsGCBp-BZYCAGeG-0G5EjrfsQ=="
+    },
+    {
+      "title": "au.dk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnJQ3uyEKknmpIahPCnPbySM1-mZvEGYAPPDFd1aTmUWtDqcdfMbrEGj3RILWk7bgyLu0qMioRV7bDyPJaHobBaoZu2B_mfruYNrzzavtOWVoWoebnHSRcYl70yVjc66f4YeaVHeVorCnIhMblcyimxWCwnOL5yoZpt8k8p19UTXOPaL5lOgvRKm67Mu-_GEcbMoN_L-JNE7-HYhv9KJRz8zAL9w3BDpxiKziw2kY="
+    },
+    {
+      "title": "mstdn.social",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8rb_6tHWVXoTWjZIrL-9oWWQmNkD4FbDR4FU0Jkm72-6XSez4FtCNUlv9csRXZ10odhLJZv0KzyGRWHVfSqFMpNKTs-5Bj25EFqiN59fcNM_qd_YRdQUWwZyT72bbB-FgR2n_iHswE2EREg=="
+    },
+    {
+      "title": "au.dk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-2B5q-G51dzbFpkXiS_DbY0JFIU-AC16TPcNom6APL48jtvD4yt_f0c0UhotqRRZiXL_ehepaSXjBkvCKHKGcIf0fScVVnH05BG8zf-HtL2CrMLPugIODgzqAG8ciiO8YhpqQr_n5AAQJwZNeAtssNJ2R4jpEr_5LA35v4D47Q2ChDOLX-8gBji-7QkDAzclrAUtw6hfcEbat1guwBbng-13OAbiYTEUG-OaIWZjSOJyLo_dZzJwb3lNc8xONjQ=="
+    },
+    {
+      "title": "telegram.me",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq0Ldsle8QQaW_jPwAlJiryY-Yl2NpVf9Xb--WjYdxJ-cHKxzoESr6hMZ8_bOB9cZyOH0rWVnrQfaaxzr7zA7ikv0B6qnHVEd58EaydvlnxuM8SM0AWWzlLgC0WOcyTmVf5jw="
+    },
+    {
+      "title": "transmediale.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM2nhAQz6cdyPsamhsJnkPGPur6yfIc9BQEIYIIVdPi2LceHUN1JBPkINrxHo2c7uwqh3O9S-_hEWv8-ArItdPMyt9XEZ3JgtB046fPb82GNd4camtnFwEmPUmT3-TYRMBwL0oi8TWfJYvFFUKewXHlAa_7xJB7Lxmwl9c0qUlqvy3uQ=="
+    }
+  ]
+}
