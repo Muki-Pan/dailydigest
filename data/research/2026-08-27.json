@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-27",
+  "model": "gemini-3.5-flash",
+  "dossier": "### 1. China / East Asia Signal\n\n*   **Proposed Section**: China / East Asia Signal\n*   **Exact Title**: 先锋艺术家草间弥生逝世：享年 97 岁，其工作室发表官方讣告回顾其艺术生涯 / Avant-Garde Legend Yayoi Kusama Dies at 97, Her Studio Releases Official Obituary\n*   **Specific Source URL**: https://yayoi-kusama.jp/e/news/index.html\n*   **Publication Date**: 2026-08-27\n*   **Verified Facts**: \n    *   日本先锋艺术家草间弥生于 2026 年 8 月 14 日在东京一家医院因多器官衰竭逝世，享年 97 岁。\n    *   其工作室（Yayoi Kusama Inc.）于 8 月 27 日正式发布讣告，表示草间弥生在生命的最后日子里依然坚持创作，从未放下画笔。\n    *   目前已为亲属举行了私人葬礼，未来计划举办公共追悼会。\n    *   她原定于 2026 年 9 月 11 日在阿姆斯特丹市立博物馆（Stedelijk Museum）开幕的标志性回顾展（此前已在巴塞尔贝耶勒基金会美术馆和科隆路德维希博物馆巡展），现在将转为致敬展。\n*   **Relevance**: 草间弥生作为东亚战后最具国际影响力的先锋女性艺术家，其对幻觉、无限重复网点、镜面空间的探索深刻重构了战后视觉艺术。她的逝世标志着一个时代的终结。\n*   **Duplication Assessment**: **New**. 首次报道草间弥生逝世这一历史性文化事件。\n\n---\n\n### 2. Feminist Structure Signal\n\n*   **Proposed Section**: Feminist Structure Signal\n*   **Exact Title**: 首尔美术馆举办特别声音表演：在女性艺术家先锋环境展中重访拉蒙特·扬与崔仲姬的历史共鸣 / Leeum Museum of Art Announces Special Sound Performance within Historic Women's Environments Exhibition\n*   **Specific Source URL**: https://www.e-flux.com/announcements/615296/la-monte-young-and-jung-hee-choi-studies-in-bowed-disc-seven/\n*   **Publication Date**: 2026-08-27\n*   **Verified Facts**: \n    *   首尔三星美术馆（Leeum Museum of Art）宣布，将于 2026 年 9 月 5 日在其正在举办的特展《在另一个空间里：女性艺术家的共感觉环境 1956–1976》（Inside Other Spaces: Environments by Women Artists 1956–1976）中，举办一场特别声音艺术表演。\n    *   该表演将在长期声音与光影装置《梦之屋》（Dream House，1966 至今）内进行。\n    *   演出将公开首演崔仲姬（Jung Hee Choi）的声学作品《Seven》（2024），该作使用了沃尔特·德·玛利亚（Walter De Maria）在 1966 年为拉蒙特·扬（La Monte Young）创作的雕塑乐器；同时配对演出拉蒙特·扬的经典先锋作品《Studies in the Bowed Disc》（1963），该作使用了罗伯特·莫里斯（Robert Morris）制作的锣。\n    *   本次特展《在另一个空间里》展出至 11 月 29 日，重构了 11 位国际女性艺术家的历史环境装置，旨在重新评估被主流艺术史边缘化的女性空间实践。\n*   **Relevance**: 探讨女性艺术家的“环境”装置如何通过触觉、风、烟雾及特定的声音性能（如崔仲姬的声学空间重构）来打破极简主义中坚硬、冷酷的男性物质话语（如硬金属），将身体感知置于共享空间的核心。\n*   **Duplication Assessment**: **New**. 尽管首尔的美术馆在以往被零星提及，但 Leeum 美术馆这一专门针对 1956–1976 历史女性环境艺术的特展及其最新的声音表演学术项目属于首次报道。\n\n---\n\n### 3. AI Research / Creative Tech Signal\n\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Exact Title**: ComfyUI 发布 v0.34.0 版本：原生支持 MiniMax H3 的帧级引导锚定与 per-token 音视频潜空间噪波遮罩 / ComfyUI Releases v0.34.0 with MiniMax H3 Anchor Guides and Per-Token Latent Noise Masking\n*   **Specific Source URL**: https://github.com/Comfy-Org/ComfyUI/releases\n*   **Publication Date**: 2026-08-26\n*   **Verified Facts**: \n    *   ComfyUI 官方于 2026 年 8 月 26 日发布 v0.34.0 稳定版及 Nightly 更新。\n    *   针对音视频原生多模态生成模型 MiniMax H3 进行了重大节点升级，新增 `MiniMaxH3AddGuide` 节点，允许创作者在视频的任意指定帧上锚定图像与音频引导，打破了仅能在首尾帧进行控制的限制。\n    *   原生支持单张图片 Empty Latent Image 节点直接与 MiniMax H3 配合运行，简化了常规生图工作流的接入。\n    *   在 MiniMax H3 上支持 per-token 的视频与音频潜空间噪波遮罩（latent noise masks），并原生支持提示词嵌入（Prompt Embeddings），使创作者能够利用特定语法进行精细的分段局部控制。\n    *   解决了 MiniMax H3 之前缺失特殊标记导致 `<d>` 对话标签破损的问题。\n*   **Relevance**: AI 原生音视频工作流的重要闭环进展。遮罩控制和任意帧锚定工具的下放，使音视频多模态同步生成从“黑盒盲盒”向可精确调度的专业时间线逻辑过渡，对依赖 AI 辅助创意生产的独立创作者具有直接的生产力价值。\n*   **Duplication Assessment**: **Technical Follow-up**. 本项目是对 8 月 13 日、23 日、24 日及 26 日简报中 MiniMax H3 底座及节点生态演进的纵深跟进。这一次更新标志着 ComfyUI 官方底层正式提供了对 H3 原生多模态特性的全栈帧级控制框架。\n\n---\n\n### 4. Visual Culture Signal\n\n*   **Proposed Section**: Visual Culture Signal\n*   **Exact Title**: 2026 世界新闻摄影展伦敦站开幕：在 MPB 空间呈现 42 位获奖者的纪实图像与地缘政治叙事 / World Press Photo Exhibition 2026 Opens in London, Presenting Visual Stories from 42 Awarded Photographers\n*   **Specific Source URL**: https://www.worldpressphoto.org/calendar/2026/london-united-kingdom\n*   **Publication Date**: 2026-08-21\n*   **Verified Facts**: \n    *   2026 年世界新闻摄影展（World Press Photo Exhibition 2026）于 8 月 21 日在伦敦伯蒙西街新落成的 MPB 画廊（MPB Gallery）面向公众开放，展期至 9 月 30 日。\n    *   展览汇集了来自全球 141 个国家的 3,747 名摄影师提交的 57,376 幅作品中精选出的 42 位获奖摄影师的作品。\n    *   年度大奖得主为美国摄影师卡罗尔·古齐（Carol Guzy）拍摄的《Separated by ICE》，该作记录了一名厄瓜多尔移民在纽约移民法庭听证会后被美国移民和海关执法局逮捕、与家人分离的瞬间。\n    *   其他核心展出项目包括：萨贝尔·努拉尔丁（Saber Nuraldin）记录加沙抢购面粉人潮的《Aid Emergency in Gaza》，以及维克托·J·布鲁（Victor J. Blue）记录危地马拉玛雅阿奇族妇女为性暴力受害者寻求司法正义的《The Trials of the Achi Women》。\n*   **Relevance**: 摄影媒介对历史、提取、地缘伤痛和边缘群体（如玛雅妇女、跨国移民）的可视化记录。其展示方式和策展叙事展现了当代纪实摄影如何对抗消失的数字注意力，通过物质图像重建公众与遥远现场的同理心。\n*   **Duplication Assessment**: **New**. 2026 年度世界新闻摄影展伦敦巡展首发报道。\n\n---\n\n### 5. Archive / Long Read / Opportunity\n\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Exact Title**: 纽约 Art Omi 艺术中心启动 2027 年度驻留招募：面向全球建筑师、艺术家、舞者与音乐家开放 / Art Omi Launches 2027 International Residencies Open Call across Multiple Disciplines\n*   **Specific Source URL**: https://artomi.org/residencies\n*   **Publication Date**: 2026-08-19\n*   **Verified Facts**: \n    *   位于美国纽约哈德逊河谷的 Art Omi 艺术中心宣布启动其 2027 年度四个学科的国际驻留申请：建筑、艺术家（视觉艺术、声学艺术、社交实践）、舞蹈、音乐。\n    *   申请截止日期：**Art Omi: Artists（艺术家驻留）截止日期为 2026 年 9 月 14 日**；**Art Omi: Architecture（建筑）、Dance（舞蹈）和 Music（音乐）的申请截止日期为 2026 年 10 月 11 日**。（注：e-flux 英文原文提到截止日期为 10 月 1 日，Submittable 表单页面也确认该截止日期为 10 月 1 日，本简报以 Submittable 为准）。\n    *   驻留条件：通过竞争评审选拔的申请人可免费参加驻留，Art Omi 全额资助食宿、独立工作室和基本工具，申请人仅需自理差旅费用，并需缴纳 15 美元行政处理申请费。\n    *   视觉艺术家驻留将于 2027 年 6 月 17 日至 7 月 12 日举行，每期邀请两位特邀策展人或评论家常驻，进行一对一工作室访问和深度专业辅导，并以 Open Studios 开放工作室作为结束。\n*   **Relevance**: 这是一个享誉国际且高度跨学科的驻留项目，尤其适合从事多模态身体、声音、材料及空间实践的女性研究者与艺术家。其核心的“ Visitors Program ”直接连通纽约主流学术和商业策展网络，具有极高的实践晋升价值。\n*   **Duplication Assessment**: **New**. 首次报道该驻留的 2027 周期招募信息。",
+  "citations": [
+    {
+      "title": "yayoi-kusama.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnyKIr5kkopBYNlpPnU_5WlHPtKemhDCd3QGOi4HtjRy_cgFwjgNfIbvY99ros-sCFIj5bUBFxHJOWbWryd2WuKUjZJ3rLsEyMFucjP_Y7TGkWVB4QTTow_Bc="
+    },
+    {
+      "title": "theartnewspaper.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1dVLMTqxprIoVgGVBCp7XxtocIf3jqujn_cwL9P_wAXaJd13ZaT_Vp511Rp22JoZs6DCe-gU3FB3QoOEaU53ocaKmRmyg8M5Pd8itGD0fWvoXU1bf4jwooC_ThLTbXoIiK-PQqfkcwSVYCGZVBOQf0WiJUHJul-FQjYlLkUvI28rC_cyX0T8Afxc25Vnln_Lz_ubf1UQ="
+    },
+    {
+      "title": "stedelijk.nl",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEujtlK7E0s02DPtTVHt5E3mnpch3GCrt1UGtO5d_yUiGY3GPxgCR92HKOPKopPNI9VON-iV2xWPh4YvCUIS_4T5KuXafLKKmd1BBknzla-dosnZ1gnIdeVI0o0ALSyxb4LvaPMkDhWJF2QZgbu"
+    },
+    {
+      "title": "nltimes.nl",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoB_3exlK-mHry4bgSR33mX-rZiHm1mfE8BiIh07PKiQmyvTHrtOEutQV77hk33irw0_jFHsVXf2GbRxcLF6P-g0COTyzxtCIiSaKLatayBzeT1r2FhgkQbkIvOTCm-ZJPK1qsZYvZwQfJd4aS-MN5yNmgiUzZ0du33XEYUwSPfQmJFI27NjRFmjhP64CB4Ja_RRIiDlASvNc4PLk="
+    },
+    {
+      "title": "fondationbeyeler.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQx64mFNoPExIPKUZ8qBS6T4P_D9BMZFO6qk_lcUyFrrLU7KrNPD0b36rbcBu9tBc2b7uS7mB2SXpIp-q1CswhjBjYr7JONkQcuBfSwLQ24tYM4WoNf4Xfo3kacZ1hcHBuAmbrN2hzGmsy6NxxB1euj5d7LPNgUfoMC71_2HyHr7jn"
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRTAt_AUUSFWUjMlPq1iN75O2g_CaXt6hKTMyQXnS6HAxdB2dpJnKiw-PWnEGfE5MXOyMgS4qSn1JaZOEA5nqpEhqltki1wmD0n_dBXfcZO6YFx5wbQOz2Mv7ILZvo4VzNy9HM2s5HwhrDuEonPCo4n4rs77uPTv_2Khr1iJ2EXD-BzjxacGTzgtdQigNJvi4uOxQ-T0tv17P9O6k1kA=="
+    },
+    {
+      "title": "vmspace.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX1apxCvsYm66SlmoA0oINQoluQwLxRxIrfvwt7pKOEepzWE9y9LY0ncbyP4A3-vVvG4Yv0pO-GDbuXK3mYo-wbJilyL-3z7IrQ0AMvP-5G3KMyeD3_sJiBJthv6ZgPDMTCGUU9cr9U9mla6n_7jJ3lRao"
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGXtflommGFhI0w_BLqRXQbXw4xyEbAUtH1DPQqtq6o388rvKzufoLKox0nAmT5Id--IJzzQbx4G5dhxKOYztXvjC_7eYGMvR5vI5MZG1LOxfmrpkJKA=="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHcIe9aZTMVzhuLPW68fAQa6n-97XGK6D1rUiq-2nax10VdHih6wk3JPaV8zcfYsBpQnsxgkCK5Zs0ie3J8BWUj-8jCtGIrgrB4WNbkU7OlA2-K2Kcwccv_pBHqNbEfn4_TFCcdajrCcP2VaocGBK1WoiHyfGtVv_LDVO_96iX_4bpJ0b2RG_J9R8wLsahsBd_IRXhC_s_ojE="
+    },
+    {
+      "title": "worldpressphoto.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG0JZlCyVFpbFJYPryuXAod99EL5HTo9-OmELN8V0WfTikfYMrDl_uPQy0iRfducJgET9Zrmj9baAAvWqhnB_SvFio0XILGSpknGlEdeZUY4WOjd1_7WiuLjJRDA3vNO2YWqYxOx_wq_LkAeQoQppcVx-FOgLANHnO"
+    },
+    {
+      "title": "theexhibitionists.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRiLE4cHYQx1gFA79TRGBxPvGAufAi-bUgZHa68Wfb_Qanne8VGf7O3cAhTYEvQIhSFCZhhrKH1-yzrnFjHpt83FATFpMtn5ZQakH0qVKXfMnpY5ADYYD5lpyW86iEu4R383m4C0rmhfOhK1ddykbxKvFTbwUZqVdQKNfPPwu6O-68"
+    },
+    {
+      "title": "thecapturist.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXTFDEoUfCm3CgphpvDR7O9ZWUoeQbErPAwhj4VNldWZtmWi2MMsTtZ2Z7cqxOIITHZcBzofA5hX0TYl2LEZrD557geQ08ohyRPTMS5Gr2cuaKfg82enQwaX5FEinZg5OG1RdSkPQ4SGhbuyuWmuzPYpcpBExmcHNCEDbKEuS1v5UVCBIkU7uygyTamBd6r-pPACTUw0KB40fiW7S49XLhQA=="
+    },
+    {
+      "title": "ikonlondonmagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6TuxVZ5LniK9_SZb54jL8kqKRVuuYokaf8ZPWlENkWxZ6_5F2hhn2rp-mqJZv2DHypviMi17VuS1-H9sJWzKrWFP4LMs2ZTJ4YWehWZVO-i6xop5Fu5PCZu-F90wxMbsiyhTjg2jAQfwE9YMxh0k6eTp8c6mh3Q=="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtCB9yUH9ZztQsORLyuhSlAvPqMkoSClacUsEJg8IsJ6w2HJ-rpiE2QLB__3LDSDhpC4vRtZ6Qmj9nwlARunUP9KaUsDqxAmgR_J5C54a_4qIKFUFZ4MPCVP-1BdNxCWI57q6f--UhLIwnznmdjPEOFkz09EacZ9jgTmVf8fgtnVJUjjd5nvqqlGBy8eP7bq98N5cOXiJjmhiLcafxulUHfr4="
+    },
+    {
+      "title": "artomi.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRATg-5OA1rQgtGZg4bLktlUYsyvSLtWVNZCMg4O0cPftlG_C6P0JPkpaiS6NwbhlmEEBeeMg74E2N1nRNk0llvPVG3vK846mmey51shpef9FySWzls3zDn7PrvYuT"
+    },
+    {
+      "title": "artomi.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHld2rIYwXml5aarf1cnqddhTGph46Bl3489t8JXHypap1pTWI2MjPHc8F211zxo9P42F_P3QksO2YRQ35oCk3kS1WYZ6xw2FxM2FefpX-B8_NgphbT"
+    },
+    {
+      "title": "submittable.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsreRuBByr3NFFg_QzKpP1L6H1BWurtSmVvY6sqb_KJjWSJhcwcklJ7-pyS51CbHpptV9cPRKtyTz-95br2bfeoyW7GK8jHAyACLOEA3YJYO7-rRf8"
+    },
+    {
+      "title": "submittable.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMFNk15J076k5FCmIS9yxGtVDEm9yG43wmDRnDeFalhKuv820zeuNmJqza_D_aId4jcR6YEIiKaQNW7rlyH61IUXHzsRHGJXE_988TChpgDhpb3RGGoRempVC9eoMv6Etyh52kBNIzdg6JY8E7cbP2XJguxNmpVI_FDzH2hkzKmhN4N76o0xvMowRxsqKY-W1NQqGhIcIn4mLikgMW0upb-NnuXdtV"
+    },
+    {
+      "title": "artomi.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSHDzuyrP64osGMHHO9awntUlGsCYGkYuM9fYZ6o26qkXQdl6xZV4mQNzdWgSX3HnTvZbwXLBicLH74mjfAFFM3uOoXgmhXm35sMkWsyDZqCeThkbyt1FyxemGE3HmWKZnvyLI"
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHoE5GzYtzcCxc5OiBXrKJlxuhtuRhul526vVfLngoPuEisDSxKXaxFVaBYuJRZk6CBg0hJB-w6FCFjYY85t1Rxe7xHXZg_P7Nb4yGD2L8GQaHGp3OZnMM603z3EcTVlet6SxT8zodI_L98IynN-6lSVrNMBatmDA5eJ0="
+    }
+  ]
+}
