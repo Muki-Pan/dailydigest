@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-28",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Research Evidence Dossier: Cultural Signal Brief for Muki\n\n**Issue Number:** 047\n**Research Date:** 2026-08-28 (Asia/Shanghai)\n**Search Window:** Past 24 hours to 30 days\n\n---\n\n### Candidate 1: Build agentic creative workflows with Amazon Quick and fal (AWS)\n* **Proposed Section:** AI Research / Creative Tech Signal\n* **Specific Source URL:** https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/\n* **Publication Date:** 2026-08-27\n* **Verified Facts:** \n  * 亚马逊云服务（AWS）发布了由 James Wu、Hadrien Almela 等团队成员撰写的技术指南。\n  * 指南展示了如何构建一个可复用的“代理控制台”（Agent Harness）媒体工作流，将 AI 智能体空间 **Amazon Quick**（用于研究和无代码工作流编排）与 **fal**（提供图像、音频、视频、3D 生成能力的媒体基础设施）进行整合。\n  * 二者通过**模型上下文协议（Model Context Protocol, MCP）**标准接口进行连接，fal 的 MCP 服务部署在 `https://mcp.fal.ai/mcp`。\n  * 指南详细演示了两个具体的复用创意工作流（在 Amazon Quick 中称为 \"Skills\"）：一个八面板故事板（Storyboard）的生成，以及一个音乐录影带（Music-video）概念原型的设计。该工作流支持在规划和角色批准等关键节点暂停，以引入人类创作者的干预和审核。\n* **Relevance:** \n  本信号直接呼应 Muki 对“AI 原生工作流与创意技术”的关注。这是模型上下文协议（MCP）在云端企业级媒体生产中的又一关键落地。它表明创作者的工作流控制权正在从“在网页端拼命调参（Prompting）”转向“在统一的 Agent 编排空间里管理多模型、多步骤的链路”。这套在生成、筛选和人工干预（Human-in-the-loop）之间建立闭环的技术逻辑，非常值得 Muki 跟踪和借鉴。\n* **Duplication Assessment:** **Follow-up / 纵深技术跟进**。是对 8 月 22 日（Comfy MCP）和 8 月 26 日（Kling MCP）简报中连续关注的“模型上下文协议（MCP）”技术生态的纵深跟进。它展示了 AWS 与 fal.ai 这类专业生成级媒体 API 的跨平台连接。\n\n---\n\n### Candidate 2: Between Here & Infinity: Celebrating 30 Years of the Spelman College Art Collection (Spelman Museum)\n* **Proposed Section:** Feminist Structure Signal / Visual Culture Signal\n* **Specific Source URL:** https://www.spelman.edu/news/2026/08/20/spelman-museum-celebrates-30-years-of-black-womens-art-with-between-here-infinity\n* **Publication Date:** 2026-08-20\n* **Verified Facts:** \n  * 斯佩尔曼学院美术馆（Spelman College Museum of Fine Art，一所历史悠久的非裔美国女性私立文理学院美术馆）宣布，为庆祝其艺术收藏成立 30 周年，将举办特展《Between Here & Infinity: Celebrating 30 Years of the Spelman College Art Collection》。\n  * 这是该美术馆首次同时启用其两个展厅的大型展览，分两波开幕：第一波于 2026 年 9 月 9 日在玛丽·施密特·坎贝尔创新与艺术中心的美国银行画廊开幕；第二波于 10 月 1 日在科斯比学术中心展厅开幕。\n  * 展览收录了 permanent collection（常设馆藏）中近 70 件由黑人女性艺术家创作的作品，包括 Zanele Muholi 和 Fabiola Jean-Louis 的经典影像与摄影。\n  * 展览由美术馆馆长 Liz Andrews 策划，采用了一个独特的策展框架：将展品按照“地球大气层结构”划分为五个主题展区，隐喻黑人女性主义想象力的多重维度——Root（根源/传统）、Threshold（门槛/过渡空间）、Interior（内部/亲密与静谧）、Expanse（延展/概念大胆与色彩饱满）以及 Horizon（地平线/过去与未来交汇并消融）。\n* **Relevance:** \n  高度符合 Muki 对“女性主义视觉文化、图像历史与体制权力结构”的研究兴趣。斯佩尔曼学院不仅是重要的非裔女性高等学府，其美术馆也是全美唯一致力于呈现非裔女性艺术家作品的机构。该展览通过“大气层物理学结构”重组长达 30 年的女性主义艺术实践档案，提供了一个将抽象黑人女权主义想象力（Black Feminist Imagination）与具体媒介和物理空间策划进行精准对接的精彩策展案例。\n* **Duplication Assessment:** **New / 全新地缘与策展信号**。此前未曾报道过斯佩尔曼学院美术馆或该收藏展项目。\n\n---\n\n### Candidate 3: Martin Parr: We Are Martin Parr Retrospective at Photography Seoul Museum of Art (Photo SeMA)\n* **Proposed Section:** China / East Asia Signal\n* **Specific Source URL:** https://sema.seoul.go.kr/en/whatson/exhibition/detail?exNo=1295\n* **Publication Date:** 2026-07-16（配合 2026-08-27 首尔艺术周 Seoul Art Week 开幕进行重点宣发）\n* **Verified Facts:** \n  * 配合 2026 年 8 月 27 日开幕的第四届“首尔艺术周”（Seoul Art Week），首尔市立美术馆（SeMA）重点推介了在其分馆——首尔市立照片美术馆（Photo SeMA）举办的纪实摄影大师马丁·帕大型回顾展《마틴 파: We Are Martin Parr》。\n  * 该展览于 2026 年 7 月 16 日开幕，将持续至 10 月 18 日。这是马丁·帕逝世后，亚洲举办的首个大规模回顾展。\n  * 展览由首尔市立照片美术馆（SeMA）、玛格南图片社（Magnum Photos）以及马丁·帕基金会联合举办，收录了马丁·帕 50 年职业生涯中 14 个主要系列的 500 多幅摄影原作以及他出版的所有 89 册摄影书。特别展出了他于 1990 年代末和 2000 年代初访问朝鲜半岛时拍摄的有关南北韩社会景观的珍贵图像。\n  * **机构背景：** 举办地首尔市立照片美术馆（Photo SeMA，位于首尔市道峰区仓洞）是**韩国历史上第一家公共照片专业美术馆**，于 2025 年 5 月 29 日正式开馆，耗时近十年筹备，旨在通过系统性的收集、研究和展览，重构长期在韩国当代艺术生态中被边缘化的照片媒介历史。\n* **Relevance:** \n  本信号完美切合 Muki 关注的“东亚、照片书、展览研究以及照片美术馆媒介考古”方向。首尔市立照片美术馆作为东亚最新建立的公共照片研究与展示中枢，其背后的制度化建设（克服韩国本土照片档案碎片化的挑战）是重要的行业研究切片。马丁·帕大型回顾展不仅提供了纪实摄影与消费文化、影像民主化的深度视觉档案，其“90 册摄影书”专区也为 Muki 的“photobook”和“图像出版研究”提供了极佳的物证档案案例。\n* **Duplication Assessment:** **New / 全新学术与机构信号**。\n\n---\n\n### Candidate 4: PIR Open Call August 2026 - WORTHLESSSTUDIOS\n* **Proposed Section:** Archive / Long Read / Opportunity\n* **Specific Source URL:** https://www.worthlessstudios.org/pir\n* **Publication Date:** 2026-08-10（申请通道开放至 2026 年 9 月 30 日）\n* **Verified Facts:** \n  * 纽约非营利艺术组织 WORTHLESSSTUDIOS 启动 2027 年“驻留摄影师”（Photographer in Residence, PIR）项目的全球公开招募。\n  * 该驻留项目的核心载体是一辆由 Airstream 房车改装而成的移动暗房。PIR 为胶片摄影师和基于影像创作的艺术家提供在该移动暗房内冲洗胶片和放大照片的专属使用权。\n  * 2027 年度的驻留将于 4 月至 10 月进行，共选拔 7 位艺术家，每人进行为期 1 个月的驻留。\n  * 本次驻留重点关注纽约市的五个区，合作场地包括爱丽丝·奥斯汀故居（Alice Austen House）、绿木公墓（The Green-Wood Cemetery）、下东区女孩俱乐部（The Lower Eastside Girls Club）和纽约市公园局等。\n  * **入选艺术家将获得：**\n    1. 移动暗房 4 周的 24 小时独家使用权。\n    2. 1,500 美元艺术家生活津贴。\n    3. 免费的暗房化学制剂、胶片及相纸支持。\n    4. 举办公共活动和 photo walks（摄影导览）的实践机会。\n    5. 由 Brooklyn PrintWorks 提供的 2 次关于扫描和数字输出的专业工坊培训。\n  * **申请资格：** 针对需要暗房设备并希望在特定社区/场域邻近创作的艺术家，申请人须有独立使用暗房的经验，且当前不得在读任何艺术学位或计划在未来一年内入学。\n* **Relevance:** \n  对于 Muki 所追踪的“图像技术、地方社群与物质文化研究”具有极高的实操与方法论参考价值。WORTHLESSSTUDIOS 通过将暗房技术“移动化、去体制化”并驶入边缘社区（如与爱丽丝·奥斯汀故居、公墓及女孩俱乐部合作），将传统的 analog 摄影转型为一种深入地缘的、关系美学的、注重关护与连接的社群实践。这种将物质媒介技术与社会参与（Social Practice）相结合的运作模式，可作为 Muki 长期研究和推进相关驻留、资助申请的信息源。\n* **Duplication Assessment:** **New / 全新招募机会**。此前从未推荐过 WORTHLESSSTUDIOS 的 PIR 房车暗房驻留项目。",
+  "citations": [
+    {
+      "title": "amazon.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAlbVqGGQBiVlcY4mdJctoE19psNBEqYjw4PibmJwuP3UPVmma7fPPxRypxzcemoYgN0DZ_FZCIZQMhIZEM5o3-9D5ozd7TzZP9o3LLgtrMrfQHF37e5D5TrkOnlFOJjf1lLB8"
+    },
+    {
+      "title": "amazon.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETHoUK8wCijg0JC1QkyoYMkXSZ1psCRLVJrO6gtpaQfYXRCuXxgttd7yyQckQpbxCDOeLUgcPTaOqjbvNybd_Ykgx1oJ2_9PL4l1uHaOTSv_oisyZtUwgmqzaTet28JyQdS1j7AyCpyiAQJ7SJ47OOz4RR5nuOPlCr5WioJwFz1eXsFThy_bz24qFLIH20uK3tAQ-2xqdeRfX0liE7xNs="
+    },
+    {
+      "title": "spelman.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHejB-5vaop1XAP8kvzyOASKwEiFiIYaQUAGOVeXQn8xDutAcxPrMXMy0uPMPZcCo7v1nn-QApxiinatopuGEaUcp0LWzuX35Oa3YrNpFU032ZqjNgdxmWCMmzCKTf0PeSwIkVjdv0bsKTdp5JcOIdNlTxgfULFd8f08fXutbH4uZQZ8BN517Ip3xkXurKQFGmNRobRVnVwfHZRa0IFzhM2KOaubBla-vLBaqJ2SPr18YsHllhuajlXclt0Bqv5C7pWIC8bdGgr9N-3EuKIejtu5y37_Z59WI1mg2mXNqHMOYhiCu3xDOiHH_iqIYE="
+    },
+    {
+      "title": "secretatlanta.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbWqx3WeQn0gbkAnqgd3ISc4mk8MMhlY8bNZN3Bg0mi7F34V6v1cS8qDHZM-yqwg9NGfvmqwvfuL33anqstSaHek07bXjgw7T6CTDiiaRyr3jeeh2QU7I3Mm_q8CE2QMvRrEZC6CmWwPkxhzM3_eMAMsNOAzbiin5-lcdEBmpfN9sM6SM63GJG"
+    },
+    {
+      "title": "spelman.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjGffHgbSnQqjUqlkXLyVOh2STva9zHWv1oLTlpRZLhy8Uhw4kdEJfoW1VGG3PBXbfrycHZXjp7MvqkuAjIg9UfBFcCm54el4qeEal2nAnKARXZ5sjq2i2tDpw6g=="
+    },
+    {
+      "title": "spelman.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjzLGvpNKMzqD5pov7N7FdKZ-DyDA4Xd_62emghpgm6YGH9JJfw9AAggMFgV5V2d4_VFo8RgxfO-NXYm5z8UgUqU7YcB7dmH7Z5-HW9oQS9Eft3q4D7NdcO-hjavP1VVnYjdA_B_N9rJb7U4eTQnnZr5t2jTDJn93sC7EY0jgK2y3CSa0tmaF7Jb2-hcUnCkubTFFLHT2Tg9lpy5JymnA-LhxMhu5irxWqCdW7BBKF5dlP9nNfxduGkiNI4UgORdM4DhFFlAgTebzNAgXOCdvQR1okadLUYhk67HA4JIxXXMHT-EVdNB6a1Xy8W0="
+    },
+    {
+      "title": "koreatimes.co.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwW8wZtdT8TAs5odZ0E653jEnaXhWmR4OoMillrGMnMJKVFDUqaOsAJYmLskY6WvX15DzckAN3HCTKG2VnVoa04jnlcP-7u6PE6eZfZ3Iuh4KuNrFxDOJtYQ7ZD7r52dzJWuWLs9kUMwWP8y7Vaa6Z0N2oJ9XFgZW_6o03OnFaadFi-0lzR-DmPTuM01JgiyMHSiFfp34-rz1RbDY0aGQw2zxTvSGed_VktTw="
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFadtC6KUXGNTTUUHJhj8SS51K6n0nKe7B_7fayjlAzSEEpzJTZRESyxgL3KfADT_hyYXAOvKYHunPmyNSk0jhnyU4CQ1MsU7Yh4e_7nH2FHVN6JZ1EmasjyJQxZAzY4COm3maRBc_hvXqIZdsvWUyAMhM6ljPHoU2mWZG0gNfwkVO01F31IehOZFk9EYURtJscdmmbcEfqnirhGaQd"
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNO2f7UeSLTVSFg914k-Ijad88s4is2iRDMfdnGMNYrWePsZVMORXzoyQNivFMErgXaH1xl8uoG2ajWImwNKwH3jli-sD3J_Md98ch1rwNS7MyJSkvLMWn9H3Ftkx2307vT5CvpjfJ6ywtF_HiYN4CslSykQRkA-tFCf6dUrKo4hZQUR_seTZg4iDw91ypPaESqes6j1kj-OHb82-x"
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWMG4gj1yQLhnTpUy0B1UCxkperbKOWez4N0zlOLsyRLEVg-BK0VX8MEZ58OJK90PBqsh6a7tv36q3qHbbWi4MjySOWP0SSQ12FlfwP9L5sNNarkimg21zjbMJDOlJITtBrR-bGUp58GQ1CBzCZAeciAfkhHclqqM="
+    },
+    {
+      "title": "visitseoul.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKp6trmCEp3rarJIir-iWv_rca7md0YvkMR4pT2gMC5ZsF0F1tKMtb4_kV1l4nsx5t2-jSZEU_w4V9LHmK64NJUHX1irzk0i0JIh5iaXyU_rMDp3J2PLBfdkj1LKiM02rmHx1nYzcjyVHVwpujA6P3B1vmkYRhKc83xl-G"
+    },
+    {
+      "title": "photofairs-shanghai.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpYvktC4Ys5S9hzm8rerkGcn3-OZ32MXNcqQIxV3WIQYX4k-5Ddy_8saJWUU1KWngK0A9ehzcLQ4f2wb6WyrA4IyEkYqWTnIDSLjUQuXrgofNyQywyzIMrGLFWP36P-NyZAhwm2g1nl9maBq-Yi3JXbw5nMJmwwg95GNFJFbESQWm4lKJ0KWEH1PagUrsZQCo3nP2n_wG0UEScIzJ_Kx3ICfgm79RuqmSIud7je0uG2D-3hD9j0ZENyLqapzHUZNV6AaDpzJ3SK627Z9ksR97ZmImbh9AtjtH_-9C_zvJ9zhs="
+    },
+    {
+      "title": "mycafe24.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzEdD9p2ULdTa2SkFy_jaul5ns773U0rcjlZmmZQGCvXLsl6xGpKGN9JIiaUXS3La_f-tXX_Loz6YzrKm0yjkimIisb6w7DH-gnu9Ot0nAJLrfrXccDuDglMnAPoinDZsJHlGi-TNIvgaPUf26Ag=="
+    },
+    {
+      "title": "worthlessstudios.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxst8CAosVop0InqGksxt2IQ4cH05QH117b_3gfGsWgvnIfc4FGnxcWZx53NJvD2GbJcPw4tzhYpAfOQ-5oC_VaVekDsvNTt9J5DC1gJKbMLDZQbtkhGGYtdU4TVIH2mjN3BncMDBrWgfRvHM="
+    },
+    {
+      "title": "fastforward.photography",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpNY8ZbYRygnNDFmQBBbTQlf6RdUJOrVAhq9Mjupb_WyE8HgBmuIuAGmBtSF-Opj0QuelHbiHK5jgZsHf1c3nUGhOoDbdob0MbeBblF_962QIH_jOVsF_rFF8DW4Hhc8iIYvnR"
+    },
+    {
+      "title": "worthlessstudios.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDlgi5ot9RonQJW0kU-ROM-5hUS6R1veXMz1JiEicS3_vkuLcUEDDXveKxHJnvX93Aqzg7GZ_iQxdV8HZEo4HQ6PIb2IpcnYuuZ52_sjydx-IBuXQOhd4Wk18="
+    },
+    {
+      "title": "studiovoltaire.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_TuI3vIn-bj-wQkTkgUjv3ln5zCbbeyjYQd20WCA-JTn6m0RJ3aj6WwKKgBPiIgaVdprZLco7hk3tvVh5Yc4aIOjhZ43q00Efaz7zn5WbwcDPvKs3TncTUo8n3Ms47LrWinoCXofn_cK8XGJ11rCNCwJID94DVHhCojhnRs5JCL55tfk="
+    },
+    {
+      "title": "worthlessstudios.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFai_0XEfYW8c1Y5XbdbhVMmIllqbi-SlF2jgSPx-HKKLq0A249LPULg0IsTBWJVF9RcRUR8NlYjwjI5hIK3dWB5vCCWsQIyG1rO7E_Sqts943nWT-7d2JAINrBZQDf1_lARUN2OScAI76HI8AYMIAk7hj3TO37UW29djs="
+    },
+    {
+      "title": "worthlessstudios.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDvfvGzPgo99E_Ragc79QTxkuwFxjT3jOJ5m-YNvMTgP9ffCqvZEGOKAa0kG4JKxcB1hg0lov0z9Ka2TrE-Rn24KgxsqiUvi75GnQNiz6PAAaJ7MS88qOxxHH2CoiALLXKL8O47USfcHYqJlw="
+    }
+  ]
+}
