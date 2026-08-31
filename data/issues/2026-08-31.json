@@ -1,0 +1,155 @@
+{
+  "date": "2026-08-31",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义视觉文化",
+    "非裔拼布艺术",
+    "音视频控制工作流",
+    "东亚青年文化",
+    "国际研究驻留"
+  ],
+  "why_today": "今天的线索在日常、物质材料和身体控制之间建立了微妙的联系。从多米尼加裔艺术家的热带编织，到美国非裔女性经历大迁徙沉淀下的拼布档案，物质不仅是实用的关护载体，更是微观抵抗的媒介。同时，开源社区对音视频生成的噪声遮罩控制、东亚青年亚文化瞬间的胶片记录，以及卡马戈基金会向定向邀约转型的最后一轮公开招募，共同揭示了创作者如何在不断变化的制度与技术框架中，牢牢把握住属于个体的身体表达和表达空间。",
+  "intro": "本期简报聚焦于身体、物质材料作为‘活体档案’的潜能，并同步跟进 AI 视频精确控制的底层演进和重要的国际学术招募变化。这些信号展现了创作者如何利用编织、摄影和开源算法，在历史、技术与日常生活的边缘地带建立起反向的书写路径。",
+  "opening_signal": "物质是保存记忆的容器，而控制则是抵抗遗忘的尺度。 / Material is the vessel of memory, and control is the measure of resisting oblivion.",
+  "closing_signal": "从手工织物的物理触感到数字噪波的算法遮罩，媒介的形式在变，但个体对身体主权和记忆归档的诉求从未改变。随着国际资助机制逐步收窄公开渠道，建立并维护属于边缘群体的微观研究网络正变得愈发紧迫。",
+  "stories": [
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "西雅图 Henry 美术馆夏季特展：Joiri Minaya 以织物与摄影去殖民“热带”刻板印象",
+      "title_en": "Joiri Minaya: To Hell with Hibiscus and Summer Exhibitions Open at the Henry Art Gallery",
+      "summary_zh": "西雅图亨利美术馆于2026年8月27日推出多米尼加裔美国艺术家 Joiri Minaya 个展《To Hell with Hibiscus》。展览通过多层织物、植物图案和其标志性的《Container》系列摄影作品，批判了将热带地理和居民简化为“异域风情”的殖民想象。美术馆同步推出群展《Day-to-Day》，展出馆藏中探讨日常劳动、日常起居和身体节奏作为微观抵抗场所的作品，并揭幕了 Tishan Hsu 的全新壁画。",
+      "summary_en": "The Henry Art Gallery opened Dominican-American artist Joiri Minaya's solo exhibition 'To Hell with Hibiscus,' which challenges colonial stereotypes of tropical geography through fabrics, botanical designs, and photography. The museum also launched the group show 'Day-to-Day' to examine daily routines and labor as sites of micro-resistance.",
+      "why_muki_cares": "艺术家将摄影、织物与特定地缘植物相结合，创造出一种关于身体和生态的“活体档案”。并行的《Day-to-Day》展览则用馆藏直接回应了日常关护与微观抵抗的女性主义学术脉络，为地缘视觉文化研究提供了极佳的策展参照。",
+      "editorial_signal": "展览将织物与摄影作为介入地缘政治叙事的媒介，展示了如何用物质材料拆解宏大叙事中的异域化视线。",
+      "theme_tags": [
+        "Joiri Minaya",
+        "Henry Art Gallery",
+        "decolonial aesthetics",
+        "vernacular photography",
+        "textile art",
+        "Day-to-Day exhibition",
+        "Tishan Hsu"
+      ],
+      "source_name": "Henry Art Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwCRTUGnOEJevg-UFzoTohIQIkMl3LKbEA2gdEPO8VnX8ad0jPpwPysSYDhrckSTO3qo7bhHZ2dcjM2t_OM0js7lL0koMTSVbgwAM_gqbxm2P1H2ZOJajcKFGwIOt1YLG_0m0ChiFgXZUmnTEpZRQzopV1rwMGvwoR",
+      "publication_date": "2026-08-27",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "女性艺术博物馆宣布《向西挺进》东海岸首展：以 80 件黑人拼布艺术重绘大迁徙中的生存与关护叙事",
+      "title_en": "National Museum of Women in the Arts Announces East Coast Debut of 'Routed West: Twentieth-Century African American Quilts in California'",
+      "summary_zh": "美国国家女性艺术博物馆宣布将于2026年9月18日举办《Routed West》特展，这是该展首次在美东亮相。展览由 BAMPFA 策划，汇集了过去120年里70多位非裔女性艺术家的80多件拼布作品。在“第二次大迁徙”背景下，这些女性利用牛仔布、工作服、烟草袋等废旧日常织物缝制拼布，将其作为御寒、文化生存、代际技术传递与祖先记忆的载体，打破了手工艺与纯艺术的传统界限。",
+      "summary_en": "The National Museum of Women in the Arts announced the East Coast debut of 'Routed West,' featuring 80 quilts by over 70 African American women artists. Created during the Great Migration using everyday textiles like denim and work clothes, these quilts served as vital mediums for survival, care, and intergenerational memory.",
+      "why_muki_cares": "拼布在此处不仅是御寒工具，更是资源匮乏和流离失所状态下非裔女性的身体历史书写。这种将日常废旧材料转化为集体关护和口头档案的实践，是一个极其典型的“反向档案”（counter-archive）范例。",
+      "editorial_signal": "手工艺被重新定义为边缘群体的历史档案，展现了女性在制度压迫下如何通过物质劳动重建社群记忆。",
+      "theme_tags": [
+        "African American quilts",
+        "NMWA",
+        "BAMPFA",
+        "Great Migration",
+        "material culture",
+        "counter-archive",
+        "care labor"
+      ],
+      "source_name": "National Museum of Women in the Arts",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtjY1ZcIsR4X_Zw8zVSIs346toSxbLK3wWMTTaqDE8vCQEhdf7cF7nuffQRQcGkR9728MlLWg6uLbQLQLUcSUr1zdiwhJ2_hTWncR9bnjInshsUzRF2FRIPMKRxxLazbgLsqqA-QOB-vdv8gKPKA-SJnlnMRsL-vAN9UG-7PI7mX_1L-KBpKyHjIQcP5y1iE=",
+      "publication_date": "2026-08-20",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 升级支持 MiniMax H3 噪声遮罩与帧锚定：开源微调与复古节点包打通音视频导演级控制",
+      "title_en": "ComfyUI Integrates MiniMax H3 Per-Token Noise Masking and Frame Guides as Local Ecosystem Matures",
+      "summary_zh": "ComfyUI 连续发布 v0.34.0 至 v0.34.2 核心版本，原生新增对 MiniMax H3 视频生成模型的深度控制。主要功能包括支持每个 Token 的音视频潜空间噪声局部遮罩，以及通过新增节点在任意帧锚定图像或音频导引。同时，开源社区发布了 `MiniMax-H3-TrainingAdapter` LoRA 微调适配器，通过将蒸馏模型临时还原为预蒸馏状态，解决了直接微调时画面退化的问题。此外，将 H3 输出转化为像素动画并桥接 Aseprite 的自定义节点也已发布。",
+      "summary_en": "ComfyUI released v0.34.0-0.34.2, introducing per-token latent noise masks and frame-anchored image/audio guides for MiniMax H3. Meanwhile, the community launched the 'MiniMax-H3-TrainingAdapter' LoRA for stable fine-tuning alongside retro-style pixel animation nodes.",
+      "why_muki_cares": "本项跟进展示了多模态音视频生成控制正从“黑盒盲盒”走向极高确定性的局部帧导演级控制。开源适配器对蒸馏模型微调难题的解决，以及像素风等小众生态节点的接入，使高精度、个性化的多模态创作流真正本地化落地。",
+      "editorial_signal": "AI 视频的控制权正在从平台的简单提示词输入，向精细化到帧、Token、噪声遮罩及本地个性化微调的专业工作流迁移。",
+      "theme_tags": [
+        "ComfyUI",
+        "MiniMax H3",
+        "latent noise masking",
+        "LoRA training",
+        "workflow automation",
+        "retro animation",
+        "creative technology"
+      ],
+      "source_name": "ComfyUI Releases on GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCPUVShFxxLawLHhe5w0FUkSo_Bid8xVAJBSSMlO_NVYOyy9yBXQEZaTAw3Y7XtMuE1tUzj5R8htj3pKjQzyMiHzseaBeiR8zk2acmiP28Eo8w8jfDnGbl1JqTgzU6oPnG2w==",
+      "publication_date": "2026-08-26",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "圣罗兰 Rive Droite 北京举办编号223个展：重温传统纸质媒介中的亲密表达与身体脆弱性",
+      "title_en": "Saint Laurent Rive Droite Beijing Presents Lin Zhipeng (No.223) Photography Exhibition Alongside Qixi Campaign",
+      "summary_zh": "圣罗兰 Rive Droite 北京于2026年8月6日至9月11日举办摄影师林志鹏（编号223）个展。该展与 YSL 2026年七夕特别企划《纸短情长》互锁。该项目由 Anthony Vaccarello 策划，平面由编号223拍摄，邀请明星演绎李小龙、李银河及现代诗人的手写情书。展览通过手写信件与编号223抓拍的胶片瞬间，探索亲密关系、身体脆弱性与废墟美学，用传统纸面媒介对抗数字速食社交。",
+      "summary_en": "Saint Laurent Rive Droite Beijing presents a solo exhibition by photographer Lin Zhipeng (No.223), interconnected with the Qixi campaign 'Love Letters, Love Matters' curated by Anthony Vaccarello. The project pairs handwritten letters by figures like Li Xiaolong and Li Yinhe with spontaneous photography to explore physical intimacy and vulnerability.",
+      "why_muki_cares": "本展呈现了顶级时尚品牌与本土边缘青年身体影像的互锁。手写信的“纸质媒介”与纪实胶片瞬间的并置，构成了对屏幕、算法介导的当代快餐式亲密关系的一次媒介考古学审视。",
+      "editorial_signal": "商业平台与前卫边缘影像的合流，以及在数字社交时代对‘手写纸张’这一触觉媒介的重温与抵抗式书写。",
+      "theme_tags": [
+        "No.223",
+        "Lin Zhipeng",
+        "Saint Laurent Rive Droite",
+        "diaspora photography",
+        "media archaeology",
+        "youth culture",
+        "body politics"
+      ],
+      "source_name": "Saint Laurent Official",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr5jnW6RfcBxlHshBHm946N5LEdQGy-KEiZGk-1lBpWkbVbXN6Myn_-U6eS749FTUIWYKcrGR1eM6nAFHWnBIrwsfk9VwsM38dzpvXMyzurvZAGvtZ3JF16ymnBZd7rh-qBOUFg2DR2wwqTNni",
+      "publication_date": "2026-08-17",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "Camargo 基金会启动 2027-2028 年度研究驻留：转向非公开定向机制前的最后一轮全球招募",
+      "title_en": "Open Call: Camargo Fellowship 2027-2028 Academic and Artistic Research Residency in France",
+      "summary_zh": "位于法国卡西斯的卡马戈基金会启动其 2027-2028 年度卡马戈奖学金（Camargo Fellowship）研究驻留申请。项目提供全额资助的 10 周海滨驻留、独立公寓、每周350欧元生活津贴及往返交通。本期计划招募14名学者与艺术家，专注于跨文化研究或跨媒介创作。特别需要关注的是，基金会宣布此轮招募将是该项目直至另行通知前的最后一次面向公众的 Open Call。自2027年7月起，该项目将转向非公开的定向提名选拔机制。截止日期为2026年10月1日。",
+      "summary_en": "The Camargo Foundation in Cassis, France, has launched the call for the 2027-2028 Camargo Fellowship, offering 10-week fully-funded residencies. Crucially, this cycle will be the final open call before the program transitions to a closed nomination-only format. Applications are open until October 1, 2026.",
+      "why_muki_cares": "这是一个含金量极高且面向多学科研究、批判性思考的国际驻留。更关键的是，其从“公开申请”到“定向提名”的机制变更，是地缘学术资助生态收紧、建制化转向的标志性信号，需要研究者和创作者立即捕捉并行动。",
+      "editorial_signal": "国际资助网络向非公开提名制的重大转向，凸显了在公开申请窗口关闭前，学术研究者抢占稀缺公共资源的迫切性。",
+      "theme_tags": [
+        "Camargo Fellowship",
+        "art residency",
+        "academic research",
+        "funding opportunity",
+        "interdisciplinary",
+        "open call",
+        "institutional critique"
+      ],
+      "source_name": "Camargo Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroeq_9LXflxijfVOl1_g4BLDBnRlee1YALDikjll-4gKS_S3LQDH8zRsmGS9PjKBCwNBbhnJocIr9T9YSuNPvvoENzSzx0MaazaoOpJ8gKdQpp7PRnWq2F1oSkRjnAyIx9HNnw_6loRz1BL8fb6HTYsVa",
+      "publication_date": "2026-08-29",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Opportunity",
+    "title": "Camargo 基金会 2027-2028 年度研究驻留：转向非公开定向机制前的最后一轮全球招募",
+    "why_muki_may_care": "卡马戈奖学金向非公开提名机制的转变，是一个对独立研究者和多学科艺术家极其关键的生态信号。全额资助且极具声誉的研究性驻留本身就极为珍贵，在机制关闭前把握这最后一次公开申请机会具有绝对的优先权。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroeq_9LXflxijfVOl1_g4BLDBnRlee1YALDikjll-4gKS_S3LQDH8zRsmGS9PjKBCwNBbhnJocIr9T9YSuNPvvoENzSzx0MaazaoOpJ8gKdQpp7PRnWq2F1oSkRjnAyIx9HNnw_6loRz1BL8fb6HTYsVa"
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Henry Art Gallery",
+    "National Museum of Women in the Arts",
+    "Comfy Org",
+    "Saint Laurent Rive Droite",
+    "Camargo Foundation"
+  ],
+  "repetition_notes": "关于 ComfyUI 新增对 MiniMax H3 支持及本地适配器开发的介绍，是对近期简报（8月13日、23日、24日等）中连续追踪的 H3 模型生态演进的纵深技术跟进（Follow-up），展现了本地开源社区在多模态生成精细化控制和微调闭环上的最新突破。其余四个信号（西雅图夏季特展、非裔女性拼布东岸展、编号223北京摄影展、以及卡马戈最后一次公开驻留招募）均为全新的展览策划、地缘艺术事件与资助招募渠道（New）。",
+  "issue_number": 49
+}

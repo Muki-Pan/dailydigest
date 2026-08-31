@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-31",
+  "model": "gemini-3.5-flash",
+  "dossier": "### Muki's Daily Digest — Research Dossier (Issue #049)\n\n以下为针对 **Muki** 核心关注领域（女性主义视觉文化、摄影/展览/摄影书、东亚地缘、档案/媒介考古、AI 与创意技术工作流）在过去 24 小时至 7 天内筛选出的 5 个强文化信号研究提案。\n\n---\n\n### Candidate 1\n\n*   **Exact Title (Chinese & English)**: \n    西雅图 Henry 美术馆夏季特展开幕：Joiri Minaya 以织物与摄影去殖民“热带”想象 / Joiri Minaya: To Hell with Hibiscus and Summer Exhibitions Open at the Henry Art Gallery\n*   **Specific Source URL**: \n    `https://henryart.org/exhibitions/joiri-minaya-to-hell-with-hibiscus`\n*   **Publication / Announcement Date**: \n    August 27, 2026 (Public Opening Date)\n*   **Verified Facts**: \n    2026年8月27日，西雅图亨利美术馆（Henry Art Gallery）举办夏季特展公众开幕式，核心展项为多米尼加裔美国艺术家 Joiri Minaya 的个展《To Hell with Hibiscus》（展期：2026年7月25日至2027年5月2日）。该展览通过多层交织的织物、植物图案和其标志性的《Container》系列收藏级艺术微喷摄影作品，挑战并批判了殖民想象中将热带地理及居民简化为“异域风情”的刻板印象。此外，美术馆同步推出了群展《Day-to-Day: Rhythm, Routine, Resistance》（2026年7月11日至2027年1月3日），以馆藏作品探讨“日常起居和身体节奏”作为微观抵抗与批判性反思的场所。外部展墙亦首次揭幕了艺术家 Tishan Hsu 的全新壁画作品《screen-skin field: Seattle》。\n*   **Relevance to Muki**: \n    完美切合“女性主义视觉文化”与“身体/日常抵抗”的学术脉络。Joiri Minaya 将摄影作为一种“活体档案”介入热带植物编织与地缘政治叙事，而并行的《Day-to-Day》群展则直接探讨了日常劳动、护理与身体 routine 如何抵抗宏大政治话语，具有极高的策展参考价值。\n*   **Proposed Section**: \n    [Visual Culture Signal]\n*   **Duplication Assessment**: \n    **New** (近 7 期简报中从未出现过亨利美术馆及 Joiri Minaya 这一组夏季特展信息)。\n\n---\n\n### Candidate 2\n\n*   **Exact Title (Chinese & English)**: \n    女性艺术博物馆宣布《向西挺进》东海岸首展：以 80 件黑人拼布艺术重绘大迁徙中的身体、生存与关护叙事 / National Museum of Women in the Arts Announces East Coast Debut of \"Routed West: Twentieth-Century African American Quilts in California\"\n*   **Specific Source URL**: \n    `https://nmwa.org/exhibitions/routed-west-twentieth-century-african-american-quilts-in-california/`\n*   **Publication / Announcement Date**: \n    August 20, 2026 (NMWA Official Press Release)\n*   **Verified Facts**: \n    美国国家女性艺术博物馆（NMWA）于 2026 年 8 月 20 日发布官方公告，宣布将于 2026 年 9 月 18 日至 2027 年 1月 17 日举办《Routed West: Twentieth-Century African American Quilts in California》特展，这是该展首次在美东地区亮相。展览由伯克利艺术博物馆和太平洋电影档案馆（BAMPFA）策划，汇集了 70 多位非洲裔女性艺术家在过去 120 年里创作的 80 多件拼布（quilt）作品。展览以 1940 年至 1970 年间的“第二次大迁徙”为背景，展示了逃离美国南方种族主义暴力的黑人女性如何将拼布作为御寒、文化生存、代际技术传递与祖先记忆的载体。拼布材料多采用牛仔布、工作服、烟草袋等废旧日常织物，打破了“手工艺”与“纯艺术”的界限。\n*   **Relevance to Muki**: \n    涉及“女性、劳动、关护、身体与物质文化档案”。拼布作为一种在资源匮乏、地缘迁徙、种族压迫环境下的集体关护（care）和口头/身体历史书写，是一个极为典型且极具力量的“反向档案”（counter-archive）实践，对物质媒介研究有极高参考价值。\n*   **Proposed Section**: \n    [Feminist Structure Signal]\n*   **Duplication Assessment**: \n    **New** (该展览在美西 BAMPFA 展出时曾作为背景提及，但本次 NMWA 的美东首展及正式通告为全新信号，无历史内容重叠)。\n\n---\n\n### Candidate 3\n\n*   **Exact Title (Chinese & English)**: \n    ComfyUI 升级支持 MiniMax H3 噪声遮罩与帧锚定：音视频精确同步控制与去 CFG 训练微调方案落地 / ComfyUI Integrates MiniMax H3 Per-Token Noise Masking and Frame Guides as Local Ecosystem Matures\n*   **Specific Source URL**: \n    `https://github.com/Comfy-Org/ComfyUI/releases`\n*   **Publication / Announcement Date**: \n    August 26, 2026 (v0.34.0/0.34.1/0.34.2 Core Releases)\n*   **Verified Facts**: \n    2026年8月26日至28日，ComfyUI 连续发布 v0.34.0、v0.34.1 与 v0.34.2 核心版本。该版本原生新增了对 MiniMax H3 多模态视频生成模型的深度控制功能，包括：1）支持每个 Token 的视频及音频潜空间噪声局部局部遮罩（per-token latent noise masks）；2）新增 `MiniMaxH3AddGuide` 节点，允许在任意帧锚定图像或音频导引。与此同时，开源微调社区于 8 月 25 日发布了由 DiffSynth Studio 开发的 `MiniMax-H3-TrainingAdapter` LoRA。该适配器通过在训练期间将 CFG-distilled DiT（蒸馏扩散 Transformer）临时拉回预蒸馏状态，解决了直接进行 LoRA 微调时极易出现的不稳定和生成质量退化问题。此外，社区亦发布了将 H3 输出直接转化为复古像素动画及 Aseprite 桥接的 `blubs-pixel-nodepack` 等自定义节点包。\n*   **Relevance to Muki**: \n    切合“AI原生创意技术流”的纵深演进。这一进展表明，开源社区对消费级显卡多模态音视频（AV）生成的控制，已经从“盲盒化生成”彻底走向了基于帧锚定、每 Token 噪声遮罩的精确导演控制阶段，且底座的定制化微调（LoRA）路径已被技术打通。\n*   **Proposed Section**: \n    [AI Research / Creative Tech Signal]\n*   **Duplication Assessment**: \n    **Follow-up** (对简报 8 月 13 日、23 日、24 日中提及的 MiniMax H3 底座及本地节点的最新底层架构升级和训练适配器演进的深度跟进，非简单重复)。\n\n---\n\n### Candidate 4\n\n*   **Exact Title (Chinese & English)**: \n    圣罗兰 Rive Droite 北京举办编号223个展：重访传统七夕媒介中的亲密、脆弱与边缘青年文化 / Saint Laurent Rive Droite Beijing Presents Lin Zhipeng (No.223) Photography Exhibition Alongside Qixi Campaign\n*   **Specific Source URL**: \n    `https://www.ysl.com/en-us/calendar`\n*   **Publication / Announcement Date**: \n    August 17, 2026 (Campaign Launch & Exhibition Announcement)\n*   **Verified Facts**: \n    圣罗兰 Rive Droite 北京（Saint Laurent Rive Droite Beijing）于 2026 年 8 月 6 日至 9 月 11 日期间举办北京摄影师林志鹏（又名“编号223”）个展。该展览与 YSL 2026年七夕特别企划项目《纸短情长》（Zhi Duan Qing Chang — Love Letters, Love Matters）深度互锁。该企划由创意总监 Anthony Vaccarello 策划，秦梓铭执导，编号223担任平面摄影，邀请宋佳、陈哲远、刘文演绎李小龙、李银河及现代诗人许悔之/徐珮芬等人的手写情书。个展在物理空间内延展了《纸短情长》对亲密关系、身体脆弱性与废墟美学的探索。在通常较为保守的地缘文化背景下，编号223一贯采用自发性瞬间捕捉青年文化的孤独、狂欢、非主流生活方式与性张力。\n*   **Relevance to Muki**: \n    切合“东亚地缘视觉文化”和“身体/平台媒介权力”。它展示了消费主义顶级奢侈品牌与本土前卫边缘身体摄影的交互，同时手写情书与瞬间胶片摄影的并置，是对现代即时通讯、算法速食社交和屏幕介导亲密关系的一次“纸质媒介”考古与反思。\n*   **Proposed Section**: \n    [China / East Asia Signal]\n*   **Duplication Assessment**: \n    **New** (未在过去 7 期简报中出现过该个展或 YSL 2026 七夕项目的报道)。\n\n---\n\n### Candidate 5\n\n*   **Exact Title (Chinese & English)**: \n    Camargo 基金会启动 2027-2028 年度研究驻留招募：面向全球创作者与学者的最后一次公开招募 / Open Call: Camargo Fellowship 2027-2028 Academic and Artistic Research Residency in France\n*   **Specific Source URL**: \n    `https://camargofoundation.org/programs/camargo-fellowship/` (Wait, the submittable and main program is managed at `https://camargofoundation.org/` / `https://camargofoundation.submittable.com/submit`)\n*   **Publication / Announcement Date**: \n    August 29, 2026 (Call details finalized & promoted internationally)\n*   **Verified Facts**: \n    位于法国卡西斯（Cassis）地中海畔的卡马戈基金会（Camargo Foundation）正式启动其旗舰项目——2027-2028年度“卡马戈奖学金”（Camargo Fellowship）的研究型驻留申请。该项目针对全球学者、思想家和艺术家提供全额资助的 10 周驻留（可申请 2027 年秋季或 2028 年春季）。资助条件包括：提供独立海景公寓、每周 350 欧元生活津贴（总计 3500 欧元），并全额承担往返交通费。**至关重要的一点是，卡马戈基金会宣布此轮公开招募将是该项目“直至另行通知前的最后一次面向公众的 Open Call”**；自 2027 年 7 月起，其选拔机制将取消公开申报，全面转向非公开的定向选拔。本期计划选拔 14 个名额（7位艺术家，7位学者与思想家）。学者组需聚焦于法国/法语文化或地中海跨文化研究；思想家组包含策展人、独立批评家、撰稿人和城市规划者；艺术家组对视觉、数字、声音及多学科艺术家开放。申请截止日期为 **2026年 10 月 1 日（欧洲中部时间 23:59）**。\n*   **Relevance to Muki**: \n    极为重磅的国际研究与创作驻留机会。卡马戈一向对多学科批判性思考（Critical Thought）、策展史书写、跨文化媒介等研究型项目给予极高的学术权重。尤其是其“最后一次面向公众公开招募”的规则变更，是学者和艺术家网络必须立即捕捉并行动的关键紧迫信号。\n*   **Proposed Section**: \n    [Archive / Long Read / Opportunity]\n*   **Duplication Assessment**: \n    **New** (未在过往任何一期简报中出现过)。",
+  "citations": [
+    {
+      "title": "henryart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwCRTUGnOEJevg-UFzoTohIQIkMl3LKbEA2gdEPO8VnX8ad0jPpwPysSYDhrckSTO3qo7bhHZ2dcjM2t_OM0js7lL0koMTSVbgwAM_gqbxm2P1H2ZOJajcKFGwIOt1YLG_0m0ChiFgXZUmnTEpZRQzopV1rwMGvwoR"
+    },
+    {
+      "title": "henryart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOYZ9-G3mQ5abWVaBp6UKb52608TvIiLrPIxok3uW-Cbvh9CFZOw_7QUKgpibYCYZR9R3H0-ksinsxuUftxyNimHtVZK6FlHtJnGWBXS-8gVm-B-YISZtrtMV9TSbuXzx0Gw=="
+    },
+    {
+      "title": "artforum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExveysziYryvWbyJKTVubbdT1ON5ac9XsMcgTINmxwKW8jSl4QIjk6AGMqDu7VqDQuugZIHmsoVfWiSrRvO-Kqk5Nh78Wi1mZrcqeHGvhxBn-0ifK9SgRfk8FFryMZoetrSnPXSC_6h0CkCCYzQbHXHtC8zrgPjzRyjKfAhHVCJsZOULYgUhFsRYJAzqQgi96eMwOXdx7ec-Mf-W9huPXDBEeAo2k="
+    },
+    {
+      "title": "henryart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZJVcmzucxIWPpnBz5xdA0Vg7X1ZCThD1UZBnYVWoJZ-KDkscSbEuCrR_yvtvE12SMSF5jCLJt6-gAd2kk7wdsxXSXTqOzfELMJSFVRWMk-7aiDJJSSQ3p-OqcxGWEbdFYMoSq3nAqPY9Jc0iDGdxuwRK-2g=="
+    },
+    {
+      "title": "nmwa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNtjY1ZcIsR4X_Zw8zVSIs346toSxbLK3wWMTTaqDE8vCQEhdf7cF7nuffQRQcGkR9728MlLWg6uLbQLQLUcSUr1zdiwhJ2_hTWncR9bnjInshsUzRF2FRIPMKRxxLazbgLsqqA-QOB-vdv8gKPKA-SJnlnMRsL-vAN9UG-7PI7mX_1L-KBpKyHjIQcP5y1iE="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfnwdf7cbkwGNHBfH8V-M00FEYPgcYzbfeS6QyesjhybpuT9IEd0bLy4Jp47psnbYuDg79ImVDGdD6EQWQqBfkOzKy-v0ylDA8zowWdaU2jy5UiLp"
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCPUVShFxxLawLHhe5w0FUkSo_Bid8xVAJBSSMlO_NVYOyy9yBXQEZaTAw3Y7XtMuE1tUzj5R8htj3pKjQzyMiHzseaBeiR8zk2acmiP28Eo8w8jfDnGbl1JqTgzU6oPnG2w=="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK1wBCBXT4FuSAmeiF1lXC5yFH1LZnQ02RBKCnN6Zrba6Gk5DLXbT8_GKR8zlrU_X2W8QcWHgN8mJQCk1htACjFgO9zONxE4Tsq8NxakFOIkVkZss3KusmojaFQ6II0vHUvXVuNg9ykUR9hv9YDZBBMtfWEtgfppY4M9i96eKN-HNwOJyrI5DRgWpz6VS-QLSupgy0TqJrSg=="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw6pEkota_x66MiQOmPi0gR6VvdNKL1UwRAWhAqWjvKZiu7CTREU1_6AoLaLfkJKLzf8mBmHYXmgA_pMf1wibQzht6DJMn6a5DLFljWg25u4zeR7wh1Z4JTxcDiUKdFIG_CstFSQE7OC6qrI_ywaiGdoSZYrrmZwkF0nE7UxYg4I_DZQSLffJkAyzr2p40NfRlauonEtTkkw=="
+    },
+    {
+      "title": "ysl.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr5jnW6RfcBxlHshBHm946N5LEdQGy-KEiZGk-1lBpWkbVbXN6Myn_-U6eS749FTUIWYKcrGR1eM6nAFHWnBIrwsfk9VwsM38dzpvXMyzurvZAGvtZ3JF16ymnBZd7rh-qBOUFg2DR2wwqTNni"
+    },
+    {
+      "title": "icco.com.au",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv3wUK3bhUKir26W3nFJIE4ZafqfySFZaa2-SDkU84KvLtIdlmqPm4Tav5J18uzoKGKBHhOitgZl4adXoX_uPyvHE33pYRNEfLRIj8-226hZ3lT-E2egn_OOY9RQF-eQXYguWdZNMVJ06skoWv50frSqnvvO1xHBFXQPik7ddDun7PsAXjEBUWJgTdcEQ9EU6chm5YsmFD-Muv-w2bTxnpaCGFZFyQKrthOqDRw-ja1DI="
+    },
+    {
+      "title": "behindtheblinds.be",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOj_1PVm_AVeybu0ofyRfU68QMfHFWiNOGtCYN29w98E7NwvSFq6xlz2z5dm8dzMKMSeDu3GssxCTiySZiLvwvcgwVcfKpKA7FH3xs-sJS6-qgAa_bq3dMgtSZ1QuiDJYBqJbXmvrIfF7Wf38JySaqTa8JVdJCHWogLOEAA1xX9w=="
+    },
+    {
+      "title": "camargofoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFroeq_9LXflxijfVOl1_g4BLDBnRlee1YALDikjll-4gKS_S3LQDH8zRsmGS9PjKBCwNBbhnJocIr9T9YSuNPvvoENzSzx0MaazaoOpJ8gKdQpp7PRnWq2F1oSkRjnAyIx9HNnw_6loRz1BL8fb6HTYsVa"
+    },
+    {
+      "title": "callforcurators.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6qB70GTGiX9q4HrZxsOpykRWaEj4_DbQfHSIR0QFG6iisyz3MzYZD7K1qQ7uZSSPoROm4JXy1Uuwx7xn2OM-lLV_z9S7sMtJ4wPgx10iu0Ot9LbLdpStggAul5ZKCMc0nTkmjtj6UZMLxneHINPfuWV09Jb00MdpSOU1-UwFkX1jWveWv8-1E9EFXjbdiz6SLW3gRhSk="
+    },
+    {
+      "title": "camargofoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG8S9oXIZZjpzcyl_w_VqXHex5sP0M2g77tCQhVGZ2gRbfpK84XmXIMim_sWo-HLvh38zVblA-6w7SrjQRIWjFiYJpDOaCqXC_IFPiReejcogGKgfl5bj9mSjqzZuBMX7NlA8fT0ZE8OMz_JnFiLHDiUNtkX_71S93zyEougudCHSKq88RaA=="
+    },
+    {
+      "title": "submittable.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiRKP2oqTE_ItpWlb-hAlReAIwvd4a4RzrJPD_waK3gWpO_O5xjQivo2a52_QC8hoVBZa9kVgq8ofEqnpYHgAvrcUQH0rQBvkqk8_WZHg3AeTkqI62cIxl2FSOmy1pfSk="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSkCD6W82uHKdvFDb8Z_8V8JVxgie3u2zpzApwcibH3rs3jPfmVSK-lRryv0Mmf7AX17ac9kbbBQ1T7o5Bu3C_Yy_qWUQxu2WnJ4Ig8C0q-ZP8qfixaRgaK6aZXp1MW2xZQSmGaj9LTlFxzv4usoWypvzIQ7baiETDkDOFQTcKW_Nl81meNgqLE3raL9hDK3Wj1FuoFwalDIcKi1NpInw7dUj4UwvbVApUCctqYIyPyyj4aAEh9IVIU647krvdkaHI"
+    },
+    {
+      "title": "iktsite.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeHG1L-NNiKxxjber_sMcQea0ljlj60E6CSZoosQq4KL4ZmbfDWwQRKpofcvf9yMx2qFzNE7TEeOZOnbk5hLDbsRosI2XlQm1EulXrYjAAREDOa9npjFw66fbS5QEkKnUT6N5HkPyC473VD3E9sNQ="
+    },
+    {
+      "title": "on-the-move.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzxAZKT_fUXgcIrwVD2ZTabF5Dsw8XYX4kEPntKxnhL9E7G-S3pt-Vo7wfHPuGRyioFBwbhHVCekRD45hg8EP2cZ8um7sVN7KuLIsbNQLYz5oRZpWRngphexM4W2ddMETVP5zrhuxKj-sUl0tHjab1RN-LjNvXXkpAvBzyXWgkvpkuejbN3owH2gP1U0r5hCP8WGUed2MH0_qFUm_UbEA="
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6JeKm0ugpY_g56ho01DBxawkvS-176--6dYVC4FQV6OUWfLi1ujbOIYYf1MmlXandCrbuLC0rDgaSzfcZkzmWyCXfuOKcaFBRafaprM_qffKuWlwnFPRH5ZY80RyHo_-bLSD50SRIF9vExaDMDfMx7tX6mJhpFIJg"
+    }
+  ]
+}
