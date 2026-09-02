@@ -1,0 +1,119 @@
+{
+  "date": "2026-09-02",
+  "model": "gemini-3.5-flash",
+  "dossier": "以下为面向 Muki 定制的第 050 期《Daily Digest》专题研究与线索论证案卷（Evidence Dossier）。本期聚焦东亚数字智能体标准落地、多维图像历史激活、母系社会视觉身体政治，以及地缘社区特定场域实践招募。\n\n---\n\n# Muki's Daily Digest (Issue 050) — Research & Evidence Dossier\n\n## 1. AI Research / Creative Tech Signal\n\n### AGNTCon & MCPCon 落地沪日：Agentic AI 与 MCP 协议全球生态向东亚快速扩张\n**AGNTCon & MCPCon Land in Shanghai and Tokyo as Agentic AI and MCP Ecosystem Expands to East Asia**\n\n* **精确源地址 (Source URL)**: `https://events.linuxfoundation.org/aaif-events/`\n* **发布与活动日期 (Event Dates)**: \n  * 上海站 (MCP Dev Summit Shanghai): 2026年9月6日 – 9月7日\n  * 东京站 (MCP Dev Summit Tokyo / AGNTCon + MCPCon Japan): 2026年9月10日 – 9月11日\n* **已验证事实 (Verified Facts)**:\n  * **发起机构**：开源智能体 AI 基金会（Agentic AI Foundation, 简称 AAIF）。该基金会由 Linux 基金会（Linux Foundation）托管，作为推动智能体开放标准与去中心化基础设施的中立平台。\n  * **核心内容**：AAIF 宣布在东亚地区举办开发者峰会与旗舰大会。上海站（与 KubeCon China、PyTorch Conference China 2026 同期共置）将于9月6日至7日进行；东京站则于9月10日至11日举行。\n  * **技术焦标**：会议将集中探讨模型上下文协议（Model Context Protocol, MCP）及各类智能体协议在工业界和开源生态中的落地，旨在统一 AI 智能体跨平台、无缝读取外部数据、工具及 API 的全球标准。\n* **英文摘要 (English Summary)**:\n  The Agentic AI Foundation (AAIF) has announced the expansion of its developer summits to East Asia, with AGNTCon and MCP Dev Summits scheduled for Shanghai (Sept 6-7) and Tokyo (Sept 10-11) in 2026. These co-located events focus on standardizing the Model Context Protocol (MCP) to enable interoperable, open-source AI agent workflows across industrial and creative ecosystems.\n* **推荐栏目 (Proposed Section)**: `AI Research / Creative Tech Signal`\n* **对 Muki 的独特价值 (Why it matters to Muki)**:\n  此信号紧密呼应 Muki 在 AI 原生工作流及智能体（Agents）领域的深耕。在此前简报（8月22日、26日、28日、29日等）中，我们连续追踪了 MCP 协议的演进以及 ComfyUI、Kling 等创意媒介工具对该底层协议的快速融合。本次官方峰会落地沪日，标志着这一协议的底层标准开始大规模在东亚实体开发者社区中生根。对 Muki 而言，这不仅是追踪底层软硬件和数据接口标准的关键切入点，更为理解“智能体如何以非私有化的开放协议调度数字资产与物理世界数据”提供了地缘比较的最新证据。\n* **重复性评估 (Duplication Assessment)**: `Follow-up`（深度跟进此前关于 MCP 协议生态的追踪，明确指出其从功能和适配器应用向标准化组织实体活动与地缘扩张的进展）。\n\n---\n\n## 2. Visual Culture Signal\n\n### 加州奥克兰博物馆举办《BeHere / 1942》特展：藤幡正树以 AR 激活二战日裔拘留历史档案\n**Masaki Fujihata Reimagines Japanese American Incarceration Archives via Augmented Reality at OMCA**\n\n* **精确源地址 (Source URL)**: `https://museumca.org/on-view/behere-1942-a-new-lens-on-the-japanese-american-incarceration/`\n* **发布与活动日期 (Event Dates)**: 2026年9月18日 – 12月27日（媒体预览与开幕庆典为9月17日）。\n* **已验证事实 (Verified Facts)**:\n  * **主办与策划机构**：奥克兰加州博物馆 (OMCA) 联合加州大学洛杉矶分校 (UCLA) 及早稻田大学的“柳井倡议” (Yanai Initiative) 共同组织。\n  * **核心人物**：世界知名媒体艺术家藤幡正树 (Masaki Fujihata)。\n  * **图像档案来源**：纪实摄影大师多萝西娅·兰格 (Dorothea Lange) 与罗塞尔·李 (Russell Lee) 在1942年为日裔美国人被强制押送拘留营前夕所拍摄的历史纪实照片。\n  * **技术与空间机制**：藤幡正树通过数码媒介手段，对档案照片进行放大、聚焦和局部重构。展览在馆内 Great Hall 呈现大型投影和由当地居民（包括日裔后代及受当今移民政策影响群体）参与的三屏录像；在馆外 Oak Street 广场上，观众可通过专属 AR 设备与生命等大的数字三维动态人像交互，这些数字化人像再现了1942年日裔排队登上巴士的物理历史现场。\n* **英文摘要 (English Summary)**:\n  The Oakland Museum of California (OMCA), in collaboration with the Yanai Initiative, will present the immersive exhibition \"BeHere / 1942: A New Lens on the Japanese American Incarceration\" from September 18 to December 27, 2026. Created by pioneering media artist Masaki Fujihata, the project uses large-scale projections and site-specific augmented reality (AR) to activate historic photographic archives by Dorothea Lange and Russell Lee.\n* **推荐栏目 (Proposed Section)**: `Visual Culture Signal`\n* **对 Muki 的独特价值 (Why it matters to Muki)**:\n  这是一个将“摄影、展览研究、图像历史与媒介考古”高度咬合的方法论案例。藤幡正树没有将历史摄影简单地视为被动凝视的“静止证据”，而是利用空间化 AR 技术和等比例身体重构，将多萝西娅·兰格笔下的黑白画面转化为物理空间中的动态身体体验。更重要的是，展览发生地 Oak Street 广场恰好与1942年日裔集结登车点隔街相望，这种“特定场域的历史回载”为 Muki 提供了关于如何打破图像边界、重审摄影师与被摄者权力关系的优秀研究参考。\n* **重复性评估 (Duplication Assessment)**: `New`（全新地缘策展实践）。\n\n---\n\n## 3. China / East Asia Signal\n\n### 三影堂北京呈现《一人一山：汪芜生摄影原作展》：巫鸿策划，重现传统山水美学与银盐工艺的融合\n**Three Shadows Beijing Presents \"A Life with the Mountain: Wang Wusheng's Vintage Photographs\" Curated by Wu Hung**\n\n* **精确源地址 (Source URL)**: `https://threeshadows.cn/exhibitions`\n* **发布与活动日期 (Event Dates)**: 2026年9月5日 – 11月8日。\n* **已验证事实 (Verified Facts)**:\n  * **核心人物**：中国黑白风光摄影重要先驱汪芜生（1945–2018）；特邀策展人巫鸿 (Wu Hung)；艺术总监荣荣。\n  * **展览内容**：这是汪芜生去世以来的首次个人原作回顾展。展览将集中呈现他创作于20世纪70至90年代的《黄山》系列黑白银盐原作。\n  * **创作脉络**：从1974年首次登临黄山开始，汪芜生一生重登黄山近百次。通过严苛的大画幅相机拍摄及暗房控制实验，他将中国传统水墨山水画的写意精神，重构为具有强硬质感与微妙灰阶的黑白纪实银盐语言，在国际摄影史上占有独特地位。\n* **英文摘要 (English Summary)**:\n  Three Shadows Photography Art Centre in Beijing will present the retrospective \"A Life with the Mountain: Wang Wusheng's Vintage Photographs\" from September 5 to November 8, 2026. Curated by Wu Hung, the exhibition showcases original gelatin silver prints from the 1970s to the 1990s, highlighting how Wang pioneered the translation of traditional Chinese ink-wash painting aesthetics into black-and-white analog darkroom processes.\n* **推荐栏目 (Proposed Section)**: `China / East Asia Signal`\n* **对 Muki 的独特价值 (Why it matters to Muki)**:\n  对于关注中国和东亚“图像历史与媒介考古”的 Muki 而言，本展是一次极佳的实体研究机会。巫鸿的学术介入和三影堂近年对其底片与文献库的系统整理，使得该展超越了传统的艺术摄影展。汪芜生对“暗房银盐物理工艺”的数十年坚守，以及如何通过技术控制将东方文人的水墨“意境”硬质化、物证化，不仅是绝佳的图像语言转译范本，也为抵抗数字化时代的视觉失焦提供了一种“慢媒介”的硬核物证支持。\n* **重复性评估 (Duplication Assessment)**: `New`（全新策划的回顾性学术个展，首次系统展示其70-90年代银盐原作）。\n\n---\n\n## 4. Feminist Structure Signal\n\n### 旧金山现代艺术博物馆举办格拉谢拉·伊图尔比德回顾展：以非奇观化镜头见证墨西哥女性与原住民仪式\n**SFMOMA Presents Graciela Iturbide's Comprehensive Retrospective \"Between Two Worlds\"**\n\n* **精确源地址 (Source URL)**: `https://www.sfmoma.org/exhibition/graciela-iturbide-between-two-worlds/`\n* **发布与活动日期 (Event Dates)**: 2026年7月11日 – 11月29日（在9月期间开展了一系列学术研讨与艺术对谈）。\n* **已验证事实 (Verified Facts)**:\n  * **主办机构**：旧金山现代艺术博物馆 (SFMOMA) 与马德里 Mapfre 基金会 (Fundación Mapfre) 联合组织。\n  * **核心内容**：该展是墨西哥著名女性摄影师格拉谢拉·伊图尔比德 (Graciela Iturbide, b. 1942) 的五十年来最全面的回顾展之一，呈现150多幅标志性黑白摄影作品。\n  * **视觉与身体线索**：展览的核心部分集中于她对墨西哥南部尤奇坦 (Juchitán) 具有强烈母系社会特质的萨波特克 (Zapotec) 女性族群的亲密接触（包含著名代表作《我们的仙人掌圣母》）。同时，特展还收录了她2008年受邀在弗里达·卡罗 (Frida Kahlo) 逝世后被封锁50年的 Casa Azul 浴室中拍下的个人遗物与医疗器械纪实档案。\n* **英文摘要 (English Summary)**:\n  SFMOMA is hosting \"Graciela Iturbide: Between Two Worlds,\" a major retrospective running through November 29, 2026. The exhibition gathers over 150 black-and-white photographs documenting Indigenous matriarchal societies in Juchitán, alongside her intimate 2008 series capturing the objects within Frida Kahlo's long-sealed bathroom at the Casa Azul.\n* **推荐栏目 (Proposed Section)**: `Feminist Structure Signal`\n* **对 Muki 的独特价值 (Why it matters to Muki)**:\n  这件案例完美切合 Muki 在“女性主义视觉文化、身体、劳作与关护政治”上的研究重点。伊图尔比德通过极致的耐心等待与去异国情调化的拍摄手法，呈现了原住民母系社会中坚韧、自信且充满神性仪式感的女性身体。她对弗里达隐秘私人空间的图像记录，更是从医疗身体（Frida 的义肢、洗眼杯等痛苦物证）的视角切入，展示了女性痛苦、创伤与私人历史是如何通过微观物证档案被重新书写与照料的。\n* **重复性评估 (Duplication Assessment)**: `New`（为全新引进的国际女性摄影大师个案与特展）。\n\n---\n\n## 5. Archive / Long Read / Opportunity\n\n### 2027 东京双年展启动“SOCIAL DIVE”全球公开招募：支持深入东京社区的特定场域艺术与策展实践\n**Open Call: Tokyo Biennale 2027 \"SOCIAL DIVE\" Residency Program for Artists and Curators**\n\n* **精确源地址 (Source URL)**: `https://tokyobiennale.jp/en/archives/news/9378/`\n* **发布与活动日期 (Event Dates)**: 招募截止日期为2026年9月30日 23:59 JST（驻留创作与成果展演将在2027年东京双年展期间进行）。\n* **已验证事实 (Verified Facts)**:\n  * **项目发起方**：东京双年展 (Tokyo Biennale) 组委会，由非营利组织运营。\n  * **年度主题**：“From 'Me' to 'Us'”（从“我”到“我们”）。\n  * **资助条款 (Support Offered)**：全额资助项目，对通过初审与终审的入选者提供：\n    * 往返东京机票（报销上限300,000日元）；\n    * 东京期间免费住宿；\n    * 项目开发费（上限200,000日元）；\n    * 艺术家/策展人酬金100,000日元（含税）；\n    * 实体物理场地的协调支持以及同声传译/翻译协助。\n  * **招募要求**：招募对特定场域（Site-specific）实践、社区合作、社会参与型艺术（Socially Engaged Art）感兴趣的全球艺术家、策展人或研究团队。申请者必须年满18岁，且需在东京11个预设的特定物理节点（包括传统神社/寺庙、地下铁车站、老式木造房屋、传统胡同、商务区等）进行驻留田野研究和基于社区共同创作的成果呈现。\n* **英文摘要 (English Summary)**:\n  The Tokyo Biennale has launched its \"SOCIAL DIVE\" Open Call for Artists and Curators for the 2027 edition, themed \"From 'Me' to 'Us'\". Selected international and domestic participants will receive round-trip travel (up to 300,000 JPY), accommodation in Tokyo, a project budget (up to 200,000 JPY), and a 100,000 JPY honorarium to carry out residency-based, site-specific research and community co-creation across designated historical and urban sites.\n* **推荐栏目 (Proposed Section)**: `Archive / Long Read / Opportunity`\n* **对 Muki 的独特价值 (Why it matters to Muki)**:\n  在“关护结构、身体与地缘政治”语境下，这是一次罕见的、支持高限度学术介入与田野研究的东亚驻留机会。与传统的美术馆“白盒子”展览不同，此项目强制性要求创作者将身体“潜入（Dive）”东京高度老龄化、绅士化或碎片化的日常街道生态，探讨个体经验（“Me”）如何向集体联结（“Us”）过渡。对 Muki 来说，这是一个极具实操性、高含金量的跨国实践申请通道。\n* **重复性评估 (Duplication Assessment)**: `New`（全新一届全球特定场域双年展研究驻留招募）。",
+  "citations": [
+    {
+      "title": "linuxfoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv9BX1mrtU1_kbJ8NtlHljOSN7n1B7xPD51xI34O-RePebbzPc3JxSd_Iiv5_3ke8Bx8cl0Vm2JmRcBMvutRtihfzKIfry6VwxloldxH6Z8kgBYfuNSF7Zv7Hslg03CWIFWKQhflgMafqo4VpTfgZX7vZ7hu29tuVauHZArA5ebxcFHkY3VbniKd1_-utJpIYxmq6CoqA6te6h1x9724RzkDiTg1mjigvjyNNFThMUHGxFgbKTpailRJdLBVV_C0Tsi04hHllGgag6SA=="
+    },
+    {
+      "title": "prnewswire.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqX-o2Vju2XpuUw-60YoA9Up8t43TzzddvpQfhvEpV1P6Vbkz_U3Q6YEudWQ25AakTPYznq0_lwgDAjHuOd0UhvdFIkK0Gn8_JGutQyEiOqg3Yi_ZnFGqP4G5C9kRsmHI88Xsk8EPFNGsu9HsyC4EquhPkDLD4lV6wgbSqyyUFpUiObcmZnNRlipjCjsq9iM3mFmu1127iCpryrmpwwp5GmKP1Sm7_UTjP0VVfApJVLxu20yx5-ZiYW9QaJqSZ4FLybkdEoFCGiJu1j93KSUaHhFUxGjoVx86MFsWIU5w="
+    },
+    {
+      "title": "aaif.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzuDsCdTMOVTk7Z8B7Vkth8PrzjHj09dTLfqNcYoJUykuDmRFcNH4sSZaCu6C8QYJ0NaLgguFgp868ZV6qlmg5ta6IFEGwe2LWQlqI"
+    },
+    {
+      "title": "linuxfoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxh3h2H6KSOjutiYeeZ-dlxqiNbhZgPwaOIgU0k9QdrCbZbUfsNAST92nBlekUrQ8X5XUl6reQfICtZkBlcvV77aW9RiFHf9dpZWMsvXXkmhRFu8xtaUZ35Q=="
+    },
+    {
+      "title": "gsa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnXDZ2YwPYp1BsvqwVqSzkasu8Xt1H45k7m8mgS6phtYO8LB8gJhXy6bTiHr9PDj7tZa10RJpMgReuPWt9I8TJCBaBqUEdZexmbhjD4NLC8vIv-6uBoQHGjh2P7vQVXsDeU9wzqw5TufGGoPhrwhlQAUWv62xOkwChQSi7aQSIfOh2GCw3yZxkM3LE-0JmvgBCixuN2MOVazafYKGYqPHJ"
+    },
+    {
+      "title": "bayarearegistry.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlVW0GcReVtWCzKzBJONy7oaa28Lch5fZhFOklOBB9zhaEmkVbQJ1qDszfL6ZEmeWGTQtH5oSP4B_jywcDf7lw6roSfrEOcOJFnaRvCS0rohbtZrj8SeIUHZZbukBCJ44ErXDUDEIwuqlmdw0QMQwrUMwUyXCF4BJaiLFnZAaIoPQktl_q3Mg0BMJw4k3fhAcZsj5cK6o="
+    },
+    {
+      "title": "museumca.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY1T5ZpFvDrx40Mn6TjzRNSD6KprkhtCvwklfsnJLqBVJ1ghjm2bt9lfrYgArrXNGmDR8Zjq9KGBX8ff7AHpQuvwlUJC0f1ngEFVYnMV9hHplnm-QT8miMHw4DEKyypP13M2jPTApqCQzoiGtDu47HzKdmND6lkdgwqWZQ10vMqh5VJB7W9OLI_LxhoNrQoe-b"
+    },
+    {
+      "title": "museumca.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpc1q23R-5ZzVYwKr3T4K5MPva1yuBNhnpxC7o7eu1XLGD26VEJ9iwgFXXcQ19MC9o4AFhW5XeOhp0IydFignD8SS8F3ZvXurZ7Q8h-KX7r39LU0hgZmIc-xlmOEfTxEQik8zAqKp35Hjb-yUNBnB83S6E2zAeI2CMjzXeX-Cl5OZhBVSikq6zQiN3Ik0uJI1wP-rlR53lwl2waLDxzmnvGye9QwPZC7wjQGO21jHd2ABjEMOR42Q="
+    },
+    {
+      "title": "dothebay.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdUjVMc-gnq_NmtQYmRgSWG9PJ0kWUBntUOmnN13IiBB1a778YK1NKgEsWFMWhDHToJwX1-uA7g2kaCcBMfwvGN4dOdmkkwBKqIHEh5hzx8UXUWZlhPIAVWwT0h3XB890nkrNLqJYlxa9slOjQSFLcbqOnSlUzQ7BTwKXLVUsGcGjyfX9SSjpIZOMjRr9RaOTW2zvHFDVvAfS585fpB2vLbicQVzBLs1nUmSgM8hEW7K5cH3-hUo0kcw3e"
+    },
+    {
+      "title": "museumca.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsUDyXKSsWlHvfc3Cb-spQLT_OqpG0Y_qZvtebrwhx_TMH4YHzWx8lWHsByYBKttDyVYFyr2mssUwYWmxz3Z33zI0K_KMeJd0j_HXaECevQdx7RCuHGMkOH0VIPcdTAAp9yqtNHoy0j5IdH6USl9lsFKhr6dna"
+    },
+    {
+      "title": "threeshadows.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG10bW1dv5etSxkjoxvvnZsy5o6yj0-BmBzKEgFyBNwSJERLL7M9QQpZw0VIX-6PRJJuXxh9kZQ5l99r-8f9HtXG_vkcmIq5DzlFPOrdKQg2BGbyX2W4xtRzOIc5MV"
+    },
+    {
+      "title": "threeshadows.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS_aZsZQa5mFRqhsgspwHP7osqkDVpJLCIGt-_NCv-ltyvThVdTC2BLtS8EMeEsoCHQRvDKk7nb6hxEeXxQtUL6l0hgc0j0ylIbfDDThKBu5DFnoDbEpTTOxj80ArK"
+    },
+    {
+      "title": "weibo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKEcXiRSKWDWMt89nMLtLKke6WdAI1UyXpmfOWrTIrnbCD8vNpiM4p8oyKCLEvHQt35FVQwNvvZhFi81XYtxgaPQKxKIKJTfOwg7FVsQleLGzveeL5cmQZRUDylm8YwnTS"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdbWMir3decbndtn49d4f27MGvbv67B880abbgldi3rCVmYXj_sxnCw6VPOJRTmAf5vioqUWFDQ8adWCmobOZYbz1_TluaqKVTW3g4kX811u7P8x0ZUlNSd3mMBVtOJHFyMoWBvhXcYQj3zE6Cfw_xSqN-Pw=="
+    },
+    {
+      "title": "bayarearegistry.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxj1BERKl68Ao2RxSbOUCfUF_XS1Or6rsz_puNIl9bvWoOUxYnGSTxR5lAEn-gubPNBEux1fb7s8u3Zl5xgYKaHoR9NBgqOivV3RCQuyThijRyM1VJHV7CZcXpYP8YaDuNITiuyshpyKq9Iwy3vT3HtjGv3_x0rccxctlS2A=="
+    },
+    {
+      "title": "sfmoma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIn0NGR6Ou7_X18dYdctYDvkdgek56_FMRt243wSN28HZmUEWLP-p3eK5vltRZ76GTe27xvdF3lhrL4TnvT29vGOlf5n13hAz-V1h_nPWiLiljICtk6Kppw9ogWZS7d-jnKMcTlU3EgDry-Q_1FKS6IbYZFiZH_lZP3URr3Q=="
+    },
+    {
+      "title": "sfmoma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsMYdCP5bB7DnG-O1rS5P4_GtLaR2wGAaEHwPINFl2xf3F_SaWRBQlYZcaD5xB79gNV3CVZ3ssd6ZF0QKYmHbgXWqBsFywoC5OhVUNYsjNaa2x-ql_bMVDIACsvpcZbl0czW_jcmfcHYP9CrafHTn-PAgwTqnLW8tXecCsxQk72zqd19CDOTiSnw=="
+    },
+    {
+      "title": "sfmoma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYgMGbEt04zbJWtwxqLv0ES5fvn0qGo7jQ_6ZgPIbDZbQV4MhBSKXRXHmYvKw00RhG8KH5So6HgniTlvi7oE6QbypW7McDX_mQ99gUUJCmN9ndX8qI8iu1smSvWvi9zWhFA2fvTUWf4nAKqK7ej7wCF7dlsnutDyqzOYW_NZ-ICXXDy6UgLfRzNrgjnEZ9sWTH6POJ09p6UcXWSAiDLJp_6vGVgkE="
+    },
+    {
+      "title": "apollo-magazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSVxmhBfVp1cPlojTir0UcbA0Ymxb4SylH1dex3nIpRzGQV4oC4X63ct1SWfJyUt6EZW0dvccLh7DRbrRsrFbqhaQyMZmcmpuBwzkNDyy7GR5-9mfB4S_EZxwpluH-WTCFoamjRdplIB6w9BAP93MyOPK67Cp8Z1N_pTAlDk5k5NvzdBUBSJcV1UDpDOgcVxFIp_-duA=="
+    },
+    {
+      "title": "sfmoma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDD2WSoGxrhlZ_CHQDzI1RdNP2BTNHX0u8DkAlBV1H0_bPZ3qJH48eFZr4VUJA8shKSYg_WjSdeauoLZv5FFZNz54Xrm9OpqTzVpIDIZS4i9-SmesB4ofbmfyH6u9E2ECc6UnyH2oeRI6mljy6eulTby-sMdqrlbP0i0vFSQ=="
+    },
+    {
+      "title": "artdoc.photo",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH1k9Dwiwuh3Prsgj2QVpUSywS0gdF4_xK1rNwdoUhoPKVfLJJJnuHSDuffeibGwfvE5nZJhHpZEfW5aO85HikQuFJigssw17tWE5jc-sdpTvzuhtZsWlpW5osQrvcWlGf0ZfzPBReemHK_DmkzGJlWFgLfdYY6vll5QopUksI3rFHfmFQ_k4d7ts0FVCCmfA="
+    },
+    {
+      "title": "artafricamagazine.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqaCX4N_-9cXyf-et-v3VCVjQSLR9pKGc0JR5yWStZYp4FSyj5l5x945t6RPgDhvBCqnT3_56eZIXCaxpR2WX68YzhopnilKvp8pK_bKWpuMtKlMH7S8fgwTA4IRoE1rU4SJaZjKiV_H14epc8LTeHz6pgMo-ySh1i_SSH59FExogNlswlCJIe6ZEy8ftPFrbM7w=="
+    },
+    {
+      "title": "biennialfoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm87DJbfpcA8UDgPLsJzm3xcrEqzCsBOjd0hlCeGdSAFMRdGGxAZcwVfm9nhRyKQ69IO7NWJijiB7NCMPalkif50FU6DMk7g3FVR5Fi7eSXKLKfMjhkg2idZTW1d0XlHCyMSnFD-N64QlF1eH9NwM5XYLthNjL"
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZp8IR8kP2jkZpaG9Cd9YLHlsDdJx6XUFfCNTRRsk-vW9bWDsEhxZ6LWkGcZm3wRBTXZsN7gN1LMLZmhN5jFHcE6IzSLNz2qFFrcPLwjlTuqKbwj5TgC0Lw-AWxwP-6BX-oiRYM4W-bvSJaw60PQr3ky_97RU1HmBFS12SMYivhh_JeAqtWw=="
+    },
+    {
+      "title": "socialdive.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTATC-Pw-4pcHuRbWHhu-DlfDBZKmNkY5G0JjFswMErK9pIUySFyyCTG0NqHNX6H32Y1pp6nVJEY7tnTdbe5l8uYctzgljkHJqjzC13N5L"
+    },
+    {
+      "title": "socialdive.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1_d7qL9D1s6H0i9cvn1jjCs6_E8hb5Gc69h23sBy8ZqzXG5sWd_MQlhWKmIocD1gRsebzTFwCm3zjwrR1Nm96DhPy6T7p_1jqMGGzFOmG"
+    },
+    {
+      "title": "iktsite.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXSUMDuytSkwpLfmLxgWZMTArEtnNMdkRjCN06-j8P-0BhcxmR5M8CranVEG9qzz16P-O6nMycV1EEmfKVLmrHxa42_9AAomMYduS21giP6vSanYHsmBEtx-3LhO2xgBwY-Ro1qQhy8I2uidR3"
+    },
+    {
+      "title": "tokyobiennale.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKsHk5qKlZkCjbXNak5kNblcuPFS-bQ1NNpEmkIQcj8rxWtZOAQ_kRq5kela7SSyXKVhZKXOv0Aoih4M2CSf_zlGn6B_BbXjq-3CsYaSp4al36qB3l5TgTXpXP_naQnjIQZKGB"
+    }
+  ]
+}
