@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-04",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "地缘政治策展",
+    "手工暗房干预",
+    "女性自我档案化",
+    "音画同步工作流",
+    "视觉反叛资助"
+  ],
+  "why_today": "今天的信号共同展现了图像如何作为一种媒介，在制度、物理材质、性别身份与算法对齐的多重边境上，进行抵抗、刺破或重组。从光州双年展因冠名引发的地缘退展，到蔡东东对银盐历史照片的肉身拉扯，再到梅丽莎以模拟胶片抵抗主流凝视的摇滚记录，这些动作都印证了图像绝非冷酷的镜像，而是一个充满拉扯的斗争场所。同时，ComfyUI 对原生音画一体化控制的探索和 PhotoVogue 对反叛镜头语言的召集，则在技术工作流和国际生态层面，为这种图像干预提供了工具和生存空间。",
+  "intro": "在今天的简报中，我们首先将视线投向光州双年展开幕前夕爆发的政治退展风波，拆解国家馆制度在东亚地缘博弈中的脆弱机制；接着聚焦北京开幕的蔡东东个展，审视手工暗房干预如何作为一种反档案方法；随后在多伦多，通过乐手梅丽莎的模拟影像展探讨女性自我历史化的肉身记录。最后，我们追踪了 Comfy 社区在 MiniMax H3 物理同步控制上的最新突破，并分享了 PhotoVogue 全额资助且即将截止的全球招募渠道。",
+  "opening_signal": "图像不是世界的镜子，而是拉扯与博弈留下的物质痕迹。",
+  "closing_signal": "当物理底片的撕裂与算法生成中的原生音律在同一天发生，我们意识到，媒介的‘真’与‘伪’、‘记录’与‘干预’已经不再是二元对立，而成了创作者手中不同材质、不同精度的控制工具。图像考古学不仅关乎过去，更决定了我们如何显影现在。",
+  "stories": [
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "光州双年展开幕：因“台湾馆”冠名争议，中国策展与艺术家团队全面宣布退展抵制",
+      "title_en": "Ho Tzu Nyen’s Gwangju Biennale Opens Amid Controversy as Chinese Artists Withdraw Over 'Taiwan Pavilion' Naming Dispute",
+      "summary_zh": "第16届光州双年展于2026年9月4日开幕，由何子彦担任艺术总监。然而在开幕前夕，由于双年展官方恢复了台湾参展团队使用“台湾馆”的冠名，中国策展团队（由中国美术学院等机构策划，包含18位艺术家、主题为“铁丝绸之路”的中国展区）在光州召开新闻发布会，宣布全体退出本届双年展。此风波源于今年6月官方因政治审查压力将台湾馆改名，在引发台湾抗议后，官方于8月25日恢复冠名，最终导致中方团队退展，暴露出双年展国家馆系统在地缘政治中的脆弱性。",
+      "summary_en": "The 16th Gwangju Biennale opened under artistic director Ho Tzu Nyen, but faced a major diplomatic dispute as the Chinese curatorial team and 18 artists announced a total withdrawal. The boycott was sparked by the biennale's decision to reinstate the 'Taiwan Pavilion' name, showcasing the geopolitical vulnerabilities of the traditional national pavilion system.",
+      "why_muki_cares": "这起风波是观察东亚图像地缘政治与艺术体制权力的关键切片。它揭示了“国家馆”这一威尼斯双年展延续至今的策展机制，在面对具体地缘冲突时如何成为外交角力的物质化边境，对追踪东亚媒介权力结构极具档案价值。",
+      "editorial_signal": "国家馆策展机制在地缘政治博弈中的物质化边界与体制局限。",
+      "theme_tags": [
+        "Gwangju Biennale",
+        "Ho Tzu Nyen",
+        "Taiwan Pavilion",
+        "geopolitics",
+        "institutional critique",
+        "East Asia",
+        "Youn Bummo",
+        "national pavilion"
+      ],
+      "source_name": "The Straits Times",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUfwIfGGJRMe27a_DvM7_C8hxAlf2ZTmUUdvvNKS0HJ3QPeY0hd9O7lHwauvgE-Ttl1YlNtoTq4gAYzSunIJVRMAgRn6tJbSjZTzOQNTwxtyIlIVed24MxvQSEXi5qV2AN3a8n06l2yY87cxM11Y_rnZQp9f7t4b21dlkcZmlj-p3OZWSFRnOMsaNG9ZNte5l_UUtcoPGQ-hqiXQ==",
+      "publication_date": "2026-09-04",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "蔡东东个展“时间山”北京开幕：以手工暗房与材质干预拆解僵化的图像历史",
+      "title_en": "Cai Dongdong: Mount of Time at Galerie Urs Meile Beijing",
+      "summary_zh": "艺术家蔡东东的个展“时间山”在麦勒画廊北京空间开幕。蔡东东至今坚持使用胶片并在暗房中手工完成所有银盐照片的洗印。本次展览展出了他近年的最新实践。他通过对银盐相片进行曝光控制、手工拼贴、刻意遮挡、物质树木嫁接和重新排序，将摄影媒介延伸至绘画、雕塑和空间装置，通过物质性的身体干预剥离并刺破僵化的历史图像，显影出隐藏在图像背后的身体、家庭与劳动结构。",
+      "summary_en": "Galerie Urs Meile Beijing presents 'Mount of Time,' a solo exhibition by Cai Dongdong. Utilizing darkroom processes and physical interventions—such as collage, physical grafting, and re-sequencing on silver gelatin prints—the artist transforms flat photographs into sculptural installations that deconstruct historical imagery.",
+      "why_muki_cares": "蔡东东的手工暗房干预提供了一个图像考古学和“反档案”实践的案例。他打破了摄影作为客观记录的属性，通过拉扯和撕裂等物质性手段重组图像历史，其实践方法非常适合摄影媒介与物质性研究者借鉴。",
+      "editorial_signal": "传统银盐暗房的物理性干预作为一种“反档案”的图像考古学方法。",
+      "theme_tags": [
+        "Cai Dongdong",
+        "Galerie Urs Meile",
+        "silver gelatin print",
+        "darkroom process",
+        "material culture",
+        "media archaeology",
+        "counter-archive",
+        "contemporary photography"
+      ],
+      "source_name": "Galerie Urs Meile",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAmoObxlgRqdQm9xr_xTkq1LRcOqo7L71W9lUVYn8sQQ_wrwNshowFcNwHSMu_Xw64m5diJgVPWME-dgE-cOEZN8b_CpC4wvH6ScDBK6FCmz1Hs4T7JOILWFID0PjF57WJL8s4NtZXvjJCe4om4XwQnoXWGWjA",
+      "publication_date": "2026-08-29",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "摇滚乐手梅丽莎个展“我的九十年代摇滚影像”：以非数字化镜头记录女性身体档案",
+      "title_en": "Raw and Contemplative, Melissa Auf der Maur: My '90s Rock Photographs Opens at the Art Gallery of Ontario",
+      "summary_zh": "著名加拿大音乐家梅丽莎·奥夫·德·莫尔的摄影世界首展《我的九十年代摇滚影像》在安大略美术馆开幕。展览从梅丽莎个人珍藏的万余张胶片、Polaroid 和 Lo-Fi 录像等非数字化个人档案中，精选出200余幅原作与文献。这些影像记录了她在智能手机普及前，作为 Hole 和 The Smashing Pumpkins 乐手在巡演途中、后台和镜前留下的自我凝视与女性乐手群像，展现了前数字时代的粗糙手工质感。",
+      "summary_en": "The Art Gallery of Ontario presents the world-first photography exhibition of musician Melissa Auf der Maur. Curated from over 10,000 analog photos and Polaroids taken during her tours with Hole and The Smashing Pumpkins, the exhibition offers a rare, non-digitized female gaze into the 1990s rock scene.",
+      "why_muki_cares": "这是一个典型的女性身体在男性主导的工业体系中进行“自我档案化”的文本。她不以消费主义视角审视身体，而是用一种粗糙、即时的模拟媒介影像建构了私人反档案，深度呼应了关于身体、媒介权力与模拟媒介档案的研究。",
+      "editorial_signal": "模拟时代女性创作者的自我档案化实践与对主流媒介凝视的抵抗。",
+      "theme_tags": [
+        "Melissa Auf der Maur",
+        "Art Gallery of Ontario",
+        "analog photography",
+        "Polaroid",
+        "vernacular photography",
+        "female gaze",
+        "body politics",
+        "counter-archive"
+      ],
+      "source_name": "Art Gallery of Ontario",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgSaQ0KVf5wTIitUtrBvn9GixSQ8q21Go8kpCKMhGNHz3kHA5vN05i6mxiUzGSTjeNqWgILvkRmutzF5Nggpbj3XqqhKT-_E4-n0aXu9tDatkTWZyERF9VtaH-2G4pVnpOqQXipHDZkI2N7fz5hWB0d2noP_NSl9rbYYbR",
+      "publication_date": "2026-09-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 公布 H3 音画同步挑战赛结果：单次推理与原生多模态重塑 AI 电影流",
+      "title_en": "Comfy Org Announces Winners of Comfy H3 Sync Sound Challenge Promoting Native Audio-Visual Workflows",
+      "summary_zh": "Comfy Org 官方公布了“Comfy × MiniMax H3 音画同步挑战赛”获奖名单。本次赛事要求极其严苛：创作者必须在 ComfyUI 本地或云端环境中使用开源权重的 MiniMax H3 原生模型，使生成的视频画面与其中的声音（如脚步、拍手或人声）出自“同一次模型生成生成流”（single-pass generation），严禁后期配音缝合。赛事展示了多项创新的工作流，体现了 AI 视频从“无声生成+后期拼接”向原生音画一体的跃迁。",
+      "summary_en": "Comfy Org announced the winners of the Comfy H3 Sync Sound Challenge. Contestants were required to generate synchronized video and audio—such as footsteps or speech—in a single-pass inference using the open-weight MiniMax H3 model within ComfyUI, demonstrating a shift toward native audio-visual alignment.",
+      "why_muki_cares": "这项技术演进直接提升了创作者对物理动作与声学空间的控制精度。原生音画同步工作流降低了独立女性及技术边缘团队在多模态后期制作中的劳动成本，是从实验性生成走向实际视听生产的重要节点。",
+      "editorial_signal": "从后期音效拼接转向原生多模态一次性推理的电影制作工作流变革。",
+      "theme_tags": [
+        "ComfyUI",
+        "MiniMax H3",
+        "audio-visual alignment",
+        "workflow automation",
+        "multimodal AI",
+        "creative technology",
+        "generative video",
+        "sound synthesis"
+      ],
+      "source_name": "Comfy Org",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoMC4KiW3blaVIszKuKP62MjwT5ezmNmjOHPM-d1dhQFL1kCdEOiDXnXccTMSKk-dLqlrFh8gcKoBN3PI5NrLDZWoAvNjihqDCN_RtVGE2mbaHLDhXzabMLsouwHbIg6yzl8QbVQA8QeyHov4ZJFtb",
+      "publication_date": "2026-09-03",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "PhotoVogue 2026 全球招募“勇敢新愿景：作为反叛的创意”：面向摄影与摄像创作者",
+      "title_en": "PhotoVogue Global Open Call 2026 Opens for \"Brave New Visions: Creativity as Rebellion\"",
+      "summary_zh": "康泰纳仕旗下的全球摄影平台 PhotoVogue 正在进行 2026 年度全球公开招募，主题为“勇敢新愿景：作为反叛的创意”。本次招募面向全球 18 岁以上摄影师与视频创作者，免费申报，截止日期为2026年9月11日。招募寻找那些抗拒文化冷漠、以原创镜头语言回应社会与政治现实的作品（不接受 AI 生成作品）。评委会将授予三位获奖者共计 12,000 美元的无限制资金资助与米兰摄影节展出机会。",
+      "summary_en": "PhotoVogue has launched its 2026 Global Open Call under the theme \"Brave New Visions: Creativity as Rebellion.\" Open to photographers and videographers worldwide (excluding AI-generated works) until September 11, the call awards up to $12,000 in grants and solo/group exhibitions at the PhotoVogue Festival in Milan.",
+      "why_muki_cares": "PhotoVogue 是当前全球视觉文化与非奇观叙事的重要风向标。本届招募将创意定义为一种对政治冷漠的“反叛”，高度契合视觉抵抗、身体政治和非对称叙事，是一个高水准且完全免费的国际策展与资助机会。",
+      "editorial_signal": "国际顶级摄影平台通过无限制资金和策展支持抗拒冷漠的视觉抵抗。",
+      "theme_tags": [
+        "PhotoVogue",
+        "open call",
+        "funding opportunity",
+        "documentary photography",
+        "visual culture",
+        "Condé Nast",
+        "exhibition grant",
+        "Brave New Visions"
+      ],
+      "source_name": "Picter",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-hTVS-V9q1r1IMKKQF72mxhByXQEkPzcSJEGVoYCEySzbf-n5GloXQ6NGfFc0PH2ydfkaUm6XhOarM8Q_EJwdhEWOyMPSnJULgx3NyzlihZkkjXrmZrdLNW7eqx13Dm_zidcqcXaYcyWB9WLZM9YfxpLlS_heoBh1FnmpuO0OKQ==",
+      "publication_date": "2026-05-14",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition / Feminist Archive",
+    "title": "摇滚乐手梅丽莎个展“我的九十年代摇滚影像”：以非数字化镜头记录女性身体档案",
+    "why_muki_may_care": "它展示了女性在男性统治的硬核行业中，通过手持相机和个人胶片库进行“自我历史化”的过程。这种不完美、带物理损伤的图像，构成了极佳的私人反档案研究。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgSaQ0KVf5wTIitUtrBvn9GixSQ8q21Go8kpCKMhGNHz3kHA5vN05i6mxiUzGSTjeNqWgILvkRmutzF5Nggpbj3XqqhKT-_E4-n0aXu9tDatkTWZyERF9VtaH-2G4pVnpOqQXipHDZkI2N7fz5hWB0d2noP_NSl9rbYYbR"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "多模态生成模型的微小版本迭代",
+    "一般性画廊代理公告"
+  ],
+  "covered_entities": [
+    "Gwangju Biennale",
+    "Galerie Urs Meile",
+    "Art Gallery of Ontario",
+    "Comfy Org",
+    "Condé Nast",
+    "PhotoVogue"
+  ],
+  "repetition_notes": "关于 ComfyUI 音画同步挑战赛结果的介绍，是对 8 月 27 日、31 日简报中 MiniMax H3 噪声遮罩与底座演进的深度工作流实践跟进（Follow-up），指出了原生音画同步技术在实际工作流中的闭环可能。其余四个信号（包括光州双年展退展争议、蔡东东麦勒画廊暗房干预展、梅丽莎九十年代模拟影像展，以及 PhotoVogue 2026 年度全球招募）均为全新的展览策划、地缘艺术冲突与资助招募项目（New）。",
+  "issue_number": 52
+}
