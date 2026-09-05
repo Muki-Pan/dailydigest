@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-05",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Research Stage Evidence Dossier for Daily Digest (Issue #053)\n\nThis dossier compiles the five strongest, most relevant cultural signals retrieved from primary sources for Muki's research profile, categorized across the five editorial entry points.\n\n---\n\n### 1. Feminist Structure Signal\n\n*   **Exact Title**: *Taking Back Our Space: Photographic Perspectives* at MoMA\n*   **Specific Source URL**: [https://press.moma.org/exhibitions/taking-back-our-space/](https://press.moma.org/exhibitions/taking-back-our-space/) (Secondary calendar URL: [https://www.moma.org/calendar/exhibitions/5674](https://www.moma.org/calendar/exhibitions/5674))\n*   **Publication / Announcement Date**: Announced May 27, 2026 (The exhibition is on view from September 20, 2026, to May 2, 2027)\n*   **Verified Facts**:\n    *   **Exhibition Details**: The Museum of Modern Art (MoMA) is launching a major photography exhibition, *Taking Back Our Space: Photographic Perspectives*, in the second-floor Paul J. Sachs Galleries. \n    *   **Core Archive**: The exhibition centers on West German artist Marianne Wex's (1937–2020) monumental 1977 feminist photographic project, *Let’s Take Back Our Space: \"Female\" and \"Male\" Body Language as a Result of Patriarchal Structures*. Wex covertly photographed gendered body postures in Hamburg from 1972 to 1977, supplementing them with rephotographed media and art history sources. She sorted these into taxonomic categories (e.g., \"standing arms,\" \"sitting legs,\" \"possessive holds\") mounted across 277 boards. MoMA acquired this entire work in 2018.\n    *   **Contemporary Dialogue**: This historical archive is brought into dialogue with works by seven contemporary artists: Nona Faustine, Martine Gutierrez, K8 Hardy, Yuki Kihara, Joiri Minaya, Paulina Olowska, and Wendy Red Star. Each contemporary piece is on view at MoMA for the first time.\n    *   **Curators**: Organized by Roxana Marcoci (Acting Chief Curator of Photography) and Caitlin Ryan (Assistant Curator, Department of Photography).\n*   **Relevance to Muki**: Directly intersects with Muki’s interest in feminist visual culture, photographic archives, body politics, and spatial reclamation. It offers a prime methodology of using visual taxonomies as a tool for feminist critique and shows how historical counter-archives can be re-activated in conversation with intersectional and queer contemporary artists.\n*   **Proposed Section**: Feminist Structure Signal\n*   **Duplication Assessment**: **New**. Marianne Wex's project and this specific MoMA exhibition have not been covered in any of the previous seven issues.\n\n---\n\n### 2. Visual Culture Signal\n\n*   **Exact Title**: *Thomas Sauvin - Beijing Silvermine: Archive Anthology* at Fotografiska Shanghai\n*   **Specific Source URL**: [https://www.fotografiska.com/shanghai/en/exhibitions/beijing-silvermine/](https://www.fotografiska.com/shanghai/en/exhibitions/beijing-silvermine/)\n*   **Publication / Announcement Date**: Exhibition runs from June 19 to October 18, 2026\n*   **Verified Facts**:\n    *   **Exhibition Scope**: The exhibition brings together over 1,500 photographs, artist books, objects, installations, and collaborative works.\n    *   **The Archive**: The exhibition showcases the fifteen-year trajectory of the *Beijing Silvermine* project by French artist and archivist Thomas Sauvin (b. 1983). The project started in 2009 by reclaiming 35mm film negatives by the kilogram from a recycling plant on the outskirts of Beijing, where they were slated to be melted down to extract silver nitrate. The archive contains over one million anonymous snapshots capturing ordinary Chinese life, family gatherings, social rituals, and material culture during the Reform and Opening-up era up to the early 2000s (1985–2005).\n    *   **Curation**: Organized by guest curator Holly Roussell.\n*   **Relevance to Muki**: A textbook case of media archaeology, vernacular photography archives, and visual culture of China/East Asia. It highlights how discarded analog media can be reconstructed into a massive collective memory database, illustrating the material culture transitions of East Asian households prior to digitalization.\n*   **Proposed Section**: Visual Culture Signal\n*   **Duplication Assessment**: **New**. The *Beijing Silvermine* archive and this Fotografiska retrospective have not appeared in any recent issues.\n\n---\n\n### 3. China / East Asia Signal\n\n*   **Exact Title**: Kan Xuan's solo exhibition *A Slope by the Sea* (海边斜坡) at Galleria Continua Beijing\n*   **Specific Source URL**: [https://www.galleriacontinua.com/exhibitions/a-slope-by-the-sea-beijing-kan-xuan-1416](https://www.galleriacontinua.com/exhibitions/a-slope-by-the-sea-beijing-kan-xuan-1416)\n*   **Publication / Announcement Date**: Opened on September 1, 2026\n*   **Verified Facts**:\n    *   **Exhibition Content**: The exhibition centers on two major new video installations by Chinese artist Kan Xuan (b. 1972): *A Slope by the Sea* (focused on China's river estuaries) and *Announcing Stations* (documenting the stations and towns along the Chinese Eastern Railway in Northeast China), both shot between 2020 and 2025.\n    *   **Aesthetic & Form**: Alongside these installations, a selection of her recent and past short videos and sound pieces are displayed. The works emphasize repetitive imagery rhythms, a slow mode of viewing, and the extreme materiality of topographies to resist grand ecological or cultural narratives, exploring the relation between individual subjectivity and the historical landscapes of East Asia.\n*   **Relevance to Muki**: Direct Chinese contemporary art signal. It highlights a long-term artistic research methodology (5 years of field documentation) that maps the geographic and infrastructural histories (the Chinese Eastern Railway) of Northeast China. It addresses the friction between personal tempo and accelerated contemporary media.\n*   **Proposed Section**: China / East Asia Signal\n*   **Duplication Assessment**: **New**. Kan Xuan and this Galleria Continua exhibition have not been covered in any of the previous seven issues.\n\n---\n\n### 4. AI Research / Creative Tech Signal\n\n*   **Exact Title**: *Meta Muse Image Comes to ComfyUI as Official API Nodes*\n*   **Specific Source URL**: [https://www.comfyui-wiki.com/news/meta-muse-image-comes-to-comfyui-as-official-api-nodes](https://www.comfyui-wiki.com/news/meta-muse-image-comes-to-comfyui-as-official-api-nodes) (Backup: [https://comfyui-wiki.com/news/meta-muse-image-comes-to-comfyui-as-official-api-nodes](https://comfyui-wiki.com/news/meta-muse-image-comes-to-comfyui-as-official-api-nodes))\n*   **Publication / Announcement Date**: September 4–5, 2026\n*   **Verified Facts**:\n    *   **What**: ComfyUI has added two official partner API nodes for Meta's flagship image-generation model, Muse Image (built by Meta Superintelligence Labs, originally launched on July 7, 2026).\n    *   **Technical Integration**: The two nodes are `Meta Muse Image Text to Image` and `Meta Muse Image Edit`. It utilizes Meta's newly released Model API ($0.01 per image). \n    *   **Key Capabilities**: Muse Image operates as an agentic system (incorporating planning, code generation, and iterative self-refinement). Crucially, the `Meta Muse Image Edit` node supports multi-reference compositions guided by **up to 10 input images** (the largest multi-reference capacity of any image-editing node in ComfyUI) along with 14 aspect ratios and reasoning strength controls.\n*   **Relevance to Muki**: This is a major workflow-native update that materially changes professional AI image production. It marks the transition of Meta's most advanced image-editing model out of consumer social media walled gardens (Instagram, WhatsApp) into the modular, professional ComfyUI canvas. The 10-image multi-reference editing capability provides precise visual styling and compositional control.\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Duplication Assessment**: **New Model / Integration**. While ComfyUI updates are tracked regularly, the official integration of Meta's Muse Image and its 10-image multi-reference editing capability is a brand new workflow advancement.\n\n---\n\n### 5. Archive / Long Read / Opportunity\n\n*   **Exact Title**: Open Call: *Cite the past, sight the stars* — The Photographers' Gallery Residency\n*   **Specific Source URL**: [https://thephotographersgallery.org.uk/get-involved/open-call-cite-past-sight-stars](https://thephotographersgallery.org.uk/get-involved/open-call-cite-past-sight-stars) (Award entry details: [https://phmuseum.com/awards/cite-the-past-sight-the-stars-wigwell-lodge-residency](https://phmuseum.com/awards/cite-the-past-sight-the-stars-wigwell-lodge-residency))\n*   **Application Window / Deadline**: Open July 20, 2026 – September 6, 2026\n*   **Verified Facts**:\n    *   **Residency Details**: The Photographers' Gallery (London), in partnership with The Ampersand Foundation, has opened a residency at Wigwell Lodge in Derbyshire, UK, taking place from February 2 to March 31, 2027.\n    *   **Focus**: Designed for UK-based individual artists working with expanded photography and digital practices. Set in the context of photography’s 200th anniversary, it encourages research and speculative projects.\n    *   **Themes**: Research topics include: image-making, celestial fictions, institutional archives, deep time, collective knowledge, and photography's relationship to computational culture/AI world models.\n    *   **Artist Benefits**: Offers 2 months' accommodation and studio space, a £1,000 monthly stipend, £1,000 production budget, up to £500 travel allowance, curatorial/administrative support from the Gallery, and a public showcase/presentation.\n    *   **Selection Panel**: Includes Sam Mercer, Michelle Henning, Milia Xin Bi (毕昕), and Sarah Cook.\n*   **Relevance to Muki**: This residency is an outstanding funding and space opportunity directly centered on expanded and computational photography, digital archives, and media archaeology. The inclusion of themes like Aby Warburg's *Mnemosyne Atlas*, AI world models, and network-centric imagery directly mirrors Muki's research vectors.\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Duplication Assessment**: **New**. This residency open call has not been featured in previous issues.",
+  "citations": [
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhCocpkyqfrnbkXGkMUL0yC2YktHvOpGP91ZxEobwKsSMdseFSXe467lS3x590Vfy5CW82h4izSqWVTa3-TA_f217m2xs-7XFjjxyY1L5HEWvq9qfrloUvocj1X5U_mgbYol3Ejq0eUDflFpTsRaVNjk7UmfpQBcm9Hu9n9g2o96ZogDWcvOmM"
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqy4z96j8L5AeJDZBcGDXR1L47XHU3MCnefp8z6da8ZBfbmKhyOtzFQFH32f_sJxLqwbqO2sc5F8_sy3uNMAUWHDcokYWs6AHLVswQY5ccXcRiR3Td7WMwXSIFZ1uNZzqRxXg="
+    },
+    {
+      "title": "artbook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUtNcoUMRDXbLEZwrBVmFQw84FyJXmAna2kjmpJczaU4bfcT82aSf0GBn5lN0S3NlbyuB9yyu5iNT3nrO02wa5qQHCwX27SyZaBGvQAchwuMIexEUs5FiIlTjJrFwS5gQ="
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3hApUGMkQ7nCJXtonCTjkZgWMfU_SaeRdCt9rLodZ-_RFffoUeq5Vc_wCWxOuGg89EgPHWzsqcpz0Y2Bzsx1EcyonKeI8J90Gs8qu9kCLI_CugCiBmLmn2NFapbJWhctqkbUG"
+    },
+    {
+      "title": "artealdia.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU5aGk51z4wOHPcwp_8AKhf2eC0uCU6VVb_pwsLWWNDSisirnl9CIylzzp9P1SDAfltU6DD2sd9ySi2nx8RSLLhdltSAAYYqd2zDSiZGVjr5Ho5s5PUC-ozFVunHdZV1JzPPSjcXE0EKIlcMzq0kz0Ew5SS98ECBlgK5RFwq7FwfJs_yb5Q91gTtSiOLm21f2qR_NCeQ=="
+    },
+    {
+      "title": "fotografiska.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZcwyiYi7vCOm5fvvexZkFyUxjtEwOEPOQASoNlIrzD05FKsSyiI7s2wg6z423TcNDr2Fl1b5d3cOVsedM-9A-43DDrKajPcJQpHt5ahPYU8dMBtguAqWaniV3Jyn7UE0GJMWGvVmVwhu3FMGTyGIh-XjCLQ=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz27I2KzYfdafz2a0mn-mcEsuCQToBZldxZ8Vu5Hhz0Ygq7iLiHM3H02scctxMFlkGnzK4yowhuYKo4A7qBPh0tXS3Wy_Wa1emYyWcycQfddaO6akPnfavEW3GSVxaANLgVAg3u0ezQzvKJplkrSlEDvIB8udg6dPXadR0NQ9RrYFlZg8-HrVGK0AGWF8s1ppKbLM8kEJdfdTUek8pqCvc73bPqrB3Us3ZK5-NUbsbnb8WiPDjB8trsW-l04cst1seNcV6xq2w"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6mWIjOCqjCVI1XezQN0J9PDnDXxQJ0n_M9iv8q3rVxZQYiMGD_EZE-2TVqiCaXhBfQh7A42hbWT4Z6au0PCrYSDAbTuG9v-_8gPMGztiOPma7-8axlvratMF2xCGAO-BKTZgEgS2Si2dIv-F028fNOI4tCC-vWpr9FboGOV2IrIcncFJQZzgBoqFw5NVM6E4PwZtkqpaMuo6bEP14PEmcmXLPftX8nwe3VxlF8RPnigHLJjCPaVAjmLeZGslkWZmrhwbF"
+    },
+    {
+      "title": "galleriacontinua.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgADNvsEkjsIZklfQKL4qoEY0aVdG56VCOZcWYD9yC8ErN5GDsgEiU_NeQdLWj-g4XHQdcls2DJZHvjKJUwgINSNGhL56IdAagDBZxZyZjbgL6myL4KKK8fafoTxARwuDRfmP1m2VbscfuZi5iRRwkdfzE4DkGdJ3l"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeHadPC_Ea2EdNM6cDDFfbyUNDH2Ds3IN38SJvlPYODubBPzqyw1Sj9KgKJY8irBPI8xjC5Aap_dDRj4RYeH_zHWKG6Ij7DpMsv0uEaUvBaztT1C0DYTZ2d46MsQ44NQa74jOKvXq-hlEGPGkc7hi7bINbXfa1t4-pbinq-gDjRHpbPVkAvW9rlUJdAFGV9AjpTuKuNeMDBw6iAOvTnk1U481UQxnOZJw7_zxdEkwSYSkY2pgnU2Cn0Od1v04DzM5gBQThcr3GYJU="
+    },
+    {
+      "title": "galleriacontinua.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkP1z_nXPlKky3Pw4erobP_HCve3FMEVD1v6tU9MDUsnbiRIt9-sUsIbNjIkGmN-5MCRQikto4ScnBY-b59w7IpC0OdvKida5E_BLLKlrUYR9gxoI1vaLCeB_l3-kRg9NNtlg2dSG04RtI"
+    },
+    {
+      "title": "lulop.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3juV4Fwp3uVlH8tI1BdmPO-FQ83YajXCv0TaGdNdydr2gEJJb_lfK3FmTLnhDyIMEA-1XILQMR8C51INdj7Bhs3qo-Afs0ps2XscxRwpxQxJIBe-JrP3VYyKGaexj_IRoK4lHm-sFa7d5CtISvNhp4gA-RmAoaZmFunoccXaMAZpq"
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN-mAuSh1C8wCiDMrYFTbNS2MGvCmN-pEYDKng2aGJxwPW2bjFUL2b_tR8ErUO1kar2bQLH3Qj9Uq6a2pq8q9hT1ErWQlJEz_XVyFfRe16iA80DuGiu6odJd48jzX7Fp97OAWkl9xF7v4BGauW5bms6LfJHKz_fffI"
+    },
+    {
+      "title": "fb.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJG66MbsaRuqFoqbVSQm9PFrhHHHP5I9a9RLZ8G0qd2m_35TDk10h8UFWnlqHVOHp5ZRoryPj5QbUbFt9Nc1rpfYr4kRItCmXQ_dwSze5RmZ6yD72vzFEYHTKayDd3eG0ccKq3b4G5LdrlVt3HEGccaJrlCf0N1g=="
+    },
+    {
+      "title": "thursdai.news",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5X2dt5HJGTycxL-GPf2YMoHG4bbIRqmRusIW-IUuEwTMqut4vq9vf_ioOfu601SZogeovSTCjI081qAD6Lh5nVsZNHXsklxPymUMxTRs154XKht3LKnmRWvoqAw=="
+    },
+    {
+      "title": "meta.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH__3QFZo3eFepvlCGIH48tSypahb2zHfmh2HqNE881aM7YcsWMRYk0huKIMsKnpbmQKQznoZPdctVpAniLjIJD4zheOXucV_UYTzMQdTw0eaQ1P50x_IfBJ94MIbNP6MjMTDbz1ci1ThZ16wFK8HDIJ03jtM="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8RH18m2RuZSJqoG7kUUnMOcPNqqJZ2obVARHf3Y7Xy3sRC1nzEaxmFz_SLSf9zwBiPSLZ7AEwELD0LTUlbkusLl4l2tnzeV2hYEhv2PnEJ0-mtw70otOu0WnmOCtuVr6sUPZ5x9kgr2nm618="
+    },
+    {
+      "title": "thephotographersgallery.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTooOrevu8dJnxQaoaIRrPAXEFjSqWoby1lAgTf1DKu64JIPIE_4YFTdLCBfa97g6AmfinOSc1ltbybLE4bEK8RHigQDjUyp8dt6lAvXzFSNAHIl6jvQZvLBwosYDcnKK1piEjDN3bVnF_f5zQDGHEvSAdWtxml4QUXxdslxGu19YJQUWd"
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh9w8cUe8lYqnSYTeBRmpIS9P3cDEdCfFFMD1tcpl6YaBIBJCzqRfispnJEuhpdOmWmKinCCUwUXGKg3CrNjLvN9NNPcFAvhfedxv4aT0MCkrjHT4dgGc6Luwg720zeS6AMrvlUo0Alm09VTC-32CvlrR8HpgvGxYgyW0oXyAsxK9Oyf8VS6I="
+    }
+  ]
+}
