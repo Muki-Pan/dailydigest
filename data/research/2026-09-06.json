@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-06",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Source Dossier\n**Date**: September 6, 2026  \n**Issue**: 054 (Research Stage)  \n**Search Window**: Past 24 hours (expanded to 30 days for historic verification where needed)\n\nBelow is the verified evidence dossier for the five strongest cultural signals curated for Muki's research lines, strictly adhering to the \"no speculation\" policy.\n\n---\n\n### Candidate 1: [Feminist Structure Signal]\n* **Exact Title**: Feminism 250: Woman Made America\n* **Specific Source URL**: [https://womanmade.org/feminism-250-woman-made-america/](https://womanmade.org/feminism-250-woman-made-america/)\n* **Publication / Event Date**: August 29 – September 26, 2026\n* **Verified Facts**:\n  * **Who/What**: A milestone group exhibition featuring works by 52 women and non-binary artists across diverse mediums. \n  * **Where/When**: Held at the Woman Made Gallery, Chicago, from late August to late September 2026.\n  * **What happened**: Formulated as a critical counter-commemoration to \"America 250\" (the U.S. 250th anniversary). The exhibition explores 250 years of feminist struggle, tracing demands for basic rights to modern movements for gender justice.\n  * **Core Themes**: Erasure, visibility, reclamation of narrative power, collective resistance, and intersectional experience.\n* **Relevance to Muki**: Directly addresses structures around women, care, bodies, and media/narrative power. It provides a rare institutional model of transforming a state-centric anniversary (\"America 250\") into a physical archive of gender struggle.\n* **Duplication Assessment**: **New**. The last seven issues contain no mention of Woman Made Gallery or \"Feminism 250.\"\n\n---\n\n### Candidate 2: [Visual Culture Signal]\n* **Exact Title**: 约翰·巴尔代萨里 (John Baldessari)\n* **Specific Source URL**: [https://ucca.org.cn/exhibitions/john-baldessari](https://ucca.org.cn/exhibitions/john-baldessari)\n* **Publication / Event Date**: September 19, 2026 – January 3, 2027\n* **Verified Facts**:\n  * **Who/What**: A major retrospective of American conceptual artist John Baldessari (1931–2020). \n  * **Where**: UCCA Center for Contemporary Art, Beijing.\n  * **What is new**: This is Baldessari's first institutional solo exhibition in China, curated by Luan Shixuan. It comprehensively maps five decades of his practice.\n  * **Scope**: Early text-and-image experiments, playful 1970s video art (including *I Will Not Make Any More Boring Art* and *Teaching a Plant the Alphabet*), 1980s cinematic photo-montages, and late works featuring his signature colored dots, alongside archival materials and artist books.\n* **Relevance to Muki**: Connects to \"photography, exhibitions, photobooks, and curatorial research.\" Baldessari’s transition from painting to conceptual photography and found-image montage represents a foundational cornerstone in media archaeology and visual taxonomy.\n* **Duplication Assessment**: **New**. Not featured in any form in recent digests.\n\n---\n\n### Candidate 3: [China and East Asia Signal]\n* **Exact Title**: Kim Heecheon: Moles (김희천: 두더지들)\n* **Specific Source URL**: [https://sema.seoul.go.kr](https://sema.seoul.go.kr)\n* **Publication / Event Date**: August 20 – November 8, 2026\n* **Verified Facts**:\n  * **Who/What**: South Korean media artist Kim Heecheon’s (b. 1989) solo exhibition *Moles*. \n  * **Where/When**: Held at the new Seo-Seoul Museum of Art (SeMA's eighth branch and Seoul's first public new media art museum, which opened in March 2026).\n  * **What happened**: Inaugurates the museum's \"Solo Exhibition of Media Artist Series\". The show maps over 120 works created since 2023, including new commissions: *Lemon* (2026), *Cured* (2026, a multichannel video generated with AI), and *.dng* (2026), alongside game-engine-based projects *Cutter III* (2023) and *Double Poser* (2023).\n  * **Technical / Thematic**: Critically explores how virtual reality environments, game engines, and AI ecosystems transform human identity, perception, and selfhood in a world of invisible technological surveillance.\n* **Relevance to Muki**: East Asian media art curation, digital archaeology, game engine workflows, and technological critique of virtual bodies. Shows how public institutions in East Asia are curating native, code-native creative practices.\n* **Duplication Assessment**: **New**. First time reporting on the new Seo-Seoul Museum of Art and Kim Heecheon's retrospective.\n\n---\n\n### Candidate 4: [AI Research / Creative Tech Signal]\n* **Exact Title**: Introducing Adobe for Slack: Turn Your Ideas and Conversations into High-quality Content\n* **Specific Source URL**: [https://blog.adobe.com/en/publish/2026/09/02/introducing-adobe-for-slack](https://blog.adobe.com/en/publish/2026/09/02/introducing-adobe-for-slack)\n* **Publication Date**: September 2, 2026\n* **Verified Facts**:\n  * **What happened**: Adobe launched \"Adobe for Slack,\" bringing more than 70 creative and productivity tools directly into Slack.\n  * **Mechanism**: Built as an integration using the **Model Context Protocol (MCP)** open standard. \n  * **Functionality**: Users use natural-language prompts within a Slackbot thread. The bot identifies the task and routes it to the relevant Adobe app—including Firefly, Express, Photoshop, Premiere, Acrobat, Illustrator, and Lightroom—drawing context from chat threads, uploaded files, and Slack Canvases.\n  * **Workflows**: Supports batch image editing (background removal, lighting tuning, resizing for different platforms), document generation (turning spreadsheets or canvases into formatted PDFs), and CC asset search by mood/style directly in chat.\n* **Relevance to Muki**: Deepens our tracking of the Model Context Protocol (MCP) ecosystem. This marks the first time a legacy design titan (Adobe) has fully exposed its multi-app suite to conversational spaces using MCP, shifting creative workflows from standalone canvases to context-aware, multi-agent workspaces.\n* **Duplication Assessment**: **Follow-up / Ongoing**. We have heavily tracked the Model Context Protocol (MCP) evolution (Fal.ai on Aug 28, Kling on Aug 26, ComfyUI on Aug 22). This is a vital new node showing enterprise platform adoption of the standard.\n\n---\n\n### Candidate 5: [Archive / Long Read / Opportunity]\n* **Exact Title**: Open Call for Situated Research Residencies 2027 | Matadero Madrid\n* **Specific Source URL**: [https://www.mataderomadrid.org/en/calls/open-call-situated-research-residencies-2027](https://www.mataderomadrid.org/en/calls/open-call-situated-research-residencies-2027)\n* **Deadline**: September 27, 2026\n* **Verified Facts**:\n  * **Who/What**: Medialab Matadero (Matadero Madrid) has opened calls for its fifth annual Situated Research Residency program 2027. \n  * **Structure**: Selects three research/creative projects exploring the relationships between art, design, science, technology, and society. Running from January to July 2027, it offers a gross stipend of **€10,000**, plus full access to Madrid-based physical labs (Fablab, technical gear) and workspace.\n  * **Expectations**: Not focused on finished aesthetic objects, but rather the generation of open public knowledge (manuals, essays, documentaries, code, workshops).\n  * **Themes**: Must align with Medialab's labs, such as Sentient Media, Metabolic Sublime, Synthetic Minds, Weird Futures, or Mechanics of Truth.\n* **Relevance to Muki**: Excellent fully-funded opportunity for researchers and artists exploring technology, speculative archives, and AI-critique outside traditional academic limits.\n* **Duplication Assessment**: **New**. Not mentioned in recent residency listings (which instead listed Camargo, Abbott Watts, and Wigwell Lodge).",
+  "citations": [
+    {
+      "title": "womanmade.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbfia9Nt0NUDtogDpJquV4I1m32pon7q54N7Rt_v_ffv_JVLULKE3Xd83XGJmDyc16qpaRQNTzBfeJ1LAg9QHui7St394lKe2hGQdSwZNN-WNnbuJKdr4c5fzvpULQjxmm-NkBgxWf_8zR_Q=="
+    },
+    {
+      "title": "ucca.org.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK9lBuqiuv_2gEKZhbz1LFMF6W08hT9OCIpOm0gqfPkWc12nfxNcQBji9qRF0dpcGE3gdWrm3kpiz9yVYugNrbFpgOyBFawINUPhF9u984wkxMpLzLm9wrF1009SDMGyhjVAsq"
+    },
+    {
+      "title": "ocula.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpixCI1rQ1T5T8R6ZuXw0dB6NhB_jHICezB_FI6QsrgC_U31LUHOqRDa2GbCXLDSIl4njdFt2N-0JWejBdW-ekjB3EnzIJlVHQYk4NLrBASyfBVmup8oD5p6uAxMYyrHNPGsBLcxR6LcktkdpAVNvH8kctr0H5uUe5V9yIfLxvLnqQUKULQMVBTxNGNfQwyClTnw=="
+    },
+    {
+      "title": "ocula.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8WUXC5Ry_DwxbdhjryDVWtOXXJESMzw8zSO-jsIt5loaidchVbILlbnq1JpCSIasOpnpSwBOm0K0Co1nu7Mg121i4yJRF7mXa8-HSXDM0uxp7yDjPNLeIWmT-p9moQW3n4vdkt_KLKt0Hs_-0FOtPuEKKu1wuKpxmgveo3aMKGPd6hxfkCwFTpGxwUM8wePRN3w=="
+    },
+    {
+      "title": "theartnewspaper.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_5ZbSmqdzsvU-ptvd2IbjgLd3UQUTNWKpqi1oR_XRAUxnzCy-6eyRP1H4FWe4rd2810zG89nOaU09Ec6UFImnC604a6G1kA_ZwV1UkCcPk8DnY91_RqrT8-HNWNobJP8gLIgAljmK9OLwSM9hLB-K6ttl7W5ldEUqmuNbZQbPuzLwEbSEyqiQPURXLr4nhXVt5BJuQU8PP1Oy7Kx2qSPJZPLgU63QwSqabZcMJfYYhEvW"
+    },
+    {
+      "title": "ucca.org.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5z7UGw_tdcYnw8eJGrMOhxZDYA-Gj8xSXtbi_Po6O8ZF6kk5KzefgSwHE2PutZQQtTLf1F3mMCEoXQYM2UfMLAuaB2tA32TsOoMpEEfZq-Sm6RNuhcGzCU3_FDfCBCZ1035Cl-PkO"
+    },
+    {
+      "title": "artfacts.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ5paD-9MqpPuJ6Jh0e5fmKzXMk_t2YeplJ2zz0HmZO4G8fcDOM0PSpA3AX7Xk1Rc9y4VNpFo3vgdavcre_EfAPxXWBd-jao1DjCqsuzHleR8qfk1yeXxjAk5DtzyV61etYAcYzp9A9CqMKR3UnW8v-T2UyMAlcJSjVbIimruAMw4Qbj8HOtu76Q0zgfR4-_gsTDojwcJMyzcMbMHONRo9"
+    },
+    {
+      "title": "spruethmagers.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc9L8FFjtU-vE1FDjvRmrpAEa14gV447m4PGlG0sk4kFsB7n9UTPr1_83vnjOnBnxygOQ21kEILGPfvIUQIiJ1EDwegvtzO2yTSwU6iVeE"
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzJEilMjcYRnkO38arZc4ZTQ7frWbFmG5Lw0MHDKsr7oNzvRgzUe7GMCi1VJ2VNZ-UHU16ted08gu1vnnmBLBBFdffWOWMmGY0tWgqlXgzRKoejASvMCbn4lc86LW2"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkS_EvgFRT1WZLUbYQ9ZUmNUzINPSbLiF69toqZJWfGE2ds9RaHs_uc9icjVMOARbDwCQQEF6UKUOv3lleULagTY5woWzVmPFi5dccEzxEXLwO_uWkUCLFXYpPcEKCrp1mRtQQWMYINMA7rmmZrwkZimB9R_dzSW-tJH0W1iUFeJJ0n-DGkoUkqUko1LQABsUEvbtilxv653y8IH9guswcGv-vNCNslt0C7nn4t2f-bv8hSJ-IWlaSkOjIg250KLEKc4k="
+    },
+    {
+      "title": "kimheecheon.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWKGwGcbSdOngGLVho1O3IA0yvvPy65XNHTNpZwHp-sagInHTvb-NNjBeP0wjKFGbSYuSbjO4XxHtK-_lAixT5Jf_LMWMxrtLT8NgtVA=="
+    },
+    {
+      "title": "kinoki.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjp75OR85oHldeT81zqrh9SME35U_wNYrKmFnUKc-ceaUu83U0cgyDaFWv2nfxCv4EufOxU4AaxKeBf8I7YqaQGux2wrTn4DvfQPOsdsAStO4M8iK-2UK3yq9j9bahUYwlPfaQ_3h8vPAPh3eLjXsSCGg3zkmx_0qBC3J4mbvUr3jsBIPw"
+    },
+    {
+      "title": "k-artnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzOD21a3iGrh0tVieiEd2TVXj5YR6vugDc8AspS3B4jQ2X9gFjBijuX-iJW9A1oguk2lOFZKsrMHWnN9LmQA0QgdY6SwK9U6P3nQ9OP6QVdPSSGk9DPJ-q0cP4P9SLBzctChnZYA=="
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeUBey-qveX41GvwSiSGLQ74fnzkZ8WJo39pGlqibh7yoCd0XSf-wL7kOpV2KCcuwPG68Sjz0l3Ugu2I6oX514gDBoRWywalRnNTO0Omt1xqhq9MWm2Z82eELqvDzaFyI="
+    },
+    {
+      "title": "koreatimes.co.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5usUfwlbsMGNE-MfNlMic3vIOSu9N1nIyARlxcSl4GWF9lJCKFT4iJkNrjlZkRdN8wfDYhX-cNy88zy3UZmBPm_PyNwS1b1fbFhidDChdVADPtTxvGvjSLo5QUjwFvVLMy3MCRBBVWnuvEmEJcUs5pHF_HF3O_53iq3ZYDLmMQFgF3mcjpc1GarM9xdx-cKhwhYqRba_AwWCIA1AjjFRIalldKFp_GRMuMK5tNNyO7kjaijg="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHDJl2Jnbuhc4ltkssOnPrURG4zjQh5TeSS5Pw9KJVjs23EskmgvenJ_ww5obbOz-7gANPxh_8k_SVIf_HuqFiFASaVezZWnRj-SWgO3Et18Q_kRSZCVsJ9lcyw7AMx_Y_NZK_1uvKTgD8ohsWTBWfqdp1Cw=="
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE21vzWrYISVt_3VUmyV7W9Z52YPaAwPTIc5z9vjcgNHJwI8z9XEW65oejr-wQd7pqS9AEqgxYzbBK0zNEi8yNoFp6PWa8SomDayf9228z53lWwMcN2pu2YwffS44R1-1m_QkrfsV-KnXdRcl6151_gloBrC2aihP4="
+    },
+    {
+      "title": "adobe.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhE44ktXkvyteJcFjJ4cZoYKeI8CUohlkOQNNkSdByu8QZ8SVKMjyTmdyNlcAcnrJqGbnRFl_L9c00NGel1okhJ3N_rknd2qF-oWe-1RGav827PFdAbOVJVAPmL_5fMAdjBvdfpKLjV61F-9hbJteA8AZCAkQ2tKnngvoKfCQ="
+    },
+    {
+      "title": "thelettertwo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3m269dsJfy2400fi-Ba3vZmLVe80F8Uf9QRx9HAzWvuNTd9iEX0ZMqq5qD5kHdqSvgerTVpr3ydum-6VunLinZjGKchhWHE3n80gtwS0QQYYS_Mf742KGzYw12PZO_X6wzvWl2JDOnkYwW8v8Brju_sRQ"
+    },
+    {
+      "title": "substack.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1OIKshHl7PhquUQinEQynd3i3ijMKBwY4YP9SZ4Crsa7Hu9TF6zRE5QEmRU6UPHzU_OKn4PajY3h3QpJKHUalPyNPdRLujXfj7IcOJbL9qQDJKouSybG4Ng7moexouF5eWFCQ0ORiIc6FsiEGVUX43umxng=="
+    },
+    {
+      "title": "mediacopilot.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGyEB6laCcjlg0ypd_CHg8g1tWyjrsAyHwFXCfmELFSVBBdRD2vYOw1jxjN2tY89B4qtA8MT6y6KkMkGUMo8Qv4ALd-E8rfzXJwn0LQbOgChLUUXGfVaJ1y665tPArgqCj4b_PcYOc_Ep-oszH"
+    },
+    {
+      "title": "cognarah.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2FV6Yv-8uWSb4yYmasAKfeykBcR84pgrqJwb4F-KPUZPxrwtKgp_W-HZm1dpXDH1a2_bTNvG0uiek4TwqO6cyReHC6poI1Eh3MB6ZMznUxacSoOlzGB1hQ4wClR6oWdZgQ2Aco-iI911Rf4UEbiUGU5GWJ9ipTIv_28UVyA84wbj2ZXqPrW0M1G5mEngJIjqsS6I1Ahi7"
+    },
+    {
+      "title": "mataderomadrid.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVwxXVfowXQ0X_bqf0bHBzUXb1jhJAtAthL8rd6quDMnF9HPwA3Msjy_s29CRd6E50um1day5yVuH513Y1Jv1AuYEHBMYv1-pzL020Jsz8Sn0swucA9-Gh-OzXy9xOpIECru6ghVih6mKCw3RxL5o1WtNmFATcOKnU7frlw9EMbl9KrbSWWfefAw=="
+    },
+    {
+      "title": "artealdia.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOR2d02E6TLLvU0b4EyfP8vkxu_ZS8aTYAkHqxKmJwjMMBZZG-LO44vHK1BilnDwHnX4tJ-92GUfsCyu2OsjfXUHgyYp9aUCepL_Ol30Sg76vUbzx1-LnaOMZ0IBkSlEp_GKBPy8BeyeiIA026-jH2ykFNGRBnqQLR7oesjLHINYebOWvVauXT2tPcUQbBxmlVNpEd4fFwLUgVINRHXWgw6ePkJvv68uRGug=="
+    },
+    {
+      "title": "mataderomadrid.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElERsLoCoGvmbS37tUJM6LVfN4fRsWaBMvxf86ZpeXG3X8zjjDgtyABTeC8gjywAwRF7281hLU9ticcoTvfYfAh9xzhVhammcwDNGZFvF31j0hyth8zq1M2cv0CKpIu1zysvcT1QXJPyX1f22pp-yOGsgR7sK1HBj2DJns4MIzGfFr6QaL2Usv_UY="
+    }
+  ]
+}

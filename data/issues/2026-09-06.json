@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-06",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "Feminist History",
+    "Conceptual Photography",
+    "Media Art",
+    "AI Agent",
+    "MCP Standard",
+    "Art Residency"
+  ],
+  "why_today": "今天的信号展示了地缘历史与技术协议如何共同重构当下的叙事。从芝加哥对建国神话的女性主义反向书写，到北京与首尔通过观念摄影和新媒体对身体与技术控制的审视，艺术实践正在深入媒介的底层。与此同时，Adobe 接入 MCP 协议以及马德里 Medialab 的情境研究招募，表明无论是在商业生产流还是在独立研究中，智能体标准与跨学科的知识生产都在加速实体化。",
+  "intro": "本期简报聚焦于‘反向书写’与‘底层协议标准’。我们关注艺术家与机构如何通过历史档案和游戏引擎，重新夺回技术与地缘叙事的主动权；同时，Adobe 对 MCP 协议的接入，标志着创意工作流从单一应用画布向语境感知型多智能体协作的实际跨越。",
+  "opening_signal": "在技术重构日常之前，历史早已在底层协议中完成了分类。 Before technology reconstructs the everyday, history has already completed its taxonomy in the underlying protocols.",
+  "closing_signal": "当创意工具逐步隐入日常对话，我们更需要回到具体的物理实验室与档案库，用手感的、情境化的研究，锚定技术加速下不断漂移的身体。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Woman Made Gallery 举办《Feminism 250》特展：以女性主义视角批判性反思 250 年性别正义抗争",
+      "title_en": "Woman Made Gallery Presents 'Feminism 250: Woman Made America'",
+      "summary_zh": "芝加哥 Woman Made 空间于 2026 年 8 月 29 日至 9 月 26 日举办群展《Feminism 250: Woman Made America》。该展览邀请了 52 位女性及非二元性别艺术家参展，旨在针对美国建国 250 周年（America 250）进行批判性的反向纪念。参展作品涵盖多种媒介，系统回顾了 250 年来的女性主义抗争，将历史叙事从国家的宏大建构转向关于性别正义、身体自主与边缘群体可见性的集体记忆与斗争档案。",
+      "summary_en": "The exhibition 'Feminism 250: Woman Made America' at Woman Made Gallery features works by 52 women and non-binary artists, offering a critical counter-commemoration of the U.S. 250th anniversary by tracing feminist struggles for gender justice and body autonomy.",
+      "why_muki_cares": "本展提供了一个将国家宏大叙事转化为具体性别斗争档案的机构范式。对于研究身体政治、集体记忆与反叙事档案的学者来说，其将历史抗争物化为物理展陈的方法具有直接的参考价值。",
+      "editorial_signal": "将国家纪念日转化为反向叙事档案的物理生产",
+      "theme_tags": [
+        "Woman Made Gallery",
+        "feminist archive",
+        "counter-narrative",
+        "intersectional feminism",
+        "body politics",
+        "America 250",
+        "collective memory"
+      ],
+      "source_name": "Woman Made Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbfia9Nt0NUDtogDpJquV4I1m32pon7q54N7Rt_v_ffv_JVLULKE3Xd83XGJmDyc16qpaRQNTzBfeJ1LAg9QHui7St394lKe2hGQdSwZNN-WNnbuJKdr4c5fzvpULQjxmm-NkBgxWf_8zR_Q==",
+      "publication_date": "2026-08-29",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "UCCA 举办约翰·巴尔代萨里首个中国个展：全面梳理五十年观念摄影与影像蒙太奇实践",
+      "title_en": "UCCA Center for Contemporary Art Presents John Baldessari's First Institutional Retrospective in China",
+      "summary_zh": "北京 UCCA 尤伦斯当代艺术中心宣布将于 2026 年 9 月 19 日至 2027 年 1 月 3 日举办美国观念艺术家约翰·巴尔代萨里（John Baldessari，1931–2020）在中国境内的首次机构个展。展览由栾诗璇策划，全面梳理了艺术家五十年的创作。展出内容包括早期文本与图像实验、1970 年代幽默的录像艺术作品（如《我再也不画无聊的艺术》与《教植物字母表》）、1980 年代的电影剧照拼贴，以及标志性的带彩色圆点后期作品、艺术家书与珍贵文献。",
+      "summary_en": "UCCA presents the first institutional retrospective of American conceptual artist John Baldessari in China, curating five decades of his practice from text-and-image experiments to iconic photographic montages and videos.",
+      "why_muki_cares": "巴尔代萨里对现成图像的拼贴和分类是图像考古与视觉分类学的重要基石。他在胶片剧照上的物理干预与色彩遮蔽，对研究图像解构、视觉权力机制及摄影书叙事的同仁具有启示意义。",
+      "editorial_signal": "观念艺术对视觉分类体系与图像权力的系统重审",
+      "theme_tags": [
+        "John Baldessari",
+        "UCCA",
+        "conceptual art",
+        "image montage",
+        "media archaeology",
+        "visual taxonomy",
+        "video art",
+        "photobook"
+      ],
+      "source_name": "UCCA Center for Contemporary Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK9lBuqiuv_2gEKZhbz1LFMF6W08hT9OCIpOm0gqfPkWc12nfxNcQBji9qRF0dpcGE3gdWrm3kpiz9yVYugNrbFpgOyBFawINUPhF9u984wkxMpLzLm9wrF1009SDMGyhjVAsq",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "西首尔美术馆举办金熙天个展《Moles》：以 AI 多通道视频与游戏引擎探讨技术监控下的数字身体",
+      "title_en": "Seo-Seoul Museum of Art Presents Kim Heecheon: Moles",
+      "summary_zh": "于 2026 年 3 月开馆的首尔首家公共新媒体美术馆——西首尔美术馆举办媒体艺术家金熙天（Kim Heecheon）的个展《Moles》（2026年8月20日至11月8日）。展览集中呈现了其自 2023 年以来的 120 余件作品，包括全新委任创作的 AI 生成多通道视频《Cured》、新作品《Lemon》和《.dng》，以及基于游戏引擎开发的互动作品《Cutter III》和《Double Poser》。作品探讨了虚拟现实、算法监控与游戏引擎如何重塑个体认知与数字身体的脆弱性。",
+      "summary_en": "Seo-Seoul Museum of Art hosts media artist Kim Heecheon's solo exhibition 'Moles,' featuring over 120 works including AI-generated multi-channel videos and game-engine environments examining digital surveillance and the physical body.",
+      "why_muki_cares": "这是东亚公共机构首次系统展示基于 AI 与游戏引擎原生创作的媒体艺术个展。金熙天将“.dng”等数字底层格式与人工智能生成逻辑直接转化为艺术媒介，为东亚数字媒介考古与虚拟身体政治研究提供了最新的策展样版。",
+      "editorial_signal": "新媒体美术馆将 AI 与游戏引擎原生的技术偏误转化为空间批判机制",
+      "theme_tags": [
+        "Kim Heecheon",
+        "Seo-Seoul Museum of Art",
+        "media art",
+        "AI generated video",
+        "game engine",
+        "digital embodiment",
+        "technological surveillance",
+        "cybernetics"
+      ],
+      "source_name": "Seo-Seoul Museum of Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeUBey-qveX41GvwSiSGLQ74fnzkZ8WJo39pGlqibh7yoCd0XSf-wL7kOpV2KCcuwPG68Sjz0l3Ugu2I6oX514gDBoRWywalRnNTO0Omt1xqhq9MWm2Z82eELqvDzaFyI=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "Adobe 发布基于 MCP 协议的 Slack 集成：将 Photoshop 和 Firefly 等 70 款创意工具接入对话流",
+      "title_en": "Adobe Introduces Adobe for Slack Built on Model Context Protocol",
+      "summary_zh": "Adobe 于 2026 年 9 月 2 日推出了“Adobe for Slack”集成应用，将旗下 Firefly、Express、Photoshop、Lightroom 等 70 多款创作与办公工具直接嵌入 Slack 会话。该应用基于开源“模型上下文协议”（MCP）标准开发，用户可直接在 Slackbot 对话中通过自然语言调取相关创意工具。该集成支持直接读取聊天上下文、上传的文件与 Slack Canvas 资料，完成批量图像背景去除、风格调色、调整尺寸、根据文档生成格式化 PDF 以及按情绪搜索云端资产等复杂的生产力流。",
+      "summary_en": "Adobe has launched 'Adobe for Slack,' utilizing the open Model Context Protocol (MCP) standard to bring over 70 creative tools like Photoshop and Firefly directly into conversational workspaces.",
+      "why_muki_cares": "这是模型上下文协议（MCP）在商业创意工作流中的里程碑应用。它证明了 MCP 协议能够让老牌创意软件巨头完全暴露其多应用工具链，将原本孤立的画布操作转变为上下文感知的智能体对话工作流，值得深入追踪其对设计协作范式的改变。",
+      "editorial_signal": "商业巨头接纳开源 MCP 协议，推动创意设计完全走向上下文对话智能体化",
+      "theme_tags": [
+        "Model Context Protocol",
+        "Adobe",
+        "Slack",
+        "workflow automation",
+        "AI agent",
+        "creative technology",
+        "Photoshop",
+        "conversational interface"
+      ],
+      "source_name": "Adobe Blog",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhE44ktXkvyteJcFjJ4cZoYKeI8CUohlkOQNNkSdByu8QZ8SVKMjyTmdyNlcAcnrJqGbnRFl_L9c00NGel1okhJ3N_rknd2qF-oWe-1RGav827PFdAbOVJVAPmL_5fMAdjBvdfpKLjV61F-9hbJteA8AZCAkQ2tKnngvoKfCQ=",
+      "publication_date": "2026-09-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "Medialab Matadero 开启 2027 年情境研究驻留招募：提供万元资助支持跨学科开源知识生产",
+      "title_en": "Open Call for Situated Research Residencies 2027 at Medialab Matadero Madrid",
+      "summary_zh": "马德里 Medialab Matadero 开启了第五届 2027 年度情境研究驻留项目的全球公开招募。该计划旨在遴选 3 个探索艺术、设计、科学、技术与社会关系的跨学科研究项目，驻留期为 2027 年 1 月至 7 月。入选者将获得 10,000 欧元（税前）资助，并可全面使用其物理实验室（如 Fablab 等设备）。项目不以产出最终的审美消费品为目的，而是要求生成可公开的开源知识（如手册、文章、代码、工作坊等），研究方向需契合“有感知力的媒介”或“合成思维”等实验室主题。申请截止日期为 2026 年 9 月 27 日。",
+      "summary_en": "Medialab Matadero Madrid has launched its call for the 2027 Situated Research Residencies, offering a €10,000 stipend for three interdisciplinary projects fostering open-source public knowledge across art, science, and technology.",
+      "why_muki_cares": "该驻留为不依赖传统学术建制的数字考古、算法批判与推测性档案研究提供了极佳的无条件物理与资金支持。其强调‘开源知识生产’而非单纯艺术品物化的评审导向，非常适合正在探索技术中介、非人媒介与知识去殖民化的研究型创作者。",
+      "editorial_signal": "超越审美商品化，驻留机制向开源、情境化的多维技术知识生产转型",
+      "theme_tags": [
+        "Medialab Matadero",
+        "art residency",
+        "open call",
+        "funding opportunity",
+        "situated research",
+        "synthetic minds",
+        "open source knowledge",
+        "interdisciplinary"
+      ],
+      "source_name": "Matadero Madrid",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVwxXVfowXQ0X_bqf0bHBzUXb1jhJAtAthL8rd6quDMnF9HPwA3Msjy_s29CRd6E50um1day5yVuH513Y1Jv1AuYEHBMYv1-pzL020Jsz8Sn0swucA9-Gh-OzXy9xOpIECru6ghVih6mKCw3RxL5o1WtNmFATcOKnU7frlw9EMbl9KrbSWWfefAw==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "AI Research / Creative Tech Signal",
+    "title": "Adobe 发布基于 MCP 协议的 Slack 集成：将 Photoshop 和 Firefly 等 70 款创意工具接入对话流",
+    "why_muki_may_care": "这是模型上下文协议（MCP）在大型商业生态中的落地，不仅确立了这一开源协议标准的行业统治地位，也演示了创意工作流未来如何从封闭的应用界面向上下文无关、可随时调用的对话式智能体系统演进。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhE44ktXkvyteJcFjJ4cZoYKeI8CUohlkOQNNkSdByu8QZ8SVKMjyTmdyNlcAcnrJqGbnRFl_L9c00NGel1okhJ3N_rknd2qF-oWe-1RGav827PFdAbOVJVAPmL_5fMAdjBvdfpKLjV61F-9hbJteA8AZCAkQ2tKnngvoKfCQ="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Other minor AI tool updates",
+    "Non-institutional artist exhibitions without archival or research depth"
+  ],
+  "covered_entities": [
+    "Woman Made Gallery",
+    "UCCA Center for Contemporary Art",
+    "Seo-Seoul Museum of Art",
+    "Adobe",
+    "Medialab Matadero"
+  ],
+  "repetition_notes": "关于 Adobe 发布其基于开源 MCP（Model Context Protocol）协议的 Slack 集成，是对此前连续数期简报中对于 MCP 底层协议演进（如 fal.ai 节点、ComfyUI 适配器等）的深度技术跟踪与应用生态跟进（Follow-up）。其余四项信号均为全新的展览、地缘学术建设、以及驻留研究资助项目（New）。",
+  "issue_number": 54
+}
