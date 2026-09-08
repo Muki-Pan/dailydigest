@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-08",
+  "model": "gemini-3.5-flash",
+  "dossier": "### 1. Feminist Structure Signal\n\n*   **Exact Title**: 「复制的感官 —— 森山大道」： 奈良女子大学工学部以 AI 和 3D 城市制图重构快照先驱的镜头边界 / Senses Replicated — DAIDO MORIYAMA by Hase Laboratory, Nara Women's University\n*   **Specific Source URL**: [Nara Women's University TSCP Project Site](https://eng.nara-wu.ac.jp/tscp/)\n*   **Publication Date**: 2026年9月5日\n*   **Verified Facts**:\n    *   **展览概况**：东京都写真美术馆于2026年9月5日至10月18日在地下1楼展示室举办「复制的感官——森山大道」特展，作为“TOKYO智能文化计划”（TOKYO Smart Culture Project）的一部分，门票免费。\n    *   **策展主体**：展览由日本历史悠久的单性别高校——奈良女子大学工学部的长谷研究室学生负责策划、选作、主题设定与展示重构，并得到了森山大道写真财团的特别协助。\n    *   **展出内容**：现场展出了约140件森山大道的摄影原作（包括经典的《三沢の犬》、《青山》、《帽子》等银盐作品）。\n    *   **技术介入与 AI 工作流**：学生们制作了 AI 影像作品《The world of DAIDO MORIYAMA shown by AI》，他们基于森山大道的4册经典摄影集中的7幅照片，使用图像生成 AI 去推演和“幻觉”重构照片镜头框外的时空，想象照片未记录的画外空间，从而将静态相片扩展为动态与时间的延伸。\n    *   **3D城市制图**：线上展厅依托“东京都博物馆与美术馆馆藏检索系统（ToMuCo）”运行。通过 3D 城市模型，观众可在虚拟空间中俯瞰城市，移动至森山大道当年按下快门的精准地理坐标，使历史相片框内的画面与当下的城市街景完美重合。\n    *   **公共媒介扩展**：展览成果进一步扩展到美术馆外。在虎之门、涩谷和新宿的城市电子数字大屏上，森山大道那些经 AI 算法赋予时间和画外动态的摄影作品正在向街头进行公开展映。\n*   **Relevance**: 这是一个极具启发性的视觉文化与性别/技术交织案例。日本唯一的女子大学工学部学生，通过图像生成 AI 和 3D 空间测绘等理科工程技术，去重新拆解、编辑并物理延展一位男性摄影大师（森山大道）的“快照与快门霸权”。这为 Muki 长期追踪的“女性在 STEM 领域的策展实践”、“AI 原生技术对历史摄影档案的画外介入（Outpainting）”以及“如何将影像档案放回 3D 地理空间中重新体验”提供了极其具体的落地方法。\n*   **Proposed Section**: Feminist Structure Signal\n*   **Duplication Assessment**: `New`（全新展览与技术巡回实践，为 2026 年秋季刚开幕的最强信号）。\n\n---\n\n### 2. Visual Culture Signal\n\n*   **Exact Title**: 路上观察学会创办 40 周年：松涛美术馆特展探讨“路上”的自由、秩序与公共空间纠葛 / 'Rojō [Shared Ground] — Am I in Your Way?' at Shibuya City Shoto Museum of Art Marks 40 Years of the Street Observation Society\n*   **Specific Source URL**: [Shoto Museum of Art Official Exhibition Page](https://shoto-museum.jp/exhibitions/213rojo/)\n*   **Publication Date**: 2026年9月19日（展览开幕日）\n*   **Verified Facts**:\n    *   **展览概况**：东京涩谷区立松涛美术馆将于2026年9月19日至11月23日举办特展《路上，お邪魔ですか？》（路上，打扰了吗？），该展此前刚于金泽21世纪美术馆结束首站巡回（9月6日闭幕）。\n    *   **创办背景**：展览的核心契机之一是前卫艺术家赤濑川原平、建筑师藤森树信、林丈二、南伸坊等于1986年发起创立的“路上观察学会”迎来40周年。该学会从日本関東大震灾后今和次郎倡导的“考现学”出发，在无目的的都市漫游中发现无用且不可思议的、类似于艺术装置的城市碎片（如“超艺术托马斯/トマソン”）。\n    *   **展览结构与参展人**：展览分为“游戏与黑客”（遊びとハック）、“道路以后”、“路上的发现”、“道还是广场”、“规则”等7个单元。参展艺术家包括路上观察学会、鈴木康広、现年95岁的街头舞踏家ギリヤーク尼ヶ崎、Chim↑Pom from Smappa!Group、山田脩二、迫川尚子、児玉房子、Daniel Everett、銭湯山車巡行部及 GROUP 建筑事务所。\n    *   **现实批判性**：展览不仅回溯幽默的城市档案，还直接面对路上的排除与暴力。展陈大纲中引入了“路上生活者”的反思，并公开提及2020年发生在涩谷的路上生活女性遇害事件——当时加害人的陈述是“她很碍事”（邪魔だった），由此剖析所有权与管理秩序对弱势身体的排除。\n    *   **媒介档案实践（路上新闻图录）**：由金泽21世纪美术馆监修、本桥仁主编的官方展览图录《［特大号］路上、お邪魔ですか？》已于2026年8月20日由 Film Art 独家出版。该图录放弃了传统精装画册，而是直接使用与日刊新闻完全一致的宽幅新闻纸（545×406mm，88页），通过“路上新闻”的形式向公共领域散发。\n*   **Relevance**: 路上观察学会是东亚“媒介考古学”、“城市微痕归档”和“日常视觉漫游”的学术天花板。这一 40 周年特展将该学会幽默的非物化观察（如靴底的小石子、无用烟囱的拓本），与当代带有激进レジスタンス（抵抗）性质的街头实践（如 Chim↑Pom、迫川尚子记录右翼宣讲车与底层边缘身体的影像）并置。特别是其用“大宽幅报纸”代替书本图录的去机构化设计，完美呼应了 Muki 对“非典型纸质媒介与反垄断城市档案”的强烈兴趣。\n*   **Proposed Section**: Visual Culture Signal\n*   **Duplication Assessment**: `New`（松涛美术馆巡回特展与全新路上新闻纸出版物）。\n\n---\n\n### 3. China / East Asia Signal\n\n*   **Exact Title**: 2026 北京 798 艺术节开幕：双展《未卜之境》呈现早期“手搓代码”文献，对照当下 AI 智能体“剧本杀” / Beijing 798 Art Festival Theme Exhibition 'Uncharted Realm' Contrasts Pre-AI Chinese Digital Art with Generative AI Art\n*   **Specific Source URL**: [The Beijinger Event Guide](https://www.thebeijinger.com/events/pre-ai-uncharted-realm-i-theme-exhibition-beijing-798-art-festival)\n*   **Publication Date**: 2026年9月4日\n*   **Verified Facts**:\n    *   **艺术节概况**：第20届北京798艺术节以“开放交互”为主题，于2026年9月4日开幕（持续至10月7日）。\n    *   **历史回望展（未卜之境 I）**：核心主题展《未卜之境I：前人工智能时代中国数字艺术研究》在798国际艺术交流中心展出（9月4日-9月26日），由王泊乔策划。展览梳理了生成式 AI 泛滥前中国数字艺术40多年的开拓史，展出卜桦（Flash 早期动画《猫》《生之爱》）、费俊（算法交互《行走的艺术·自然人》）、冯梦波（早期电子游戏艺术）、胡介鸣、靳军、缪晓春等六位奠基人的代表作品与珍贵历史文献。它强调在那个“艺术家必须亲手手搓代码、制作逐帧动画、调试不成熟设备”的艰难时代，人类独特的经验、偶然性与主观感知是如何介入技术的。\n    *   **当下先锋现场（未卜之境 II）**：平行展《未卜之境II：中国人工智能艺术三十人展》在“数字艺术中国·多觉工场”持续展出至12月31日。展出 30 位中国艺术家利用 AI 的最新探索，例如刘思涵的《AI罗夏心像》（将脑电信号转化为诗意影像）、黄恩琦与王歆童的《玻璃房间》（AI 将金鱼游动画面翻译并解说为拳击赛）、陈抱阳的《神动迷踪》（由9个 AI 智能体在现场演绎的实景“剧本杀”）。\n*   **Relevance**: 798 艺术节此番策划的“前 AI”与“当下 AI”双展对照，是一次极佳的中国新媒体艺术/数字媒介考古。卜桦的早期 Flash 影像、冯梦波的手工游戏改写，对 Muki 关心的“图像历史、前 AI 生产力与技术劳作”具有极强的文献参考价值。这不仅是一次媒介技术断代的梳理，也是对“艺术家在算法自动化浪潮中如何重新守住感官主动性”的追问。\n*   **Proposed Section**: China / East Asia Signal\n*   **Duplication Assessment**: `Follow-up` (关于胡介鸣的个案，9月7日简报曾提及上海多伦美术馆的胡介鸣回顾项目；本条信号为 798 艺术节开幕的主题大展，将胡介鸣置于更宏观的中国数字艺术先行者群像和前 AI 时代历史坐标中，构成深度技术断代跟进)。\n\n---\n\n### 4. AI Research / Creative Tech Signal\n\n*   **Exact Title**: 开源工具 ComfyUI-SplatKit 发布：打通 Wan 2.1 局部幻觉，实现单张 360° 全景图向 3D 高斯泼溅场景的平滑重构 / ComfyUI-SplatKit: Open-Source Custom Nodes Reconstruct 3D Gaussian Splats from a Single 360° Panorama\n*   **Specific Source URL**: [ComfyUI-SplatKit GitHub Repository](https://github.com/mickmumpitz/ComfyUI-SplatKit)\n*   **Publication Date**: 2026年8月25日（项目主仓发布，2026年9月3日由 The Daring Creatives 深度解密）\n*   **Verified Facts**:\n    *   **开发背景**：独立创作者 Mickmumpitz 经过数周对 Apple SHARP、Insta360 UniSHARP、Tencent HY-World 2.0 及 NVIDIA Lyra 等世界生成模型的测试与淘汰，最终基于 Skywork 在 116,759 个 Unreal Engine 5 全景序列上训练的 Matrix-3D LoRA 算法，从零开始重构并开源了 ComfyUI 的自定义节点包：`ComfyUI-SplatKit`。\n    *   **核心痛点与技术逻辑**：单张全景图是单一视点，传统上无法提供足够的 3D 约束。SplatKit 引入了名为 \"Plot Camera\" 的核心节点：\n        1. 使用 MoGe 估计初始深度，将 2D 全景图重投影为网格。\n        2. 引入基于 JavaScript 的交互式路径编辑器（`web/camera_plot_geo.js`），允许创作者直接在全景图上像放飞无人机一样，拖动锚点绘制虚拟的航拍运动路径，且能实时渲染点云防止路径穿墙。\n        3. 节点基于这一路径，自动渲染出等距柱状控制视频和合理性掩膜（validity mask）。\n    *   **画外幻觉生成**：利用 Wan 2.1 视频模型作为底层，沿着虚拟航拍路径，通过 AI 去生成（幻觉化）原始相片从未捕捉到的周边死角（如墙壁背后的房间）。\n    *   **去 AI 模糊重投影**：为解决 AI 生成视频中普遍的 720p 模糊感，该工具通过已知的相机路径，直接将原始 8K 全景图的高清细节重投影（Reproject）回 AI 运动帧上，而非使用传统的超分辨率放大。\n    *   **生成结果**：最终导出一套标准的 COLMAP 数据集，可直接导入 Brush 训练器中训练出完美的 3D 实时高斯泼溅（Gaussian Splatting）场景。\n*   **Relevance**: ComfyUI-SplatKit 的发布标志着 AI 空间生成技术（AI World Generation）在开源端正式进入了“可用、高保真、可交互控制”的成熟期。对于独立美术制作者和创作者来说，它打破了 3D 渲染和多视角实拍的壁垒，让人们只靠单张高清全景照片即可在 ComfyUI 本地轻量化、无成本地建立可任意运动游历的 3D 场景，完全重构了虚拟制片的场景搭建工作流。\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Duplication Assessment**: `Follow-up` (对 9 月 3 日简报中 ComfyUI 内核合并 3D 资产生成模型 Trellis.2 这一进程的深度跟进，体现了开源社区如何用交互式 JS 和局部重投影攻克 AI 3D 场景无法进行精确物理相机控制和画质模糊的致命缺陷)。\n\n---\n\n### 5. Archive / Long Read / Opportunity\n\n*   **Exact Title**: 伦敦 Gasworks 启动 2027 年三项平行地缘驻留招募：为意大利、东非与中美洲青年视觉艺术家提供全额资助 / Gasworks London Announces Fully Funded 2027 Residencies for Italian, East African, and Central American Artists\n*   **Specific Source URL**: [Gasworks Official Opportunities Page](https://www.gasworks.org.uk/opportunities/)\n*   **Publication Date**: 2026年9月4日（意大利 call 获确认） / 2026年9月7日（中部美洲 call 发布）\n*   **Verified Facts**:\n    *   **驻留性质**：伦敦著名当代艺术机构 Gasworks 启动 2027 年国际驻留项目招募。Gasworks 驻留专注于自我主导、非指令性和重视过程（non-prescriptive and process-based）的艺术研究与试验，提供深度融入伦敦艺术社群与策展网络的学术支持。\n    *   **多国平行通道与关键时间节点**：\n        1.  **面向意大利创作者**：驻留时间为2027年1月6日至3月24日（11周），申请截止日期为 **2026年9月14日**。\n        2.  **面向东非国家创作者**（包括肯尼亚、索马里、南苏丹、乌干达、坦桑尼亚、莫桑比克、马达加斯加等）：驻留时间为2027年4月7日至6月22日，申请截止日期为 **2026年9月28日**。\n        3.  **面向中部美洲创作者**：提供11周全额资助，申请截止日期为 **2026年10月6日**。\n    *   **资助内容**（全额资助）：\n        *   往返伦敦的经济舱机票、全部签证费用与行政支持。\n        *   Gasworks 共享公寓中的单人居住房间，以及在美术馆内的 24 小时专属无限制独立工作室。\n        *   每周 175 英镑的伦敦生活补贴，以及最高 800 英镑的初期材料制作预算。\n        *   伦敦交通卡、专属导师（Curatorial Support）的一对一交流，并以举办 Open Studio（工作室开放日）公共项目作为结项成果发表。\n    *   **申请资格**：申请者应为正处于职业生涯早期的视觉艺术从业者（Early-career contemporary visual artists），已在若干非学校场域发表过作品，但尚未获得在伦敦工作、参展或驻留的机会，且具备基本的英语交流能力。\n*   **Relevance**: Gasworks 是全球最受尊重的非营利当代艺术中心与 Triangle Network 核心节点。其提供给东非、中部美洲等常年在国际话语权边缘的地缘艺术家的资助具有极高的含金量。它推崇的“非产出导向、专注研究与连接”的驻留机制，是反新自由主义艺术生产、回归关护（Care）和纯粹智识交流的机构典范，对 Muki 建立地缘网络和艺术劳作研究有极高的申请和追踪价值。\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Duplication Assessment**: `New`（Gasworks 2027 年度首批密集发布的国家与地缘定向资助公开招募通道）。",
+  "citations": [
+    {
+      "title": "artscouncil-tokyo.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHxQkYv5S8RcIy_nDfyZU4qsPIsw8V-Lte6bQ_WBLTPpaeKnTXetoMhbxCDR0ACzFz32aXvcYKDRCJa97avoSe9i45ctPK4LIQP2PTr1Fwq8igGwdY1lbqebKBBwBipIAGhdLN6ygrhn1jIesTn5ESloRBRH4MsjMqFml-M8-vg29otNMGZllIGXu2x9IiwDUm2gUSX1fadSP6aJPUz7QRAIru9zMzAg=="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1rtK8K0h8WLfYVJS-Hj6uI87DBro4H3sNBcj7FLC--RCKN_G9eMcNtgeS_N1udOeio_jJ-C9WUJDl_BF9QMQM0kRKLIpt_zp_iw13Veb4ULLsOm4NFRrvIu6"
+    },
+    {
+      "title": "adfwebmagazine.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_5sx51O-uIfuIr7EZvNseWI7m-3Lp8hHjeD8dw-2Bd2Wuvzxn75Z8Wbqui-sHCVdTicPuT5PagjLvjA04eyCRP8jPB2oOqzFpTcrW0q906jzXctc33X6hp8TthMHPsW4WiDei_FQGiek57ByuaENyB0nUcj59_asE1SDdzfYJQNJzlEFGKstdOymvHQZGzsi35SRRpehWplBD"
+    },
+    {
+      "title": "adfwebmagazine.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvEPltIQ3xdLrhw3BCgbPWZU1FChT6OCKBdugrOSedU7Lea9Bgnct7CcFJvUygfi4Xz0aN3fS3yzORR_8SNQd6pkn9BOMOFsUGSQuVIntEIKgXy3T0e9Jq7r9NoNmy8PgWNWc6IiqLh5Kh1xyR2deJvsVUMtLXByD534j63i7SUHK12228f2s0rQlHactDtgH0RzdH8vrwn3r"
+    },
+    {
+      "title": "prtimes.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7pGWPeZ3t35G1FeCDNOMrBCdESFyZW6ziVhqRaiOq97TtQcSNC4ziYA6DxWdJlmwi-IyZaXoKiR5AA8mTbEq9tgj5IIiaraINtkANnFUChbxOdZhlwx1UYd-yM00fhPCY3qeo7txl5LNFM9YaNUA="
+    },
+    {
+      "title": "shoto-museum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe59dx0GPzROVbwM4eGdXRjWTDj6SCKFuZmybT5SWZR9XMN57L8CdoZ-h_WRDl3lfiw4EJAxePd9oE4_bm9g_sXGlatsem6ac1uS9llNBWsoYxoPUW2KxUEM56FxGPGA-j4g=="
+    },
+    {
+      "title": "bastillemagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTjafhbjWWwGGjEkBoHDPL94DDEJczf4mh5x3yZ7is0vy7ZR-SSejQqx9Q5B419FIsyywzEbhJMyZVf9VvCmEb3GZbdPtr9s0rTxX6o4VLbreFntiOpBQdwE2Ac1fF3XofB4vMLLTpNb0kJ-e857PJegKwmuB1D6JsexhWj3t-"
+    },
+    {
+      "title": "shibuyabunka.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHflMbqhba0vM5P6rb4vBaix-EPb6Q6Yy8TVK9otl-MjWb4ro85uHNK9LN691s_4FE43MqiwPtSp0LxLEp13Yrlz_0tQWs00O07B_7F2LNFU0hlyisAgvGnLRQ22uXh"
+    },
+    {
+      "title": "artscape.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJtogoSiX9BiDx14r3LLpy-pdho1dCaUYEA4bV9QrK3GmVIxYju-QqQx9lOYlwjXiFHBOvRw8JtV05fmyOMuOT8jOrlExSw97BlxVNHvDYLIGSao0H7lEO"
+    },
+    {
+      "title": "kds.ac.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXKRko5GV3EwjJEel0YhaXs2dL2OIAbBMMNf5SIjtctZz63AT2f-uuJHAQIChkYLdUBo7BP0R_KaWAfCEocxUzHVHp5NclFiiOKMteWL0-P2HUCvYBZTOjFglsu4h5"
+    },
+    {
+      "title": "filmart.co.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2epRbNmyO8O1wjJdKv8EqKxKtgGE2SNouLfalV1snaAWY6EQuE0CmPMuyTT_9k8DB3W9bnWmtkLIqfdJlmf9tNWtO5V2UCpLMnT5D6bfH3LRaPKPMmlJbqH113D8Gdhmm4riojFbbdm-vsg=="
+    },
+    {
+      "title": "thebeijinger.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEASwUVyjwo2-RFWPgVxomDjkZ4pLlE5npmNvQua5Q-KPtAO3lM42quHmj5wfgRioVM1hWbLg9_TRsVPuealZhaFVpf1h-ir3HweCI5iDJzoY91cugEafYHofCl-0Vr4HtaYjHyIaStQvn_PRuocqmt6fIvYTdS98DEguSX1CzLp-W1LfrMSPV_bq-O9dFBJXq3dRbcehm1kOlRLbf2UlZZMYTmscY="
+    },
+    {
+      "title": "sina.com.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGywbuBL3TrRVb73kYs6KD7sMHqR8gCWfa-_sQekhm7bUHGPaB5qdmSBEWYUZuTdiqsEaWNbAjMEOdFDxBVgTQWgZyId_MCaDDiltRufdFTHvciqItUa-RmX0Ul9_C8Gae7kdh71v-l2t7m-V2w66TUVm7JYEm4_EZ3ZfHaGQ=="
+    },
+    {
+      "title": "beijing.gov.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmQ3NJlN7WLhCYgkqh-Pw_2VildAdSpMh9v3bXHyc-E4xU5bSf-1cx-a0oBidAQQ6Q-7O1rhegyuliDTOV8wYe0wHUxd80Tqxb-T0vwKeYC9sOcj82YMdti-3BnjMWKKg9s-2SFw236nfBbaWxQlr2WnYcB8mf-0gQ0rAnQfFirk_x5-MEwsQI97li6g=="
+    },
+    {
+      "title": "artron.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEbKyVCo93w9s_O5KZsNyELz1XzkeQvP5e_-zIAo-Xd9YHNzBn2cKczcvTbloeKXCxBQ1kGLaOo3CPpefTIWGPIY9eFtVb8xitWWRTIdyxy5pQxO84zB1gziPKytJSfF88elGIjQ=="
+    },
+    {
+      "title": "comfy.icu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBfEd1tgNbkOG3UxM-FgFLZJ9hzQZFqPby8Pq43N5wKEOKanq7CWwL_N95s3WSzQHGcVQIEJAUOoYlOueT0t_kaWgYyAwMrQ8jajG4VX3rnqXl1CTK1fwDXwIOGzFVzXgE18ZN2HZr0Q4FwMk7Og=="
+    },
+    {
+      "title": "thedaringcreatives.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjl40h8YrvSyQZJViGLY5AYm6ziueEI9oXzZiDSyZK91vWKub8JpzTfuXTZv7WX7LsuTx8gJhUTfanwbiB_mLKEo1wgYWeFEzlRvz5gUJdn1kVn7wfkCO4uK3NCGY-Epa_6JJC98unzDFAq2COPRgrv_NHxsqag7lpMpMQwSCORhyAtV-zNA=="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGevcEJcHsMvgo_E5ytomNeqwH9EG_KGCVM2NUG-NzghmhetcGWnVWen4aymeEo97q2kmdOd-Wks13T7Ari0kNCbwTy1q0HIWkxKpjaGjWbWAkvpAPPsFRCqjpviK3g9Jk="
+    },
+    {
+      "title": "comfy.icu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn2LekRKkIX3v7kG_j3M7fEpvNaL5UOS_ktCPocv-YFWHt9YdBNSSTLnrF1NQaZ0ui8Jqs_mAJ4SWC3k3yuUW3ugOQUI5hNgOvDm98fnT-ETFJGzPyZ_egfy9ZEIL6qIUXMRJU8Uw3RGQd_NjUupE="
+    },
+    {
+      "title": "gasworks.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnNrcuRexLG944FcKBUrsVbaTKLzDBJuT0Mh7LyCMHP9P0JrLTaSX18GJ3soMbLDVybQ_ghdjfbqVVdPmRKh-4zlnd-3YzEJqQMhhuMiyicT1hiRU9rQXtQbHFyivccCoKLiG4_3KHC7iFF0GjtxDOeT8Xo2qgp4bk0IImtzOo58I4N4WB-ALOzVj3ndGKzL6vXnjB-p4rMQ=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnHyNSR_FcCJ0-_DYWnqFIXVj-lAS8mdwHSP1pi75igX3kV0aGacmH2ayXERohGftOzfwM08fwIcuVyUkkZicoDMguFIJENQJKRz8OgmY9bZQZjPgAqS8fnEf1n-1OGwe5RfzCUDo2Cka1mB9ILOa1t5XNN0jZhFdHG6xYhJi5ovSgVq_QGUryOdObHMgpyP56ey_onQNtvQOMj8PDumvoN563b74s-Pcbf_nLyzuFNGAsm0U53AH15em9qciB1e2_7UBSdLk="
+    },
+    {
+      "title": "fundsforngos.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKxuuLq5c8A_MSrUqTyIIqoYfC1oRYSNt-ifl06W8ToZ7jfhS0gMLATV74Kc5BueFagsN1CDR6HH22ijamQiqUhm8MoW0gbrlK-Cq3FpxrafMmUB-WgAjl5btO23M1XswrUExKkstiiXfHInTJNeWvri2R5p3niZyO0_QZV4Lz9-hPeZsHMRmK07fFKa2a6h8Fmn-Thyg7fi6WL8R9g9i6"
+    },
+    {
+      "title": "ratemyartistresidency.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETugpLq519xwTKRBmhdL4SDlDgLjRyIuwEWMLObfhnskZHACSeCT4u_B6dwnxiu5fROBqymuow4ujtxy6zo9SNLeCQ7bTdjUnd7lZIZC03UYZfB_B56chRUiv_iDYjoIAFqA8lE_vFpNQZhxQy"
+    },
+    {
+      "title": "internshala.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuKbeb6rG0YGym9lphksP586V9FP2dyW3f48QHiwbK9qqbluEZBXp1ltNdvAlPbg2stoAWpZQZMxXk62v76cY032Re8yXFg-MB0EJhjCJ2aUZAznLRigBMtyXhq6S1k4nG4xXw-_ZT2eRd0oaDygGFco-EBlMaG_FeJmuSG4Aa7ulUtSARHpOWGdcLXyc="
+    }
+  ]
+}
