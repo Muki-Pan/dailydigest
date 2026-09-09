@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-09",
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "出光真子",
+    "女性主义影像",
+    "理查德·阿维顿",
+    "GPT-6 Astra",
+    "ComfyUI",
+    "PhMuseum"
+  ],
+  "why_today": "在数字滤镜与算法代理快速重塑我们与世界关系的当下，本期信号不约而同地指向了对“物理表面”与“真实经验”的坚守。从出光真子对家庭看护的嵌套影像拆解，到理查德·阿维顿直视肉身衰老的肖像档案，无一不在与数字完美主义对话。同时，技术界正在向多步推理的自主智能体迈进，而 PhMuseum 的十年资助则持续为这些抗拒简化的女性视觉档案寻找实体的展示出口。",
+  "intro": "本期简报探索身体档案、媒介物质性与智能代理（Agentic AI）的交织状态。我们聚焦东京都写真美术馆对日本女性主义录像先驱出光真子的大型回顾，以及多伦多都会大学对阿维顿衰老肖像的梳理。同时，GPT-6 Astra 接入 ComfyUI 宣告了工作流向智能体的飞跃。最后，PhMuseum 启动第十届资助项目，为全球女性及非二元视觉实践提供实体支持。",
+  "opening_signal": "从监视器画面的嵌套到皮肤表面的皱纹，肉身在技术与时间的刻写中留下了无法抹杀的质地。",
+  "closing_signal": "在算法能够生成无瑕肖像的时代，对皮肤细节、衰老褶皱与手工劳作的老实呈现，反而成了抵抗媒介过度控制的最有力武器。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "东京都写真美术馆举办出光真子个展：以电视屏幕嵌套呈现家庭看护与母职的肉身张力",
+      "title_en": "Mako Idemitsu's Solo Exhibition at Tokyo Photographic Art Museum: Using Screen Nesting to Present the Tensions of Domestic Labor and Motherhood",
+      "summary_zh": "东京都写真美术馆推出先锋视频艺术家出光真子（Mako Idemitsu）大型回顾展，呈现其30余年的影像与装置创作。出光真子在1960年代亲历美国第二波女性主义运动，其创作常以厨房、客厅等家庭内部空间为场景。其著名的“马科风格”（Mako Style）在电视监视器画面中嵌套另一块荧幕，通过这种嵌套媒介技术，将女性在看护工作、母职和家庭权力关系中的精神压力视觉化。",
+      "summary_en": "Tokyo Photographic Art Museum hosts a comprehensive retrospective of Mako Idemitsu, showcasing over three decades of her films, videos, and installations. Using her signature screen-nesting 'Mako Style', she visualizes the domestic tensions of motherhood and care work.",
+      "why_muki_cares": "出光真子的嵌套屏幕实践提供了一个将日常家政劳作与早期视频技术结合的具体案例。它展示了如何利用监视器的物质特性来进行家庭权力关系的视觉研究，对媒介考古学和女性主义空间研究有直接参考价值。",
+      "editorial_signal": "将家用监视器转化为批判性透镜，探索家庭看护劳作在电子媒介中的嵌套结构。",
+      "theme_tags": [
+        "Mako Idemitsu",
+        "Tokyo Photographic Art Museum",
+        "video art",
+        "media archaeology",
+        "feminist curating",
+        "care work",
+        "reproductive labor",
+        "domestic space"
+      ],
+      "source_name": "Tokyo Art Beat",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMWqxKeBr9y8M5ZWYC0YrTeoh0qWrKjRi_KZYtJSrbPohYxGYrtjOegdD-5cXE8TILYEjVH8loHF2wCX4zpWTpafPIbfKYIBvkq5eYJLtXdliP9ujzOArAwNAcf_kwYeLI7NsGHIA0HMeZQWkDgPWC5VsPwHHtZJ_mtanYJ20G4QNvlx_9iBgJR0mVxgz4KpSeA==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "多伦多都会大学举办理查德·阿维顿个展：以百幅真实衰老肖像对冲数字完美主义",
+      "title_en": "'Richard Avedon Immortal' at The Image Centre, Toronto: 100 Portraits of Aging Challenging Digital Perfectionism",
+      "summary_zh": "多伦多都会大学影像中心推出展览《Richard Avedon Immortal》，展出理查德·阿维顿自1950年代至2004年间创作的近100幅肖像，包括多位文化名人的衰老面容。展览还复刻了阿维顿1974年在MoMA举办的经典肖像展，该项目记录了他父亲临终前的身体变化。在滤镜与修图泛滥的时代，这些不加修饰、充满皱纹与疲惫眼神的物理表面，将衰老痕迹作为一种带有生存尊严的视觉档案呈现。",
+      "summary_en": "The Image Centre at Toronto Metropolitan University presents a collection of nearly 100 portraits by Richard Avedon capturing the physical traces of aging. Reconstructing his 1974 MoMA show, the exhibition serves as a counterweight to contemporary digital perfectionism.",
+      "why_muki_cares": "阿维顿对老年肖像不加修饰的客观记录，为反对数字完美主义和滤镜美学提供了一个极佳的图像库。它展示了肖像摄影如何承载时间流逝，将身体退化转化为一种无可回避的物理事实。",
+      "editorial_signal": "在完美滤镜泛滥的时代，坚持对皮肤皱纹和疲惫细节的客观呈现，重申物理老化的尊严。",
+      "theme_tags": [
+        "Richard Avedon",
+        "The Image Centre",
+        "portrait photography",
+        "aging",
+        "body politics",
+        "visual culture",
+        "MoMA",
+        "analog archives"
+      ],
+      "source_name": "The Image Centre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_H4sQwM5PQM95DtmvEq_EbHWSm5XMk_J-4vJB6wU0cz-DzlW7Q83bKy_HFLRxDzovQZOhd0tpAentAygou3pAVO3Mwl_iG3XZcEonhCGmQ3sEprpXNFQqB5ItUadCPBwjJAUiSd3KULrMgXv57dXK9g5W",
+      "publication_date": "2026-09-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "北京当代唐人艺术中心举办《差异的星丛》：14位全球女艺术家的日常经验与身体叙事",
+      "title_en": "Tang Contemporary Art Beijing Presents 'Constellations of Difference': Diverse Narratives of 14 Female Artists",
+      "summary_zh": "当代唐人艺术中心北京第二空间举办由米开拉·塞纳策划的国际女性群展《差异的星丛》，汇聚了罗米娜·巴苏、江上越、白善京等14位女性艺术家的40余件作品。展览并不试图将不同的个人经验、地缘背景和艺术方法简化为单一的身份标签，而是从个体的日常劳动、地缘生存、情感记忆出发，建立起非同一性的批判性对话，避免了对身体的简单具象再现。",
+      "summary_en": "Curated by Michela Sena at Tang Contemporary Art, this group exhibition brings together 40 works by 14 international female artists, creating a non-homogenous dialogue based on daily labor and geographical memory.",
+      "why_muki_cares": "这个展览提供了一个观察画廊如何组织“女性主义策展”的样本。它的“星丛”结构不依赖宏大叙事或扁平的身份标签，而是让个体具体的身体叙事和地方经验发生碰撞，具有策展学上的参考价值。",
+      "editorial_signal": "用非同一性的星丛对话，取代单一、扁平的身份标签式女性主义策展。",
+      "theme_tags": [
+        "contemporary art",
+        "feminist curating",
+        "Tang Contemporary Art",
+        "constellation narrative",
+        "body politics",
+        "East Asia",
+        "geopolitics"
+      ],
+      "source_name": "Tang Contemporary Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqKZ8QvA4iTtWXRP1-88_rxk4TpzUPvjzvaMmcyVqJNr8sfsCjZfuB5k1mTg1tjkeJ2UAVvNjN1Tg-MAxKj3LJirUt3zPAhNV6BWKcbwDfue_0NOLjS5F_ZZJt8f4NaE6SFcMAuA==",
+      "publication_date": "2026-09-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "GPT-6 Astra 接入 ComfyUI 官方节点：支持多步推理与百万长上下文的智能体工作流",
+      "title_en": "GPT-6 Astra Integrated into ComfyUI Partner Nodes: Enabling Long-Context Agentic Workflows",
+      "summary_zh": "在 OpenAI 发布具备多步推理与端到端电脑操作能力的旗舰模型 GPT-6 Astra 后，Comfy Org 更新了官方 Partner 节点。得益于 Astra 的 105 万 token 上下文窗口，创作者可以在 ComfyUI 中单节点批量输入大量参考图，进行深度视觉特征分析。同时，Astra 的多步工具调用能力实现了自动化提示词生成、局部高精度重绘，甚至能生成并运行 Blender 或 Unity 的混合代码。",
+      "summary_en": "Following OpenAI's release of GPT-6 Astra, Comfy Org integrated official partner nodes supporting Astra's 1.05M-token context window, enabling batch visual analysis and advanced multi-step agentic workflows.",
+      "why_muki_cares": "这标志着 ComfyUI 中的大模型节点从简单的文本润色转向了主动调用工具的多步逻辑代理（Agentic AI）。它能够辅助创作者在长篇图像与视频生成中实现跨软件的自动化流程控制，对新媒体和数字策展的实际工作流有直接参考作用。",
+      "editorial_signal": "创意生成工具从单点提示词微调，演进为能够跨软件自主编程的多步逻辑代理。",
+      "theme_tags": [
+        "GPT-6 Astra",
+        "ComfyUI",
+        "Agentic AI",
+        "workflow automation",
+        "multimodal AI",
+        "creative technology",
+        "code generation"
+      ],
+      "source_name": "Comfy Org",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7BXw4Dwh1mh-74RR_UulsGaMZbhBfWSK3cBKqcjXS-z535g4-GKmlziOz1ml2FlLytVxMLg9ZaGDeJlTPeNg0QC20L0qgO0iDgUWG8miOKlyf3PjjAx6HMauYpa4x1lwfbOfNHvDHUfvMplR4Z4Y1pLyn6lOldQ==",
+      "publication_date": "2026-09-08",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "第十届 PhMuseum 女性摄影师资助金启动：全额资助博洛尼亚个展并提供万元奖金",
+      "title_en": "Submissions Open for the 10th PhMuseum Women Photographers Grant",
+      "summary_zh": "第十届 PhMuseum 女性摄影师资助金已开启申请，面向全球女性及非二元性别视觉创作者。大奖将提供总额10,000欧元的现金奖励，并由合作伙伴 MPB 额外提供摄影设备券。得奖者将获得全额差旅和生产资助，于2027年在意大利博洛尼亚的 PhMuseum Lab 举办个展。此外，40名入围创作者的作品将在米兰 PhotoVogue 艺术节上进行放映。",
+      "summary_en": "The 10th PhMuseum Women Photographers Grant invites entries from female and non-binary visual artists, offering cash prizes, equipment vouchers, and a fully funded solo exhibition in Italy.",
+      "why_muki_cares": "PhMuseum 资助金是国际上追踪女性与非二元视觉实践的重要出口。其历届入围名单和个展呈现，都是了解当下全球身体政治、日常档案和地缘边缘叙事的第一手线索。",
+      "editorial_signal": "建立低门槛的跨国资助机制，让非二元及边缘性别创作者的视觉档案得以在主流艺术节与画廊中呈现。",
+      "theme_tags": [
+        "PhMuseum",
+        "photography grant",
+        "open call",
+        "funding opportunity",
+        "female gaze",
+        "body politics",
+        "exhibition opportunity",
+        "PhotoVogue"
+      ],
+      "source_name": "PhMuseum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAhVyG2pMM7jIbJmbqvgj6kSg9fpcz5K8IwA4kD9qz1nkdXBhgN5fzoSPrBYU3puOcpQx3yK5PLpZrD7fJKtGVGD5My8FJgsLS1D6fSkC8tLy5sj8jlfO-IvMrknM1Z3HhiyOqxFECI0D2_QE96_dVuogi8sIcvATXM0lfSZFOXA=",
+      "publication_date": "2026-09-08",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition",
+    "title": "东京都写真美术馆出光真子回顾展",
+    "why_muki_may_care": "出光真子的嵌套屏幕美学在当下数字媒介环境中显得愈发重要，是结合日常家政劳作研究、早期影像技术和家庭权力关系分析的先驱案例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOMWqxKeBr9y8M5ZWYC0YrTeoh0qWrKjRi_KZYtJSrbPohYxGYrtjOegdD-5cXE8TILYEjVH8loHF2wCX4zpWTpafPIbfKYIBvkq5eYJLtXdliP9ujzOArAwNAcf_kwYeLI7NsGHIA0HMeZQWkDgPWC5VsPwHHtZJ_mtanYJ20G4QNvlx_9iBgJR0mVxgz4KpSeA=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Tokyo Photographic Art Museum",
+    "The Image Centre",
+    "Tang Contemporary Art",
+    "Comfy Org",
+    "PhMuseum"
+  ],
+  "repetition_notes": "本期所有信号均为全新（New）的展览、工作流接入及资助机会。在 AI 创意技术部分，尽管我们持续追踪 ComfyUI 的生态演进，但本次集成标志着大模型节点正式从简单的提示词辅助向工具调用的主动智能代理（Agentic AI）跃迁。",
+  "issue_number": 57
+}
