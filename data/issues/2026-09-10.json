@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-10",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义策展",
+    "家庭档案",
+    "东亚现代艺术",
+    "计算视频生成",
+    "国际艺术驻留",
+    "活态档案",
+    "物质文化"
+  ],
+  "why_today": "今天的信号共同指向了“历史与个人档案的物质化重构”。从美国 Ruby City 将家政看护转化为编织与影像的物理抵抗，到伦敦 ICA 以“活态档案”重新定义家庭相册；从东京都现代美术馆用“光”作为物理媒介留存战后东亚的记忆，到新加坡美术馆向探索超越人类相互依存性的创作者敞开驻留。与此同时，技术端 VDN-H3 的开源突破则让长视频生成的计算负荷得以在消费级硬件上平滑落地。创作者们通过传统媒介的重新发现与新型计算范式的降本增效，努力夺回对个人与集体时间的主动诠释权。",
+  "intro": "在本次简报中，我们聚焦于物理媒介与数字技术的交织演进。随着艺术机构逐步转向对馆藏中边缘叙事的重审，纤维、家庭日常照片、甚至是光线的折射，都在成为对抗宏大叙事的微观档案。而在 AI 创意技术领域，开源社区对底层注意力机制的线性化改良，正在将高级导演级控制工作流的门槛推向更具普惠性质的个人创作端。",
+  "opening_signal": "光线在物体表面留下的痕迹，是时间的物理度量，亦是个体记忆无声的抵抗。",
+  "closing_signal": "从编织物的粗粝纤维到算法中的线性注意力流，媒介的物质性从未消失。它们在不同的技术周期中，持续为那些不可见、被遗忘的看护与亲密经验提供着能够落脚的物质实体。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Ruby City 举办女性主义馆藏展：以纤维、手作与早期影像回应家政、看护与身体经验",
+      "title_en": "Generative Disruption: Feminist Art from the Collection",
+      "summary_zh": "美国圣安东尼奥 Ruby City 美术馆宣布将于 2026 年 9 月 26 日举办馆藏特展《Generative Disruption》。展览由总监 Elyse A. Gonzales 策划，聚焦于 1960 至 1970 年代女性主义思潮如何持续塑造 1990 年代至今的当代艺术实践。展出作品围绕家政、身份、看护、记忆等议题，重点重构了纤维、纺织品、现成品、陶瓷、刺绣及早期非主流视频等在历史上被贬低为“女性劳作”的物质媒介。参展艺术家包括柳美和（展出《我的祖母们》系列中的《Yuka》）、Laura Aguilar、Nicole Eisenman、Wangechi Mutu、Mona Hatoum 等。",
+      "summary_en": "Ruby City in San Antonio will present 'Generative Disruption: Feminist Art from the Collection' from September 26, 2026. Curated by Elyse A. Gonzales, the exhibition traces how 1970s feminist ideologies influence contemporary works from the 1990s onward, focusing on domesticity, care, and the reclamation of tactile materials historically associated with women's work.",
+      "why_muki_cares": "本展将家庭看护与身体自主置于核心，展示了非传统织物与早期模拟影像如何作为反抗父权空间支配的物质媒介。这为研究身体政治和日常劳作的策展实践提供了微观切片。",
+      "editorial_signal": "美术馆通过重审馆藏，将传统上被降格为手工艺和日常家政的媒介转化为当代艺术的关键学术语境。",
+      "theme_tags": [
+        "女性主义策展",
+        "家政劳作",
+        "身体政治",
+        "柳美和",
+        "物质文化",
+        "Ruby City",
+        "影像历史"
+      ],
+      "source_name": "Ruby City",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4n_Jo4jr_u3k8s3EluMQ68CdEHzYyO0KChPPGJmTiIoqfEExOLznMxcBE0baTEZ3zoakRv0ZZmP_x4E1KojzsH5YBTWmsvKzWLTEOLafz2l3y5z4OL90laiS58Y260h5Ez0jh3N4J62Gx04u-MHZhGN8MJLLGwq-PlcspH_vV6xKCzR4j0634cHdK88wL",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "伦敦 ICA 举办 GLUE 书展与 Jesse Glazzard 个展：以“活态档案”重构家庭相册与边缘亲密关系",
+      "title_en": "GLUE Book Fair 2026 & 'Jesse Glazzard: The Sound of Dirt and Beauty' Exhibition",
+      "summary_zh": "伦敦当代艺术中心（ICA）宣布将于 2026 年 9 月 12 日至 13 日举办 GLUE 年度独立书展，汇聚超过 90 家独立和艺术家主导的出版商。作为书展的核心活动，摄影师 Jesse Glazzard 将在此首发其由 Self Publish, Be Happy (SPBH) 出版的新作，并于 9 月 12 日至 20 日举办个人展览《The Sound of Dirt and Beauty》。该项目以“活态档案”（living archive）为核心理念，通过镜头重新审视传统的“家庭相册”，探索酷儿亲密关系、边缘社群网络与个体记忆的交织。活动期间还将举办由 Ibrahim Azab 等艺术家主持的实体工作坊。",
+      "summary_en": "ICA London hosts the GLUE Book Fair 2026 alongside Jesse Glazzard's solo exhibition 'The Sound of Dirt and Beauty'. Published by Self Publish, Be Happy, the project reimagines the traditional 'family album' as a living archive exploring queer intimacy and community networks.",
+      "why_muki_cares": "项目将家庭相册这种平民视觉媒介转化为探讨亲密关系的活态档案。其物理书展与实体工作坊结合的模式，提供了观察独立出版与美术馆生态联动的新鲜样本。",
+      "editorial_signal": "独立出版与美术馆空间的联动，正在让替代性家庭档案成为重塑视觉分类学的重要工具。",
+      "theme_tags": [
+        "家庭档案",
+        "独立出版",
+        "酷儿亲密关系",
+        "活态档案",
+        "伦敦 ICA",
+        "摄影书",
+        "Self Publish Be Happy"
+      ],
+      "source_name": "Institute of Contemporary Arts",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZE93__ga21fFwMaip1D98CMJmIOPb25v2DDQ9Gg1T9af0wfx-5eDByw8XjtEIru6nPaq07O-3Exq4hueI-7BIs2jq4wjuSY7bEaSr59L7",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "东区域现代美术馆公布最新馆藏展：以“光与时间”为媒介梳理战后东亚艺术中的个体记忆",
+      "title_en": "MOT Collection: Past Light, Present Sight",
+      "summary_zh": "东京都现代美术馆（MOT）宣布将于 2026 年 9 月 19 日至 2027 年 1 月 6 日举办最新馆藏展《Past Light, Present Sight》。展览聚焦于战后东亚艺术中“光”与“时间”作为历史与记忆多层印记的媒介特质。本次展览重点呈现了多位新近入藏的女性艺术家与当代创作者的作品，包括小濑村真美（Mami Kosemura）的录像装置《四季草花图》、熊谷亚莉沙（Arisa Kumagai）的绘画以及土谷公雄、杉本博司、草间弥生等人的经典实践。策展探讨从星光到人工电光的物理重叠，观察其如何折射出历史记忆。",
+      "summary_en": "The Museum of Contemporary Art Tokyo (MOT) announces its collection exhibition 'Past Light, Present Sight,' exploring 'light' and 'time' as physical and historical mediums in post-war East Asian art, featuring newly acquired works by female artists Mami Kosemura and Arisa Kumagai.",
+      "why_muki_cares": "展览为东亚影像史研究提供了微观视角，重点关注女性创作者对录像和物理时间流逝的处理。这种将光线视为物理和历史印记的馆藏重构方法，对媒体考古研究很有参考价值。",
+      "editorial_signal": "东亚美术馆正通过媒介考古和物理印记的视角，重塑馆藏中女性和当代影像艺术的历史定位。",
+      "theme_tags": [
+        "媒介考古",
+        "东亚现代艺术",
+        "东京都现代美术馆",
+        "小濑村真美",
+        "影像历史",
+        "女性艺术家",
+        "馆藏重构"
+      ],
+      "source_name": "Museum of Contemporary Art Tokyo",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq4UUUKeCbxPqCZlrTg2AujwZ9KNgwBxDOAMHRnpg4Bv4DFN9prBpVWE8sashWLAukN6cEo9h91mmTZyYJQTgMmoMMyrsg1Wl4sxHM9O0Jp5oqRnPGKGdd535GWol8pKKyTYjqUxwgL4Riorea0E4Wx2dYLvlLYoRk",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "VDN-H3 混合注意力模型发布：大幅降低 MiniMax H3 算力消耗并实现消费级显卡超实时生成",
+      "title_en": "OpenVDN's Video DeltaNet (VDN-H3) Hybrid Attention Checkpoint Released for MiniMax H3",
+      "summary_zh": "由加州大学伯克利分校、德克萨斯大学奥斯汀分校及 Impossible, Inc. 组成的研究团队于 2026 年 9 月 2 日发布了 OpenVDN 项目的全新成果 VDN-H3。该模型通过一种名为“视频增量注意力”（Video Delta Attention）的线性注意力分支，替代了 MiniMax H3 原生的二次方长程密集注意力，显著降低了计算开销。团队释出了 8 步和 50 步的蒸馏权重补丁，可在不修改底层 H3 骨架的情况下运行，其中 8 步模型在消费级硬件上生成 14.4 秒 768p 视频的速度已超越实际播放时间。同时，社区节点 `ComfyUI-VDN-H3` 已同步上线，支持创作者在本地 ComfyUI 中直接应用该补丁。",
+      "summary_en": "Researchers from UC Berkeley, UT Austin, and Impossible, Inc. released VDN-H3, applying linear 'Video Delta Attention' to replace quadratic dense attention in MiniMax H3. Distilled 8-step and 50-step checkpoints achieve faster-than-playback 768p generation on consumer-grade local GPUs.",
+      "why_muki_cares": "这一突破降低了本地长视频生成的显存门槛。作为对 MiniMax H3 工作流的跟进，它表明线性注意力方案已进入实用阶段，能帮助独立创作者以极低成本进行音画同步探索。",
+      "editorial_signal": "线性注意力架构的本地 light 重量化实现，正在打破大公司对高分辨率长视频生成算力的垄断。",
+      "theme_tags": [
+        "ComfyUI",
+        "MiniMax H3",
+        "计算视频生成",
+        "线性注意力",
+        "开源模型",
+        "工作流优化",
+        "独立创作"
+      ],
+      "source_name": "ComfyUI Wiki",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdi79-HQRET4ihg8J9Np351A0ZBZHBiZ28ol1v_6OZ_gWBtgMnhYM-2gF4tHSYlyX1l_KUDZ__T3ASkeMQs8KruV6MogfK7sWM13o7CBHBiCkJ464ug55dDJRoazkx-TVMbYQmUxdUAA==",
+      "publication_date": "2026-09-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "新加坡美术馆启动第四届国际驻留招募：支持跨学科创作者探索材料文化与超越人类的相互依存性",
+      "title_en": "Open Call: Singapore Art Museum (SAM) Residencies Cycle 4 (2027/2028)",
+      "summary_zh": "新加坡美术馆（SAM）正式开启第四届国际驻留计划（2027/2028周期）的全球申请，截止日期为 2026 年 9 月 30 日。本次招募面向全球艺术家、策展人、教育工作者 and 跨学科研究者，驻留地点位于新加坡丹戎巴葛分销园的后工业仓库空间。招募包含三个核心学术方向：“倾听/协调”（回应时代社会政治紧迫性）、“制作/物质文化”（探索物质探究与切实制作过程）以及“超越人类/相互依存”（研究人类、技术、生态与其他生命形式的关系）。美术馆将提供专属工作室空间、研究资源、机构网络支持以及开放工作室和工作坊发表机会。",
+      "summary_en": "Singapore Art Museum (SAM) has opened applications for Cycle 4 of its Residencies Program (2027/2028) in Tanjong Pagar Distripark, inviting global artists, curators, and researchers to apply under three thematic strands: Listening/Attuning, Making/Material Cultures, and Beyond Human/Interdependence by September 30, 2026.",
+      "why_muki_cares": "对于独立策展人和视觉研究者来说，它提供了一个在后工业现场进行长期田野调查并融入东南亚艺术生态的重要平台。",
+      "editorial_signal": "地缘美术馆正通过将驻留课题转向“超越人类的生态与技术相互依存”，来推动新一轮的后殖民与跨学科知识生产。",
+      "theme_tags": [
+        "艺术驻留",
+        "新加坡美术馆",
+        "物质文化",
+        "技术生态学",
+        "跨学科研究",
+        "国际公开招募",
+        "策展研究"
+      ],
+      "source_name": "e-flux",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMnHn2u33EOC9dVR_2mQfAHJGGX2AgTTW13hjSFVFxSdaKBHcKSY8BnWBjBYv4Xy3XAfzo9YAT9402s61LmxztzPF312OfCHmsgEUBKp_PcCRVV8v_HIt-Uqrk4CNMysUyYfVJvDWAih254FuEaMwYJUkxHygHhIG7PjKFcaEp02A5QWiiTCWp2LQvJds=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "AI Research / Creative Tech Signal",
+    "title": "VDN-H3 混合注意力模型发布：大幅降低 MiniMax H3 算力消耗并实现消费级显卡超实时生成",
+    "why_muki_may_care": "它标志着本地 AI 创意工作流在算力去中心化上的重大进展，让独立创作者无需依赖昂贵云端算力即可高效运行长视频一致性控制。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdi79-HQRET4ihg8J9Np351A0ZBZHBiZ28ol1v_6OZ_gWBtgMnhYM-2gF4tHSYlyX1l_KUDZ__T3ASkeMQs8KruV6MogfK7sWM13o7CBHBiCkJ464ug55dDJRoazkx-TVMbYQmUxdUAA==\n"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Feminism 250: Woman Made America",
+    "A Slope by the Sea by Kan Xuan",
+    "Constellations of Difference",
+    "2026 Paris Photo–Aperture PhotoBook Awards (deadline passed)",
+    "LensCulture Photobook Prize 2026 (closed)"
+  ],
+  "covered_entities": [
+    "Ruby City",
+    "Institute of Contemporary Arts",
+    "Museum of Contemporary Art Tokyo",
+    "Comfy Org",
+    "Singapore Art Museum",
+    "Self Publish Be Happy",
+    "Impossible Inc."
+  ],
+  "repetition_notes": "关于 VDN-H3 模型的发布，是对 9 月 4 日及 7 日简报中提及的 MiniMax H3 噪声遮罩、底层驱动和时间线导演级控制插件的纵深技术跟进（Follow-up），展现了开源社区如何通过引入线性注意力机制快速突破消费级显卡在长视频生成上的算力物理瓶颈。其余 4 项信号均为全新的展览策划、出版联动及地缘学术招募（New），其中东京都现代美术馆的最新馆藏展虽与此前的‘共时星群’展同属一家机构，但在策展线索、所选媒介（光与时间）以及入藏新艺术家（如小濑村真美）方面是完全独立的学术切片。",
+  "issue_number": 58
+}
