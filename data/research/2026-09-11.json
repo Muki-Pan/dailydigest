@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-11",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki: Research Dossier & Evidence Log\n**Date**: September 11, 2026 (Asia/Shanghai)  \n**Issue No.**: 059  \n**Search Window**: Past 24 hours (expanded to 7–10 days for deeper curation)\n\n---\n\n## Part 1: Selected Cultural Signals & Evidence Dossier\n\n### 1. Feminist Structure Signal\n*   **Exact Title**: Hammer Museum Announces Fall 2026 Exhibition Lineup: Huguette Caland & Mavis Pusey\n*   **Specific Source URL**: [https://hammer.ucla.edu/exhibitions/2026/huguette-caland-life-few-lines](https://hammer.ucla.edu/exhibitions/2026/huguette-caland-life-few-lines)\n*   **Publication Date**: September 10, 2026 (Exhibitions open Sep 27 and Oct 11, 2026)\n*   **Verified Facts**:\n    *   **洛杉矶 Hammer Museum** 公布了 2026 年秋季大展的详细排期与公共项目，重点推出两位已故抽象女性艺术家的双回顾展：\n        1.  **Huguette Caland: A Life in a Few Lines**（9月27日至2027年2月28日）：该回顾展在欧洲巡展后迎来美国首展，展出约 150 件素描、绘画、雕塑和织物（包含她标志性的手绘人体长袍/卡夫坦）。展览由 Hannah Feldman 策划，系统审视这位黎巴嫩裔艺术家（1931–2019）如何以幽默而极具情色张力的线描与感官抽象，挑战地缘文化、性别规范与衰老肉体的表达限制。\n        2.  **Mavis Pusey: Mobile Images**（10月11日至2027年2月28日）：这是牙买加裔美国抽象艺术家 Mavis Pusey（1928–2019）在西海岸的首个大型博物馆调查展，展出其 50 年职业生涯中的 60 余件作品。Pusey 曾在黑人艺术家普遍被要求进行具象创作的时代坚持几何抽象。她将都市废墟、建筑拆毁与工业重构（如“Broken Construction”系列）转化为抽象线条，映射剧烈的社会变迁。\n    *   **平行项目（Hammer Projects）**：9 月还将推出巴西艺术家 Gê Viana 的个展，她通过声音、动态影像和拼贴重组早期摄影技术，将地缘日常记忆视作“未完成、有缺失”的结构，批判性重构非裔巴西人的历史档案。\n*   **Relevance to Muki**: \n    *   提供了失落女性现代主义抽象史的绝佳研究个案，展示了艺术与身体、时尚服装及都市基建（劳动/拆建）之间的肉身化关联。\n    *   策展人 Hallie Ringle 对 Mavis Pusey 长达十年的“侦探式”学术打捞与文献重建，以及 Gê Viana 视档案为不完整建构的拼贴实践，高度切合 Muki 关注的“女性劳作、未写就的活态档案”和“去机构化策展叙事”研究。\n*   **Duplication Assessment**: **New**（全新信号。此前简报从未提及 Hammer Museum 的这批大展、艺术家或策展人）。\n\n---\n\n### 2. China / East Asia Signal\n*   **Exact Title**: A Life with the Mountain: Wang Wusheng's Vintage Photographs\n*   **Specific Source URL**: [https://www.chinadaily.com.cn/a/202609/10/WS66dfebdca3103711928a7353.html](https://www.chinadaily.com.cn/a/202609/10/WS66dfebdca3103711928a7353.html)\n*   **Publication Date**: September 10, 2026 (Exhibition runs September 5 – November 8, 2026)\n*   **Verified Facts**:\n    *   **北京三影堂摄影艺术中心**开演已故摄影家王武生（1945–2018）的个展《山之生：王武生的复古原作》。这是王武生逝世后的首次个展，由著名艺术史学家**巫鸿（Wu Hung）**担任特邀策展人。\n    *   展览汇集了王武生自 1970 年代至 1990 年代创作的 60 幅黑白银盐原作（Gelatin Silver Prints），呈现他历时三十余年、近百次登临黄山所拍摄的黑白风光。\n    *   策展人巫鸿将王武生的银盐工艺实践放进更宽广的历史谱系中。他指出，王武生的镜头是对 17 世纪起（以弘仁、梅清、石涛等为代表）中国黄山山水画脉络在现代摄影媒介上的承袭与转化。在 19 世纪后半叶摄影术传入中国后，王武生的实践以极其克制的黑白质感、花岗岩峰林与云海构成，重新回应了古典墨法在机械复制时代的精神转译，构成了当代中国摄影史与国际摄影地缘交流的重要切片。\n*   **Relevance to Muki**: \n    *   展示了如何利用西方现代化学材料（银盐摄影）进行中国古典风水意境（墨色变化、散点透视）的媒介考古。\n    *   巫鸿的学术框架对于理解中国摄影地缘视觉史、图像在代际和媒介（宣纸与银盐）之间的挪用与转译提供了权威方法。\n*   **Duplication Assessment**: **New**（全新信号。虽然前几日简报中关注过北京 798 艺术节与蔡东东的暗房干预，但这是针对王武生遗产的系统学术梳理，策展方法具有独立的艺术史高度）。\n\n---\n\n### 3. AI Research / Creative Tech Signal\n*   **Exact Title**: Saganaki22/ComfyUI-Viggle-Animate-H3 (Viggle-Animate: H3 Character Replacement From a Single Repainted Frame)\n*   **Specific Source URL**: [https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3](https://github.com/Saganaki22/ComfyUI-Viggle-Animate-H3)\n*   **Publication Date**: September 9, 2026 (Continuous node features deployed Sep 6–9)\n*   **Verified Facts**:\n    *   开源开发者 Saganaki22 发布并更新了适用于 ComfyUI 的 `ComfyUI-Viggle-Animate-H3` 节点包。该工具基于 **Viggle-Animate** 模型，这是对 MiniMax-H3 底层 `ref2va` 视频变压器（33.1B 参数）进行的完整微调模型，专门用于视频中角色的本地高精度替换与动画化。\n    *   **核心机制**：用户输入一段“引导视频”（提供动作、镜头路径、环境照明）和一张“静态角色图”（提供角色身份），模型即可在本地重绘视频中的角色。\n    *   **技术解决点**：原生的单次推理节点（Viggle-Animate Conditioning）有 124 帧（约 5 秒）的物理瓶颈。新发布的**窗口化变体（Windowed Variant）**通过将长视频切分为 overlapping 窗口解决了这一硬性限制。在重构时，它不进行全局重绘，而是**重用前一个窗口已编码的 17 帧 VAE 模块**，从而省去了冗余的 VAE 编码计算。配合 pruned int8（20.3 GB）模型与 DMD2 LoRA，该工具支持在 24GB 及以下显卡中进行仅需 4 步的高速视频动画生成。\n*   **Relevance to Muki**: \n    *   打破了此前由云端封闭 API 主导的生成式角色动画控制（如商业版 Viggle 服务），将高难度的角色与视频动力学匹配工作流彻底本地化（Local & Open-weights）。\n    *   窗口化节点中的“VAE Block 缓存与复用”设计对多轮视频智能体工作流中的多帧一致性、局部幻觉控制和低算力耗能极具参考价值。\n*   **Duplication Assessment**: **Follow-up**（对 8 月 31 日、9 月 4 日、7 日、10 日简报中 MiniMax H3 底层逻辑及开源生态的纵深技术跟踪。此次模型和节点包的开源标志着本地视频角色控制真正跨入生产力闭环）。\n\n---\n\n### 4. Archive / Long Read / Opportunity\n*   **Exact Title**: Camargo Fellowship 2027-2028: For artists, scholars and thinkers\n*   **Specific Source URL**: [https://camargofoundation.submittable.com/submit](https://camargofoundation.submittable.com/submit)\n*   **Publication Date**: September 10, 2026 (Open Call Deadline: October 1, 2026)\n*   **Verified Facts**:\n    *   法国卡马戈基金会（The Camargo Foundation）发布了其旗舰项目——2027–2028 年度**“卡马戈奖学金”（Camargo Fellowship）**的公开招募信息，截止日期为 2026 年 1001 日。\n    *   该项目面向全球范围内的成熟与中期职业艺术家、学者和跨界思想家，资助其前往法国卡西斯（Cassis，地中海沿岸）进行为期 **10 周**的独立研究、艺术创作与学科交叉试验。本轮共提供 14 个名额（7 位艺术家，7 位学者/思想家），资助包含每周 350 欧元的生活津贴（总计 3,500 欧元）、往返卡西斯的交通补助，以及设备齐全的带独立暗房/琴房的海景公寓。\n    *   **历史性改变**：基金会正式宣布，**本次招募将是该项目历史上最后一次面向公众的公开申请（last public open call）**。自 2027 年 7 月起，卡马戈奖学金将全面推行“不公开提名制”，取消自由公开申请渠道。因此，本次是全球独立创作者和研究者不通过体制背书、直接申请该顶尖学术驻留的最后窗口。\n*   **Relevance to Muki**: \n    *   提供顶级、不带硬性产出考核（non-prescriptive）的纯纯研究型和创作型地缘驻留机会。\n    *   适合 Muki 长期跟踪和申请，且极具时效性与紧迫性（最后一届公募）。\n*   **Duplication Assessment**: **New**（全新机会。与上一期推荐的新加坡美术馆驻留属性完全不同，针对独立的欧陆研究生态）。\n\n---\n\n## Part 2: Section Status & Exclusions\n\n*   **Empty Sections**: \n    *   `Visual Culture Signal`：本期没有填入该版块。虽然日本东京都写真美术馆的“TOP Collection: 明日的餐桌”展览（Tomorrow's Dining Table） 以及伊斯坦布尔策展人与日本合作的 70 周年纪念展等正在进行，但它们开幕较久（TOP 展早在 7 月开幕，9 月 21 日即将闭幕），为确保简报“事件必须新鲜、未来一周内依然重要”的标准，故而决定空缺该版块。\n*   **Excluded Topics**:\n    *   *Idemitsu Mako: What a Woman Made (Autobiography of a Video Artist)*: 出光真子在东京都写真美术馆的回顾展是极其强烈的女性主义策展与媒介考古信号，但因已在 **2026-09-09.md** 简报中作为核心头条推荐过，故根据“避免在一周内重复推荐同一机构和艺术家”的排他性政策予以排除。\n\n---\n\n*This is the research dossier and evidence dossier for Asia/Shanghai (2026-09-11). Please proceed to the final editing stage when ready to format into the strict JSON schema.*",
+  "citations": [
+    {
+      "title": "ucla.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiG6l5hQBtVsnrKf8i3Sl854pnX4tBYhXkYy3ZruyLLU4Hg0SIaC1vKwJQla4n-EQampiwe2_wuoruUuqkpGJUvgkpOlfCxx8F3PGtaAFaeQew5vOa73h9Zif6t1XHfXzqteoVU1430JlvYs_CEU0LYwY5uuMIQSvU9BRgt4rQXfi-JYxfVwmwlc0sM-Gn_TarRZILgEJxKIlr5nQo8DwdLzLpY3_gEoc="
+    },
+    {
+      "title": "ucla.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUORYmfBlfSPHf73lI8-pZVP9PNKx6Tm9lGEH9nIXnK0VmHpaiZs-CKtxkar9A_OGy_Ws767A-LDu280QkXakDKE1CoHS_s3Sxl3ALx-4pPNzRWlAlDpv1QCeh26FiA7Uumv3yDElRxASLjBJ_ewgQhkDdCrW2GSLD8wpVQaio910DJJYPrJFtvmeGoBS3-qsVT_WfQF5EKKmblgEWaGdsd2clGVi5Ag_o1OQ="
+    },
+    {
+      "title": "ucla.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELLBvqyVmkKiUzkxONleF7TKxi0omEnBFmCJmM-o3g_kQiGlBM9ICNW6ddxZZv_vYRU5xfn8JgTptErwQIzcBmc7Yygvy6o04ZB5JMhfVYDpnu3A1TBHKAfwWyoVhrKRG0EmqkDLzCTJ8FwBlaTBSFEFVEEd38eR8D_NYH"
+    },
+    {
+      "title": "beverlypress.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqq9rZwj9r7_5BJbI9uXNEPB7njMuxvfDhKO8p_aiwmFwGDmHaLNpCeCOUUdhs0f-qzUkJFIhfyDPkvn_IbjNGbMs_9tdWa8b6JAPAvBI8RI51SMigG_M3IMAXY88="
+    },
+    {
+      "title": "beverlypress.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTtyD4WdZKJy8ZoOLa4fjctsCDJFD0eTZ3MT01wTfCrZ8zDXh8bJ2PG9EODpa95YeMt2-pwvMup8vpaR6kFJIfurR6carqe5y1F7vYQaDteBZqNVkBnxXEHPxeQHoozBUEfa5F6S7RGcHmxShUMuwN6tsL4UvJCg_4QodPgmk="
+    },
+    {
+      "title": "blogspot.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd-r7HcQodgNJGEx6LYWLn4xo1HqPg-BelcnpLFbjo0iUJoSj8qqQua2OQA6AUM30LXPP6_jPiUwjKrOPKAJXz2RqwJn5Zr87hON2ffLmrAUZ1OEJp6B4z_99uUnfwCa00-bNOGdNV82zGkHwDMExT1RLihbuIBXXrW4s3VpOShvx9Jnp_cCpG"
+    },
+    {
+      "title": "delmonicobooks.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2BHIM0nr2UBSJ2X2RAxsbgHCnd9R0H6jbSxxrEkM3krJLV9JDxF0W483Gq3LQe5wk5fk0s7p9v-8DN9J5RNhz82_u7NiI4q5vYK_lGZnO6nQH4VNA4HD8ps2E8Oda10TKJW3pk8nQhWcpJn6VizG2FkofuIhrNpbi73s="
+    },
+    {
+      "title": "ucla.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9K7yBzD-NSV99JGUfANmTX1q_mmslIcJKP0MBI5VWhTaDZ7j36q4yhfXqCsOa7uA2QpfhEskYIXDePvNBp111z0KrzBDPi1dcCF85UOVFkXVgJwW1EK_2Xg56wTzx47cyiVO7YKErtXzGRhrAtaHPs3X4jCsWfQ=="
+    },
+    {
+      "title": "culturetype.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-nm0VOTsTXNFwND_MGGcBdcwUyd8pEqm85Nw454bjhS8q7rVkxw1NQDnu1OoFjwrRvIOc3sMvHrb_76btAQyyt6BzTeVTV97b1MDDhxhiC_x2sEiWzaSbkL_jE33ZV8MKeWopkzRP5AfMQtYwODXectwT2JyJ2RpiLBQ-EtPwUWvknGkEVdSWY5Wugq8h5BYOgKXMqUnJxErN1ldXF_q1Q4RCp5QEksc5BUoaiaKU-KKI5NUw0Iu-cmwKFL1CjoRngX67m9D6K6is"
+    },
+    {
+      "title": "repeatingislands.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETCThQmZmnyrdQxrDX5k8nRIwICe0pvzyOsrTq-rmSI1LQ4n2kYyOJdVLwWsOeCpnmqZkR5bExWWPZAUFQGhdDW_Gt7ffbvEL6v0QpnZFr_SlGVUU_ZV-IxZy1Jl_Y_SGefGjDX_d4mm1AnSzhbFQx7oBXGUEI1yZV8iqzxC7MGuxa"
+    },
+    {
+      "title": "aestheticamagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOt_74qlKQuC3u423amlC4rXOmdzI1WZBOlIML4qCFcr3DM9H6kaH4q8SOQEVZhryi4cN2ts8vMkImckU5bMK8GeSbVDKR-aJe-WdGXA5tZfgJ_n4Pt-SEJX1v8yi-4xd4TbzL8H16w6aFgVGcAp5D74m1xnSjcs4UuyP1"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJs9azuNT0PMV6JzG-x2raNx09eP32X3umrUa9erAdIWHusbFg2DTY1mV6pRIrRysAcezvDxcKmJStJKTEPQy4WIbT0d5dCjo11aeNHOzq8ssAuZnDKF9xaJ-A77CgnJhlqDPU9Xyx3QerRnqrSrflW256gEx4eT1iAgog0GhJABZwb1IlFcsr_56XpvZDBWOo0KInT21oa9hPoPPb_hMa-1O3pyc8IjOOdFA_kvHCZvqZn44FrPiWXI1XhV7X44KowaWORvjm3EeDvwBFqBlGc--org6_6z5f_g5JuBsS1p1L7qObFMo6pdDTY3ktjT4ByeooEvhazIrERWJG2XIalHDLg_YALAQWGscvctOBsxZRibtvwY2l36MlwUQy2UCKfL36RJWZOTIzQhM5hSRb0KzjmPnMh-zXYOKlzwP4mXHbHxKI-6seFocWLJ72h5RD6pUl2vjaHFW3XhEgxUeGjudoLHgRxiJHBuMaYkk9kw9NCpZ2M8SSC3jxb0NLMULaabqcNtKXDDlRj5GouIyaS5BrDzPWMSf1amxwc4aQJx7oKMJhlUsySjq1VWifBpTdmJyOMP-QlGRjbmULRTAJExna8JfDdJwRQKLsTAQDGbBRCgN5BnD7pmo4nSOHMZvOP5TnKiFaAYgklNPqnyarPemWZOnIv_fwpgtKl4M6EU7R3AflYbznvanWEP---Hxcl3S94a4ZBB0Urja83sJaOgNpENDLm72CmyYUbRUqKsuMJySil8Sxz7bEf8-SxXX8PpBEjqdiO7RZwxxVmz8yiJrjfygUqJ_VVHuXjDzc9oL7x1TFKTZvdcUiWoeSTc5KCLIGe7jyvNpegOl7l-RkIDE8JfFi6eGqlhh-YMieaOBllOHIuUbcaYAWN41gbr0vQwyT3iuCU8hIs9eZWE4juATkJl4EGww7ORnlA88OE-1texaftmJHh59xntmkaPU_tzGSjbuP94ZL1QRFVjNDyQjA2_p2f1pz5Q=="
+    },
+    {
+      "title": "chinadaily.com.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcj7fwfX4RHXUQD0xonNi0p23rISXl7bgsE19bR4ZmR1BhrcNZUTeGZi0p_5atfpEC2-Q-3Djz7RF25iwwSx3BqE6uaTAaqqgqz-6ZFvEF39A9oqgwDO6JaGArvQVkWJMZoXyA08fSGaLl48Fm7UFYuHYlCZcY9logM2bSfig="
+    },
+    {
+      "title": "comfy.icu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEts22ttBo0wyZD4YC79Q4KgiWWzQg_G6lNjd9ZGSTmPj4Dn-9hnuAmM9HraxJnuMmqsYRRupAqa3YMKZYLIfXo3sO06jN_HQw5bcBzAp2QQcgg5NFrEq6QTMqXT6LYkCYdMbj6Bw=="
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO3btd7t0w11bvSbZcvU-Z6qy6u6qiZsX3vc2FAfi83iOXWe3L-jV9GDHZgLgAW-fKkthbakvAppJGauxIrf-dgkRnIi9yxLG5frt_vR5bRlFBpLccKW3e7gzJcryFuWWp3gAcQa591cUB5lc3wTc="
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtSvp4Cm9jB_ej8JC4wOBAHbmyCDWR8E1-yVKh7GEyoRr2NQkrGRV4uJMdM9XmlLh0HT6JaVLmZoBD6Gfdr-vIdqWVh4IBRU6ivU1bDdN9RbkTSNGcwX55C1nYnnhU2yANBUyIdAxkFns="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGud6KMOqTvQ-eSMAnlltGSpeTsSuHOQ65g2838IHIEKxrGQ8jqjhPYu73o9rmC-kRGnEn_-TSZDtt2MGbvdX6yN7j0nNLa43XJeJrETuqNtZzvA7ho9ylDCSX3IomPbvafeFXMmxWSV7LqS32honWN2wPIYSvR1OHe0mGZT-jXj9kFl9DTQtmcHBG000WMvomgQ-STK1qVakM9"
+    },
+    {
+      "title": "comfy.icu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs8-XhpAuMVUOUMOz1hdURbm-uydbhxTfkEJeBi0yj1Bcid5MY-VU3IoinKI24yjqXHtgniclxjX8o7_2QrHu4e1l20pgkBTJuS7UmdOrMANeyFWNz7F_dFIYNh-TraMTQH1NbSey7JjEJwoFK"
+    },
+    {
+      "title": "camargofoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuozqXgp4V2Te4pElv46cUm9X7DduU7ufXv34QIIyEzics40DKSVX0_ZNn4OwHlbNgbBo1EDqDnnmtEKCqSJI2Pg74xnYr_DiUgyPTsqXIcexyZwxCKnaSUbtiv62-_K10aKSd_HaRpKOpENuZSIb_6_7i"
+    },
+    {
+      "title": "atomgrants.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn1ZTJxODAwdUoZkp85Y3K1o5GXJrk3qUAeur4D7xXnKI_BvNnINnrLpUuWKxn9h2sYHhkWJ745v-asQx5f6Iz6Qm-hlKZVBrxLwNz17c-ks8qfSFLP2hI1rX3v3jwOKQ0yLVxLytXTjVukHKC-aT_gw=="
+    },
+    {
+      "title": "opportunitiesforyouth.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUWfgTM8ngxHp6s_bTtzyNKGXAzDb3xE-mYAoYViDqRyg_e1cSNwSuF3yGJEgqWaLGyX0hSd2dSvO471XMNEurzJ5zYGm8iKSMzpAw9U-icYZi89v8zHxIj_-xx8j140jMpvb-42TvF7LbWZEq8mDDqHRweATr-6gx3tMbxD_9-7f9Qv0t3KrPI8p_C44bb9pAagx7N8C3YoKFNtIJv-JjKGWUOoW03sS7Qw9aTnT36aRCXMS3ASjWauZL4SJcRQ=="
+    },
+    {
+      "title": "callfor.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUg340eHv0JqRLT4Q4STESM33TDYULo5qfpXanFxD1NYbiqEpFqyiUAFMqtGY0JtkAHK7-j8y7k7Lgiqj0eBjsf1eYZP9oznabupQek_lnXE4TNmeY0XUPjfsKpyIjKLIs"
+    },
+    {
+      "title": "globalsouthopportunities.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHzgX2w_X-A4ZmqmyppwhDvHn-qwFeeeFypTv5EH-TETFLvlK-DxAfhM_cxfKaz5Y9pu1CSKylUuhJni00KhUszSj8YmEHUJOWneMI2BYj3qZJfHgtjWsJpBgWMEnYIUK4ylLJ9O5WsOZ6yxQmjGUT2g9jR4o5mTzD"
+    },
+    {
+      "title": "greatyop.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-uex8AUhVdxVc49wTl9SQ0_gXsoBA8aX0_gal2LeBUB9-cX1lCqGLS20ScbkTDdlRfWnosxcdLjaHYsGOFQqCz_S1oXdC8RN5E5GT_jSShhOHehbPLytFy-GxetLOt0M="
+    },
+    {
+      "title": "callforcurators.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7BOEZrvaftnDXDfeBkoZkABG-PboP7-hfLb9980Cq4780oLr5Zy8P7nSibCJiRhP9LQH4mnY5NqbLlwOlCNm1G3DkjFAL5VhY-cmvu6ePTFJn4SaBHvR46CkTDAjmI4OF2ryDAEF_1qnuRGVPxM17wouGCc3fohwxmUWRXcrEbFK_f5C4_V7zsQPJnYMO4gIaGjhjToM="
+    },
+    {
+      "title": "literaturport.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRVZaTP2NTtGe1zyASWLep0izvPMBVL6W0Ze5vK9B11yAVRDYYew6woGO98cEaWuu-jahjQ7XMrzsTJbiS6wroLYr7q1a0Erfa7yiWySQJnHQRSeRB4gWx46zl4fax7m5JkVk23abif-GvRjO-bvAxq4pK0NadonRwdQbWLYdSDGAaLs3tPE2H_0TEZQq6o2Kdnyo="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiFRbxjc62lCc9AadbDtAWCrFrvGVoonxswr5OLzMk5cEtWfIvOT9Cl5mxZKeHBFGcsTtW-7SujjYmwEUJLkiwuJfhRk0TvFE2c16-9N5ROaWmB3lovaQxhcnkwsl2APg8sb0="
+    },
+    {
+      "title": "iletisim.gov.tr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzMDQ19JhWR4Zi_IjSn67jZloExCczby7qk3oqomiGo5fAbIj5p5Gj5k5k8uEzMNBB6kOjHfGl2covynHj1MLWxpLmDCYHk3EuztO-aW8jRA4aN_lleZT_CvQVUEVkPr6xKkONe0QtDfL5yf5rKG1YHq_dZqgoXuufzIQjvtZdAwQs9EMICcABzEJ8Wf79pBY8gUHU_A0Q7VBp0lRjEajB2cW2Gfk4HUbZ6mckcKuMtxHDjdM="
+    },
+    {
+      "title": "placestoreset.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWKG78t_17MsgNERVpNciemooZFkhougo3-wZaAIybSxmIhV1kPuauNsdISj4CJzo3iszEGM6EbY5ioDsp5jVaTlgoBM3hM1dgJu6y-NyTkrha6CCD_GnAnRSiv1Mn6jE="
+    }
+  ]
+}
