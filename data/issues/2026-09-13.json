@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-13",
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义策展",
+    "日本摄影",
+    "ComfyUI",
+    "稀疏注意力机制",
+    "东京双年展",
+    "身体政治",
+    "社会介入艺术",
+    "马丁·帕尔"
+  ],
+  "why_today": "今天的线索聚焦于身体空间秩序的夺回、地缘图像机构的建立，以及开源长视频生成工具在底层的效能跃升。从 MoMA 梳理的公共空间身体政治，到首尔开馆不久的首家公共摄影美术馆举办的马丁·帕尔回顾展，影像的社会学与地缘语境在此交织；同时，ComfyUI 核心代码库引入的稀疏注意力机制与内存编译器，为本地化长视频创作提供了更轻量的算力解法。",
+  "intro": "本期简报重点关注身体政治的视觉分类档案、东亚最新落成的专业影像美术馆及其首个大师回顾项目、本地生成式视频工作流的物理性能突破，以及面向东京地方文脉的国际策展与艺术研究机会。",
+  "opening_signal": "影像不只是对物理空间的复刻，更是一张标示权力与身体边界的测绘图。",
+  "closing_signal": "当物理空间的身体边界在公共秩序中不断被重绘，数字媒介的底层架构也在通过更轻量、自主的方式，夺回个体在图像生产中的计算主权。这种从宏观社会观察到微观技术工具的同步演进，正在让独立的创作空间变得更加具体而坚实。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "MoMA 举办《夺回我们的空间》特展：以女性主义与交叉学科视角重审公共空间中的身体政治",
+      "title_en": "MoMA Presents 'Taking Back Our Space': Re-evaluating Body Language in Public Spaces through Feminist Perspectives",
+      "summary_zh": "纽约现代艺术博物馆（MoMA）推出特展《夺回我们的空间：摄影视角》，将西德艺术家玛丽安·韦克斯（Marianne Wex）于1977年创作的里程碑式项目《让我们夺回空间：父权结构下的“女性”与“男性”身体语言》与七位当代艺术家的作品进行对话。韦克斯的作品包含数千张在汉堡街头偷拍或从画册、广告中收集的分类照片，用以剖析公共空间中性别化的身体规训。本次展览首次将这些历史档案与 Nona Faustine、Martine Gutierrez 等人从黑人、酷儿和非二元性别视角出发的身体实践并置呈现。展览同名目录收录了韦克斯未发表的访谈及与当代艺术家的对话录。",
+      "summary_en": "MoMA presents 'Taking Back Our Space: Photographic Perspectives', placing West German artist Marianne Wex's landmark 1977 visual sociology project in dialogue with seven contemporary artists. The exhibition and its accompanying catalogue explore gendered bodily socialization and contemporary intersectional, queer body politics in public spaces.",
+      "why_muki_cares": "韦克斯将成千上万张日常图像进行网格化、结构化的分类展示，提供了一种极为经典的视觉社会学和媒介考古学方法。本展展示了如何将早期女性主义身体档案与当代的非二元及去殖民视角进行创造性的策展并置，对于研究影像档案的社会机制和女性主义策展实践具有直接的参考价值。",
+      "editorial_signal": "通过对日常姿态的网格化分类，历史档案在当代酷儿与交叉学科视角下被重新激活，转化为夺回公共空间身体话语权的视觉工具。",
+      "theme_tags": [
+        "Marianne Wex",
+        "MoMA",
+        "女性主义策展",
+        "身体政治",
+        "视觉社会学",
+        "影像档案",
+        "公共空间",
+        "交叉学科"
+      ],
+      "source_name": "Museum of Modern Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM2cET71LgXGYPDBJfD6PALPyaseQ6lF6Xpt-0xo9qkE5XNzeY83PvzY4N4H-k6ZC9_zxe1zYJyisPmzUMeVyQj2vZeuihOA0Vts_mzAqJBaMzEpH3wHXGdlRBfelIWZV9tUk=",
+      "publication_date": "2026-09-08",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "首尔市立摄影美术馆举办马丁·帕尔回顾展：在东亚最新专业影像机构中重温消费主义纪实摄影",
+      "title_en": "Seoul Museum of Photography Hosts Martin Parr Retrospective: Re-evaluating Consumerism at East Asia's Newest Image Institution",
+      "summary_zh": "首尔市立摄影美术馆（Photo SeMA）举办纪实摄影大师马丁·帕尔（Martin Parr）在亚洲的首场大型回顾展《Martin Parr: We Are Martin Parr》。作为韩国首座专门服务于摄影的公立美术馆，该馆于2025年5月在首尔仓洞开馆。本次展览展出帕尔横跨50余年的14个重要创作系列、500余幅摄影原作以及他一生出版的全部89本摄影书。其中，特别呈现了他在1990年代末至2000年代初访问朝鲜半岛期间拍摄的纪实影像，包括首尔大型超市中的消费品和景福宫前的游客，以其标志性的高饱和度、近距离凝视记录了东亚世纪之交的消费社会景观。",
+      "summary_en": "The Seoul Museum of Photography presents Asia's first major retrospective for Martin Parr following his passing. Featuring over 500 photographs and all 89 of his photobooks, the exhibition highlights his documentation of consumer culture, including rare series captured on the Korean peninsula.",
+      "why_muki_cares": "这不仅是关注马丁·帕尔死后首个亚洲回顾展，更是对东亚影像建制化地标——首尔第一家公立摄影美术馆的学术跟进。帕尔对世纪之交韩国消费社会的摄影呈现，为我们理解东亚现代性与纪实摄影书出版生态提供了关键的历史物证。",
+      "editorial_signal": "新成立的地缘专业影像机构通过引入大师级回顾展与本土纪实实践，确立了其在东亚摄影书与视觉档案整理中的制度化地位。",
+      "theme_tags": [
+        "Martin Parr",
+        "首尔市立摄影美术馆",
+        "纪实摄影",
+        "摄影书",
+        "东亚现代性",
+        "消费主义",
+        "影像机构"
+      ],
+      "source_name": "Seoul Museum of Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHOFCg7FHVZqezcoqSwLiCMXXkbx2ToR1WW0drbly7FGthVt-FlAjF5BWhp2mNlGbcIltkSIo9i5Jc2mZ9N8-ktifmcK_zYBM8dfgfOUMnhxhQXkRd5jLdZlPSx83_wg8Yj-k4trW_nG6OAZC8pGC8mnP0qanGt_g=",
+      "publication_date": "2026-09-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 核心代码库引入稀疏注意力节点与内存编译器：大幅优化 MiniMax H3 消费级长视频本地生成",
+      "title_en": "ComfyUI Merges First-Party Sparse Attention Node and Comfy Compiler to Optimize Local Video Workflows",
+      "summary_zh": "ComfyUI 官方代码库合并两项底层优化更新：新增核心分块稀疏注意力节点（Sparse Attention Node）及内存编译器（Comfy Compiler）。稀疏注意力机制针对长序列模型运行进行优化，能自动过滤短序列。它提供了自适应阈值自注意力（Sol-Attn）、固定保留比例（SLA）等三种计算后端，通过将查询块仅路由到选定的键块子集，从而大幅缩短长视频（如 10 秒级 MiniMax H3 视频）的推理耗时。而 Comfy Compiler 则利用内存编译技术显著降低了 CUDA 分配开销，进一步节省了重度模型运行时的显存占用。",
+      "summary_en": "ComfyUI has merged a first-party sparse attention node and a memory compiler into its core repository. These updates significantly optimize long-sequence model execution and reduce VRAM overhead, directly boosting the local generation performance of long video models like MiniMax H3.",
+      "why_muki_cares": "这是对我们持续跟踪的 MiniMax H3 长视频工作流生态的深度技术跟进。该更新证明了开源社区正在将前沿的注意力算法和显存编译技术吸收到 ComfyUI 核心层。这让独立创作者无需依赖昂贵的云端算力，在消费级显卡上即可顺畅部署和试验高分辨率、长周期的本地视频生成模型。",
+      "editorial_signal": "通过将稀疏注意力与显存编译直接并入官方核心节点，开源视频生成工作流在消费级硬件上的性能瓶颈正被逐步瓦解。",
+      "theme_tags": [
+        "ComfyUI",
+        "稀疏注意力",
+        "MiniMax H3",
+        "工作流优化",
+        "本地算力",
+        "开源模型",
+        "视频生成",
+        "计算美术"
+      ],
+      "source_name": "Comfy Org GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhlUi_yTdAq-JWKb09puzYPZa1AcfQz_onQdjweIdp5AzB2VHa-YqXHsMSZze5f2naY89PHeJpxjwKnr0tfIB_XweVKsCsVxw-DKywSG6ztbPB-xGTL7PbCQu_ToYfjtKCcAAvHHPM0bazKnufcl9Wy7jw80_QkVwGFnYaq7Q=",
+      "publication_date": "2026-09-06",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "2027 东京双年展“Social Dive”国际驻留招募：资助艺术家与策展人深耕地方文脉与社会介入实践",
+      "title_en": "Tokyo Biennale 2027 Launches 'Social Dive' Open Call for Research-Based Art and Curatorial Residencies",
+      "summary_zh": "东京双年展正式启动 2027 年度“Social Dive”国际公开招募，邀请全球艺术家、策展人、研究者及创作团体提交针对东京地方社会语境的介入性研究与驻留创作方案。本届双年展以“从‘我’到‘我们’”为主题，要求创作者以个人经验、记忆和身体为起点，与东京的社区、历史和日常空间展开对话。获选项目将在包括历史寺庙、传统旧木结构建筑和上野、秋叶原等火车站周边的11个指定地点进行开发与呈现。主办方提供高达 30 万日元往返交通费、免费东京住宿、20 万日元项目制作费以及 10 万日元的人员酬金。申请截止日期为2026年9月30日。",
+      "summary_en": "The Tokyo Biennale has opened applications for its 'Social Dive 2027' residency program. The initiative invites global practitioners to create site-specific, socially engaged research projects across 11 diverse urban venues in Tokyo, backed by travel, accommodation, and production funding.",
+      "why_muki_cares": "本招募为深耕“地缘关护”、“身体与社群”及“地方档案”的策展人和研究者提供了极佳的在场实践路径。它通过对东京具体城市空间的深潜（Dive），使创作者能脱离抽象的社会批判，在具体的空间物理遗存与日常生活网络中重构社会介入艺术的实践范式。",
+      "editorial_signal": "国际双年展机制正通过深度驻留和多点介入的方式，将艺术生产的重心从单纯的白盒子展览转向对具体城市历史与社群记忆的深度转译。",
+      "theme_tags": [
+        "东京双年展",
+        "艺术驻留",
+        "社会介入艺术",
+        "地缘研究",
+        "国际公开招募",
+        "空间转译",
+        "策展研究"
+      ],
+      "source_name": "Call for Curators",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL0Vv7LEq6WAiWPhXZr0nRzQ9t5ew3Lq_6Bm9SreSW7t9vsdggTlpLM6L8D7DjtoeWhpxCI6OzbQQSVyne3BfYFqXSF80FlDjrDfHwdZATpbydOL4ROUH1gigTLNM3xb0BqUJXkWY2k8DQSQ==",
+      "publication_date": "2026-08-27",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition",
+    "title": "MoMA 举办《夺回我们的空间》特展：以女性主义与交叉学科视角重审公共空间中的身体政治",
+    "why_muki_may_care": "韦克斯对身体姿态进行的结构化分类，不仅是早期女性主义图像分析的卓越范例，更为我们今天理解数字图像分类、人工智能训练集中的身体偏见提供了极其重要的媒介考古学对照。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM2cET71LgXGYPDBJfD6PALPyaseQ6lF6Xpt-0xo9qkE5XNzeY83PvzY4N4H-k6ZC9_zxe1zYJyisPmzUMeVyQj2vZeuihOA0Vts_mzAqJBaMzEpH3wHXGdlRBfelIWZV9tUk="
+  },
+  "empty_sections": [
+    "Visual Culture Signal"
+  ],
+  "excluded_topics": [
+    "Inside Other Spaces",
+    "WAS Node Suite v3 Reborn"
+  ],
+  "covered_entities": [
+    "Museum of Modern Art",
+    "Seoul Museum of Photography",
+    "Comfy Org",
+    "Tokyo Biennale Committee"
+  ],
+  "repetition_notes": "关于 ComfyUI 官方核心库中新增分块稀疏注意力（Sparse Attention）与内存编译器（Comfy Compiler）的更新，是对 8 月 31 日、9 月 4 日、7 日、10 日和 11 日简报中涉及 MiniMax H3 本地推理及长视频生成工作流演进的纵深技术跟踪与效能补充（Follow-up）。其余三项信号（包括 MoMA 女性身体政治分类档案展、首尔公立摄影美术馆开馆大展，以及东京双年展 2027 国际公开招募）均为全新（New）的展览梳理与地缘招募项目。",
+  "issue_number": 61
+}

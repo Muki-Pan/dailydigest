@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-13",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Evidence Dossier for Daily Digest (Issue 061)\n\n**Research Date:** Sunday, September 13, 2026  \n**Target Audience:** Muki (Feminist visual culture, East Asian photography, archives, creative technology, and labor structures)  \n**Research Window:** Past 24 hours to 7 days (September 6–13, 2026)\n\n---\n\n## Dossier Entry 1: [Feminist Structure Signal]\n\n*   **Exact Title**: Taking Back Our Space: Photographic Perspectives\n*   **Specific Source URL**: [https://www.moma.org/calendar/exhibitions/5678](https://www.moma.org/calendar/exhibitions/5678)\n*   **Publication / Announcement Date**: September 8, 2026 (curatorial excerpt and conversations published) / Exhibition runs September 20, 2026 – May 2, 2027.\n*   **Verified Facts**:\n    *   **The Exhibition**: The Museum of Modern Art (MoMA) is presenting *Taking Back Our Space: Photographic Perspectives*, bringing West German artist Marianne Wex’s (1937–2020) landmark 1977 project *Let’s Take Back Our Space: “Female” and “Male” Body Language as a Result of Patriarchal Structures* (acquired by MoMA in 2018) into dialogue with seven contemporary artists: Nona Faustine, Martine Gutierrez, K8 Hardy, Yuki Kihara, Joiri Minaya, Paulina Olowska, and Wendy Red Star.\n    *   **Curation**: Organized by Roxana Marcoci (Acting Chief Curator of Photography) and Caitlin Ryan (Assistant Curator, Department of Photography).\n    *   **Artworks**: Marianne Wex’s piece consists of thousands of categorized photographs (some taken covertly in her hometown of Hamburg, others appropriated from magazines, art catalogues, and advertisements) mounted on boards to analyze gendered socialization in public space. The contemporary works (e.g., K8 Hardy's *Positions* series) examine the relationship of contemporary bodies to public spaces from Black, queer, non-binary, and intersectional feminist perspectives, shown at MoMA for the first time.\n    *   **Publication**: An accompanying catalogue edited by Roxana Marcoci and Caitlin Ryan, featuring an unpublished interview with Wex and conversations with the artists, is published in September 2026.\n*   **Relevance to Muki**: Directly targets \"feminist visual culture\" and \"photography archives.\" It shows how early feminist visual sociology (using structural classification and image appropriation) can be put in dialogue with contemporary queer and decolonial body politics. It provides an excellent curatorial framework for analyzing the social conditioning of the body in public space.\n*   **Proposed Section**: Feminist Structure Signal\n*   **Duplication Assessment**: **New**. MoMA’s autumn 2026 exhibitions have not been covered in the past seven issues.\n\n---\n\n## Dossier Entry 2: [China / East Asia Signal]\n\n*   **Exact Title**: Martin Parr: We Are Martin Parr\n*   **Specific Source URL**: [https://sema.seoul.go.kr/](https://sema.seoul.go.kr/)\n*   **Publication / Announcement Date**: September 12, 2026 (exhibition updates and events published) / Exhibition runs July 16, 2026 – October 18, 2026.\n*   **Verified Facts**:\n    *   **The Exhibition**: *Martin Parr: We Are Martin Parr* is the first large-scale retrospective in Asia held after the British documentary photographer’s passing in December 2025. \n    *   **The Institution**: Held at the **Seoul Museum of Photography** (서울시립 사진미술관 - Photo SeMA), which opened in May 2025 as South Korea’s first public museum dedicated entirely to photography (located in Chang-dong, Dobong-gu, Seoul).\n    *   **Content**: Spans over 50 years of Parr's career, presenting 14 major series, over 500 photographs, and all 89 photobooks published over his lifetime.\n    *   **East Asian Context**: Features his specific photographic series on North and South Korea, captured during his visits to the Korean peninsula between the late 1990s and early 2000s (including snapshots of consumer goods in a Seoul hypermarket and tourists at Gyeongbokgung Palace).\n*   **Relevance to Muki**: Intersects \"photography exhibitions,\" \"East Asian image institutions,\" and \"photobooks.\" It marks a milestone for Korea's newly established, first public photography museum and highlights how the rapid consumerism of late-20th-century East Asia was documented through Parr’s signature highly-saturated, close-up gaze.\n*   **Proposed Section**: China / East Asia Signal\n*   **Duplication Assessment**: **New**. Neither the Seoul Museum of Photography nor Martin Parr's posthumous retrospective has been covered in recent issues.\n\n---\n\n## Dossier Entry 3: [AI Research / Creative Tech Signal]\n\n*   **Exact Title**: ComfyUI Adds Core Sparse Attention Node and Comfy Compiler\n*   **Specific Source URL**: [https://github.com/Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)\n*   **Publication / Announcement Date**: September 6, 2026\n*   **Verified Facts**:\n    *   **Core Sparse Attention (PR #16072, merged September 6, 2026)**: Merged into `comfy_extras/nodes_sparse_attention.py`, adding a first-party block sparse attention node built on the comfy-kitchen kernels.\n    *   **Target Workflows**: It is designed to optimize long-sequence model runs, specifically targeting long-duration video generation (e.g., 10-second MiniMax H3 video clips). By routing each query block only to a selected subset of key blocks, the speed-up scales with sequence length. It automatically skips short sequences using a `min_tokens` guard.\n    *   **Technical Backends**: Features three selection backends inside a single node: \n        1. *Sol-Attn (adaptive tau)*: Per-head adaptive thresholding that keeps roughly 16% of key blocks (at tau 1.0) to 2.7% (at tau 2.0). It works natively without specialized weights.\n        2. *top-k (SLA)*: Keeps a fixed percentage of key blocks, matching distillation styles used by certain lightx2v LoRAs.\n        3. *local-only*.\n    *   **Comfy Compiler (PR #15861, merged September 5, 2026)**: Introduces a memory compiler that reduces CUDA allocation overhead on top of CUDA graphs, cutting VRAM waste during heavy model executions.\n*   **Relevance to Muki**: Directly addresses \"AI-native workflows and creative technology.\" Rather than minor feature updates, this core integration physically changes the performance envelope for generating high-resolution, long-format local video on consumer-tier GPUs, specifically targeting the MiniMax H3 model which has been heavily tracked in recent digests.\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Duplication Assessment**: **Follow-up**. This is a direct, deep technical continuation of our ongoing coverage of the MiniMax H3 ecosystem (tracked on August 31, September 4, 7, 10, and 11). It highlights how ComfyUI's core development is absorbing community optimizations (like Kijai's research) to formalize long-sequence video support natively.\n\n---\n\n## Dossier Entry 4: [Archive / Long Read / Opportunity]\n\n*   **Exact Title**: Tokyo Biennale 2027: Social Dive Open Call\n*   **Specific Source URL**: [https://socialdive.jp/2027/](https://socialdive.jp/2027/)\n*   **Publication / Announcement Date**: August 27, 2026 (Open call launched) / Deadline: September 30, 2026\n*   **Verified Facts**:\n    *   **The Opportunity**: Tokyo Biennale has launched its international open call for *Social Dive 2027*, inviting artists, curators, researchers, collectives, and practitioners worldwide to propose socially engaged, research- and residency-based contemporary art projects in Tokyo.\n    *   **The Theme**: \"From 'Me' to 'Us'\", exploring collaboration, coexistence, and rebuilding social networks. Projects must use individual experiences, memories, bodies, and perspectives as starting points, engaging with Tokyo’s local history, daily life, and communities.\n    *   **The Venues**: Selected projects will be developed across 11 designated sites, including historic temples, business districts, traditional back alleys, old wooden buildings, and train stations (such as Ueno Station and Akihabara).\n    *   **Financial Support**: Provides travel expenses up to JPY 300,000, private accommodation in Tokyo, project development and production support up to JPY 200,000, and an artist/curator honorarium of JPY 100,000.\n    *   **Submission Details**: Applications must be submitted in English or Japanese by the deadline of September 30, 2026 (23:59 JST).\n*   **Relevance to Muki**: Combines \"East Asia,\" \"care, structures, and labor,\" and \"curatorial/archival research.\" It is an exceptional, fully supported opportunity for curatorial and artistic research that focuses on \"diving\" into localized urban archives and social systems, offering direct support for on-the-ground collaborative practices.\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Duplication Assessment**: **New**. The Tokyo Biennale 2027 \"Social Dive\" open call has not been covered in recent digests.\n\n---\n\n## Excluded Topics & Empty Sections\n\n*   **Empty Section: Visual Culture Signal**\n    *   *Reason*: MoMA's *Taking Back Our Space* exhibition is exceptionally strong and fits cleanly into *Feminist Structure Signal* as it highlights historical feminist photographic structures and body language taxonomies. Rather than diluting the brief with a weaker candidate to fill *Visual Culture*, we focus on the four highly robust, multi-layered entries above.\n*   **Excluded Candidates**:\n    *   *Inside Other Spaces: Environments by Women Artists 1956–1976* (Leeum Museum of Art, Seoul). Although a phenomenal, research-heavy feminist exhibition that reconstructs lost environments by women artists (including Gutai's Tsuruko Yamazaki and Korea's Jung Kangja), its main run opened in May 2026. The recent performance event on September 5, 2026, is a minor activation rather than a new structural development, so it is noted here as background but excluded from a main slot.\n    *   *WAS Node Suite v3 Reborn* (Released September 9, 2026). While a major release that addresses \"dependency hell\" in ComfyUI, the core optimization of *Sparse Attention* and the *Comfy Compiler* has a more direct, transformative impact on the heavy video generation workflows (MiniMax H3) that Muki actively tracks.",
+  "citations": [
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM2cET71LgXGYPDBJfD6PALPyaseQ6lF6Xpt-0xo9qkE5XNzeY83PvzY4N4H-k6ZC9_zxe1zYJyisPmzUMeVyQj2vZeuihOA0Vts_mzAqJBaMzEpH3wHXGdlRBfelIWZV9tUk="
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFARB_gwH0UNI1bDwYK6nso_hzpLtbdTRgIG3SHj6YHtu216jLkZrnORgMZiHkWDF08xuBsyEdAkie8jglaGAI50SrCw--aGnkJI7tOXSwvfTJmYk9brnd4QNtNyg6-QQ="
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XTs-EpuQAKhOZzvOLD4PGxvR_bIbUA714s1pGbg47-ZxKfwZgp4UvltdT1VfCXd5wdQ49I4jEwXLY1cmYiS5JgLXbUPJDn2vsyI6f2s-KcSaiYYQ68gC-hqdE7Oe1XYt5FHBneCopzfamy1PYVI1jBdrWxLIMvVRoTCnmSCL5fEpOTPkc-M="
+    },
+    {
+      "title": "buttondown.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-7eYCwf_RxwRlRMv_Dbjk68NDT5Ri4Z3HLIotXw0eZxSGwEHWtV8V_GK8osNPoX0ghYX7c5_XLlVHQredodeKM_-T-qC_LHydsoWgMPx9KLM1PDBQE11CsucM88HB5E9bIUg4WbG-kHiwrRwnUgDPuzPoLorz"
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbgtDYoUGL5JaF7USL0H5eYg2kYkYAmmiDs220oaoS7Yx1Xt-ewd2Avc3pNXYIRRlBtYyPo9pUiOwqBepmfGwP7rr67xc-G4tIrBNUH4FghaoYEVw4tlNW0yeVpew_WhthIQzgwrHw26LdUJnqm7nbVOBVnwS6kOoHTizR1TfOeNcLYnw="
+    },
+    {
+      "title": "koreaeventsnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbLMAa5nVkPIXKR4jmWVtPjjPHQz0R0_Sm_AN8Qx-kXB15RNpYJ80xIiwBw5NUAsEc1KlpKaaczdfmvuSqN7Ok1XjNaJ4iG2DPJ3CHNHM-5K7GzDQSIVqGqLDamSWAXOW6ZHNaVMRfC11btIELihdsbU42nIIhnLBTpxIytI5Yva1ywR7fNQLzswvKr8oyIaiKxYXsDIpuF15oa5UEysSg36F"
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHOFCg7FHVZqezcoqSwLiCMXXkbx2ToR1WW0drbly7FGthVt-FlAjF5BWhp2mNlGbcIltkSIo9i5Jc2mZ9N8-ktifmcK_zYBM8dfgfOUMnhxhQXkRd5jLdZlPSx83_wg8Yj-k4trW_nG6OAZC8pGC8mnP0qanGt_g="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAf6rRZHJ6UcEQzn6a_Eg7EboMk30fDyCgQfle6aCL7Qfs48uQq3NuCzBa1E6vYwUqED2JsPyTIsP-qTi5oVysePer7CvJ6e_ogC0NGOJPuoouiUcMuK4KyIJL_3KoFhU="
+    },
+    {
+      "title": "mk.co.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaYePbkLh-CjJfzOdFTphGbDOEzgWHC96lY6yRq_1pBF1pepokHY93EgbhIMDY4eEh8SED_buAMsRAUogj6MHYnWRX_wPbiLt8SEGLolkUbURQS3B3DqOduaeX9oo="
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtU4xo7upPf_Rp0A3ytOh3ElssIZenoCr6lDtTTrJVcP2xnHe6IjY3iomNWCSWM2OmHXy57ue-s4K-sY9kKdNoyvFoEJo2gCXoeMSHxai5tjpddA602QLO3IJXwFpFECzC2_JYS7oPDxA1-oGjU2CPJG8jq6yfgtY="
+    },
+    {
+      "title": "mk.co.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-7PrtxNYBs0ircJx474mHO0KvhATVC6HiugwAbdxAqKZEbhXlJ02JDR3cmNmKLGCDTu3giG7pTV_t_s37MKTRvwFsIIKtiHcsRXPvD-Nvfr137XKjmFT265_kFo0="
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhlUi_yTdAq-JWKb09puzYPZa1AcfQz_onQdjweIdp5AzB2VHa-YqXHsMSZze5f2naY89PHeJpxjwKnr0tfIB_XweVKsCsVxw-DKywSG6ztbPB-xGTL7PbCQu_ToYfjtKCcAAvHHPM0bazKnufcl9Wy7jw80_QkVwGFnYaq7Q="
+    },
+    {
+      "title": "artafricamagazine.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBY9NLKW3NeCg0ciSC-Vzfw4tCo8w0aDiuzkc8cnGRe_HZRCIxKWlI2gSUYSNVLFR_kYSpbB2KZko_d28z-iKHuCGgfKE3LoQl-Dv5pUecfRLNe6jUdN6LIA9C7FUorT1yMhR7XLjCrfgvcjZ8Vf2y1s05KX0TiE3MrbqR5fq_R3Fou-5NVwlAkSGsP-oonViLxQ=="
+    },
+    {
+      "title": "artnexus.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi0VnZSfAF-dFCy4sGeAtrbNnf30FprxZBOzzjxce3RijcO0jzDdB2HGYV7JFpc5bDZSz0Z6PNLjsSbL2b9K7VlEFIKnbGwbTdmgJsySGlpSZHXJh5aGxTYEDEH3Cozc1c0iFIqdL-p4nEpB_IoFH7AbWHrB1opZT2OjHwjdiN6_LN3VaIs9Z5jriFUyO_r6PFvIPQ6YlBLf9oLY6kS_jA902mBAY3qApBGE0WQdfF8xwcSuWj"
+    },
+    {
+      "title": "biennialfoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBpUiC3fBQBRqxVZqNAAkgVtjUXA8h_iQy9yDZg6Ov-GkTNThJaBat4nNnzGlGPjzYZ14GVNARKn5i1hI6c5pBQ9QJ8TH_BiTXeNYL6TEQHsExBaTjFmXsds2xh8BLyxq5xBKEcuNxx1qCT5zTZetJNLd8XouH"
+    },
+    {
+      "title": "callforcurators.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL0Vv7LEq6WAiWPhXZr0nRzQ9t5ew3Lq_6Bm9SreSW7t9vsdggTlpLM6L8D7DjtoeWhpxCI6OzbQQSVyne3BfYFqXSF80FlDjrDfHwdZATpbydOL4ROUH1gigTLNM3xb0BqUJXkWY2k8DQSQ=="
+    },
+    {
+      "title": "mymodernmet.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGShXQ7k91EY3625eOmL26l_0o7SFKSBn91J9GZ1VuDU8tLKN_xrmenknn_IU9JBAdq-nawBFyc9eeQzaIT-aaPvsaH3yi3HT6ZB9adGwx7MwlclmCCEN_aRn9pSfpAyiUBw9yGeMQDQtb7Smd_bdrECGew"
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhKjz1hWhpqoZCyH9dD8vzqYx2BzF_Q_arm4RZB3gN7mxNoHWFPVws6KRF15xN7ROg2lgyNsc8ISP7wba6BbJ6am2bY7_BYqfuh0S1vhzQJS3pkjA6pQgiSKpDbmlfj8yFIlPmbZJ7Pkr_0m9led6VRJGh"
+    }
+  ]
+}
