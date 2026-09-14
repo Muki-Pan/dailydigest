@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-14",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki Daily Digest: Research Evidence Dossier (Issue 062)\n\nThis dossier contains the verified primary research materials gathered for the five editorial entry points of **Daily Digest for Muki** (September 14, 2026).\n\n---\n\n### Candidate 1: Feminist Structure Signal\n*   **Exact Title**: MAN WOMAN — A Butoh Fairy Tale by Vangeline\n*   **Specific Source URL**: `https://www.schwarzmancentre.ox.ac.uk/whats-on/man-woman-jg6y`\n*   **Publication Date**: August 25, 2026 (Performance scheduled for September 16, 2026)\n*   **Verified Facts**:\n    *   **Who/What**: Choreographer and dancer Vangeline (New York Butoh Institute) in collaboration with Butoh dancer Akihito Ichihara (Sankai Juku), queer costume designer Machine Dazzle, and composer Ray Barragan-Sweeten.\n    *   **Where/When**: Stephen A. Schwarzman Centre for the Humanities, University of Oxford on September 16, 2026.\n    *   **What is new**: The UK premiere of *MAN WOMAN*, a 60-minute interdisciplinary Butoh duet. \n    *   **Mechanism**: The performance is directly inspired by Japanese photographer Eikoh Hosoe's seminal 1960 photo book *Man and Woman*, which originally featured Butoh founder Tatsumi Hijikata and his wife, Motofuji. Vangeline's piece is a bold, contemporary feminist reimagining of these iconic images.\n    *   **Details**: Historically, women were positioned as passive \"muses\" or \"mirrors\" to male artists. This piece places the female body at the center of the performance, reimagining Hosoe's choreography from a feminist perspective where women are the authors of their own movement. It is accompanied by an academic Q&A featuring Dr. Alice Baldock on women's roles in Butoh history.\n*   **Relevance to Muki**: Directly addresses the intersection of photography, archives, and feminist body politics. It demonstrates how historical photographic archives can be politically re-read, deconstructed, and physically translocated into contemporary feminist performance workflows.\n*   **Proposed Section**: Feminist Structure Signal\n*   **Duplication Assessment**: **New**. Eikoh Hosoe, Vangeline, and this specific performance have not appeared in the recent 7-day context.\n\n---\n\n### Candidate 2: Visual Culture Signal (Editor's Pick)\n*   **Exact Title**: TARYN SIMON | FATHER COUNTRY I DO LOVE YOU\n*   **Specific Source URL**: `https://www.guggenheim.org/exhibition/taryn-simon`\n*   **Publication Date**: August 4, 2026 (Exhibition opening September 18, 2026, through March 14, 2027)\n*   **Verified Facts**:\n    *   **Who/What**: Renowned conceptual artist Taryn Simon (b. 1975).\n    *   **Where/When**: Solomon R. Guggenheim Museum, New York. Opening September 18, 2026.\n    *   **What is new**: It marks the first time in the Guggenheim's history that the entire Frank Lloyd Wright-designed rotunda is dedicated to a photography-and-video-based monographic exhibition. It is also the largest debut of new work ever staged by the museum.\n    *   **Details**: Almost ten years in the making, *Father Country I Do Love You* is Simon's most personal work to date, dedicated to her father. Her father worked for the U.S. government in Thailand and traveled extensively (Russia, Iran, Israel, China, Afghanistan, Korea) before manufacturing and selling arcade games. After his Alzheimer's diagnosis, Simon realized she could never get his full story.\n    *   **Mechanism**: The project traces the life of one unnamed federal agent (an proxy for her father) through 42 chapters comprising never-before-seen photography, text, video, and sculpture. The agent acts as a \"middleman,\" witnessing events and collecting evidence, showing how his bureaucratic actions or inactions rippled into lives and nations he never knew.\n*   **Relevance to Muki**: It is the gold standard of image history and media archaeology. Simon's work explores how national, military, and institutional archives interact with personal memory, Alzheimer's (as cognitive decay of an archive), and the unseen systems of state power.\n*   **Proposed Section**: Visual Culture Signal\n*   **Duplication Assessment**: **New**. Taryn Simon and this project are completely new to the digest context.\n\n---\n\n### Candidate 3: China & East Asia Signal\n*   **Exact Title**: Japan's radical feminist theatre troupe turns 'cute' Gothic Lolita fashion into armour against sexism\n*   **Specific Source URL**: `https://tremendous.jp`\n*   **Publication Date**: September 11, 2026\n*   **Verified Facts**:\n    *   **Who/What**: TremendousCircus, a Tokyo-based radical feminist theatre troupe co-founded by rape survivor Chino.\n    *   **Where/When**: Tokyo, Japan. Active with new shows in September and October 2026 (including their dystopian AI play *UNITE* in August, *Self-Help Cooking* on Sept 20, and *R30 - Reverse Little Black* on Oct 3).\n    *   **What is new**: Recent widespread international coverage (September 11–13, 2026) highlighting their methodology of using \"Gothic Lolita\" style as activist armor in Japan, where MeToo has struggled to gain structural traction.\n    *   **Mechanism**: In their plays (such as *UNITE*), performers dressed in lavish, doll-like Victorian Gothic Lolita skirts scream about personal experiences of rape, sexism, and domestic abuse. They frame their performance as \"radical victim feminism,\" reclaiming the traditionally submissive, male-pleasing \"kawaii\" (cute) aesthetic of Gothic Lolita and transforming it into angry, resistant armor.\n    *   **Details**: To structurally highlight systemic issues, the troupe charges male audience members twice as much as women to attend their shows, directly commenting on Japan's wide gender wage gap. Their upcoming play *R30* (October 3, 2026) specifically targets the invisible care labor, career loss, and housekeeping burdens placed on women over 30.\n*   **Relevance to Muki**: A vital, localized East Asian cultural signal demonstrating how women artists are re-routing subcultural visual and fashion codes (Lolita/kawaii) into visceral, anti-patriarchal, and anti-AI-tyrant (*Big Father*) performances. It directly addresses structures around bodies, labor, care, and gendered wage power.\n*   **Proposed Section**: China & East Asia Signal\n*   **Duplication Assessment**: **New**. Neither TremendousCircus nor Chino has appeared in the recent context.\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n*   **Exact Title**: Changelog - ComfyUI\n*   **Specific Source URL**: `https://github.com/Comfy-Org/ComfyUI`\n*   **Publication Date**: September 9, 2026\n*   **Verified Facts**:\n    *   **Who/What**: Comfy Org (creators of ComfyUI).\n    *   **What is new**: Native integrations in the core ComfyUI codebase that dramatically elevate model reference control and video generation consistency.\n    *   **Key Features**:\n        1.  `FluxKontextMultiReferenceLatentMethod` Node: An official multi-reference input node designed specifically to streamline advanced Flux image workflows.\n        2.  **WAN 2.2 Fun Camera Support**: Out-of-the-box integration supporting video generation using specific camera control files and templates.\n        3.  **Context Windows Support**: Sampling code enhancements explicitly implemented to handle longer sequence generation tasks (reducing memory bottlenecks in long video generation).\n        4.  **SDPA Backend Optimization**: Improved Scaled Dot Product Attention settings for overall workflow stability.\n*   **Relevance to Muki**: Directly changes professional AI-native workflows for visual research and creative production. Multi-reference inputs and native camera path controls move AI generation from chaotic prompt-chasing to deterministic, structural layout and camera-movement manipulation.\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Duplication Assessment**: **Follow-up**. While we continuously cover ComfyUI and video model updates (e.g., Wan 2.1, MiniMax H3, Trellis), this specific core release on Sept 9, introducing the multi-reference Flux node and WAN 2.2 camera control, constitutes a major native upgrade in spatial control.\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n*   **Exact Title**: PIR Open Call August 2026 - WORTHLESSSTUDIOS\n*   **Specific Source URL**: `https://worthlessstudios.org`\n*   **Publication Date**: August 10, 2026 (Open call active through September 30, 2026)\n*   **Verified Facts**:\n    *   **Who/What**: Brooklyn-based non-profit arts foundation WORTHLESSSTUDIOS.\n    *   **What is new**: Open call for the 2027 \"Photographer in Residence\" (PIR) program.\n    *   **Details**: Seven analog, lens-based artists will be selected for a 1-month residency taking place between April and October 2027.\n    *   **Mechanism**: The residency takes place inside a unique mobile facility—a classic Airstream trailer converted into a fully functioning analog darkroom. This mobile darkroom moves to partner sites across New York City's five boroughs (including the Alice Austen House on Staten Island, Inspiration Point in the Bronx, and Green-Wood Cemetery in Brooklyn).\n    *   **Stipends & Materials**: Selected artists receive a $1,500 stipend, free darkroom chemistry, film, photographic paper, 2 free professional scanning/printing workshops hosted by Brooklyn PrintWorks, and support for organizing a public program.\n    *   **Eligibility**: Open to independent analog photographers not currently enrolled in art-related degree programs. Applications close on September 30, 2026.\n*   **Relevance to Muki**: A highly material archival/photographic opportunity that counters hyper-accelerated digital algorithms. By embedding physical darkrooms in historically situated communities, it merges analog photo craftsmanship with vernacular archiving, community care, and spatial-historical research.\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Duplication Assessment**: **New**. This residency has not been featured in the recent issues.",
+  "citations": [
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgWTbPdIQmUd2THSbDGNXuD2aQYrG7Dpd5gHeipMph1CqKXDF9lTpR9C6-r-1ZCRuPjzjp7VA7BZDNzBS5t4PuRXo5G2aPdKy80aNtxoRtI4cVaeei_A=="
+    },
+    {
+      "title": "guggenheim.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIUfHX9L4hPlWLneJHS1V53YAkCfhs9UK8Ljyk0i-35VjBicqBQgV7pUW3rTVqtEnGZS-0IJB0ek-N9xFpDx-AJ6ZW-gHwI1RZ6o-thGhzaPrCp5N9NQUwWKUpOrRB5WheWvTjrHqc"
+    },
+    {
+      "title": "aestheticamagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsuhedAEGS0xwwo8-P39YY2tKyayx57D5D6t0_Dz_F7MaUUql0uncmyWeCNwASzEXY_5Il4r7fvOkDcaKOvPFQyvpWClFfaAlCG2Gi0UD9dFADS_PHjycBuYoeq54USnktz8PYJG3SnIKM4w8sD7tv_pTsqlg9Zr0WeE6wMjm5zZL8Cj43M7dG"
+    },
+    {
+      "title": "ox.ac.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy51OL2fFliSkJo8QO_O3oH3wbgeURXOMAlSlTwO4KfkfXE67TeTojEvumBRcIulSaqHEIOtCKqU4w56D0y6teUqAWTqse93XmqAxjudJzKm3Jn2C4aQZfND7FRjDAQDhmKQAo3L8kF350w0cUerS7L3_z"
+    },
+    {
+      "title": "worthlessstudios.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuXPsk07im8HnXKRxAYOCxwccPvnWan6hh5B5e_OolwPvHyeAMOGE6A80DmnIYt9ePF_T5jPmePJVBfsCyg2_bDt5RtuC78XBv88UTFuLHBvIUJYzqBeWi55x3WnNweDjgSKEJLVW6DR12e0k="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQOl4b8UuKUEzllqQ8B8UmMQE9BLXaiT5vtcCZzC9fFori9KRkjCZhAQtxNwHQtzXFTpgcHakfUZT_FEynF1zeGvoUl4eangShwjJJNCjzWgCeCbjDZAy_0Q3ox4ExHeoYuOpN7UQrjNGjToRqr_W8EmroOZknTExKUMsxURPrcQ6uJpjmOb0SgptXdj_zQymhpZRrxhcpeatMfwOr3Dz-kZHlBaUFF1lnEK6xfvKR8WAxpSL_aM6FX6PuX072NPzyl30YX_NO34Y4sSKrtR8="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEop1KAqSmwYCjIL-nB1FSrlR594Ll6aYiOzTx5QngWy3AOvnkOLfFoK5bmmRSGgJiFapq67Y9Hd9uMq_5MMMHm_AOFn66uLG-cw9GVPOT0raNGjtZFR4jp5UfxH1FhaZWXvxeS379SRWrB-sTEEc1u2A215UhdlPzmAH2r9d8-gLWWV2VwieWp0p5dp0kyc1CDObQ0o1skglGrUkCa8ATSX0E0gclH3FuK6y-63xELh_jScpwX_LB55PtN8V6763jKsUBA-Q=="
+    },
+    {
+      "title": "patch.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLN5wTujPQEPauj6eK_gZklXB113gEqW1OPga7-jEm7dvwusMAUbYUQKPgzuynwrvy6t7bYBNBSqt90u7K2o6AkjWYJPtDSGdzHxrfG9METBrv_DzmDVpXMP3kz4sldDpzuoxEcvrtj8P7lgsh1bs__ZOYh7NYPZIVTkP2miZFvzDfuPG_07FyqZNx3DJHFaGx0rQDv3OfJxnPo1YaQdbEIjfRMYjTrMpMe0UTj2AaBzBVWeC18X8dntmrAKrKCu6joG3taRBozL6Z1jaY4qfFAQVVN4OYGlAPM7Z6WU-5ZLnPTL64zAjYnt7tC2ksPgGS94JdwM1AucGAbBAbOjEjYw=="
+    },
+    {
+      "title": "lamama.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0G8cC2Ms0XbLZOY9eapdPLbuOsfWeP0cHuFuW1EGkr5Fb9Uwn9XHlp26uDC29wFVa_lF8NZ5Dg1T8rlKaJ4FnpC1XRYgUbi6ivVnGhFobl4npv5HCXqvg6L_CagqHcEeV9WtUjG7Pc4aYhUsWmepnp6Pyvwzcqa3_pvKMzf7xjAkZcQ=="
+    },
+    {
+      "title": "broadwayworld.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmK-UShbPRa_qDpSG9u4Ph2QUWu6tOPH5UceFS2JcOcZ6S8xy0bu6toT7ZsKcyawlnJcmotnFmpE3LFNIj252Sm6_XrSkYzQctHNKTzqylkX_zaNIFeFb6UotkZVrmngrELCbfNqVZoyBVFhukOPgok81owcsKgtBTXrT90YvlFtdjgfZ8J2h8sVInNcRd6l_c7hhnr-aYC31rAGhIwzvDtkixulm4MjlQDII6Mf-2"
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsjp4yffi8cIDF6g7Um1gpSRoR2SRJ8caiojatycmfMPSjklvmoK-nsD94LyU4mttRMMLyVPTCrdGFWLTNPzbzB9sEfHq6vgOhS8NQLVLzuyI-KD3GBll6T4fUmC6z"
+    },
+    {
+      "title": "artsy.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENFohImnxyNYaryveiCJUzA8qHQt7UXjuUJ6piomHnAVROCf6fv0fCYoI9hx7cuYAjNWeZEva5Njmi2rcZJFkawGfc0M-YPXPxsnT0momWQ5UwsV32SDn8Ad4VXLxXxfyNqqOCeFb5NnCIK49SrQvXz70QM__8iueFIUxQK90_03p8wfuIKFzeMgrQdzRs4Mpy0AYSRsF-wOe_0hvy"
+    },
+    {
+      "title": "alminerech.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH9EugCO9avl7aiPvXKtumQxFLbDX29uqgIQwv2oualpg0SJlJelsvhKeHPvevo6HKkuwULTaO3sKjauQEERdyRZy5xx57uWreNhAHyyHC_T9hzmQRa5XF8pigqLwqPxhxKtUHNGDCVekuk1eAXk6PtLkEZBCB-ws36DT2lb-Md-0vnblCfphAl32P"
+    },
+    {
+      "title": "guggenheim.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VSneQR3AJ2Loqvgtlxdf-ypqlzQPidpueoozCoXpRM9pcQjWiHsHwH1CmnSYdw-ciBGj76BMICZTUHi4tidCnUxlopKMRYkvvarZ4y4W_VJg6fE41FmnipFo8tJrHJlmflJ99NEu"
+    },
+    {
+      "title": "malaymail.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRX3o6I45fe-WufiUAEEMDqBt-EICayl0j0f6p4GJ4iiEdPIrV--TOpGXFO99FqtLsjRe_tfrTbD3HVGrTum5xR-_wBPcjDLEN9B5q-MJqhiKNyEN4G3HCgC1zN0emoRRZp96ORPFMurgkNu8r7Tg30IC4fExDXP7mS22CTEwYRWzvF8X0k4Zv5Q-Q8ZkcrfwpTSNqtsIizZcQwCm6hShN7zd7_GfF0vF2Un3KO6dT3CGGMnhRAD4RV45R4_mfJfpNGcQ4RBZ2HkoBxiDj8fg="
+    },
+    {
+      "title": "tremendous.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSiDLVhL5UPqMgVl9u_w8CI3OqRz8sktvIZRjJosNeUhmkXNKlxrMlRkovp55JMfEIHB8dmvWr4iWOiqETGdbWdFpf8-Blc1hTho5JA_oIByJbHZg="
+    },
+    {
+      "title": "malaymail.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCDPiCs0lP3bpKrQcQe9iYrgMDUlOxHUG3wFrgKL5t1KHdASUiKv-v745x5IrkAsX4sQDhMOA0j-qvpiDHN6DH5MFiH3boun5hMvi599PbduP6gJxFLyqcKfZYxm1A1PFSXE3oSWpstXxdEwxMFyYhaEgCTiXDTxCrDmZivjuGkuvLdzhhf2IYs_EFXXoEYyjMObVEEY9sniXghyCc_eszUEe0ZmUkypt7tXFXYvQUpm4O5qcHdONiY0Wi9KCLumfcfF9Zx9M4FbGyyCGGSQs="
+    },
+    {
+      "title": "tiget.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZPWV__uqoqCq8CvTElDy9VeeLeaVm25F0Y2B6MMFfXsIFUH6TmqNuz5CtwqXyimAwsc5qZ0Nmpwh0b8MltOnMsE7x6pwbh9DwvnfkXYG4NavDTP2Z"
+    },
+    {
+      "title": "indiatimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl_yl0PvIAOzIrZEvWOSJoQqoT6xcFfFaRyD_JusxLBVAewR9eo6FUqfAxLltZlxbFWP3noPrvdqr3j55FSaXrHwvZ_Gm7JsB4mSqnQFsexmAEYjZhjTBTN4IUyPdCmQwt_linzgvFz9TYUkaz8TqEcZtZYU7fXcWfEF-t3d6cHyokkuriXCsYoLZXSp2Fq96rMUt68ggoBsHstNDIoVAguAodQNvTsoZfXVjeM069uW7aOMPrvV90T7HZz00QsIAaL_vhYIJxfwEI6KtzOVlhnux-309RrttGkn8="
+    },
+    {
+      "title": "newsofbahrain.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYsvC8Mr5qv8ay4Yyu_e2IRcJ4dbTBTJUZJag35S7M-DlvfZnlPfw_qc4o6_uU3_ISm7yODL2kluDV-MAxFPdyYNiehW9cJU5Ym3rtjbogZgXm8avLbvuTfyPto7nKrEK8UcG5_Q=="
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc-GN9gH-zWbJs2ymK0qTclq5Rd329lH_ImUqbBZ4ubdSTIrEbcdKv5OQkvhlHefJU7bzG0zmvfEOfxTG3Uq1D30aZuuLfop8nIluSRP6g5UnQnp6f5PlaMcxG8rQ_h9vGAgg="
+    },
+    {
+      "title": "fastforward.photography",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGChPRFVKNLCyonGW23TIJAh9KxVU05qvnFVy5z_gd2KNtmK-IS29VY5CIX09q4vPiNyxDtzhN9LRuU_0WhPM4XGUzUfTBwV72f0rQO6qwbOvj63PgXRPf1F90mAizqxINahpFQpu2fqFqDwBzDAPT9snijF8WwY8ffExIBNL7Dgjc4nKOCfkfEVIq8UpJv2g=="
+    },
+    {
+      "title": "worthlessstudios.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGawDrLB-QbjkAtuyaRYTBlQlAmvWvvV_j4giqwet_UB28njIYEwxNEw92-QqcivkaaeTTh_odNRRCfLnYYbB-O36ZmKBC5M_FuHZ37-ODGL-d0gdOJVhx0arwNODktr2AWx5mAiUVNWZvK-QE="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUsdhFQ4BAxiSRstJR9Hv3DmUK-quHS61sPhjoPP9boHQkR4KMHSp5_V5qtz_jwEohuwMGB_3rw6Lsn4Vv98z9nvOeiB_-0Adsk0P7KbAdQVYgGcmG6XOsGHbKsjicEEpZ_lDsWZAeWHP3ULWYrzCmpGBryi1z15A="
+    },
+    {
+      "title": "theappwhisperer.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbSsMPJGoVgba0lv4ox8mrsvMDoBHVYyAMR9T7sDAFwqBzUY4Qcmq8-8YTSuzLxCXmw0kAwAp0VFvGZt8oKoTCy3s4at9nkUK_RPhXGWuBfzpq3yOdn6WMUA4XzE-AcHE4IG4rj9-9UkOb5MGjHWFj592f7Rv4q3datGAfmev8K9Ruvb-_Ovv_Lq88yC0ARavLZAcfFE4qniUdZA=="
+    }
+  ]
+}
