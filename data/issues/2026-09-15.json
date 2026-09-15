@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-15",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义策展",
+    "媒介考古",
+    "殖民记忆",
+    "模拟摄影",
+    "AI智能体",
+    "无限制资助",
+    "社区关护",
+    "反叙事"
+  ],
+  "why_today": "今天聚集的五个信号，构成了一条从‘肉身档案’到‘技术工具自主’的完整线索。无论是对20世纪90年代摇滚场景的女性温情重塑，还是对东南亚殖民史魔幻幻灯片的物理割裂，抑或是 ComfyUI 朝向本地智能体自主运行的架构升级，都表明了一种共享的立场：我们不再满足于仅仅作为被记录、被赋能的对象，而是要成为档案的保管者、叙事的重写者以及技术工作流的控制者。",
+  "intro": "今天的简报聚焦于如何打破由主流媒介、殖民历史以及技术黑箱所构建的既定叙事。从摇滚乐黄金时代的女性互助快照，到针对马来亚殖民历史的图像解构，再到去中心化的资助机制与本地化AI智能体的底层演进，创作者们正在以极具肉身感和技术自觉的方式，接管并重写属于自己的媒介权力。",
+  "opening_signal": "在繁杂的历史深处，那些被边缘化的声音与图像，正通过个体的记忆重构与技术工具的重塑，逐渐显影为不可忽视的活态档案。",
+  "closing_signal": "媒介的演进并非只有不可逆的宏大叙事，它往往在那些未被规训的个人相册、被撕裂的殖民幻灯片、以及深夜合并的本地代码中，悄然完成方向的调转。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "安大略美术馆举办 Melissa Auf der Maur 个展：以两百幅私密快照重构 90 年代摇滚乐的女性互助叙事",
+      "title_en": "Melissa Auf der Maur: My '90s Rock Photographs",
+      "summary_zh": "加拿大音乐家兼摄影师 Melissa Auf der Maur 在安大略美术馆举办个展，展出其个人收藏中逾万张模拟胶片里的200余幅照片和珍贵档案。作为 Hole 和 The Smashing Pumpkins 的前贝斯手，她用镜头捕捉了1991至2001年间非主流摇滚乐台前幕后的未设防瞬间。展览避开了主流媒体对当时女性摇滚乐手的刻板印象，以酒店镜子中的早期自我肖像以及对 Courtney Love 等人的温情记录，构成了一部极具同理心的女性视觉自传。展览同步推出了包含其未发表四轨样带的新专辑及同名画册。",
+      "summary_en": "Canadian musician and photographer Melissa Auf der Maur presents over 200 photographs from her personal analog archive of 10,000 images at the Art Gallery of Ontario, offering an intimate, compassionate self-portrait and counter-narrative of the 1990s alternative rock era.",
+      "why_muki_cares": "它提供了一个极具参考价值的女性主义逆向档案案例。艺术家没有使用主流媒体的旁观视角，而是作为局内人，用充满关怀与战友情谊的镜头语言，重新定义了那个时代女性的身体经验与日常工作流。",
+      "editorial_signal": "个体相册向公共机构馆藏的转换，揭示了亲密关系档案对主流媒介权力结构的微观抵抗。",
+      "theme_tags": [
+        "Melissa Auf der Maur",
+        "AGO",
+        "女性主义策展",
+        "非主流摇滚",
+        "亲密关系档案",
+        "模拟摄影",
+        "反叙事"
+      ],
+      "source_name": "Art Gallery of Ontario",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG6N3c_WdvHp51KYAn64zw5jDO00UYjv8Y-NzCPa3B_gNSjgk07vZmuucfgSav381tXXz_VGLexDXU1SZTGPkb3Z0sqaOxzTvmelwSCOO-1jWGmgZeLCO1oOWcZJR11wl9NVEfxcW9eeqB1vLRhFlxCPdWGrX-K0DNxluqLQ==",
+      "publication_date": "2026-09-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "柏林举办首届“女性主义想象力节”：以影像记录与社区基础设施探索全球南方的关护与抵抗",
+      "title_en": "Feminist Imaginaries Festival",
+      "summary_zh": "由全球女性主义与性别民主部门主办的“女性主义想象力节”将在柏林海因里希·伯尔基金会举行。活动将汇聚全球女性主义行动者、艺术家和学者，重点放映纪录片合集《大树的女儿》（Daughters of the Tallest Tree）并进行跨国对谈。该片记录了南非、泰国、伊拉克、北塞浦路斯和厄瓜多尔的女性主义抵抗叙事。此外，活动还将探讨南非女性如何利用社区厨房应对多重危机、拉丁美洲的跨性别行动主义，以及东南亚对男性气概的重构，展现视觉记录与日常关护基础设施在社会变革中的核心作用。",
+      "summary_en": "The Heinrich-Böll-Stiftung in Berlin hosts the Feminist Imaginaries Festival, featuring the German premiere of 'Daughters of the Tallest Tree' and global workshops that explore grassroots resistance and community-based infrastructures of care.",
+      "why_muki_cares": "该活动展现了视觉记录（纪录片合集）与实体互助空间（如社区厨房）如何共同作为关护伦理的实践载体。这为研究跨国女性主义地缘政治、身体政治和非制度化劳作提供了极其具体的全球南方样本。",
+      "editorial_signal": "将日常家务与社区互助空间上升为地缘抵抗与关护媒介的核心现场。",
+      "theme_tags": [
+        "Feminist Imaginaries Festival",
+        "全球南方",
+        "社区厨房",
+        "关护伦理",
+        "视觉社会学",
+        "地缘政治",
+        "纪录影像"
+      ],
+      "source_name": "Heinrich-Böll-Stiftung",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqSHkA-JVpB5Lgmng3-M3x8fj1RG_3fGYDiHnkTrumdqH2ZnkU2bfQlX80MaS7NrEUgSQcAY9z_RxJvXidzbJUP3fCXv-CHfQPpa10ocW7HzRctiCTXfWulfkWKW9SwKKXMxSL_ZuNKoUdBlvtQalq6ml0CSqA",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "沈绮颖个展《归舟》亮相纽约：以玻璃底片拼贴与物理割裂手法解构东南亚殖民记忆",
+      "title_en": "Sim Chi Yin’s Revisionist Impulse",
+      "summary_zh": "《ArtReview》发表对新加坡艺术家沈绮颖研究型艺术实践及其个展《归舟：Longings, Returns》的深度评析。该展览展出了其持续创作的《行李箱有点烂了》系列新作。沈绮颖将冷战时期被驱逐的祖父（左翼报纸编辑沈焕生）的档案肖像，拼贴在描绘英属马来亚自然风光的殖民时期幻灯玻璃复制品上，制成背光玻璃装置。展览还包含关于妈祖与观音双重神性的三通道视频，以及一幅在开幕式上被艺术家用美工刀物理切割、剥落以显露底层历史照片的壁画，直面强迫移民、记忆消退与殖民暴力的地缘叙事。",
+      "summary_en": "ArtReview reviews Singaporean artist Sim Chi Yin's solo exhibition 'Longings, Returns' at Storefront for Art and Architecture, highlighting her collage of family archival portraits onto British colonial magic-lantern slides to critique historical amnesia.",
+      "why_muki_cares": "沈绮颖展示了极其出色的媒介考古与家族档案重构方法。她通过对殖民地幻灯片的物理拼贴，以及对展览墙面的破坏性“剥落”动作，将宏大的殖民历史与个人微观创伤进行了高度肉身化的转译，非常值得研究型策展借鉴。",
+      "editorial_signal": "利用物理材料的破坏与多层图像重叠，撕开被官方历史和殖民叙事遮蔽的家族记忆创伤。",
+      "theme_tags": [
+        "沈绮颖",
+        "媒介考古",
+        "殖民档案",
+        "地缘政治",
+        "家族记忆",
+        "Storefront",
+        "影像装置"
+      ],
+      "source_name": "ArtReview",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsAq9coNovU9FM9ri_j5n7SkL-wIIFaluCvc8G6Obpt_5UTTwkl21ADkOBDzT9DF8pDiiZiYM7Lf8iNYvSyFURwu88T734s9iUPO3g9_SP3IP6r7D2SUCiRgSZye5HiClGJxz-yXsOYqtdWxogax54QrLJSODA045wVcAcHrFVitO6XCEOMGeJgLJ6cugY2xbQNjVBCQbDSQC2BZ1DzLJbOY9ufEPE",
+      "publication_date": "2026-09-10",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 合并官方 Agent 基础架构：引入多模型本地缓存优化与 3D 网格解析节点",
+      "title_en": "ComfyUI Core Updates: Native Agent Integrations and Multi-Model Optimization",
+      "summary_zh": "ComfyUI 官方代码库完成了多项针对智能体（Agent）工作流与本地计算优化的重大底层更新。本次更新合并了 AGENTS.md 规范，引入了用户输入容差配置与更智能的模型缓存机制，为本地智能体在复杂图工作流中实现持久记忆奠定了基础。此外，核心库新增了对 WAN3-Prime、Google-Omni 1.1 及 SenseNova U1.5 等主流大模型的原生支持；优化了 MiniMax-H3 的 PDD LoRA 与 ControlNet 补丁运行机制；并引入了 File3DToMesh 节点，支持在工作流内直接解析并转换 GLB/GLTF/OBJ 等三维格式。",
+      "summary_en": "ComfyUI has merged foundational updates targeting AI-native agent behaviors via AGENTS.md, alongside core memory caching optimizations, WAN3-Prime support, and a native 3D file mesh parser.",
+      "why_muki_cares": "这是 ComfyUI 从单一的“图像渲染管线”向“本地多模态智能体运行环境”演进的里程碑。对于创意技术与自主工作流研究者而言，Agent 原生缓存机制 of 引入意味着未来可以更高效地在本地搭建具备主动决策与记忆的自动化创作节点。",
+      "editorial_signal": "ComfyUI 的底层架构演进表明，AI 创意工具正在从单纯的生成工具转化为具备自主感知与持久缓存的本地智能体环境。",
+      "theme_tags": [
+        "ComfyUI",
+        "AI智能体",
+        "本地算力",
+        "多模态模型",
+        "3D生成",
+        "工作流优化",
+        "开源生态"
+      ],
+      "source_name": "ComfyUI GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ2wR5wVDy7-ms8FQTYHiuIqxfsiwyT0QOGGIuEttkAshdtJse4el3anlqEno-foQChmisc2CNdmftFx5PX0LR7WQmNwtVHYjUFmC3flKhLSJiJ3L8nI2OaxGi3fbTjDBLeE=",
+      "publication_date": "2026-09-10",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "The Supporting Act 基金会启动 2026 年度公募：提供总额 60 万欧元无限制性资助以支持边缘艺术与社区实践",
+      "title_en": "Our 2026 open call is live - The Supporting Act Foundation",
+      "summary_zh": "总部位于阿姆态尔丹的独立非营利组织 The Supporting Act 基金会启动其第五届年度公开招募，旨在分发60万欧元的无限制性（unrestricted）信任资金。本次公募分为两类：一是面向欧洲指定国家中来自边缘群体、从事协作或社区导向实践的早期艺术家，提供10个、每人总计1万欧元的“艺术家资助”（分10个月发放）；二是面向提供非资金支持的艺术类非营利组织（年支出在5万至30万欧元之间），提供10个、每个总计5万欧元（两年期分发）的“影响力资助”。评审委员会包括奥地利林茨电子艺术节负责人小川绘美子等专业评委。申请截止日期为2026年10月1日。",
+      "summary_en": "The Supporting Act Foundation has launched its 2026 open call, distributing €600,000 in unrestricted grants for emerging marginalized artists and community-oriented non-profit arts organizations across Europe.",
+      "why_muki_cares": "该基金会推行的“无限制性资助”模式，是对传统艺术赞助体制中官僚考核与产出焦虑的直接解毒。其对于边缘群体、草根社区机构及“协作性实践”的倾斜，展现了艺术生态中一种基于关护与互信的稀缺制度设计。",
+      "editorial_signal": "通过去繁文缛节的“无条件信任”资助，重构处于前沿的青年艺术家与社区机构的劳动尊严与生存保障。",
+      "theme_tags": [
+        "The Supporting Act",
+        "无限制资助",
+        "社区实践",
+        "艺术赞助",
+        "关护机制",
+        "边缘群体",
+        "公开招募"
+      ],
+      "source_name": "The Supporting Act Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6wKGWSIgb7arvjKl1fWambY-rAXEhGewpYSI83-NGlrGk1IArOj__eyi9ob0YcB-ynD66GXFqXgLqTOTBl-YuBGjLivjgXDd5iEujJDUA53B-DrFfzT9B7he2xRxZGTE0s3AbBM=",
+      "publication_date": "2026-09-01",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "China / East Asia Signal",
+    "title": "沈绮颖个展《归舟》亮相纽约：以玻璃底片拼贴与物理割裂手法解构东南亚殖民记忆",
+    "why_muki_may_care": "沈绮颖的创作提供了一种几乎完美的图像历史与家庭记忆拼接方法。其对殖民地幻灯片的解构不只停留在概念层面，而是通过物理美工刀割裂壁画的剧烈肉身动作，将历史叙事权牢牢夺回自己的手中。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsAq9coNovU9FM9ri_j5n7SkL-wIIFaluCvc8G6Obpt_5UTTwkl21ADkOBDzT9DF8pDiiZiYM7Lf8iNYvSyFURwu88T734s9iUPO3g9_SP3IP6r7D2SUCiRgSZye5HiClGJxz-yXsOYqtdWxogax54QrLJSODA045wVcAcHrFVitO6XCEOMGeJgLJ6cugY2xbQNjVBCQbDSQC2BZ1DzLJbOY9ufEPE"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "PhMuseum Women Photographers Grant"
+  ],
+  "covered_entities": [
+    "Art Gallery of Ontario",
+    "Heinrich-Böll-Stiftung",
+    "Storefront for Art and Architecture",
+    "Comfy Org",
+    "The Supporting Act Foundation",
+    "ArtReview"
+  ],
+  "repetition_notes": "关于 ComfyUI 合并官方 Agent 基础架构的更新，是对近期（9月8日、9月10日、9月12日及14日）简报中关于 ComfyUI 生态演进和多模态底层架构升级的持续追踪（Follow-up），本次着重体现了其从单一渲染工作流向具备自主记忆的 Agentic 运行框架转型的里程碑。其余四项信号均为全新（New）的档案重构项目、地缘文化节活动和独立基金会公募。",
+  "issue_number": 63
+}

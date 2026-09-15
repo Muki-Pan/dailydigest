@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-15",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki's Daily Digest (Issue 063) - Research Evidence Dossier\n**Current Date:** September 15, 2026\n\nThe following is the structured evidence dossier compiled for the five editorial sections of Muki's cultural signal brief. All factual details, dates, and URLs have been verified against primary sources from the past 14 days.\n\n---\n\n### 1. Feminist Structure Signal\n\n* **Exact Title:** Melissa Auf der Maur: My '90s Rock Photographs\n* **Specific Source URL:** [https://ago.ca/exhibitions/melissa-auf-der-maur-my-90s-rock-photographs](https://ago.ca/exhibitions/melissa-auf-der-maur-my-90s-rock-photographs)\n* **Publication / Event Date:** Exhibition opened on September 9, 2026, and runs through June 6, 2027. (The companion book launch took place on September 9, 2026).\n* **Verified Facts:**\n  * **Who/What:** Canadian musician, photographer, and curator Melissa Auf der Maur (former bassist of alternative rock bands Hole and The Smashing Pumpkins) presents over 200 photographs and archives selected from her personal collection of more than 10,000 analog images.\n  * **Where:** Art Gallery of Ontario (AGO) in Toronto, Canada.\n  * **Curators:** Sophie Hackett (AGO Curator of Photography) and Jim Shedden (AGO Curator, Special Projects & Director, Publishing).\n  * **Details:** The exhibition acts as a moving self-portrait and time capsule of Gen X alternative rock from 1991 to 2001. It captures unguarded, raw moments onstage, backstage, and in green rooms before the smartphone and digital recording era. It highlights early analog \"selfies\" in hotel mirrors and raw, compassionate portraits of female musicians like Courtney Love.\n  * **Associated Works:** Co-published as a 240-page hardcover photobook by AGO and DelMonico Books/D.A.P.. It is accompanied by her newly released album *Bass Womb Room*, which includes unreleased 4-track demos and field recordings.\n* **Relevance to Muki:** \n  Directly addresses **feminist visual culture, photography, and structures around women/media power**. It offers a compassionate, self-determined feminist counter-archive of an alternative culture era, presenting figures like Courtney Love through a lens of care and camaraderie rather than the historically vilified narrative of mainstream media.\n* **Proposed Section:** Feminist Structure Signal\n* **Duplication Assessment:** **New**. Never covered in the past 7 issues.\n\n---\n\n### 2. Visual Culture Signal / Archive\n\n* **Exact Title:** Feminist Imaginaries Festival\n* **Specific Source URL:** [https://calendar.boell.de/en/event/feminist-imaginaries-festival](https://calendar.boell.de/en/event/feminist-imaginaries-festival)\n* **Publication / Event Date:** September 17–18, 2026\n* **Verified Facts:**\n  * **Who/What:** A global festival designed to bring together feminist and LGBTIQ+ activists, artists, filmmakers, researchers, and policymakers.\n  * **Where:** Heinrich-Böll-Stiftung, Berlin, Germany.\n  * **Details:** The festival is organized by the Global Unit for Feminism and Gender Democracy. Key highlights include:\n    * The German premiere of the documentary anthology *Daughters of the Tallest Tree*, followed by a panel discussion with directors from South Africa, Thailand, Iraq, Northern Cyprus, and Ecuador exploring feminist resistance, activism, and visual storytelling in the Global South.\n    * Interactive workshops and panel discussions focusing on transnational visions of justice, care, and liberation.\n    * Specific case studies discussed include how South African feminists utilize community kitchens to tackle polycrises, trans* activism in Latin America, and how masculinities are re-imagined in Southeast Asia.\n* **Relevance to Muki:** \n  An exceptional signal for **feminist visual culture, transregional curatorial studies, and structures around care, bodies, and labor**. It showcases how visual documentation (documentary film anthology) and domestic/communal infrastructures (community kitchens) function as critical sites of resistance and care.\n* **Proposed Section:** Visual Culture Signal / Archive\n* **Duplication Assessment:** **New**. Never covered in the past 7 issues.\n\n---\n\n### 3. China / East Asia Signal\n\n* **Exact Title:** Sim Chi Yin’s Revisionist Impulse\n* **Specific Source URL:** [https://artreview.com/sim-chi-yins-revisionist-impulse/](https://artreview.com/sim-chi-yins-revisionist-impulse/)\n* **Publication / Event Date:** September 10, 2026 (Critical review published in *ArtReview*; the solo exhibition *归舟: Longings, Returns* ran from August 8 to August 29, 2026).\n* **Verified Facts:**\n  * **Who/What:** Critical analysis of Singaporean artist Sim Chi Yin's research-based practice and her solo performance-installation *归舟: Longings, Returns*.\n  * **Where:** Storefront for Art and Architecture, New York City.\n  * **Details:** \n    * The exhibition features works from Sim's ongoing photomontage series *The Suitcase is a Little Bit Rotten* (2022/23–ongoing, featuring new works from 2026). \n    * The series consists of UV prints on glass, backlit on replica vintage wooden stands. These works enlarge colonial-era magic-lantern slides depicting naturalistic scenes from British-colonized Malaya.\n    * Sim collages cutout archival photographs of her late grandfather, Shen Huansheng (a leftist newspaper editor and educator deported to Shantou, China in May 1949 during the Malayan Emergency) onto these glass plates.\n    * The show also includes a three-channel video installation centering on two protective deities (Mazu and Guanyin), and a performative mural where layers of blue paper were cut and torn using an X-Acto knife on opening night to selectively reveal historical sepia-toned collages beneath.\n* **Relevance to Muki:** \n  A masterclass in **East Asian media archaeology, colonial archives, and photography**. Sim's combination of historical magic-lantern slides, glass-backlit prints, and physical tearing of \"capital-H\" history provides a crucial methodology for researching the intersecting geographies of forced migration, memory, and colonial violence in Southeast Asia.\n* **Proposed Section:** China / East Asia Signal\n* **Duplication Assessment:** **New**. Neither Sim Chi Yin nor this specific exhibition has been featured in recent issues.\n\n---\n\n### 4. AI Research / Creative Tech Signal\n\n* **Exact Title:** ComfyUI Core Updates: Native Agent Integrations (`AGENTS.md`) and Multi-Model Optimization\n* **Specific Source URL:** [https://github.com/Comfy-Org/ComfyUI/releases](https://github.com/Comfy-Org/ComfyUI/releases)\n* **Publication / Event Date:** September 9–10, 2026 (Core merges #15955 & #16003).\n* **Verified Facts:**\n  * **What:** ComfyUI has committed major foundational updates directly targeting AI-native agent behaviors and core performance optimizations.\n  * **Key Merges & Technical Features:**\n    * **AI Agents Infrastructure:** Merged updates to `AGENTS.md` detailing user input tolerance configurations (`#15955`) and model caching instructions (`#16003`). This lays the groundwork for persistent local memory in Agentic workflows.\n    * **Partner Nodes Expansion:** Added native support for several major models, including WAN3-Prime model support (`#15894`), Google-Omni 1.1 (`#15929`), and SenseNova U1.5 (`#15922`).\n    * **MiniMax-H3 Video Updates:** Merged native PDD LoRA support for MiniMax-H3 (`#15908`) and refactored MiniMax-H3 ControlNet integration to run as a direct model patch (`#15975`) instead of an external ControlNet.\n    * **Creative & 3D Tools:** Introduced `File3DToMesh` (`#15919`) for parsing GLB/GLTF/OBJ/STL files into 3D meshes inside ComfyUI, and added `VideoTrim` / `VideoCrop` nodes with physical widget inputs (`#15637`).\n* **Relevance to Muki:** \n  Directly impacts **AI-native workflows, agents, and creative technology**. This signals a significant architectural shift: ComfyUI is transitioning from a passive graph pipeline executor into a fully agent-ready, local runtime framework that allows persistent memory caching and multi-modal model coordination.\n* **Proposed Section:** AI Research / Creative Tech Signal\n* **Duplication Assessment:** **Follow-up**. While we track ComfyUI's rapid technical progression across recent issues, this specifically notes the native integration of Agent configurations (`AGENTS.md`) and WAN3-Prime support, which are completely new technical milestones.\n\n---\n\n### 5. Archive / Long Read / Opportunity\n\n* **Exact Title:** Our 2026 open call is live - The Supporting Act Foundation\n* **Specific Source URL:** [https://thesupportingact.org/news/our-2026-open-call-is-live](https://thesupportingact.org/news/our-2026-open-call-is-live)\n* **Publication / Event Date:** Launched September 1, 2026. Application Deadline: **October 1, 2026 (11:00 AM CET)**.\n* **Verified Facts:**\n  * **Who/What:** The Supporting Act Foundation (an independent Amsterdam-based non-profit) launched its fifth annual open call, distributing €600,000 in unrestricted funding.\n  * **Categories:**\n    1. **The Artist Grant:** 10 unrestricted grants of €10,000 each (transferred in 10 monthly installments of €1,000). Designed for emerging artists (2 to 10 years of professional experience) from underrepresented groups whose practices are collaborative, collective, or community-oriented.\n    2. **The Impact Grant:** 10 unrestricted grants of €50,000 over a two-year period (€25,000 per year). Awarded to registered non-profit arts organizations (registered between 2016 and 2024) with annual expenditures between €50,000 and €300,000 that provide non-financial support to emerging marginalized artists.\n  * **Eligible Countries:** Belgium, France, Germany, Greece, Republic of Ireland, Italy, Netherlands, Portugal, Spain, and the UK.\n  * **Selection Committees:** Expanded to seven members per committee. Includes Emiko Ogawa (Head of Prix Ars Electronica) and Beth Davies (cultural strategist) for the Artist Grant; and Adwoa Amoah (Co-Director of Foundation for Contemporary Art – Ghana) and Marie McPartlin (Director of Somerset House Studios) for the Impact Grant.\n* **Relevance to Muki:** \n  A highly actionable **opportunity** that structurally supports artists and independent, marginalized non-profits. Its focus on **unrestricted, trust-based funding** directly tackles systemic barriers, precarity, and labor discrimination in the creative sectors, which align with Muki’s interest in care, labor, and platform structures.\n* **Proposed Section:** Archive / Long Read / Opportunity\n* **Duplication Assessment:** **New**. Never covered in the past 7 issues (replaces the previous PhMuseum Grant mentioned on Sept 9, ensuring fresh curation).",
+  "citations": [
+    {
+      "title": "ago.ca",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG6N3c_WdvHp51KYAn64zw5jDO00UYjv8Y-NzCPa3B_gNSjgk07vZmuucfgSav381tXXz_VGLexDXU1SZTGPkb3Z0sqaOxzTvmelwSCOO-1jWGmgZeLCO1oOWcZJR11wl9NVEfxcW9eeqB1vLRhFlxCPdWGrX-K0DNxluqLQ=="
+    },
+    {
+      "title": "spillmagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3SzaxiDz9U-9q5glh_FyowxJMc93AAuz231m1Hz-DyynBVWn7l0njDtU4Kp2bhXm38AHKV3B6BmSbxR_SpWlfgXSV8ntAcS64NQl7vQNG2cdyS7EdwEz13SSJa9GROKRWQmM47o5kXjUFWlxZQLpCQd9edoSRbl4W-FMRioZ9CgLmEftn9NbMfBCdxnvSLsxWeO7j2qKKGTdXJx3RTMjOGaRD_WQRRvk1vA=="
+    },
+    {
+      "title": "ago.ca",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3yZDVS0BqeDT-oJbVVLDpBWTH6idAb4VdPgPeES0LY5c9E8IUnBbR8CV65c-qvQvX_YAcwWVDgAuY47d5HZHuPUFE4UdI31L0xruTcNLwsuYKDlOOFiYGXKHcnk8QPZSPNM_F-UgZBbq6AoV12PmwAh8sKgMLVklyH5eDxg=="
+    },
+    {
+      "title": "billboard.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWRg_RqIT_BiUaDj6zVLbcX56BRmRTr2GoGLXLye8i-W8AAqrkqbe98c4PAMy-yXAjnHgvXGkc95CLdOF5-qEHtT6rQdeHzid_oW-iK1ljDcd0ERh2bBhONjc-u-3ZmIGq6K1u4h9rf7ywfFAD3rKSFGtjZCb-Gp_in7TF_Cyfkdth"
+    },
+    {
+      "title": "cbc.ca",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrgYzDZqJoutyXM-qFq5TI5xWYmViCajU-OHv0DmoIEf6hs9sWXUbrmiAoWlsf5P0w9rvyYVNdYth2qsGGXwfHy3_jTEJEjUg2cfVX9cDDsX6QmPYSjXvkrZkT2eLEtUOrEVJ9cj4I_fHydYHYVuWUTYy8fLJL4gPtAqevT76Q3z2rFrTRkgIjVkKA7IAmk9nsH47riilvgg=="
+    },
+    {
+      "title": "boell.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqSHkA-JVpB5Lgmng3-M3x8fj1RG_3fGYDiHnkTrumdqH2ZnkU2bfQlX80MaS7NrEUgSQcAY9z_RxJvXidzbJUP3fCXv-CHfQPpa10ocW7HzRctiCTXfWulfkWKW9SwKKXMxSL_ZuNKoUdBlvtQalq6ml0CSqA"
+    },
+    {
+      "title": "musicofourdesire.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9SFZtsgRC685RTa8Xf1OGOTP8mMAohR4_IIHAQOWIf-ycH0ldwC_G5hbr0tVea2Q5QvloYn2qSLhEjqLQVEIRyXTtP5bQLvPRK0sT0mUFA-K2m-mbd12CZhJifxvoYJCDh3z9eebvXP7lUqap6d7rDXYWW7dAG1_yweLmEgkHUM-WjXVpMOIoQaqsREQeLN8gDlpYhTHNn7wM"
+    },
+    {
+      "title": "boell.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJDsuo0UcCf-2CV-srKu6Jalo0DsatEr1ThWek8z-OsnIa-kIf4zii9AwiQMz_LGnWS5poOwFj9r-iqfIk5tuAG3qj8-gaQWaWrAZWPbuk9DXUgZl19v1dKW8MAvdNQ6Qqz_knuUzhdKq6qvm6OW3r42xFc9od0g=="
+    },
+    {
+      "title": "politcal.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6COQz7u-v15NjdC8wCmqZ4j6gDfGNCvCLMcv_-An2jU51kM1DdUQLUW4RAnoicqCPqrk8VX8LqVskkgOHtPzu1PeqUlDO3HOy6fnQBPKooGoOeU4bvr3kYpi0RfwyljaB5uiw9XYpnK9Azsxe"
+    },
+    {
+      "title": "artreview.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsAq9coNovU9FM9ri_j5n7SkL-wIIFaluCvc8G6Obpt_5UTTwkl21ADkOBDzT9DF8pDiiZiYM7Lf8iNYvSyFURwu88T734s9iUPO3g9_SP3IP6r7D2SUCiRgSZye5HiClGJxz-yXsOYqtdWxogax54QrLJSODA045wVcAcHrFVitO6XCEOMGeJgLJ6cugY2xbQNjVBCQbDSQC2BZ1DzLJbOY9ufEPE"
+    },
+    {
+      "title": "storefront.nyc",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXRReiBqgQW17Nn_MF0y-WFFE7G-THhLfZjKuVfewALRwiRUpExhbskAB173vYWkuak-8-HXvjxLTU3pUHIdvbGv_MjGIRAs9ro3DNc4PER0iL1YRchVEQX8oFjtGCaoOCxfuu6yKF_TYY5i2DUDADmSunMzQ="
+    },
+    {
+      "title": "artandmarket.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER83ZQLHljL8noX_5honyjBLrj15yvkBUud-eJaJQVjjDQmGIMJEmVoCQUC4trUZf0V3CmvkNKLAmxDLSWfHH8ewzmcYS5L6UlsFaDNt2yOMpxvzrkG83Tf_VwpSKEIGzq08U8m6oftT2VktgjJJ80TEA="
+    },
+    {
+      "title": "chiyinsim.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3D2MYhhvORqGpP0hXXl0Gip8VlaVGFjTuUIaGkWb-lF3iFY0DNbEfyS6z8m0zgdEYHdcuun3uy6XEKxo_uYNnPqv5_GVUaZZz9VyOpfO_f9eaCn4VodcG"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxgGi2UwYKI402RQqEjkd62xIxmK3wOf_sIRtEu4NKq5ahwqaeM53UHjgt6LtP_3gR8RrrHtwtsvaDCponM3TjmD7O9JnboT4dFcEK9DiWrkDDW0JvOhOzKPrGR6xSA7LsUxzcnzBfslCEWrpEEQ3Fkm_0BAN-egK6YNX1auvHIDkuHOekzfFwqII10ysr98SSsa7G-juhm2QwyndTrtgJVmyaQKj9M3L6FdOgHSg5o9eETNCu1LbpS_qtUYGzfyxe36EmMrfItHcUhxZFhg2mlsqk"
+    },
+    {
+      "title": "artreview.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9rmir4PNsLBCW2QbUZkk1cEj_Ie21z2ovlPE6TzlqK91_HlnzbHlXoC54tYmTJXJuOM9UfOsDlAI7nXT1jSM-sKQCgooHS6B1Km90ld7Svk7yc6FCV0Pm7FDdz-exz_ggLYjI-jwS1GMaUuC5wxFRnFop2eDkHsbKnMCKxa01LX_Ls5oRpcVF4xvPPvtzV0kpyi8OjSEG8BflTjJzV5hhBQa79vLN"
+    },
+    {
+      "title": "artrabbit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9Rf0CxXrSlFPKQYb88u1d01ygE7BHqISgMZo9-8MMFGc4ghVOCSdMK1eIKtg7HvufjeKMZ85o5Uv16N1RMkrb30EJPuE1c9MF9RKPom0n2upJo33ak27NLj1fiS3MQ9mpnyiekbTvi-bmzT6HbUwsYK5uB6mDVXGJOn2XbPFMSN9raTrHfTlJRg=="
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUZ2wR5wVDy7-ms8FQTYHiuIqxfsiwyT0QOGGIuEttkAshdtJse4el3anlqEno-foQChmisc2CNdmftFx5PX0LR7WQmNwtVHYjUFmC3flKhLSJiJ3L8nI2OaxGi3fbTjDBLeE="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg5t1qi9XNpNuJusKAcpILLXIk0hmGko-NsdQe0skOcqFTYL02wPU_1QXkWORajqfifkYYcXW8WwJwJVM-xQj1YhPzuwBov7u4kSQ1Pf_3QIrFTt7tnreaNbqNN3-soap_eRMKWRVzWsAijEIiFpQoVwJkVG0y_FLy1ldo1a5i9_fc27EVZLn7q2cS93kvFg=="
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo6wKGWSIgb7arvjKl1fWambY-rAXEhGewpYSI83-NGlrGk1IArOj__eyi9ob0YcB-ynD66GXFqXgLqTOTBl-YuBGjLivjgXDd5iEujJDUA53B-DrFfzT9B7he2xRxZGTE0s3AbBM="
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEUa6Qcmngvb3H1Je96qQIxdLtJMSoM7GLtjpzjI0n74bht8JVy6gI3A6EUMTVa2BTOftp5JnDWd8VU-9POaTbodn8Bzh10SXIpa5JYQK0bVUZXycOeOwg3Jdy9M3Gfq3ZYGbXWpISnTff--rt"
+    },
+    {
+      "title": "creativesunite.eu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMNbMIdqTKXFvxhTZqugoFNkUHDbsU8aZbPuR81_v8J2gF0DEI9o0px5JM6clS7m9f891WweAb6pI3JWBDOk0fLTHYo-1bSHeApMWmLvpyBueEIR9N5AXN5T7Rsg-6aqrmLO7-VovhSQ=="
+    },
+    {
+      "title": "callforcurators.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELPCbD2ihvpDtZvgJC8Xmj1wRPz3SoUQnFxWS7Wgkheq0dLg7Iao32rBg6KQV9oHAGCFGf2FH3tYMFWO05zL40K-MoMdYlZ5IptbHDF283hnaCbtGl7PfnY-TUDsTkWYE5ewn8WA=="
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-BptXf5nBnvn23pMcARfrt9mq4fJqXcIWApXUrhnB5EuHk7H4VupyVEHtbED_Slqy8LstyJTVrkYgU__cs_4baX3mJoYzOcyKVESVV828y8gNkAP9fChe1jyNZzZho8uHiKgy4vmx10xcQAK7"
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESMpXM9l7sa1cPR7GOt8BuQPxQJdFcOKEr1Rj4TJNAaptmBEPbFBIyWOnaZ4OIzlbPuop68gNXewVO3H6LqhQ5_of0j6tfoRUVHKoZNImYqbtVoxNTC7hTHxLI3KfRj_cEaTyXRwqfzkFGzBvixuaZJL3nhhlOseya74wxvA=="
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3Il-qBDUBaUVYsZ2eQ2bLPZI2sKUzigcXbUwpyu2jwzkilyjyFeh0YTHOZnSILpN6-U15UPrzSj3K5-DxKPQns1DFgtttv6u3Um_JjYrCcz2hy_NcCK2ys753qtKpbV7u30oyK2_bNjydw5GLVQlJmbFuxT7RLuatmA0ojg=="
+    },
+    {
+      "title": "fundsforngos.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtgbKm-ofnn-PASDjqHGaSym7i9nfAXlf2loe-ZE_nDMAcIFIw63ySBGe189BD-NVNsh1DEmPkx3ToGV-TXmg1itEtJgEgOgrGWlE6A3gOXovnrLDesoVUZVLNF4TgoDBb5eW8ofIBT6JAVFmETC9uelg-mvI7J4_8g-ibNRSYCbW1yE4uQnCmaIaNzxWCTEobK1o56dGYQiQzYbifoHabDjwQY_RAUJsq"
+    }
+  ]
+}
