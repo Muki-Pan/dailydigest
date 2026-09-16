@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-16",
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "先锋女性摄影",
+    "图像理论与黑人凝视",
+    "东亚传统手艺与自动化",
+    "ComfyUI模块化更新",
+    "自出版摄影书奖"
+  ],
+  "why_today": "今天的信号聚焦于“协作、重组与档案重塑”。在伦敦，Wulz 姐妹百年前共用相机的底片档案被数字化整理，挑战了摄影史单一作者的传统叙事；而在纽约，理论家 Tina M. Campt 入驻 MoMA，将以黑人女性主义视角重审馆藏。另一端，日本设计师须藤玲子将传统手工艺带入工业自动化网络。与此同时，ComfyUI 在技术端通过 Subgraph 原生模块化更新，让复杂的工作流得以便捷地封装和共享。不论是历史档案的重构，还是创意技术的迭代，都在呼唤一种超越个体界限、走向协作与共享的生态逻辑。",
+  "intro": "本期简报梳理了多项具有前沿学术与应用价值的文化与技术信号。从 Wulz 姐妹的双人合作摄影档案，到 Tina M. Campt 入驻 MoMA 带来的“聆听图像”视觉理论探索，档案不再是僵死的物理存在，而是可被重新激活的协作现场。在技术层面，须藤玲子的“纺织炼金术”与 ComfyUI 的模块化工作流更新，在不同维度上提供了关于如何将手艺/设计转化为协作系统的生动样本。最后，露西基金会摄影书奖的延期，为独立自出版创作者提供了一个切实的参与通道。",
+  "opening_signal": "档案从不是个人的纪念碑，而是一场由多双手共同织就的、永不退场的对话。",
+  "closing_signal": "当 Wulz 姐妹在百年前共用一台相机，当 ComfyUI 将复杂的节点打包为可复用的子图，媒介的演进轨迹似乎在昭示：最深远的改变，往往发生在我们选择共享、协作并放弃单一主权掌控的时刻。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "埃斯特里克收藏举办意大利 Wulz 姐妹先锋摄影展：以 5000 余幅底片数码重构探寻双人协作的影像档案",
+      "title_en": "Wanda and Marion Wulz: Avant-garde Photography in 20th-Century Italy",
+      "summary_zh": "伦敦埃斯特里克收藏举办意大利 Wulz 姐妹在境外的首个展览。展出作品完全来自阿利纳里摄影基金会的 Wulz 馆藏，基于 2023 年启动的数字化与修复项目，核心为 Wanda 和 Marion 姐妹所拍摄的 5165 张负片。展览涵盖家庭快照、工作室肖像，以及两次世界大战期间追求解放的女性自拍像。两姐妹共用一台相机合作，挑战了传统的单一作者身份理论。",
+      "summary_en": "The Estorick Collection in London hosts the first exhibition outside Italy dedicated to avant-garde photographer sisters Wanda and Marion Wulz. Sourced from the newly digitized Alinari Archive containing over 5,000 negatives, the show explores their collaborative studio practice and interwar female self-representation, challenging traditional concepts of singular authorship.",
+      "why_muki_cares": "这项展览整理了 5000 多张历史底片，为研究女性主义视觉文化和早期摄影合作提供了重要样本。姐妹俩共用相机的实践，直接打破了西方传统摄影史中对单一男性“天才作者”的叙事，为建立非中心化的影像档案提供了历史证据。",
+      "editorial_signal": "姐妹共用相机的历史实践打破了单一作者制，为女性主义媒介考古提供了去中心化的合作档案样本。",
+      "theme_tags": [
+        "Wanda and Marion Wulz",
+        "Estorick Collection",
+        "阿利纳里摄影基金会",
+        "女性主义摄影",
+        "双人协作",
+        "影像档案",
+        "自拍像",
+        "作者身份"
+      ],
+      "source_name": "The Art Newspaper / Estorick Collection",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkJ8C4oq0oJHC7NpJbFnU6gXsEfuLpVD_2rEkDF-laPdt6UmWbW-dW1sIqGfqhpqQ9nuCyMbyAGGScnOOoS512p3KD9Y1ht7jVcfdGXf4hZ07_z06aIEJ89SxkldmcVrUMptagj8m3cMf3HGAJrH4D4FGhI5t5HlFwLaquq_A3Wtl9KM_DWW6kmZpIG439kxn4AOq0FYAwr0ovKWlRV7KN4U4=",
+      "publication_date": "2026-09-15",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "Background Signal",
+      "title_zh": "Tina M. Campt 获选 MoMA 2026–27 驻留学者：以黑人女性主义视角重审图像历史与视觉文化",
+      "title_en": "Tina M. Campt Named 2026–27 MoMA Scholar in Residence",
+      "summary_zh": "纽约现代艺术博物馆宣布黑人女性主义视觉文化理论家、普林斯顿大学教授 Tina M. Campt 获选为 2026–27 年度 MoMA 驻留学者。该驻留计划由 Alice L. Walton 基金会资助，支持其访问 MoMA 馆藏与档案馆开展研究。9 月 14 日，Campt 还在 MoMA PS1 举办了其最新合作编著新书《Thinking from Black: A Lexicon》的首发活动。",
+      "summary_en": "MoMA has appointed Black feminist theorist Tina M. Campt as its 2026–27 Scholar in Residence. Known for her pioneering work on vernacular photography, Campt will conduct independent archival research and recently launched her collaborative book \"Thinking from Black: A Lexicon\" at MoMA PS1 on September 14.",
+      "why_muki_cares": "Tina Campt 提出的“聆听图像”和“黑人凝视”是影像考古与身体政治的基石。她入驻 MoMA 进行档案研究并推出新词汇工具书，为研究主流艺术机构如何吸纳非裔与女性主义边缘档案的解构性力量提供了最新的学术坐标。",
+      "editorial_signal": "知名黑人女性主义学者入驻美术馆档案库，表明主流机构在视觉史重构中对边缘与反向档案研究方法的持续接纳。",
+      "theme_tags": [
+        "Tina M. Campt",
+        "MoMA",
+        "黑人女性主义",
+        "视觉文化",
+        "影像考古",
+        "反向档案",
+        "MoMA PS1",
+        "学术驻留"
+      ],
+      "source_name": "MoMA Press",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4zpWSpAx6qc2nrsTb5kYsao3WPTqCwU-V-m0s-LADxy8p8HnzYsstt05JGuQ3cOEU-IJw3gJwmdDZY8YD3YMZaCz5dFKJqsMqWavkZHiTKZD16KR_RcedLwZlZ1i6SKIfhLBIevBcg5qSSQ==",
+      "publication_date": "2026-09-14",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "洛杉矶郡立艺术博物馆举办须藤玲子回顾展：以“纺织炼金术”展示日本传统工艺与工业自动化的交融",
+      "title_en": "Textile Alchemy: The Art of Reiko Sudō and NUNO at LACMA",
+      "summary_zh": "洛杉矶郡立艺术博物馆将于 9 月 20 日开幕日本面料设计师须藤玲子及纺织创意群体 NUNO 的大型回顾展。这是她迄今规模最大的展览，展出 100 余件限量面料作品，以及草图、原始材料、工具原型。须藤玲子于 1984 年联合创立 NUNO 并任总监，其特色在于将日本数百年历史的传统手工纺织、染色技艺，与汽车制造等现代工业自动化流程相结合。",
+      "summary_en": "LACMA will open a major retrospective of Japanese textile designer Reiko Sudō and the NUNO collective. The exhibition features over 100 textile works and prototypes, showcasing Sudō's signature integration of centuries-old Japanese handcrafts with modern industrial manufacturing.",
+      "why_muki_cares": "须藤玲子的实践展现了东亚传统工艺与工业自动化之间的一种不具侵略性的结合方式。她与各地传统织工、染工及现代工程师的长期协作，为讨论设计史中的女性劳动、跨学科网络构建和工艺生态提供了极具启发性的案例。",
+      "editorial_signal": "传统手工艺与工业流水线的协同生产，展示了一种超越对立的、关护地方文脉的技术与劳动网络。",
+      "theme_tags": [
+        "须藤玲子",
+        "Reiko Sudō",
+        "NUNO",
+        "LACMA",
+        "纺织设计",
+        "手工艺",
+        "自动化",
+        "东亚工艺生态"
+      ],
+      "source_name": "LACMA / Beverly Press",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdQthTtjzH3w2gIOFIV3frnUrs9tq-061WK-Lkkh8Tm_6o-ssSfQmzMptF78t3Q4iPChM9iw75FTk_E3wAnwsuxpVt8hEcMPuvo7by-BptnbKuuIk_1pQtCaSzSzmwvru01Y7CtlWjD9MQn6dU_nniwbQ4Db5YIylDYQsDU7Dapzof1IDZsjGn0ZqSKRPUVwwA",
+      "publication_date": "2026-08-20",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 9 月更新发布：引入 Subgraph 模块化发布与 3D 多视角网格重建 Pixal3D 节点",
+      "title_en": "ComfyUI September 2026 Update: Introducing Subgraph Publishing and Pixal3D Multi-View Nodes",
+      "summary_zh": "ComfyUI 发布 2026 年 9 月官方更新。前端架构引入“Subgraph Publish”功能，允许创作者将自定义的子图直接打包并保存至本地节点库中，提升了复杂工作流的模块化与重用性。技术上，更新首次原生支持 Pixal3D Multi-View 节点，可通过前后左右四个视角的 orthogonal 图像重建出带纹理的 3D 网格模型，并整合了 SenseNova U1.5 多参考图编辑模型。",
+      "summary_en": "ComfyUI's September 2026 official update introduces Subgraph Publishing for modular workflow reuse and native Pixal3D Multi-View nodes to reconstruct textured 3D meshes from orthogonal images, alongside multi-reference editing via SenseNova U1.5.",
+      "why_muki_cares": "Subgraph 的原生支持标志着复杂工作流从无序的代码堆叠向模块化、代理化（Agent-ready）封装的重要一步，能有效降低非技术创作者的使用门槛。而 Pixal3D 节点的加入让 2D 图像生成直接低成本转译为 3D 资产，拓展了个人创作者在空间介质和虚拟叙事上的操作工具。",
+      "editorial_signal": "原生模块化封装与轻量级 3D 资产重建的打通，展示了 AI 工具正从单一的“图像渲染”向具备封装性的“三维叙事流”演进。",
+      "theme_tags": [
+        "ComfyUI",
+        "Subgraph",
+        "Pixal3D",
+        "3D重建",
+        "模块化工作流",
+        "SenseNova",
+        "创意技术",
+        "多模态"
+      ],
+      "source_name": "Comfy Org / ComfyUI Docs",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGje98kd_kG0mzs74BJQdnHa_R2-UWdq0MA8ak_OdJ1UAmgz9Jgu0qR9T7GuJvXCIrf9EcftzLJ2-jzv-7Zg_wqwtXB-DLAbAcQvBdfPgjHLI4pmCCCMw==",
+      "publication_date": "2026-09-14",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "2026 年露西基金会摄影书奖宣布延期至 9 月 30 日：设立三项现金奖资助多样化独立出版",
+      "title_en": "2026 Lucie Foundation Photo Book Prize Extended to September 30",
+      "summary_zh": "露西基金会宣布将其 2026 年度摄影书奖的投递截止日期延长至 2026 年 9 月 30 日。评选面向全球摄影师、策展人和出版商，参赛书籍须在 2024 年 9 月至 2026 年 9 月期间创作或出版。大奖设立三个现金奖项：年度图书奖（3000美元）、首部图书奖（2000美元）以及自出版图书奖（2000美元），入围作品将在全球巡回展出。",
+      "summary_en": "The Lucie Foundation has extended its submission deadline for the 2026 Photo Book Prize to September 30, 2026. The awards offer cash prizes for Book of the Year, First Book, and Self-published projects, supporting independent and diverse photographic publishing.",
+      "why_muki_cares": "该奖项对“自出版（Self-published）”与“首部图书（First Book）”的专门资助，为独立创作者和缺乏体制支持的视觉学者提供了展示和变现平台。其延期通知对正在进行独立出版或摄影书整理的创作者是极有价值的机会。",
+      "editorial_signal": "针对自出版和处女作的奖项倾斜，是打破主流出版巨头垄断、维护多元地缘图像档案的重要支持机制。",
+      "theme_tags": [
+        "Lucie Foundation",
+        "摄影书奖",
+        "自出版",
+        "首部图书",
+        "独立出版",
+        "机会招募",
+        "资金资助"
+      ],
+      "source_name": "Lucie Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc-Mg4q4SPQNEooyj3dkI-917IWcJc1KWfOfZRvr_Z75UEV3iTsWUyET3BvhnOXEuUCIvi2U4sV6rsLfOo55NFIHPhZVDYEWE_exAiU9WNngrKE2ubBY9EydlHusNz1nvp1MfJWLrAGRNSQu0kL9Ep1pj5BCLyh5fT6dqi-OF-ve0XhNhJDXBqiRNPCi_dGsUfCST-sxC6cQ9SXd8bRRzA_EVqlwyz3qg6oaSW3jehtg0r2phZrLkW8nXD3KMN8W2Ru5yVROhtZQ==",
+      "publication_date": "2026-09-15",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture Signal",
+    "title": "Tina M. Campt 获选 MoMA 2026–27 驻留学者：以黑人女性主义视角重审图像历史与视觉文化",
+    "why_muki_may_care": "Tina Campt 提出的“聆听图像”和“黑人凝视”等概念是当代反向档案和视觉社会学研究的基石。她入驻 MoMA 开展独立研究并推出新书，是追踪主流艺术机构如何与解构性视觉理论发生物理碰撞的最佳学术切片。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4zpWSpAx6qc2nrsTb5kYsao3WPTqCwU-V-m0s-LADxy8p8HnzYsstt05JGuQ3cOEU-IJw3gJwmdDZY8YD3YMZaCz5dFKJqsMqWavkZHiTKZD16KR_RcedLwZlZ1i6SKIfhLBIevBcg5qSSQ=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "OpenVDN-H3 混合注意力模型的 SGLang 兼容性更新（重复话题，已于9月10日进行过底层技术推荐）",
+    "MiniMax H3 Max Turbo 快生成方案（为避免工具焦虑、突出 ComfyUI 核心代码更新而排除）",
+    "联合国‘Through Her Lens’女性影像展（缺乏 2026 年最新时效性）"
+  ],
+  "covered_entities": [
+    "Estorick Collection",
+    "Alinari Foundation",
+    "Museum of Modern Art (MoMA)",
+    "Los Angeles County Museum of Art (LACMA)",
+    "Comfy Org",
+    "Lucie Foundation"
+  ],
+  "repetition_notes": "对 ComfyUI 原生代码库更新的追踪属于对近期（9月8日、10日、12日、14日、15日）该生态演进的持续跟进（Follow-up），本次着重体现了官方在 Subgraph 子图发布这一核心前端重构上的进展。Tina M. Campt 入驻 MoMA 属于针对 9 月 13 日 MoMA 策展动向的背景延展（Background Signal），引入了其核心学者在新一学年度的最新学术动向。其余三项信号（意大利 Wulz 姐妹展、须藤玲子回顾展、露西基金会摄影书奖招募延期）均为全新发生的文化信号（New）。",
+  "issue_number": 64
+}
