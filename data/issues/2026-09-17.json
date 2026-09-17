@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-17",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义摄影",
+    "行为艺术档案",
+    "中国纪实影像",
+    "AI 音乐精准控制",
+    "国际摄影资助"
+  ],
+  "why_today": "今天的信号聚焦于身体、历史图像与技术的精密控制。从 1970 年代地缘女性主义摄影对凝视的视觉解构，到古巴艺术家以肉身伤痕作为暴力的活态档案，创作者们持续探讨身体在社会机制中的属性。而在技术层面，上海西岸首家直营徕卡画廊的设立记录了历史影像的本地建制化展示，全新开源的 YuE2-3B 模型则通过乐谱中间层为 AI 音乐提供了白盒化控制的路径，展现了身体、图像与数字媒介在档案实践中的最新演进。",
+  "intro": "本期简报收录了图像史、行为艺术文献与 AI 音乐工作流的最新信号。意大利先锋摄影展通过对凝视的反转，提供了去中心化摄影史的研究样本；古巴艺术家的个展则展示了如何将现场行为转化为物质性的身体档案。在技术层面，YuE2-3B 的开源提供了一种通过符号化乐谱控制音频生成的机制，为创意技术中的智能体协作提供了新路径。此外，第十届 PhMuseum 女性摄影师资助的开放，为独立影像创作者提供了实实在在的全球支持网络。",
+  "opening_signal": "身体既是抵抗暴力的战场，也是保存记忆最脆弱的档案。",
+  "closing_signal": "无论是将复杂的生成模型约束在清晰的乐谱中，还是将极端的肉身经历转化为可供展览的实体文献，我们都在试图为无形的经验寻找具体的容器。这些媒介化的容器，正在重新组织我们对当下和历史的感知方式。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "罗马 MACRO 举办 Marialba Russo 回顾展：以“反转之视”重构 1970 年代先锋摄影与女性主义视线",
+      "title_en": "Sguardo rovescio: Marialba Russo’s First Major Museum Retrospective at MACRO, Rome",
+      "summary_zh": "罗马当代艺术博物馆（MACRO）于 2026 年 9 月 24 日举办意大利摄影师 Marialba Russo 的大型回顾展“反转之视”（Sguardo rovescio）。展览展出 Russo 在 1970 年代创作的七个核心系列，包括《在餐厅，1974年9月29日》、《分娩》、《易装》等。作品通过女性镜头审视和隔离男性气概，记录男性在社会或宗教仪式中放弃强悍刻板印象的瞬间，以此对劳拉·穆尔维的“男性凝视”理论进行视觉层面的回应。",
+      "summary_en": "MACRO in Rome is launching 'Sguardo rovescio,' a major museum retrospective for Italian photographer Marialba Russo, showcasing her pioneering 1970s series that challenge patriarchal structures by reversing the traditional male gaze.",
+      "why_muki_cares": "该回顾展为 1970 年代地缘女性主义艺术史提供了扎实的图像样本。Russo 对“男性凝视”的反转并非简单的视觉对抗，而是通过摄影对意大利南部社会仪式、身体政治与劳作关系的结构性解构，是研究反向档案与女性视线的重要参考。",
+      "editorial_signal": "1970 年代意大利摄影中的女性主义视线反转与社会仪式解构。",
+      "theme_tags": [
+        "Marialba Russo",
+        "MACRO",
+        "女性主义摄影",
+        "男性凝视",
+        "身体政治",
+        "地缘影像",
+        "反向档案"
+      ],
+      "source_name": "Meer",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm9QS13RY1LUPcMKmToXyg2aBq4H_QhpFdT4jx6LbGHHupVpy2b35ECmI1ldG7sdKCg1E6BtAPdvxe0X00HH7CnJZbjdxqtikUlyKNrXWm8Q0aMYJu6uDhApoiVvqU4WNwa9Dm3A==",
+      "publication_date": "2026-09-15",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "The 8th Floor 举办 Carlos Martiel 个展《Dark Age》：以肉身极限与推测性档案探讨权力的形而上学",
+      "title_en": "Carlos Martiel: Dark Age Solo Exhibition at The 8th Floor, New York",
+      "summary_zh": "纽约 The 8th Floor 画廊于 2026 年 9 月 17 日举办古巴行为艺术家 Carlos Martiel 的个展《Dark Age》。展览将持续至 2027 年 1 月 30 日，期间 Martiel 将进行《Dark Age》、《铁腕》和《对他们的恐惧》三场全新现场表演，并将自己的兄弟引入到创作中。现场还将展出其过往行为艺术的文献、素描和实物，并首次公开系列画作《权力的形而上学》。Martiel 将自己的身体视为表演的档案，通过伤痕揭示历史与制度权力的暴力。",
+      "summary_en": "The Shelley & Donald Rubin Foundation presents 'Dark Age,' a solo exhibition by Carlos Martiel featuring live performances, drawings, and ephemera that frame the human body as a living, scarred archive resisting colonial and systemic violence.",
+      "why_muki_cares": "Martiel 提供了“身体即档案”的具体实践方法。他将不可复制的瞬间行为转化为可留存的物质档案，通过极端的身体耐力挑战对抗殖民与制度暴力，这对研究行为艺术的策展、身体政治以及机制批判极具启发。",
+      "editorial_signal": "通过行为艺术与身体伤痕构建对抗制度暴力的活态身体档案。",
+      "theme_tags": [
+        "Carlos Martiel",
+        "The 8th Floor",
+        "行为艺术",
+        "身体即档案",
+        "机制批判",
+        "去殖民化",
+        "活态档案"
+      ],
+      "source_name": "e-flux",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSg-nNbvjy0tWrBbPRmaMUW2ZvVOKsQrLsI0ag-X2yVfJSHM3V5SWjrH5FYroaIDa1BbWaTrAiok6qSzGXws7RR4SNUZTUdlzaQC0wl3UnbuvkvaqWEi1NQYvJdfP4kgIOg0DFbSf_86NUAR9ReEJDLe-6z6gmWRc=",
+      "publication_date": "2026-09-03",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "徕卡画廊中国大陆首馆落户上海西岸：开馆大展“马克·吕布：中国记忆”回顾半个世纪的城市与社会变迁",
+      "title_en": "Memories of China: The Inauguration of Leica Gallery Shanghai Westbund Central with Marc Riboud’s Retrospective",
+      "summary_zh": "徕卡画廊在中国大陆的首家直营展厅正式落户上海西岸艺术区。作为开馆大展，“马克·吕布：中国记忆”于 2026 年 9 月 12 日至 12 月 3 日举行，展出法国纪实摄影师马克·吕布在半个世纪里创作的 30 幅原作。作品涵盖了他从 1957 年首次访问中国到 2000 年代期间拍摄的社会图景，包括经典的《埃菲尔铁塔的油漆工》、《琉璃厂的古玩店橱窗》以及众多纪实的街头人文场景。",
+      "summary_en": "Leica's first brand-owned gallery on the Chinese mainland has opened in Shanghai's Westbund district with a retrospective of Marc Riboud, presenting 30 vintage prints capturing China's social and urban evolution over 50 years.",
+      "why_muki_cares": "西岸直营画廊的设立，展示了品牌资本、公共外交与地缘影像档案在上海核心艺术区的交汇方式。马克·吕布的历史档案不仅是纪实摄影的呈现，也提供了一个观察中国现代性社会变迁与影像建制化展示的窗口。",
+      "editorial_signal": "直营品牌影像空间落户上海西岸，以经典纪实底片重构地缘历史图像档案。",
+      "theme_tags": [
+        "Leica Gallery",
+        "马克·吕布",
+        "纪实摄影",
+        "中国现代性",
+        "影像建制化",
+        "上海西岸",
+        "历史档案"
+      ],
+      "source_name": "Leica Camera",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUKsS2g9pugHZFhG2uaksIQRgBpAnxXM4SDOKqsHiMwgTJxd1ffqw-ggKgphqSUK2-S2V-gcA53KfLnpTml9ThXf-K4J39Eb1j8CC529u_o65vRjB7JNOumzyucfksG0-jzubscWj0gsgGUW9MktoQW9fvZjS3fIWCg0ks_-4Ju2CKoKU=",
+      "publication_date": "2026-09-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "开放音频音乐大模型 YuE2-3B 发布：引入可编辑乐谱图层实现白盒化与智能体协同创作",
+      "title_en": "YuE2-3B: Open-Source Music Generation with Editable Scores from Multimodal Art Projection",
+      "summary_zh": "开源研究团队 Multimodal Art Projection 发布了拥有 30 亿参数的开源音乐生成模型 YuE2-3B。与传统直接输出音频的“黑盒”模型不同，YuE2 引入了基于 ABC 记谱法的“符号化规划与可编辑乐谱”机制。模型先生成包含旋律与和弦的乐谱，允许用户或 AI 智能体直接调整和声，再渲染为最终音频。此版本支持零样本翻唱、音轨风格转换，ComfyUI 官方也已在其分支中支持该模型。",
+      "summary_en": "Multimodal Art Projection released YuE2-3B, an open-weights 3B music model that generates editable symbolic scores in ABC notation first, enabling precise composition-level control and collaborative workflows for human creators and AI agents.",
+      "why_muki_cares": "YuE2 提供了一种白盒化乐谱控制的音频生成机制。通过引入可编辑的乐谱中间层，它为人类创作者与智能体程序化协同提供了可能，是研究计算音乐生态、人机协同和智能体工作流演进的重要技术增量。",
+      "editorial_signal": "开源音乐生成大模型引入可编辑乐谱中间层，打通智能体协同的精准控制工作流。",
+      "theme_tags": [
+        "YuE2-3B",
+        "音乐大模型",
+        "ABC记谱法",
+        "ComfyUI",
+        "智能体协同",
+        "人机交互",
+        "白盒控制"
+      ],
+      "source_name": "Hugging Face",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMjLxT-X5FE82cz4Ay3iSTzF0SXiIbSWR3ic5-IGJWzxLsyRxuN5wkgwEs0O3_PW4qppjO7FpBThR0GxvEud6irCcMeuzsxUyx4ZUl6XLf_RkTSzeFWhK_R6E=",
+      "publication_date": "2026-09-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "第十届 PhMuseum 女性摄影师资助计划启动：提供万元奖金与博洛尼亚个展机会",
+      "title_en": "10th Edition of the PhMuseum Women Photographers Grant Open for Submissions",
+      "summary_zh": "第十届 PhMuseum 女性摄影师资助计划已面向全球女性及非二元性别摄影师开放申请。本届资助总奖金为 10,000 欧元（一等奖 5,000 欧元），并提供两张价值 2,500 欧元的器材代金券。获奖者将获得 2027 年 6 月在意大利博洛尼亚 PhMuseum Lab 举办个人展览的机会（含差旅与制作费），部分入选作品还将在 2027 年米兰 PhotoVogue 摄影节上展出。早鸟申请截止日期为 9 月 24 日，最终截止日期为 10 月 15 日。",
+      "summary_en": "The 10th PhMuseum Women Photographers Grant is open for submissions from female and non-binary photographers, offering €10,000 in cash prizes, a solo show in Bologna, and exposure at the PhotoVogue Festival 2027.",
+      "why_muki_cares": "这是一个持续支持女性和非二元性别视觉创作者的高质量国际资助机会。它通过现金支持、设备赞助与个展机会的结合，为独立影像创作者提供了切实的资助与职业晋升通道，是极具参考价值的国际策展与资助网络。",
+      "editorial_signal": "第十届女性及非二元性别摄影师国际资助开放，打通博洛尼亚个展与 PhotoVogue 展示通路。",
+      "theme_tags": [
+        "PhMuseum",
+        "女性摄影师资助",
+        "非二元性别",
+        "艺术资助",
+        "博洛尼亚",
+        "PhotoVogue",
+        "公开招募"
+      ],
+      "source_name": "PhMuseum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF826utv-xVvfPE1kjNzt-qYsbDr3RJ06ERTgKRpE_vHOmwRH3_fqYdVsPXUHvzkIh85qdlq_dwYzOxCeX9quNQ6i5ybEqg9-PojUj8PdVypjk9e6hVDU73km0BRdlaUUC-rTxh9Oju6fwz8bPRgzIH",
+      "publication_date": "2026-09-08",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "罗马 MACRO 举办 Marialba Russo 回顾展：以“反转之视”重构 1970 年代先锋摄影与女性主义视线",
+    "why_muki_may_care": "Marialba Russo 在 1970 年代地缘语境下对“凝视”的反转，不仅是一次精彩的女性主义视觉挑衅，更为如何利用摄影介入社会仪式、解构父权制身体提供了一套极为严谨的田野调查与视觉人类学方法。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm9QS13RY1LUPcMKmToXyg2aBq4H_QhpFdT4jx6LbGHHupVpy2b35ECmI1ldG7sdKCg1E6BtAPdvxe0X00HH7CnJZbjdxqtikUlyKNrXWm8Q0aMYJu6uDhApoiVvqU4WNwa9Dm3A=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "MoMA 的《夺回我们的空间》摄影展策展人指南（因 9 月 13 日简报已深度覆盖该展，避免重复收录）",
+    "苹果公司举办的‘What Holds Us’移动摄影展（因其本质为高度商业化的品牌营销推广，缺乏独立的学术或艺术档案探讨价值）",
+    "ComfyUI v0.35.2 本地 H3 视频生成渲染效率优化（因近期已高频追踪 H3 生态演进，本次选择更具工作流控制范式变革意义的 YuE2-3B 音乐模型）"
+  ],
+  "covered_entities": [
+    "Museo d'Arte Contemporanea di Roma",
+    "The Shelley & Donald Rubin Foundation",
+    "Leica Camera",
+    "Multimodal Art Projection",
+    "PhMuseum"
+  ],
+  "repetition_notes": "本期所有收录项目均为全新发生的文化信号（New），无历史期重复内容。其中对 YuE2-3B 开源音乐大模型及 ComfyUI 原生分支集成的追踪，虽延伸自我们对 ComfyUI 生态的长期关注，但该模型首创的“符号化乐谱中间层控制”属于多模态生成控制技术领域的全新控制逻辑，与以往仅针对图像、视频算力优化的更新存在本质区别。",
+  "issue_number": 65
+}
