@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-18",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义策展",
+    "媒介考古",
+    "图像解构",
+    "空间物质性",
+    "ComfyUI逻辑更新",
+    "摄影书出版",
+    "活态档案"
+  ],
+  "why_today": "今天的信号聚焦于“秩序的重构与逻辑的闭环”。不论是将黑人女性艺术档案拆解为大气的空间层级，还是用开架式库房展柜重现地缘都市化的过程物质，策展人们正在打破既有的建制化规则。在虚拟计算领域，ComfyUI 通过引入“通用循环”重塑了底层算法逻辑，让 AI 工作流从单向渲染走向自治闭环。这种对物理与数字媒介控制力的追求，指向了同一种寻找自主秩序的探索。",
+  "intro": "在本期简报中，我们追踪了一系列关于“空间物质性、叙事重构与算法逻辑演进”的重要事件。从 Spelman 美术馆用气象隐喻重组女性主义档案，到巴尔代萨里经典的视觉解构实践在中国的重设，这些行动都在试图打破固有的视觉霸权。同时，ComfyUI 在逻辑控制上的底层迭代，也为本地算力工作流提供了更强大的白盒机制。",
+  "opening_signal": "真正的重构，往往从打破看似坚固的分类秩序开始。",
+  "closing_signal": "当实体摄影书的封面被废弃塑料包裹，当建筑的设计过程被置于通透的开架展柜，媒介的物质肉身便不再只是信息的容器，而是主动参与并扭转了叙事本身。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Spelman 美术馆庆祝建馆 30 周年：特展《Between Here & Infinity》以黑人女性主义视角重构艺术收藏叙事",
+      "title_en": "Spelman Museum Celebrates 30 Years of Black Women's Art with \"Between Here & Infinity\"",
+      "summary_zh": "美国亚特兰大斯佩尔曼学院美术馆在庆祝建馆 30 周年之际，推出特展《Between Here & Infinity》（这里与无限之间）。这是该馆历史上首个横跨两处展厅空间的展览，呈现了馆藏中近 70 件由黑人女性艺术家创作的作品。策展团队跳脱传统的线性美术馆史观，别出心裁地按照地球大气的不同层级（源头、门槛、内部、广袤、地平线）对作品进行分类归纳，对应呈现黑人女性主义想象力从历史根基、边界跨越、亲密内省、概念探索到未来融汇的叙事路径。",
+      "summary_en": "Celebrating its 30th anniversary, the Spelman College Museum of Fine Art presents \"Between Here & Infinity.\" The exhibition showcases nearly 70 works by Black women artists categorized by layers of the Earth's atmosphere, offering a spatialized, non-linear narrative of Black feminist imagination.",
+      "why_muki_cares": "展览将黑人女性身体经验与地缘历史档案进行空间层级的抽象重构。它跳脱出西方白人传统中心的经典美术馆分类框架，提供了一种富有启发的策展分类与空间转译方法，可作为女性主义媒介档案建设的极佳范式。",
+      "editorial_signal": "用地球大气层的空间隐喻重组女性主义视觉档案，为机制批判与去殖民化策展提供了具体的空间实践模型。",
+      "theme_tags": [
+        "Spelman College",
+        "黑人女性主义",
+        "女性主义策展",
+        "空间转译",
+        "去殖民化",
+        "艺术收藏",
+        "视觉档案"
+      ],
+      "source_name": "Spelman College Museum of Fine Art Press Release",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0sFyz2jtbte-DBDv2sOfOMMVA3BusbsRltHAXYMjxEPwNLV1yE8iZAOzcMGcYo74fii5Te1eyYja_3TuDYcFPJKyS3k6ZdvAhpfl4Np2KsOTQIM9aZ3Cxn5CwH5V0gqMuqgR_rlNpMa3JQhwM4mUWZLgzHqr_72TSs_JaxUYWhO2KNT-y9i9rgqo1GlMsaRI-_uv5IFdzwH6uC-0ESbhkL70s1v0L0_q7aJ7tNPa8Urg0HiE6fyQccTRPkMpUe3EW6-F4Q61F_L_hlIlXqNmRppM3-LyrTtco03iJm72hT7ZAe6WKKXiUnoqtivl2p0wuoJxrybgsIjw1tBandiQ=",
+      "publication_date": "2026-09-17",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "北京 UCCA 举办约翰·巴尔代萨里个展：以概念摄影与图像拼贴解构现代视觉语义",
+      "title_en": "John Baldessari's Solo Exhibition at UCCA Beijing Explores Conceptual Photography and Visual Semantics",
+      "summary_zh": "北京尤伦斯当代艺术中心（UCCA Beijing）将举办美国概念主义艺术家约翰·巴尔代萨里的大型个展。展览由 UCCA 策展人栾诗璇策划，系统梳理了巴尔代萨里一生中对图像、文本与意义关系的探索。他擅长对大众文化图像（如电影剧照、新闻摄影）进行裁剪、拼贴，并使用标志性的彩色圆点遮盖人脸，消解图像原本的叙事层级，从而揭示视觉媒介背后隐藏的权力和制度性注视。",
+      "summary_en": "UCCA Beijing will launch a retrospective for American conceptual pioneer John Baldessari. Curated by Luan Shixuan, the exhibition traces Baldessari's career in dismantling visual semantics and institutional gazes through photomontages, text-image play, and his signature colored dots.",
+      "why_muki_cares": "巴尔代萨里是图像历史与媒介考古领域的基石人物。观察其经典的概念摄影与“图像解构”手法在当代中国美术馆机制中的空间重设，为我们理解“图像作为一种抗争实践”提供了宝贵的案例。",
+      "editorial_signal": "拼贴与彩色圆点并非简单的视觉游戏，而是解构图像权力与消解建制化注视的视觉武器。",
+      "theme_tags": [
+        "John Baldessari",
+        "UCCA Beijing",
+        "概念摄影",
+        "图像拼贴",
+        "媒介考古",
+        "制度批判",
+        "视觉语义"
+      ],
+      "source_name": "Ocula Directory",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyn7NRsyzoa8cEgOZ5F_ePFF1GFbv-7VL9U7kQzddwInrMwASXQJayb1rG71JuhI9zbxCig2pyceVAPjTmw3PJKZoyBABbo_NHsqSH-B1--7ItN2eMaeMYMBvhg2xH9KyI5Uz6rMpgWZS6mhgLTckMLc4DzpJbl-bwtzHLFa4ET3PsDwU5ZSGtBFiIaWHBve_w",
+      "publication_date": "2026-09-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "M+ 举办“赫佐格与德默隆：聚焦”特展：以开放库房展柜呈现二十年中国地缘都市化档案",
+      "title_en": "\"Herzog & de Meuron: In Focus\" Opens at M+ Hong Kong, Tracing Architectural Process Across China",
+      "summary_zh": "香港 M+ 博物馆举办“赫佐格与德默隆：聚焦”特展，展现该建筑事务所向 M+ 馆藏捐赠的第二阶段档案（包含 200 多件过程资料）。展品涵盖北京国家体育场、香港大馆及 M+ 大楼等在中国的十个地缘地标。展览灵感源自该事务所的基金会库房，所有建筑模型、设计草图、材料样品与实体原型，均在按巴塞尔开架式库房原样复制的木制展柜中陈列，供公众和学者深入研究。",
+      "summary_en": "Highlighting the second phase of Herzog & de Meuron's archive donation to M+, the exhibition \"In Focus\" displays over 200 materials across ten projects in China, including the Beijing National Stadium and M+ building, presented in open-storage style wooden cabinets.",
+      "why_muki_cares": "展览将城市建设的“过程残余”（草图、实物模型、材料样品）转化为公共展示档案，揭示了建筑生产背后的地缘政治与物质性劳动。这对于研究东亚媒介考古与空间政治具有高度的启发性。",
+      "editorial_signal": "开架式木制展柜打破了成品的纪念碑式崇拜，转而将材料、模型和草图等设计中间态呈现为知识生产的活态档案。",
+      "theme_tags": [
+        "M+ Museum",
+        "Herzog & de Meuron",
+        "建筑档案",
+        "空间物质性",
+        "媒介考古",
+        "东亚地缘",
+        "活态档案"
+      ],
+      "source_name": "M+ Museum Official Press Release",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG784hx0gaupvqscsduYmQOaXeqFOJ4gDD4XHGz2hSoQJjuA_92jdA5-hOTU5tLOjlWSTD2Tr-Gj0Uc-sJrb_fIKVlu4ROup5qEItj_cKUNAx21M9iguN3R87hNeEQOWwXgZ_jVjTg_c7fFjMMljUIMT85RfBa_s8IGONMlV6vo1gQFnZxT_wcfHKWqzaMk0MPRVtIZ-bBIhSKSBcZ1cUhGKsvgA_CdPmY=",
+      "publication_date": "2026-09-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 发布 v0.35.2 更新：引入 FastH3 极速视频生成及 Generic Loops 通用循环模块",
+      "title_en": "ComfyUI September Updates: Native FastH3 Video Support and Generic Loops Workflow Modules",
+      "summary_zh": "ComfyUI 发布 v0.35.2 版本。更新原生支持了 FastVideo FastH3（MiniMax H3 模型的 8 步蒸馏版，支持在本地生成带音轨的视频），并添加了 Marigold V2 深度估计和 YuE2 音乐生成模组。更重要的底层逻辑改变是引入了“Generic Loops”（通用循环）机制，允许用户在节点图中对列表执行循环迭代，每次迭代可传递异构数据，并能在节点模式中自由声明循环的边界。",
+      "summary_en": "ComfyUI v0.35.2 introduces native support for FastVideo FastH3 (an 8-step distilled model of MiniMax H3) and YuE2. Crucially, the update debuts \"Generic Loops,\" a foundational logic enabling list iterations, heterogeneous data passing, and state feedback in a single graph.",
+      "why_muki_cares": "通用循环解决了以往 ComfyUI 无法在单个工作流中原生进行条件筛选和序列递归的痛点。这让工作流彻底摆脱了“单向线性渲染”的限制，开始支持多智能体（Agent）状态回授，是白盒化创意生产的重要增量。",
+      "editorial_signal": "从线性流到循环控制，工作流架构的逻辑闭环为创意工具注入了真正的智能体（Agent）递归和状态流转能力。",
+      "theme_tags": [
+        "ComfyUI",
+        "Generic Loops",
+        "MiniMax H3",
+        "工作流优化",
+        "AI智能体",
+        "白盒控制",
+        "视频生成"
+      ],
+      "source_name": "ComfyUI Official Changelog",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwTCJiNPkbhMf6fUmEi5tFM853vbFwAo3SbhIxX59BAvUTp_DpK2UwISKBAbwfAT8JvBt_BanLBos1oPmkXC2tHJWP2YqxB2j_FDf7_HQOYYiC8SO7SQ==",
+      "publication_date": "2026-09-16",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "葡萄牙 F/262 国际摄影节启动首届摄影书奖公募：以循环再造材料探索实体书媒介生态",
+      "title_en": "F/262 Photo Book Award 2026 Launches Open Call: Exploring Eco-Materiality and Book Craftsmanship",
+      "summary_zh": "葡萄牙 Caldas da Rainha 举办的 F/262 国际摄影节推出首届摄影书奖，旨在奖励最佳的未出版摄影书项目。唯一获胜者将获得全额资助，在葡萄牙本地以环保可持续材料印刷并装订 262 册实体书。该奖项与 VivaLab 合作，最具创新性的一点在于，实体书封面将使用摄影节倡议中收集的“回收废弃塑料”进行定制生产，让实体书的物质装帧本身承载起生态叙事。",
+      "summary_en": "The inaugural F/262 Photo Book Award in Portugal invites submissions for unpublished photo books. The winner receives full funding to print 262 copies locally using sustainable paper, with custom covers fabricated from recycled plastic.",
+      "why_muki_cares": "不同于常规仅关注画质的摄影书奖，该奖项把“生态回收的物质性”（废弃塑料封皮）直接植入实体书的肉身。对于研究摄影书媒介考古和物质生态的创作者而言，是一次极佳的出版实践和物质性实践机会。",
+      "editorial_signal": "封面回收废弃塑料的使用打破了摄影书单纯追求奢侈工艺的倾向，使物质装帧工艺本身转化为批判性的媒介叙事。",
+      "theme_tags": [
+        "F/262",
+        "摄影书奖",
+        "独立出版",
+        "媒介物质性",
+        "回收材料",
+        "艺术赞助",
+        "公开招募"
+      ],
+      "source_name": "F/262 Festival Photo Book Award Official Page",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO0zVFRaxtpDAoeOi_HJA7r3W8GnYDd33nzmX8Mwjf4igNYqvFhwURtYo2X_c749t0pwhFNSy7JAW-MohZVABQ_wEajeRW58_ABIqFj8CPS8DrIIjiLutfEkGVfhWANg==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition",
+    "title": "约翰·巴尔代萨里个展《John Baldessari》亮相北京尤伦斯当代艺术中心（UCCA）",
+    "why_muki_may_care": "作为图像历史与媒介考古的基石人物，巴尔代萨里的拼贴和遮盖手法是“图像解构作为抗争实践”的经典范本。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyn7NRsyzoa8cEgOZ5F_ePFF1GFbv-7VL9U7kQzddwInrMwASXQJayb1rG71JuhI9zbxCig2pyceVAPjTmw3PJKZoyBABbo_NHsqSH-B1--7ItN2eMaeMYMBvhg2xH9KyI5Uz6rMpgWZS6mhgLTckMLc4DzpJbl-bwtzHLFa4ET3PsDwU5ZSGtBFiIaWHBve_w"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Leica Gallery Shanghai Westbund: Memories of China - Marc Riboud (Already covered on Sep 17)",
+    "Lucie Foundation Photo Book Prize (Already covered on Sep 16)",
+    "Apple \"What Holds Us\" iPhone 18 Pro Exhibition (Commercial promotion rather than deep research / curatorial innovation)"
+  ],
+  "covered_entities": [
+    "Spelman College Museum of Fine Art",
+    "UCCA Beijing",
+    "M+ Museum",
+    "Comfy Org",
+    "F/262 Festival"
+  ],
+  "repetition_notes": "本期对 ComfyUI v0.35.2 底层逻辑升级的追踪（引入 FastH3 与 Generic Loops）是对 9 月中旬（11日、12日、13日、14日、15日、16日）ComfyUI 创意生态、MiniMax H3 及 Agentic 框架持续演进的技术性跟进（Follow-up）。本次更新首次在底层逻辑层面实现了非线性的 Generic Loops，提供了工作流白盒控制的核心增量。其余四项关于黑人女性主义大气展、巴尔代萨里个展、M+赫佐格特展及 F/262 环保摄影书奖的记录均为全新发生的文化信号（New）。",
+  "issue_number": 66
+}
