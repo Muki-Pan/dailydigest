@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-21",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性摄影师",
+    "东亚视觉史",
+    "暗房银盐",
+    "数码坏道考古",
+    "ComfyUI",
+    "策展驻留"
+  ],
+  "why_today": "今天的信号聚焦于东亚影像历史的重构与媒介边界的物质化突破。从伦敦摄影家画廊对战后至今日本女性摄影史的系统梳理，到北京三影堂呈现的汪芜生黑白银盐原作暗房遗产，图像的物理媒介特征与历史叙事互为表里。同时，上海黄静耀的损坏内存卡重构实践与 ComfyUI v0.37.0 带来的原生 3D 几何与多模态解析，共同展现了当代视觉技术从“失真失误”到“高精控制”的演进。最后，东京森美术文化基金会启动的策展人驻留，为这些跨地域、跨媒介的学术讨论提供了实在的制度性支持。",
+  "intro": "在本期简报中，我们着重关注影像如何通过技术介质——无论是传统的银盐感光、损毁的 SD 卡数码坏道，还是高精度的 3D 几何估计模型——来承载和重塑个人与集体的记忆。这些信号表明，视觉文化的生产已不再仅限于图像本身，而是深入到对硬件、化学及算法底层机制的考古与反思。",
+  "opening_signal": "照片是物质的残存，也是技术协议与历史视线碰撞的现场。",
+  "closing_signal": "当我们在暗房银盐的细腻灰度与算法生成的 3D 点云之间穿梭，会发现图像的真实性从未由单一媒介决定。它始终存在于技术失误的缝隙、物理介质的触感以及女性主义视线的重构之中。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "伦敦摄影家画廊《日本女性摄影师：自1950年代至今》特展：以 27 位创作者的 200 余幅作品重构东亚现代影像史中的女性线索",
+      "title_en": "Japanese Women Photographers: From 1950s to Now",
+      "summary_zh": "伦敦摄影家画廊（TPG）举办特展《日本女性摄影师：自1950年代至今》，这是该展在闭幕前夕备受关注的最后呈现。展览由 Lesley A. Martin、竹内万里子等联合策展，系统展出了 27 位日本女性摄影师的 200 余幅照片、影像、艺术书及物理装置，涵盖山沢栄子、常盤とよ子、石内都、川内伦子等不同世代的代表作。展览以 1985 年日本通过《男女雇用机会均等法》等社会政治转折点为脉络，勾勒出女性从业者如何突破主流纪实与画报媒介的限制。现场还复刻了小松浩子 2010 年底片密集铺设的物理装置《Broiler Space》。",
+      "summary_en": "The Photographers' Gallery in London presents a major exhibition featuring over 200 works by 27 Japanese women photographers from the 1950s to today, tracing their historical trajectories alongside pivotal postwar labor laws.",
+      "why_muki_cares": "这是东亚女性主义影像史与策展实践的一次重要学术梳理。展览不仅展示了从战后写实主义、90年代的私摄影，到当代概念艺术的视线转变，更通过小松浩子等人的空间装置，展示了摄影媒介的物质性如何挑战男性主导的画廊叙事规范。",
+      "editorial_signal": "女性主义视线的建制化重构与物理媒介的抗争",
+      "theme_tags": [
+        "日本女性摄影师",
+        "女性主义策展",
+        "视觉档案",
+        "小松浩子",
+        "石内都",
+        "男女雇用机会均等法",
+        "媒介物质性"
+      ],
+      "source_name": "The Photographers' Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGBsh3tdMVCl5b3xP6cikPsJoNB6tYOiPbV8ATq3_TY3xlk6Ue9CVc4tW_5MjeZQ589l7CBfFQexPOPUsADuP69dHLs0E7ct8buLqHu5eI8BUE0q4C7zaCRr_mDfGe3JmVipA2_WhUMX-U5fVsehfll4Hlwfpv035aLZwTn5rF-93sE-cLIMzlGVnjcQ==",
+      "publication_date": "2026-06-24",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "北京三影堂摄影艺术中心举办《一人一山：汪芜生摄影原作展》：系统呈现这位黑白山水摄影先驱的暗房银盐遗产",
+      "title_en": "A Life with the Mountain: Wang Wusheng's Vintage Photographs",
+      "summary_zh": "北京三影堂摄影艺术中心举办已故摄影师汪芜生（1945–2018）的首次大型个展，由艺术史学家巫鸿策划。展览展出了汪芜生自 1970 年代至 1990 年代创作的近百幅黑白黄山银盐原作。汪芜生自 1974 年起近百次登临黄山，他的创作避开了商业性的风光写实，而是通过长期的暗房化学工艺探索，追求深邃、天鹅绒般细腻的黑色质感，将传统水墨画中“墨分五色”的意境转化为化学感光的物理图像。本次展览由三影堂与汪芜生遗产执行委员会联合呈现。",
+      "summary_en": "Curated by Wu Hung, Three Shadows Photography Art Centre in Beijing hosts a solo exhibition of the late photographer Wang Wusheng, presenting nearly 100 vintage black-and-white gelatin silver prints that explore darkroom-crafted abstract landscapes.",
+      "why_muki_cares": "这是典型的影像物质性与暗房考古案例。它展示了感光化学技术如何被中国本土艺术家进行工具层面的微调，用现代感光乳剂去翻译古典的东方抽象哲学，为偏离画报式摄影的东亚山水美学提供了宝贵的原作物理参照。",
+      "editorial_signal": "黑白银盐的暗房物质性与东方抽象翻译",
+      "theme_tags": [
+        "汪芜生",
+        "巫鸿",
+        "三影堂",
+        "黑白银盐",
+        "原作展览",
+        "暗房考古",
+        "山水图像"
+      ],
+      "source_name": "Three Shadows Photography Art Centre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAOLU1WCM9_UhfMW5UsPJsS3eyAMtc0vAjTbI0w8z2JBDHe2-8qG9L2-xBNN9HDcKXieGURVw2ol-rJSlsn8MFezri4CxsiQox6iAGnTWbEuE1ulKiZHA_jZPegvuJjjag0e5-aj88VLro_IAaafA6hbQmgJyEIdPBsYXr4aq_G5sa7Dn5S2NKlykKAKk6pyfRu1WGkLeAutxS",
+      "publication_date": "2026-09-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "上海 Fotografiska 举办黄静耀个展《La Dénivelée》：以坏道内存卡数据重绘大湾区与纽约城市记忆",
+      "title_en": "La Dénivelée: Huang Jingyao's Solo Exhibition at Fotografiska Shanghai",
+      "summary_zh": "上海 Fotografiska 举办视觉艺术家黄静耀的个展《La Dénivelée》。展览展出了《Chaotic Data Fences》等三个系列的作品。该系列源于 2021 年艺术家在广州居家隔离期间对日出日落的记录，其后她发现用于储存照片的旧 SD 卡因硬件老化出现严重的数据坏道，导致图像分裂、色彩变异和建筑结构断裂。黄静耀并未废弃这些受损文件，而是将其视为记忆脆弱性的“摩斯密码”，通过几何切割与物理拼贴，结合亚克力与复合媒材，将其重构为多层次的空间装置。展览标题源自法国理论家于贝尔·达弥施关于摄影不断扰动历史的论述。",
+      "summary_en": "Fotografiska Shanghai hosts Huang Jingyao's solo exhibition, showing how the artist uses glitch data from corrupted memory cards as a medium to reconstruct fractured urban memories through physical acrylic and collage installations.",
+      "why_muki_cares": "本展提供了数字媒介考古与实体手工流结合的极佳参考。它不仅是一场关于视觉创伤的图像记录，更向我们展示了“技术失误”（硬件损坏）如何转化为创作介质，通过物理拼贴的再制造过程，赋予数字存储的无常性以可触知的雕塑感。",
+      "editorial_signal": "技术失损的媒介考古与空间物质化重构",
+      "theme_tags": [
+        "黄静耀",
+        "Fotografiska",
+        "数码坏道",
+        "媒介考古",
+        "空间装置",
+        "大湾区",
+        "城市记忆"
+      ],
+      "source_name": "Fotografiska Shanghai",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHORIxQLASM5-LxqY-A4LpqgZ1cc7KEKXSaSQxdFyoQ543XyVwUwDoIbheLK8E5htikzFwMvoRwrfyjLGwb-gDxIhKCHsdjbdNa13n2ZNJ226YOnBk01QodpIuy3XWeQ-nYR3QLRbGsRNxPICEfJYuyj9lVFw==",
+      "publication_date": "2026-09-18",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 发布 v0.37.0 更新：原生合并 Qwen-Image 2.1 视觉语言大模型与 MoGe 3 高精三维几何估计",
+      "title_en": "ComfyUI v0.37.0: Native Qwen-Image 2.1 and MoGe 3 Support",
+      "summary_zh": "ComfyUI 发布 v0.37.0 核心代码库更新。本次更新最显著的增量是原生合并了阿里开源的 Qwen-Image 2.1 视觉语言大模型，提供包括图像自动标签、问答及结构化解析在内的三套原生工作流。同时，更新还集成了 MoGe 3 多尺度几何估计模型，该技术通过在稀疏体素壳上细化粗糙点图，能够精准还原树枝、电线、发丝等在传统深度解码中易被模糊的精细几何结构。此外，系统引入了推测性解码以降低文本编码延迟，并可自动检测 NVMe 硬盘以开启 `--fast-disk` 极速加载模型。",
+      "summary_en": "ComfyUI v0.37.0 introduces native support for Qwen-Image 2.1 and MoGe 3, enabling localized semantic analysis of image archives and high-precision 3D geometry reconstruction directly within core workflows.",
+      "why_muki_cares": "本更新对本地图像整理与空间重构流有突破性价值。Qwen-Image 2.1 的原生集成使本地 AI 智能体可以不依赖云端 API、低延迟地自动索引和分析图片档案；而 MoGe 3 的细粒度 3D 几何还原能力，则大幅提升了从单张二维照片中提取精准物理空间结构并进行跨媒介转译的技术确定性。",
+      "editorial_signal": "本地视觉智能体的深度解析与点云几何高精控制",
+      "theme_tags": [
+        "ComfyUI",
+        "Qwen-Image",
+        "MoGe 3",
+        "3D重建",
+        "本地推理",
+        "媒介考古",
+        "图像解构"
+      ],
+      "source_name": "ComfyUI GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGRcJFa8g_y_r992vgQ6cvBoUU_fekXNlzbg6U-xSefgDZtOohmOsGknhK_VkmJfFvZGKW2yLkMath-VbSLDnhwxRz3btZLzb-1_PmHDm-FIerwMTJnmAjNXdoglJdLsGykjvGsmczMgtNZ2uS",
+      "publication_date": "2026-09-21",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "森美术文化基金会启动 2027 年度策展人驻留项目公募：全额资助全球策展人赴日深耕当代艺术生态",
+      "title_en": "MoriCAF Curator Residency Program 2027 Open Call",
+      "summary_zh": "东京森美术文化基金会（MoriCAF）启动 2027 年度策展人驻留项目公募。该项目面向日本以外地区、拥有 5 年以上专业当代艺术策展经验且精通英文或日文的策展人开放。入选者（每年 3 至 4 名）可在 2027 年 4 月至 2028 年 3 月期间，获得为期 1 至 3 个月的全额资助。资助内容涵盖往返经济舱机票、带厨房的单人服务式公寓住宿，以及最高 20 万日元的科研项目费。由片冈真实、Glenn D. Lowry 等全球美术馆长组成的评审团，将优先考虑有明确、具体后续展览或合作计划的申请方案。申请截止日期为 2026 年 10 月 31 日。",
+      "summary_en": "The Mori Contemporary Art Foundation in Tokyo has launched its 2027 Curator Residency Program, offering fully-funded 1-to-3-month research opportunities in Japan for experienced international curators.",
+      "why_muki_cares": "这是东亚极具学术含金量的专业策展资助机会。它不仅提供充裕的资金与起居支持，更将策展人直接接入日本核心的美术馆网络、艺术家工作室及档案机构，非常适合开展针对东亚视觉档案、女性主义艺术生态或新媒体艺术谱系的实地学术深耕。",
+      "editorial_signal": "东亚艺术生态的建制化连接与田野学术资助",
+      "theme_tags": [
+        "森美术文化基金会",
+        "策展人驻留",
+        "当代艺术",
+        "学术网络",
+        "国际公募",
+        "东亚策展"
+      ],
+      "source_name": "Mori Contemporary Art Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOy6cHVB8e9mE7B3wTdEYpKmRlEAlzIOTwmZMNI-EVz16Yt-KN0-5cKAyNqdjcANUy2tUDB486zO-kvnIMmc059n2UwO_9Yvs8Wwp1fRhdYrFZOm7y5iOFgpcKTQuBaD0VqiPHxSjc8VzScNS0PUsRyfDo7i8yjYnJr6C9uF1rxnL1dPsfJqbXwPJRnQ-eLWonFqzLw4gIoVY=",
+      "publication_date": "2026-09-11",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition",
+    "title": "伦敦摄影家画廊《日本女性摄影师：自1950年代至今》特展",
+    "why_muki_may_care": "作为一个对女性视觉历史和东亚叙事双重关注的研究者，此展览是在伦敦最后一周绝不应错过的里程碑呈现。它以战后至均等法案通过的社会法治时间线，将女性摄影从主流媒体的点缀重新编排为反抗与自决的主体力量，不仅有石内都等人的历史底稿，小松浩子的实物装置更提供了物理体量上的媒介震撼。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGBsh3tdMVCl5b3xP6cikPsJoNB6tYOiPbV8ATq3_TY3xlk6Ue9CVc4tW_5MjeZQ589l7CBfFQexPOPUsADuP69dHLs0E7ct8buLqHu5eI8BUE0q4C7zaCRr_mDfGe3JmVipA2_WhUMX-U5fVsehfll4Hlwfpv035aLZwTn5rF-93sE-cLIMzlGVnjcQ=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "关于 AI 工具生成普通视频的小型更新",
+    "由于无法确认最终申请期限的某欧洲小型画廊驻留招募"
+  ],
+  "covered_entities": [
+    "The Photographers' Gallery",
+    "Three Shadows Photography Art Centre",
+    "Fotografiska Shanghai",
+    "Comfy Org",
+    "Mori Contemporary Art Foundation"
+  ],
+  "repetition_notes": "本期对 ComfyUI v0.37.0 核心库升级的追踪（引入 Qwen-Image 2.1 原生支持与 MoGe 3）是对 9 月 18 日、16 日、15 日简报中有关 ComfyUI 创意技术工作流演进的持续跟进（Follow-up）。其余四项信号包括日本女性摄影师特展、汪芜生银盐原作展、黄静耀个展及森美术基金会策展人驻留项目，均为全新发生的文化信号（New），无历史期重复内容。",
+  "issue_number": 68
+}
