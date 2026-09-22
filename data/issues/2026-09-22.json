@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-22",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "身体政治",
+    "地缘视觉档案",
+    "早期中国影像",
+    "AI 画布工作流",
+    "女性艺术家资助"
+  ],
+  "why_today": "今天，历史档案的流动与激活正通过各种制度路径深入公共空间。从纽约 MoMA 将半个世纪前的身体语言分类摄影与当下交叉女性主义肉身并置，到香港公共图书馆让珍贵的晚清早期中国照片巡回于基层社区，再到 Midjourney 在 UI 层面对多模态编辑工作流的白盒化升级，这些信号共同揭示了档案不再是冰冷的历史陈列，而是在不断交互、控制与流动重组中重新显现其在当下的行动力。",
+  "intro": "本期简报为 Muki 带来过去一周内最重要的文化与技术信号。我们避开了浮躁的模型参数狂欢和宏大的叙事辞藻，专注于那些能够真正进入工作流、沉淀为研究方法或带来真实制度变革的事件：无论是藏品走出博物馆库房的社会化巡展、底层交互界面的白盒控制，还是国家赞助的国家摄影遗产尘封四十年的首度重聚，都为我们重新审视身体、地缘、历史与技术的结合提供了具体的参照。",
+  "opening_signal": "档案不该只是躺在抽屉里的历史遗物，它是被当下肉身与技术反复激活的活态生产工具。",
+  "closing_signal": "当机构赞助、学术共建与技术重构在基层和画布的每一个微小节点上相遇，我们看见的不仅是尘封记忆的苏醒，而是一个对地缘、身体与技术进行高精度自决与照料的未来正在成形。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "纽约 MoMA 举办《夺回我们的空间》摄影展：以交叉女性主义重构身体政治与公共空间",
+      "title_en": "\"Taking Back Our Space: Photographic Perspectives\" Opens at MoMA",
+      "summary_zh": "纽约现代艺术博物馆（MoMA）举办《夺回我们的空间：摄影透视》特展。展览以艺术家 Marianne Wex 于 1977 年创作的标志性女性主义摄影项目《让我们夺回空间》为原点。Wex 曾系统性地收集并分类整理了大量关于男女坐姿、站姿等身体语言的媒体和街头抓拍图像，揭示其背后的父权制空间占有。此次展览首次将其与 Nona Faustine、Yuki Kihara 等 7 位当代艺术家的最新创作并置，从非裔、酷儿和原住民等多重视角，重审身体在公共空间和历史叙事中的夺回与自我表征。",
+      "summary_en": "MoMA's exhibition \"Taking Back Our Space: Photographic Perspectives\" centers on Marianne Wex’s landmark 1977 photographic project alongside works by seven contemporary artists, exploring bodily language, public space, and self-representation through an intersectional feminist lens.",
+      "why_muki_cares": "展览将 Marianne Wex 关于身体语言与空间占有的经典历史档案，与 21 世纪多元背景的交叉女性主义身体实践并置。它提供了一个通过摄影档案解构公共空间权力机制、建立反向叙事的策展方法样板。",
+      "editorial_signal": "Wex 的底片分类法在半个世纪后被注入了非裔、酷儿和原住民的交叉性视角。这说明经典的女性主义身体档案不仅是历史文献，更是不断被当下肉身激活的活态生产工具。",
+      "theme_tags": [
+        "Marianne Wex",
+        "MoMA",
+        "女性主义摄影",
+        "身体政治",
+        "空间权力",
+        "交叉女性主义",
+        "档案激活"
+      ],
+      "source_name": "MoMA",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGTElitl_mEfnQzvLFhlH-yvirUbpEKqzNdttV--6aFur8bSWYqn3KtuAWNwxg8sZIuVKN9kqc7iNsoFeNzQBi9vqsVdelvYgNsYx_l880hKy0xxOM0L-mF5BZDSNOr8S3mnTzWSgjI6U_JlwekjZMH-SDqoY9Vw0XPLUwVrU7e-yx2Cv5xMDG",
+      "publication_date": "2026-09-20",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "史密森尼美国艺术博物馆举办《此地甚美》特展：首次重聚 1970 年代建国两百周年国家摄影调查档案",
+      "title_en": "\"Much Here Is Beautiful: Photography Surveys of the U.S. Bicentennial\" at SAAM",
+      "summary_zh": "史密森尼美国艺术博物馆（SAAM）举办《此地甚美：美国建国两百周年摄影调查》特展，首次重聚展出 225 幅珍贵原作。1976 年至 1981 年间，美国国家艺术基金会（NEA）资助了大规模的地方性摄影调查计划，由 70 多位纪实摄影师深入不同地域记录社区、地缘景观和劳工阶级的变迁。这批底片和冲印原作自 1983 年移交该馆后尘封数十年，此次展览及与 Radius Books 合作出版的同名图录，首次系统呈现了这一由国家赞助、旨在勾勒地缘文化变迁的集体视觉遗产。",
+      "summary_en": "The Smithsonian American Art Museum presents \"Much Here Is Beautiful,\" uniting 225 vintage photographs from regional surveys funded by the National Endowment for the Arts between 1976 and 1981, providing an expansive look at local communities and labor history.",
+      "why_muki_cares": "这是典型的地缘视觉档案重建。国家赞助的集体摄影调查不仅是地理记录，更是特定的政治动员与社会景观的交织。对于研究图像的物质性、地方志编纂以及如何重构失落的国家视觉遗产具有参考价值。",
+      "editorial_signal": "被封存四十余年的 NEA 纪实摄影原作重新见光，展示了摄影档案作为‘延迟历史媒介’的特性。它们在当下重新组装，构成了对 20 世纪后期地方社会生态演变的物证集群。",
+      "theme_tags": [
+        "史密森尼美国艺术博物馆",
+        "纪实摄影",
+        "视觉档案",
+        "国家赞助",
+        "地缘变迁",
+        "劳工历史",
+        "影像物质性"
+      ],
+      "source_name": "Smithsonian American Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeHK0rf8tVGyssu4DJSQbTyzRJNqWzVyQveMW1RGzOWwm5yvPlp4Ns_daz4zqRBl40aJ8NPrudPuDE-LXLztzsazYEeZsMSNPH0oArSNsZcNvNdIYweOFrDMaUvD2uhyX2mX2j8Lu5f74QY4g_Aiv7dVJYbHtjS-rN-uI=",
+      "publication_date": "2026-09-18",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "香港公共图书馆举办“梦周藏品”巡回展：深入基层社区激活晚清至改革开放早期中国影像档案",
+      "title_en": "Moonchu Foundation Early Chinese Photography Roving Exhibition in Hong Kong",
+      "summary_zh": "由香港弘扬中华文化办公室与公共图书馆系统联合举办的“梦周文教基金会早期中国影像藏品”大型巡回文献展，在香港中央图书馆展出。该展基于梦周文教基金会此前捐赠的逾 24000 件早期中国影像。藏品时间跨度自 1844 年至 1979 年，涵盖银版、玻璃湿版、蛋白纸等多种物理媒介，记录了晚清至改革开放初期的山川、战事、城市与民俗。巡展采用流动的图板与互动媒介展示，使这批早期摄影物质档案走出博物馆，转化为基层社区的公共历史资源。",
+      "summary_en": "Jointly organized by the CCPO and HKPL, the roving exhibition of the Moonchu Foundation's Chinese photography collection showcases early historical images spanning 1844 to 1979, making rare archival materials accessible to local communities.",
+      "why_muki_cares": "梦周藏品是研究早期中国摄影史、流散档案回归及影像媒介考古的极其关键的活水源头。这次巡展展示了一种“流动激活”（Roving Activation）的制度化实践，把高学术门槛的蛋白纸和湿版影像还原为面向大众的社区媒介教育。",
+      "editorial_signal": "珍贵影像史料不再局限于恒温恒湿的博物馆地下库房，而是通过便携图册和基层巡展走进市民的日常空间。这种档案公共化路径，为地缘记忆的活态化提供了落地样板。",
+      "theme_tags": [
+        "梦周藏品",
+        "早期中国摄影",
+        "影像考古",
+        "流散档案",
+        "媒介物质性",
+        "流动激活",
+        "香港公共图书馆"
+      ],
+      "source_name": "弘扬中华文化办公室",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdgaBH7LlGx_Ppiv3FsJKB6-_ERqJixKEPLQXxgYT2RMkieT3N4bV0Uv4Fl7ZD-YEOZSIFflq27u-7C_U4ngfTcPl442AIJrS_I2UUsiHXisVgV5eliSt8dG0txIPeYAMNzRsn-wNjJHhGDHy_4AdD5YpOOES-b3w=",
+      "publication_date": "2026-09-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "Midjourney 推出 9 月 Alpha 网页端更新：整合 v8.2 多图参考、局部重绘与无缝画布编辑工作流",
+      "title_en": "Midjourney September Alpha Update: Re-engineering UI Workflows with v8.2 Edit Model",
+      "summary_zh": "Midjourney 针对其 7 月底发布的新默认模型 v8.2 进行了网页端 Alpha UI 的大幅重构，全面优化了其多模态“编辑模型”（Edit Model）工作流。该模型将全局参考、角色参考与重绘纹理等底层逻辑合并，支持用户在单个画布界面中，通过自然语言直接局部修改图像，或混合最多 4 张参考图。此次 UI 升级引入了拖拽图片直观引导、草稿批次网格化悬停预览等机制，使用户无需跳出编辑流即可完成精准的局部重绘和一键无损增强。",
+      "summary_en": "Midjourney's latest Alpha update streamlines its web UI for the v8.2 Edit Model, integrating image reference locking, localized inpainting, and canvas expansion into a seamless web-based workspace.",
+      "why_muki_cares": "AI 生成工具正在从依靠纯文本拼运气的“盲盒时代”，彻底走向依赖“多图特征参考、画笔局部修抹”的白盒式视觉控制。这种向专业画布、多模态参考和无缝反馈工作流的演进，是内容创作者摆脱工具焦虑、建立高精度确定性控制的关键一步。",
+      "editorial_signal": "Midjourney 本次更新没有跟风炒作参数量，而是将精力放在了多图参考锁定、无缝局部重绘等应用层交互上。这说明生成式 AI 正在进入精细操作与专业工作流对齐的深水区。",
+      "theme_tags": [
+        "Midjourney",
+        "Alpha Web",
+        "编辑模型",
+        "局部重绘",
+        "多模态参考",
+        "白盒化控制",
+        "工作流优化"
+      ],
+      "source_name": "Midjourney",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-sqXA4cWPSoRT7C8-Lvec0U11WtC9iY0WbnKztNkm0K6HfxfTq1sgSX2ju6PG_8hX5LxOs4K2um16QWMkfcZ-badQ5KwCzivdQGxmBw2MHyU6yVY39zI9gNFH_r0oKtX_y9mcVKKwE0qQosnQ",
+      "publication_date": "2026-09-16",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "2027 年度日本国立美术研究中心与 AWARE 女性艺术家资助计划启动公募：资助地缘女性与非二元视觉实践研究",
+      "title_en": "Call for Applications: FY2027 NCAR x AWARE Women Artists Research Fellowship",
+      "summary_zh": "由日本国立美术研究中心（NCAR）、蓬皮杜艺术中心旗下的非营利组织 AWARE 及蓬皮杜国家现代艺术博物馆联合发起的 2027 年度研究资助项目启动招募。该计划旨在加强对与日本有联系、在视觉艺术领域表现突出的女性及非二元性别艺术家的学术研究，以此重写更加多元的美术史。公募面向全球学者与策展人，唯一要求是在 2027 年 4 月至 2028 年 3 月期间须在日进行实地研究。项目将录取两项研究，各资助 5000 欧元，成果将公开发表于双方官方学术平台。",
+      "summary_en": "The National Center for Art Research (NCAR) and AWARE have opened applications for their joint FY2027 fellowship, granting 5,000 euros to researchers conducting in-depth studies on women and non-binary artists connected to Japan.",
+      "why_muki_cares": "这是一个含金量极高且极具针对性的地缘女性主义研究资助。首届资助方向包括对现代日本女性雕塑家史和明治至昭和初期早期女性摄影实践的挖掘，完美衔接 Muki 关注的“东亚地缘女性视觉历史、反向档案”学术阵地。",
+      "editorial_signal": "AWARE 联合日本国立研究建制，直接下沉到日本地方和历史深处发掘非二元与女性艺术实践。这种制度层面的跨国学术共建，是绕过单一国家宏大叙事、建立交叉历史档案的有效实践。",
+      "theme_tags": [
+        "NCAR",
+        "AWARE",
+        "女性艺术家资助",
+        "非二元性别",
+        "东亚美术史",
+        "学术共建",
+        "反向档案"
+      ],
+      "source_name": "National Center for Art Research",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4NbjA0TNno5P-a9OHH8b-ImNV3q14bg0pdoCF7eaLHRZVX8d6iiBPahafyik9lGPwfAsRWNOi2biGw7xBfLn8KmFzdIpFwB0fJvqdIjCDXL5Mi7TQyL7vlCb-vZtT21rswquZAhornnJW0Ko=",
+      "publication_date": "2026-09-15",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Long Read / Opportunity",
+    "title": "2027 年度日本国立美术研究中心与 AWARE 联合女性艺术家研究资助计划启动公募",
+    "why_muki_may_care": "这是一个深度契合东亚地缘女性摄影与艺术实践重写的学术资助。其往期资助了日本现代雕塑、明治到昭和早期女性摄影等被遮蔽历史的研究，为建立独立的反向档案提供了强有力的机构制度支持与资金通道。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4NbjA0TNno5P-a9OHH8b-ImNV3q14bg0pdoCF7eaLHRZVX8d6iiBPahafyik9lGPwfAsRWNOi2biGw7xBfLn8KmFzdIpFwB0fJvqdIjCDXL5Mi7TQyL7vlCb-vZtT21rswquZAhornnJW0Ko="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "某些关于 AI 图像生成或视频生成模型更新的微小迭代，因其并未在交互控制上发生根本性的逻辑变化而未予收录。",
+    "某些缺乏第一手研究文献支撑的、仅凭社交媒体讨论的艺术项目申报，因其真实细节与网址无法核实而被排除。"
+  ],
+  "covered_entities": [
+    "MoMA",
+    "Smithsonian American Art Museum",
+    "弘扬中华文化办公室",
+    "Midjourney",
+    "National Center for Art Research"
+  ],
+  "repetition_notes": "本期收录的五个项目均为全新发生的文化信号（New），不存在历史期重复内容。其中日本国立美术研究中心与 AWARE 的联合资助计划虽然涉及地缘女性主义档案建设，但该 2027 年度的招募公募于 9 月 15 日最新发布，属于全新发生的机会信号。",
+  "issue_number": 69
+}
