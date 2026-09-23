@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-23",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性无偿劳动",
+    "日常摄影考古",
+    "影像物质性",
+    "角色一致性",
+    "算法劳工监督",
+    "逆向档案"
+  ],
+  "why_today": "今天的内容指向了一个共同的尺度重构：创作者与研究者如何从“日常、凡俗、家务”等长期被忽略的生命场景中，提取带有抵抗张力的视觉资产与工作流工具。",
+  "intro": "本期简报聚焦于那些反向构建微观历史的实践：从香港半山里对无偿家事劳动的艺术赋权，到曼哈顿街角将原作与出版物深度共嵌的民主空间；从东亚影像中关于现代算法劳动的历史回溯，到中欧专门资助凡俗相册考古的开放公募，以及国产模型首创的多图参考工作流节点。它们共同提供了一种通过微小、具体之物对抗宏大技术与体制霸权的路径。",
+  "opening_signal": "无偿的家务与凡俗的相册，都是在宏大建制之外顽强生长的肉身档案。",
+  "closing_signal": "微小的日常与具体的手作，也许才是对抗算法过度抽象、重拾身体温度最有效的防御方式。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "承兰艺术基金会举办藏品展《Housekeeping》：以五位女性艺术家作品探讨家事劳动与日常关护",
+      "title_en": "\"Housekeeping\" Exhibition at Cheng-Lan Foundation Explores Domestic Labor and Care",
+      "summary_zh": "香港半山公共空间“承兰角落”举办第二期藏品展《Housekeeping》（《家政》）。展览汇集了鲁斯·阿萨瓦、奥尔加·德·阿马拉尔等五位女性（或女性认同）艺术家的作品，通过阿萨瓦的环圈铁丝雕塑、Amaral 的编织纺织品，呈现日常生活中维持家庭和社群运作的无偿劳动。上海艺术家薛萤专门为此制作了特定场域装置，利用捡拾的日常现成品和粘土指涉美术馆之外的家庭动力学与身体心理体验。",
+      "summary_en": "The Cheng-Lan Foundation in Hong Kong presents the collection exhibition 'Housekeeping,' bringing together works by five women and female-identifying artists to explore domesticity, maintenance labor, and daily care.",
+      "why_muki_cares": "展览直接探讨了女性的无偿劳动与关护伦理。它展示了女性创作者如何将“低等手工”或“家庭杂务”转化为非层级化的艺术实践。空间所处的中半山历史地缘，也为身体空间政治提供了绝佳的研究切片。",
+      "editorial_signal": "承兰 Corners 利用极具殖民地地缘历史张力的物理空间，通过藏品重组指涉“无偿家政”在传统画廊体制外的非层级叙事。",
+      "theme_tags": [
+        "承兰艺术基金会",
+        "Housekeeping",
+        "家政劳动",
+        "日常关护",
+        "Ruth Asawa",
+        "Olga de Amaral",
+        "薛萤",
+        "身体动力学"
+      ],
+      "source_name": "Cheng-Lan Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXjf6Hv9ADFQFwqK9WOKxOGd-QOeCAFHUIjA5qeLve_A-bNoxqxMsyiguQENkNJp9L7bMT9NCzLaV9vFII_Ha99aiPMRJQRmBwpKr4syJRopDYx3-0",
+      "publication_date": "2026-09-23",
+      "image_url": "https://cdn.sanity.io/images/3nmt7t4k/production/517c59492c8ab636c39f05773521fe395dfcac65-3600x4802.jpg?w=1920&fm=webp&q=90",
+      "image_caption": "《Housekeeping》展览现场，呈现 Ruth Asawa 的环圈铁丝雕塑作品"
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "Aperture 在曼哈顿启用永久总部与画廊：首展《Aperture Loves New York》探讨原作与书籍的物质共建",
+      "title_en": "Aperture Opens New Permanent Headquarters and Gallery with \"Aperture Loves New York\" Exhibition",
+      "summary_zh": "成立于 1952 年的非营利摄影出版机构 Aperture 正式启用位于纽约曼哈顿上西区的永久总部。新空间占地 10,000 平方英尺，由 LEVENBETTS 设计。开馆首展《Aperture Loves New York》采取“照片原作 + 对应 Aperture 出版书籍”成对陈列的展陈策略，收录了 Nan Goldin、Diane Arbus 等 20 多位摄影师塑造纽约记忆的经典作品。新总部还与独立书店 Dashwood Books 深度合作，并在开幕月展出印度独立摄影书出版的最新生态。",
+      "summary_en": "The non-profit photography publisher Aperture has inaugurated its new 10,000-square-foot permanent headquarters in Manhattan with the exhibition 'Aperture Loves New York,' pairing vintage prints with corresponding Aperture publications.",
+      "why_muki_cares": "这一地缘空间迁徙体现了摄影机构从“白盒子画廊”向“街区公共橱窗”的民主化重构。其“原作与出版物”并置的展陈机制，为研究图像循环和书籍作为替代性档案提供了绝佳的策展参考。",
+      "editorial_signal": "实体出版物与原作并在的展陈逻辑，打破了传统的画廊媒介阶级，将独立出版网络（如印度独立摄影书）作为民主档案引入核心展示建制。",
+      "theme_tags": [
+        "Aperture",
+        "摄影出版",
+        "媒介物质性",
+        "空间重构",
+        "Dashwood Books",
+        "独立摄影书",
+        "纽约"
+      ],
+      "source_name": "Aperture Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOy1vK9jKyCZ7QSRmLw1i8ePjzbHZv2es72OOAa6Bqv5BvvdPtPc7n_1cO4UrDFxQl5IYtad2ToaoAkMfM_PNTfZlEqQ_6GsaldIAMbmxc310OIr4Lqln6_1xFJr15Fkqmjoz0OLJOPFxkC-Hhkg==",
+      "publication_date": "2026-09-18",
+      "image_url": "https://aperture.org/wp-content/uploads/2026/09/Aperture_091526_002-scaled.jpg",
+      "image_caption": "Aperture 曼哈顿上西区新总部内景"
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "第三届大田国际摄影节开幕：108 位全球艺术家聚焦“劳动”的算法媒介与地缘历史变迁",
+      "title_en": "2026 Daejeon Photo Festival Explores the Evolving Realities of Labor",
+      "summary_zh": "第三届大田国际摄影节在韩国大田的 11 个展馆开幕，汇集来自 10 个国家的 108 位艺术家，围绕“劳动”展开系统探讨。展览分为“后劳动”与“现代劳动”两部分：前者梳理人类劳动从肌肉、机器迈向算法时代的媒介变迁；后者则并置展出了美国纪实先驱刘易斯·海因关于童工的银盐原作以及韩国玻璃干版底片档案，反映两国现代劳动的历史痛感。",
+      "summary_en": "The third Daejeon Photo Festival in South Korea features 108 artists from 10 countries, examining labor across generations from muscle-based historical archives to modern algorithmic gig work.",
+      "why_muki_cares": "这是东亚地缘内少数直接以“劳动”为独立策展母题的大型摄影节。它敏锐捕捉到了从“肌肉劳动”到“平台算法”的媒介转换，并成功将历史纪实档案引入社会改良的叙事，为研究劳工身体提供了极佳样本。",
+      "editorial_signal": "通过地缘历史底片与算法劳工现场的同场调度，展览呈现了摄影媒介作为社会权力监督工具的物质演变。",
+      "theme_tags": [
+        "大田国际摄影节",
+        "劳工影像",
+        "算法劳动",
+        "刘易斯·海因",
+        "玻璃干版底片",
+        "媒介考古",
+        "东亚地缘"
+      ],
+      "source_name": "Walk Into Korea",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8OTK9fzKXsVJHP8sautOA3w0f7moPDsDYjpVBVcev4VRFNZ2srfeVULdNkuBMHJBUfPih_fXVPcg6xf09rq98VO2EbbU_e5JPYBEeno9NT9L9IUliDeb3_2eOnci1fnVL_r5J_5C2UxMF3fin-zRilFjTBPs=",
+      "publication_date": "2026-08-31",
+      "image_url": "https://cdn.walkintokorea.com/news/photo/202608/10771_21444_552.jpg",
+      "image_caption": "2026 大田国际摄影节海报及展陈现场"
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "腾讯发布混元大模型 3.5：支持五图多参考控制，ComfyUI 官方节点同日上线",
+      "title_en": "Tencent Releases Hunyuan Image 3.5 with Multi-Reference Editing and Official ComfyUI Integration",
+      "summary_zh": "腾讯正式发布自研图像大模型混元 3.5 预览版。该模型在空间布局、文字排版及人像肢体生成准确度上大幅提升，并首次在图像编辑和生成中支持多达 5 张图片的多参考控制。此更新允许创作者在无需微调模型的情况下，高度保持特定角色的身份、服装和环境风格一致，并原生支持最高 2K 的无损生成。同时，Comfy Org 在 GitHub 主仓合并官方 Partner 节点，创作者可将云端多参考图逻辑以“白盒节点”直接引入本地 ComfyUI 流程中。",
+      "summary_en": "Tencent has released its Hunyuan Image 3.5 Preview model, introducing native 5-image reference control for character and style consistency alongside direct open-source integration into ComfyUI's official node library.",
+      "why_muki_cares": "解决了 AI 绘图工作流中“角色一致性”和“风格连贯性”的痛点。多参考图控制免去了本地微调 LoRA 的繁琐过程，ComfyUI 的无缝接入进一步降低了非技术性创作者管理复杂视觉叙事的工作流门槛。",
+      "editorial_signal": "从“黑盒概率抽卡”向“多源白盒控制工作流”的跨越，多图参考机制正在重组个人创意出版和故事板生成的生产力基础。",
+      "theme_tags": [
+        "腾讯混元",
+        "Hunyuan 3.5",
+        "ComfyUI",
+        "角色一致性",
+        "多参考图控制",
+        "工作流优化",
+        "AI创作者"
+      ],
+      "source_name": "AIbase",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHChsKurBqe0Y9_lxCATzCffi2AxOCkHd2sq2pzTgsRq_AIqHKNfsRxJWvUEikpmlkNRcc7WUPInVGK0Tb_bYRadpkTMNYlXAAAPEo6GdkXS6djh8ofPcU4",
+      "publication_date": "2026-09-22",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "匈牙利 Eidolon 日常摄影中心启动 2026 年度资助：两万五千欧元支持凡俗与日常影像研究",
+      "title_en": "Open Call: Eidolon Grant 2026 for Vernacular Photography Research and Projects",
+      "summary_zh": "总部位于匈牙利布达佩斯的日常摄影中心（Eidolon Everyday Photography Center）启动 2026 年度全球资助计划，总金额为 25,000 欧元。资助面向全球范围内的艺术家、研究员和策展人开放，不收申请费，聚焦两大方向：当代日常摄影文化（社交媒体图像、算法媒介）与历史日常摄影（家庭相册、业余底片档案的重新诠释）。评审委员会由伦敦摄影家画廊策展人 Sam Mercer、影像学者 Alba Zari 等组成，申请截止日期为 2026 年 9 月 30 日。",
+      "summary_en": "The Eidolon Everyday Photography Center in Budapest has opened its 2026 grant program, offering €25,000 across two categories dedicated to contemporary digital imaging and the retrieval of historical family albums.",
+      "why_muki_cares": "业余随手拍和私人家庭相册是抵抗宏大历史叙事的最佳“逆向档案”。该基金免申请费，直接资助日常与民俗影像研究，对致力于图像考古和视觉史重构的 Muki 而言是极为难得的高质量申请与学术合作网络。",
+      "editorial_signal": "针对凡俗摄影（Vernacular Photography）学术化定位的专门资助，显示出国际前沿影像研究对非主流视觉建制的保护、抢救与重构趋势。",
+      "theme_tags": [
+        "Eidolon Center",
+        "凡俗摄影",
+        "逆向档案",
+        "家庭相册",
+        "视觉史重构",
+        "日常影像考古"
+      ],
+      "source_name": "Eidolon Everyday Photography Center",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuWLRxwzMZ2DPiyBgrr-3xNk0o0UbvrXBKDth-bWFYx2XjjLA2za_sl7dGpDP9zB65RU2qcFZWP4DWGqvc_j3imj6zT-rI3LaafinNCUDK68AzggXTGc9VrXTCPGmwwkZzF8ogQosD",
+      "publication_date": "2026-09-23",
+      "image_url": "https://everydayphotography.org/centre/wp-content/uploads/2026/05/EG2026_twitter.png",
+      "image_caption": "Eidolon Grant 2026 招募海报"
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition",
+    "title": "承兰艺术基金会藏品展《Housekeeping》",
+    "why_muki_may_care": "将日常家庭劳动、编织、无偿维持性工作转化为对抗艺术建制的非层级化实践，地缘张力极强。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXjf6Hv9ADFQFwqK9WOKxOGd-QOeCAFHUIjA5qeLve_A-bNoxqxMsyiguQENkNJp9L7bMT9NCzLaV9vFII_Ha99aiPMRJQRmBwpKr4syJRopDYx3-0"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "ComfyUI 常规功能小幅更新",
+    "其他地缘冲突影像报道",
+    "没有明确方法论的小型艺术家个展"
+  ],
+  "covered_entities": [
+    "Cheng-Lan Foundation",
+    "Aperture Foundation",
+    "Walk Into Korea",
+    "Tencent Hunyuan",
+    "Eidolon Everyday Photography Center"
+  ],
+  "repetition_notes": "本期所有收录项均为全新信号（New）。ComfyUI 的节点接入虽属于对创意技术生态的持续关注，但混元 3.5 预览版的多图参考控制为 9 月 22 日首次公布，带有核心技术控制工作流的逻辑增量。",
+  "issue_number": 70
+}
