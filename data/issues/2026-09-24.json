@@ -1,0 +1,157 @@
+{
+  "date": "2026-09-24",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义摄影工坊",
+    "媒介考古与无墨打字",
+    "影像雕塑的空间重组",
+    "ComfyUI 非线性时间线",
+    "无限制社群艺术资助"
+  ],
+  "why_today": "今天的文化信号聚焦于“实体空间中的档案重塑与工具控制”。从西海岸将当代素描物理塞入女同性恋历史档案平柜，到无墨打字机将小说重写转为纯粹的肉身留痕，再到东亚艺术家以“影像雕塑”将平面摄影碎片拉伸进三维物理空间，这些实践共同展现了艺术家如何抵抗数字平滑性，夺回身体、劳作与图像的物质控制权。与此同时，创意技术社区通过非线性编辑时间轴实现了对 AI 视频潜空间的白盒化控制，与 Supporting Act 面向集体协作的无限制资助一样，都在为抵抗数字与机制系统对个体创造力的规训提供切实的基础设施支撑。",
+  "intro": "在今天的简报中，我们追踪了五个具有强烈物质性与控制力指向的文化信号。这些项目不仅在媒介考古层面上重新审视历史文本与身体劳动的物理留痕，更在技术工作流和赞助机制上，为创作者争取非线性的自由度与主动权。无论是手握平柜抽屉中的女性摄影档案，还是在时间轴上精确调校生成视频的潜空间，媒介的温度始终取决于我们介入其深度的身体动作。",
+  "opening_signal": "触碰纸页上的物理凹痕，比在屏幕上浏览完好无缺的像素更能感知劳动的重力。",
+  "closing_signal": "从纸张的物理凹痕到潜空间的多维控制，媒介与档案的生命力，始终在于它们如何拒绝被轻易抹平与自动化消解。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Monica Majoli 举办个展《Countervision》：将当代素描嵌入女同性恋历史档案进行触觉式对话",
+      "title_en": "Monica Majoli: Countervision",
+      "summary_zh": "洛杉矶游牧协会在西好莱坞朱恩·L·马泽女同性恋档案馆举办艺术家 Monica Majoli 的个展。展览将 Majoli 描绘女性身体集体创作的素描作品嵌入定制的五抽屉平柜中，供观众直接亲手翻阅。艺术家还将这些作品与该档案馆馆藏的 Sisterhood 书店藏品及 1979 至 1983 年间活跃于俄勒冈州女性主义摄影工坊 Ovulars 的历史档案（包括 JEB 等先锋摄影师的文献）进行物理对话，打破了艺术品的常规观看距离。",
+      "summary_en": "Monica Majoli’s solo exhibition at the June L. Mazer Lesbian Archives places her raw drawings of female collectives inside physical flat files for visitors to handle. Curated alongside historical documents from the 1970s feminist photography workshop 'Ovulars,' the show establishes a tactile dialogue between contemporary art and queer archive.",
+      "why_muki_cares": "展览提供了一种启发性的档案活化方法：通过将当代艺术作品直接置入平柜、允许观众亲手翻阅，打破了传统的远距离观看模式。这种触觉式交互为研究早期边缘女性摄影社群、反向档案建设提供了新的策划路径。",
+      "editorial_signal": "当代艺术与边缘女性摄影历史档案的触觉式交互活化。",
+      "theme_tags": [
+        "Monica Majoli",
+        "June L. Mazer Archives",
+        "Ovulars",
+        "女性主义摄影",
+        "档案活化",
+        "反向档案",
+        "触觉式交互"
+      ],
+      "source_name": "The Guardian",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0q6UjcH35fML41PvRnJ2nhoJWZskLWo_EUo1CodaMfNQ0lMz6RTqYNdmCDioOD1giRuLJGMjQRIII0Ac7i28wr4IXT2VR1g8dotQwQi5MUkprsnAVMIqDPGatYN_Z6Bz13GTk_ricqUesI4pem7cWtR3eQiof8vGsGCbU9c5rtzlpbNGzU9x5Kmfpum_bBOJffL8qzYAgXNI=",
+      "publication_date": "2026-09-23",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "Susan Silton 举办大型回顾展：以无墨打字与身体表演重塑媒介物质性与女性主义记忆",
+      "title_en": "Susan Silton: Diving into the Wreck",
+      "summary_zh": "洛杉矶市立美术馆举办概念艺术家 Susan Silton 的首个大型回顾展。展览呈现了摄影、视频和装置等 150 余件作品，探讨身体、声音与公共记忆。核心装置《一切皆有痕迹》现场激活：十位参与者围坐在一圈互锁的打字机前，在“无墨钢网模式”下敲击重打辛普森科幻小说《播种者的寓言》。打字机在纸张上仅留下物理凹痕而非墨迹，将写作行为转化为纯粹的身体劳作与物质触觉档案。",
+      "summary_en": "The Los Angeles Municipal Art Gallery hosts Susan Silton’s first major retrospective, featuring over 150 conceptual works. The center installation 'In everything there is the trace' features ten participants using inkless manual typewriters to retype Octavia Butler’s novel, transforming writing into physical, haptic labor.",
+      "why_muki_cares": "该展览对媒介考古与身体劳作的结合非常独特。通过无墨打字这种去数字化、物理留痕的方式，艺术家展示了如何在没有数字痕迹的情况下，用物理机械记录劳动的在场，对身体媒介、手工艺与记忆的研究有直接参考价值。",
+      "editorial_signal": "以物理打字留痕与无墨媒介考古，将科幻文本转化为身体劳作档案。",
+      "theme_tags": [
+        "Susan Silton",
+        "LAMAG",
+        "媒介考古",
+        "无墨留痕",
+        "Octavia Butler",
+        "身体劳作",
+        "女性主义文学"
+      ],
+      "source_name": "Los Angeles Municipal Art Gallery (LAMAG)",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG255sBVpyXm24H6O1gC0tfpW_3GnmI4KnAtdUMkqkMcHlV445-TYE00wP53uxbcGD7S7ATB6J-pFb3rOzO-72rPG38CbQLySFtJ_YHDh0-4yVC0s1O0mxqozQ=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "谭英杰个展《夜行反射》亮相上海：以“影像雕塑”解构三维空间与地球夜间景观",
+      "title_en": "Tan Yingjie: Nocturnal Reflections",
+      "summary_zh": "上海 Fotografiska 举办中国艺术家谭英杰的个展《夜行反射》。谭英杰毕业于中央美术学院雕塑系，其创作核心在于“影像雕塑”：他通过裁剪、分离和重组二维摄影碎片，将其转化为三维空间实体。本次展览围绕“折叠”概念展开，核心装置《熄灯闭眼的一瞬 / 地球之夜》使用 NASA 公开的地球夜景卫星照片，通过手工移除画面中的人造光源，仅留下自然环境的暗淡微光，反思技术与人类世的视觉边界。",
+      "summary_en": "Fotografiska Shanghai presents Chinese artist Tan Yingjie's solo exhibition, exploring the concept of 'image sculpture' by converting 2D photo fragments into 3D objects. His central installation manual-erases artificial light from NASA satellite images to reveal a fading natural planet.",
+      "why_muki_cares": "谭英杰的“影像雕塑”方法对摄影媒介的物质性转换提供了新颖的实践路径。通过对 NASA 卫星图像的“去光化”手工篡改，他不仅解构了传统图像的平滑感，还提供了一种反思人造技术景观与地球生态的批判性视觉研究案例。",
+      "editorial_signal": "将二维摄影碎片重构为三维空间实体的“影像雕塑”实验。",
+      "theme_tags": [
+        "谭英杰",
+        "Fotografiska",
+        "影像雕塑",
+        "媒介重组",
+        "地球之夜",
+        "手工篡改",
+        "人类世"
+      ],
+      "source_name": "Fotografiska Shanghai",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELEbesMkfivwRGa59VG8K_eKcVqipO0ceb9hPSXU4BVVo99J8ffRPnHPuzgQfaacRVlmrEHZvM62XML-O7wvr4RaquKTooaw3TKvhIA7_bT6M_04WXZcF6k_g3HgxkoeUNbbHEFLcfBzmFa6wS4XgnefM=",
+      "publication_date": "2026-09-17",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "comfyui-obvpm-timeline 节点发布：引入非线性视频编辑时间线，实现 MiniMax H3 画面连贯控制",
+      "title_en": "comfyui-obvpm-timeline Node Released",
+      "summary_zh": "开发者 chanon 发布了 comfyui-obvpm-timeline 自定义节点包。该工具为 ComfyUI 引入了原生的非线性视频编辑时间线，专门支持 MiniMax H3 视频生成。创作者可以直接在时间线上进行裁剪、扩展、前置生成或过渡衔接。每个生成的视频片段均伴随保存一个包含潜空间向量的 `.mctx` 运动上下文文件。后续的时间扩展均在潜空间掩膜层面进行计算，避免了像素重新编码，从而彻底解决了转场时的画面闪烁和身份偏移问题。",
+      "summary_en": "Developer chanon released comfyui-obvpm-timeline, a custom node integrating a non-linear timeline for MiniMax H3 video generation. By saving latent vectors into `.mctx` motion files and calculating extensions via latent masks, it eliminates flickering and character drift in AI videos.",
+      "why_muki_cares": "该节点将 AI 视频生成从盲盒式的提示词抽卡，转变为可精确操控的非线性时间轴界面。通过直接保存潜空间向量并使用潜空间掩膜进行时序控制，为创作者维持叙事连贯性提供了扎实且高度可控的工程解决方案。",
+      "editorial_signal": "ComfyUI 引入非线性视频编辑时间线与潜空间遮罩控制。",
+      "theme_tags": [
+        "ComfyUI",
+        "MiniMax H3",
+        "comfyui-obvpm-timeline",
+        "非线性编辑",
+        "潜空间掩膜",
+        "时序控制",
+        "工作流优化"
+      ],
+      "source_name": "GitHub - chanon/comfyui-obvpm-timeline",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErh83jGSPChwT7ewhaZRxNciep7cCVB4h5ixkMg918TYfTwbokq98O9G09bsTb5Mn3dC6CWD1WvmWVaQUWNGX70_Fab4KxcFTWFVDiB5rp04jK9vHbZVCGZixPZ3qvn22tRHi1KTw=",
+      "publication_date": "2026-09-21",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "The Supporting Act 基金会启动 2026 艺术家资助公募：无限制十万欧元支持边缘社群及集体协作实践",
+      "title_en": "The Supporting Act Foundation 2026 Artist Grant",
+      "summary_zh": "The Supporting Act 基金会开启第五届年度公开招募，计划分发共 60 万欧元的无限制资金支持。其中，“2026 艺术家资助”将评选出 10 位拥有 2 至 10 年专业经验的新生代艺术家，每人发放 1 万欧元的无条件使用资助。申请人须属于代表性不足的边缘社群或面临系统性障碍，且其艺术实践必须涉及协作、集体或社区驱动的流程。项目面向欧洲多国及英国居民，截止日期为 2026 年 10 月 1 日。",
+      "summary_en": "The Supporting Act Foundation has launched its 2026 Artist Grant, providing 10 unrestricted grants of €10,000 each to emerging artists from underrepresented groups. The program rewards community-focused, collaborative practices across Europe and the UK, with a deadline of October 1, 2026.",
+      "why_muki_cares": "这项资助的独特之处在于其完全“无限制”且不需要成果汇报的资金设计，专为支持处于系统性弱势、侧重社群协作而非纯商业产出的青年艺术家。这种去机制压力、注重劳护与关怀的赞助模式对当下艺术生态具有重要借鉴意义。",
+      "editorial_signal": "专门面向边缘社群协作实践、无产出考核的无限制青年艺术家资助。",
+      "theme_tags": [
+        "Supporting Act Foundation",
+        "艺术资助",
+        "边缘社群",
+        "集体协作",
+        "社区驱动",
+        "无限制资金",
+        "公开招募"
+      ],
+      "source_name": "The Supporting Act Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkenC2lzgpG6q7L66KMpyGRWoIFk-723EnIt5gPpWvhH69nSljN4dbqcJ8eT8lzVSOj_q6XOw5AOSzmFnodNBn-N4ft7m2iHp_Fu0phkoCSGqeHe51o0V6L-oN-FHtFFKJlvj6G229ogGEXQ==",
+      "publication_date": "2026-09-01",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "Monica Majoli 举办个展《Countervision》：将当代素描嵌入女同性恋历史档案进行触觉式对话",
+    "why_muki_may_care": "该展览将素描实物完全隐藏并嵌入在历史档案馆的柜子中，要求观众亲手拉开并直接接触。它不仅重现了 1970 年代女性主义摄影工坊的遗珠，更提供了一种反观静态文献的极佳触觉式活化手法。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0q6UjcH35fML41PvRnJ2nhoJWZskLWo_EUo1CodaMfNQ0lMz6RTqYNdmCDioOD1giRuLJGMjQRIII0Ac7i28wr4IXT2VR1g8dotQwQi5MUkprsnAVMIqDPGatYN_Z6Bz13GTk_ricqUesI4pem7cWtR3eQiof8vGsGCbU9c5rtzlpbNGzU9x5Kmfpum_bBOJffL8qzYAgXNI="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "黄静耀上海个展（已于2026-09-21期收录，本次不重复收录相同展馆的同期展览信息）"
+  ],
+  "covered_entities": [
+    "The June L. Mazer Lesbian Archives",
+    "Los Angeles Municipal Art Gallery",
+    "Fotografiska Shanghai",
+    "GitHub",
+    "The Supporting Act Foundation"
+  ],
+  "repetition_notes": "本期对 ComfyUI 插件生态中 comfyui-obvpm-timeline 节点发布的追踪，属于对 9 月 23 日、18 日及 16 日简报中有关 ComfyUI 流程控制与 MiniMax H3 视频生成的持续技术跟进（Follow-up）。该节点通过本地 `.mctx` 运动上下文和潜空间掩膜计算实现了非线性编辑控制，为工作流带来了实质性的重构增量。其余四项关于女同性恋档案馆合作、Susan Silton 回顾展、谭英杰影像雕塑展以及 Supporting Act 资助计划的项目均为全新信号（New）。",
+  "issue_number": 71
+}

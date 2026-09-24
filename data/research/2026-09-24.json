@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-24",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki: Cultural Signal Research Dossier (Issue 071)\n**Research Date:** September 24, 2026  \n**Current Search Window:** 24 hours to 30 days (All signals verified as active and newly emerging in September 2026)\n\n---\n\n## 1. Feminist Structure Signal\n\n*   **Exact Title:** Monica Majoli: Countervision\n*   **Specific Source URL:** [The Guardian](https://www.theguardian.com/artanddesign/2026/sep/23/lesbian-artists-celebrated-three-new-california-exhibitions-long-overdue)\n*   **Publication Date:** September 23, 2026\n*   **Verified Facts:** Presented by the Los Angeles Nomadic Division (LAND) at The June L. Mazer Lesbian Archives in West Hollywood, CA (opened Saturday, September 19, 2026). This solo exhibition brings new drawings by Los Angeles-based artist Monica Majoli into physical dialogue with the Mazer Archives. The artist curated archival materials from the Simone Wallace Sisterhood Bookstore Collection and documents related to the *Ovulars*—a feminist lesbian photography workshop group active at the Rootworks commune in rural Oregon between 1979 and 1983. The workshop featured notable pioneer photographers Joan E. Biren (JEB), Tee A. Corinne, Honey Lee Cottrell, and Ruth Mountaingrove. Majoli's unframed drawings of nude women collectively creating are placed in a custom-built five-drawer flat file for visitors to handle directly.\n*   **Relevance to Muki:** \n    *   **Feminist Photography & Counter-Archives:** Directly traces the history of marginalized East and West Coast lesbian photography collectives (the Ovulars).\n    *   **Archival Activation:** Demonstrates a unique curatorial methodology where contemporary artwork is literally embedded in flat files, encouraging tactile, physical handling rather than distant viewing.\n*   **Duplication Assessment:** New Signal. (Distinct from the MoMA Marianne Wex show covered in 2026-09-22).\n\n---\n\n## 2. Visual Culture Signal\n\n*   **Exact Title:** Susan Silton: Diving into the Wreck\n*   **Specific Source URL:** [Los Angeles Municipal Art Gallery (LAMAG)](https://lamag.org/diving-into-the-wreck/)\n*   **Publication Date:** September 10, 2026 (Exhibition Opening) / August 26, 2026 (Announcement)\n*   **Verified Facts:** The first major retrospective survey of Los Angeles-based conceptual artist Susan Silton at the Los Angeles Municipal Art Gallery (LAMAG), on view from September 10, 2026. The exhibition presents over 150 works spanning photography, video, audio, text interventions, and participatory installations. Drawing its title from Adrienne Rich's 1972 feminist poem, the exhibition focuses on the themes of body, perspective, voice, and public memory. A central highlighted work is the activation of the installation *In everything there is the trace* (2013). Ten interlocking, mutually dependent desks are arranged in a circle, where ten participants at manual typewriters retype Octavia Butler's dystopian science-fiction novel *Parable of the Sower* (1993). Crucially, they type without ink in \"stencil mode,\" leaving only the physical indentations of the keys on paper. The exhibition also features performances by *The Crowing Hens*, an all-female whistling group founded by Silton in 2009.\n*   **Relevance to Muki:**\n    *   **Media Archaeology & Materiality:** The inkless typing of a dystopian narrative (Octavia Butler) acts as a physical, haptic archive, using manual machinery to trace labor and presence without leaving a legible digital footprint.\n    *   **Feminist Lineage:** Establishes specific connections between West Coast conceptualism, feminist literature (Rich, Butler), and collective bodily performance.\n*   **Duplication Assessment:** New Signal. It pairs perfectly with Monica Majoli's show, mapping a major 2026 institutional shift in recognizing West Coast feminist genealogies.\n\n---\n\n## 3. China / East Asia Signal\n\n*   **Exact Title:** Tan Yingjie: Nocturnal Reflections\n*   **Specific Source URL:** [Fotografiska Shanghai](https://www.fotografiska.com/shanghai/en/exhibitions/tan-yingjie-nocturnal-reflections)\n*   **Publication Date:** September 17, 2026\n*   **Verified Facts:** On view from September 18, 2026, to January 10, 2027, Fotografiska Shanghai presents Chinese artist Tan Yingjie's first major solo museum exhibition in Shanghai. Born in Hunan in 1992 and a 2016 graduate of the Central Academy of Fine Arts (CAFA) Sculpture Department, Tan’s practice revolves around the concept of \"image sculpture\" (影像雕塑). He cuts, separates, and reconstructs 2D photographic fragments into 3D physical objects that occupy space. The exhibition centers on \"folding\" (折叠), presenting three major installations. The core work, *The Moment of Turning Off the Lights and Closing the Eyes / Night on Earth* (2026), uses public-domain NASA satellite photographs of Earth's night side. Tan manually removes the artificial, man-made lights from the images, leaving only the fading glow of the environment.\n*   **Relevance to Muki:**\n    *   **Media Archaeology of the Image:** Explores the transition of photographic media from flat, optical planes into sculptural, spatial interventions.\n    *   **Alternative Geographies:** Uses NASA public domain images to conduct a visual \"un-lighting\" of the planet, offering a poetic critique of the technological, illuminated anthropocene.\n*   **Duplication Assessment:** New Signal. (While Huang Jingyao’s *La Dénivelée* opened on the same day and was covered in Issue 2026-09-21, Tan Yingjie's exhibition is a separate solo project with a distinct focus on spatial \"image sculpture\" and geological imagery).\n\n---\n\n## 4. AI Research / Creative Tech Signal\n\n*   **Exact Title:** comfyui-obvpm-timeline Node Released\n*   **Specific Source URL:** [GitHub - chanon/comfyui-obvpm-timeline](https://github.com/chanon/comfyui-obvpm-timeline)\n*   **Publication Date:** September 21, 2026\n*   **Verified Facts:** Developer `chanon` released `comfyui-obvpm-timeline`, a custom node pack and workflow for ComfyUI that integrates a non-linear video editing timeline natively for MiniMax H3 video generation. The Timeline node functions like a mini video editor. Rather than relying on simple linear generations, creators can arrange, cut, preview, and perform spatial-temporal operations: extending clips, prepending (generating what happens *before*), bridging (generating transitions between two separate clips), and looping. Every clip is generated and saved alongside a motion context (`.mctx`) file containing its latent vectors. Temporal extensions are then calculated directly using latent masks instead of re-encoded pixels, completely eliminating flickering and sudden lighting/identity shifts at transition frames.\n*   **Relevance to Muki:**\n    *   **Workflow White-boxing:** Directly shifts AI video generation from a \"black-box\" prompt-and-pray method to a granular, non-linear editing timeline. \n    *   **Creative Power:** The preservation of latents (`.mctx` files) and native latent masking represents a structural upgrade for artists aiming to maintain temporal and character consistency across complex, sequential visual narratives.\n*   **Duplication Assessment:** Follow-up. This builds on our continuous mapping of the ComfyUI and MiniMax H3 ecosystem, highlighting the transition of AI media generation into standardized, professional NLE (Non-Linear Editor) interfaces.\n\n---\n\n## 5. Archive / Long Read / Opportunity\n\n*   **Exact Title:** The Supporting Act Foundation 2026 Artist Grant\n*   **Specific Source URL:** [The Supporting Act Foundation](https://thesupportingact.org)\n*   **Publication Date:** September 1, 2026\n*   **Verified Facts:** The Supporting Act Foundation has launched its fifth annual open call, distributing €600,000 in unrestricted funding. Under this call, the **2026 Artist Grant** will award 10 unrestricted grants of €10,000 each to emerging artists with 2 to 10 years of professional experience. To be eligible, applicants must identify as belonging to an underrepresented group or face systemic barriers, and their artistic practice must involve collaborative, collective, or community-focused processes. The grant is open to artists based in Belgium, France, Germany, Greece, Ireland, Italy, the Netherlands, Portugal, Spain, or the United Kingdom. There is no application fee. The submission deadline is **October 1, 2026, at 11:00 AM CET**.\n*   **Relevance to Muki:** \n    *   **Labor & Care Structures:** This is a rare, highly accessible, completely *unrestricted* financial grant specifically designed to support emerging, underrepresented artists focusing on collaborative and community-driven art. \n    *   **No Output Pressure:** Unrestricted funding allows creators to focus on long-term practice development and community engagement rather than rushing to produce a commercial product.\n*   **Duplication Assessment:** New Signal. (Different from the PhMuseum and NCAR fellowships covered in previous days).",
+  "citations": [
+    {
+      "title": "theguardian.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0q6UjcH35fML41PvRnJ2nhoJWZskLWo_EUo1CodaMfNQ0lMz6RTqYNdmCDioOD1giRuLJGMjQRIII0Ac7i28wr4IXT2VR1g8dotQwQi5MUkprsnAVMIqDPGatYN_Z6Bz13GTk_ricqUesI4pem7cWtR3eQiof8vGsGCbU9c5rtzlpbNGzU9x5Kmfpum_bBOJffL8qzYAgXNI="
+    },
+    {
+      "title": "wehotimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpHQRfJuBgdgzCcC2C4wrrhHwJptY13ReCmtXWu9xyYgQbka0lYG3I_o0obsGPpbKtxCXA_7pptKIFuZvn4asShajjYykcxPSmnuzEJ5sX3ZkH5bq0X-m7QRRnZGgtqV5u_iXFgNf_dlfcOwPKetYOxMFjoBnWrUrOCBmCR9Fjbg_ne3MgUiebIARdOWJxL8DckkegH7Gikba2w2lHgE8pLZRaKC87xr9W"
+    },
+    {
+      "title": "mazerlesbianarchives.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ349hvkfbmeQGLWQVMQbsKTqqrofyh4rcHg3rlyqDFktjebJFlkK2Ia2hxEAl8tnmMjy1zZTZcYJm72DbWY8godcz16SGGuAaebQQ1OfkUj72zItzUy2FFYBJsKkv5HShW1Dx-xVDTHv_X8WHim_7ct8GgSahHWpeeRWnJaUoamSwao5QrtQ6cJKs4d-fjDnx8x9w7NfZwqtBbzt-PO9bL8ZqrQ=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFpMaLw_-ZpSjrZIOl-YPc-xGlPat--GfFn8LK8YEmKWBC-ruLKBE6BUTY2j48EtFGV_HC9qWz_Uj8JE6LpkUkVvrX0JwPxzXXQ5Mh3ZcPW91e3-AfbWXteDQzeN5kX8fNXW_8AfU14CHjhz0oUx-NDwAq54CpxZDhgqH7aGIc4A6mPs8c4LaUw4TaHZE0myRar37j6f05FPPpLD6BkJ9OOT0H6K7TmYKV4FeJpBdtTOgxVzAAJND6m_ZYd-0TWpBiaZn4jHYdZu2XNLGHG8A="
+    },
+    {
+      "title": "lamag.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSvrZNZMFBTWSL-_KdG93QnGi9cKl8gPmfCw6M4IQfaAkopLuSeg4khd0zpxMPtCTUHw3d_9ksyeMs6raWpCT9L69P2Evs5vxQPIkBag9r1AzXYkuJrk_wOD-Nhjal"
+    },
+    {
+      "title": "lacity.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTo2yxdf8UxQbKvOcLy6IHW1B6n8AhNndog6Sp6wwr5sqvcUeFYeXyjxW_BUMqluCouwJ9JocN4UEx0BdiU7EwPi9EH3NVH8nhtti80pLXe5xXWy7vQpKD5PN8B-eH6R_CZs9JtSULEaY_7IaDvQFp-gmn87oEQQ_DR3mPqNnUdBvmRmRmmJ5kuHb8IweMkB3YiBN41-dI5tQPmanWZR6K8wUASTNRXFqfug=="
+    },
+    {
+      "title": "mikekelleyfoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI0ngWXVba3BSz1Igw0LO5sBCDXhOSkTSXSo1kYYRXKJWb7MbOXp3INb-ttafL2xdevM15ZeQrMdXm25s735_mXhJLA_qEmd8NUXdua8KmPUn3y-kr-ZLo_gAkEJEdXXA6FqFartNaKNWjSZOgjsZMBuroyIr9bg6f7z3oOHuKycS9SWU31i4Qy7zZTi0Aj492V_TIrYxzAZ_pyEKerFIV9wrGjsWs1SsQZKB68CZ2uYyTpOcN43BV5U_BJ3UBBknfIgyRpZcbabqEp1qNWhz36LW9Fpgq"
+    },
+    {
+      "title": "lamag.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG255sBVpyXm24H6O1gC0tfpW_3GnmI4KnAtdUMkqkMcHlV445-TYE00wP53uxbcGD7S7ATB6J-pFb3rOzO-72rPG38CbQLySFtJ_YHDh0-4yVC0s1O0mxqozQ="
+    },
+    {
+      "title": "fotografiska.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELEbesMkfivwRGa59VG8K_eKcVqipO0ceb9hPSXU4BVVo99J8ffRPnHPuzgQfaacRVlmrEHZvM62XML-O7wvr4RaquKTooaw3TKvhIA7_bT6M_04WXZcF6k_g3HgxkoeUNbbHEFLcfBzmFa6wS4XgnefM="
+    },
+    {
+      "title": "fotografiska.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGek3oViiYgqWN4dWF5cdk7wIPWe2LHzIlzgkgtJyggaTs-YNsmPMrIvYhZRz9yj6ydTYKsbDhIK_QA3-XV0XETILSiq3YDkNzV1LAbsOQaE1v4QVLbZMy0eNWR-Cio0ml9V4EFBRS3sL2pA22tVDCQgAo="
+    },
+    {
+      "title": "fotografiska.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmnj1obBvJ-ZDqmr9cpkb2iTC_GsKfaKO06SPZCXTM38vdIqWp7L2yJbr4USs62zrMm46dymFOLtyxDwMr4FJRVJg31hK-Gds1z2Lcb-7Yk9lJoo7KJTtW-0xsvgaYKa6NgKw="
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErh83jGSPChwT7ewhaZRxNciep7cCVB4h5ixkMg918TYfTwbokq98O9G09bsTb5Mn3dC6CWD1WvmWVaQUWNGX70_Fab4KxcFTWFVDiB5rp04jK9vHbZVCGZixPZ3qvn22tRHi1KTw="
+    },
+    {
+      "title": "note.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH84RYB2kaFp0uqTbmBr-WrSzBh3coM-U9S1ZwuiznGCXgsK18mWpY1zGN_dun80bdfddOjiyxwZ13S5LHb7OAQFoMaKM_xiaxJPXockKlboNtMcnfcJTAoGz-MJIBa1fFLmQ=="
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkenC2lzgpG6q7L66KMpyGRWoIFk-723EnIt5gPpWvhH69nSljN4dbqcJ8eT8lzVSOj_q6XOw5AOSzmFnodNBn-N4ft7m2iHp_Fu0phkoCSGqeHe51o0V6L-oN-FHtFFKJlvj6G229ogGEXQ=="
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF34xyV-p_uEitx1z3YdydsyndwpspH4jxOf6Iq5PhV5CBPplnNgjBSU0vVlTQexGtqvs-8DQZZMyN4DxrRLpvDXR0PtS0Qk3Bkt6Em9KNLygdgzvlGkfXyp7DwfdeRLyndBQM2"
+    },
+    {
+      "title": "contemporaryperformance.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh4OkRZ98LUPDFrLMM0xRZ2bdrFYG65wAybGze3e2t3EyFt1NBQc13CpjLgjqv2vo6n2yHqCusPKX0LBMbsrE577ynYDzZzhIP0apzx9PoRFAPCbZizYoKAZK3l-xQTO3HB7RkUWjaAuSncLRfY-cX8dVNNhzCroVF5DAk9mYU03AHUmXx6WLF3RnVsN9idUcnqzA="
+    },
+    {
+      "title": "thesupportingact.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdb5DPyLvSXrHc5rDcEWEAVEpiihaWYE_kdt0Ld71AQsjiNLqMXUxgYye2fb1mKn9gt1CC0B7ZRbPL0RcId6nwvVoInelpu82pZoOuylIUzBiqOHc3Ipe8FPR0t-T3oNdBuJR5eHBZOQZ-wsr_"
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzrwLmZingMuNBg47NYQ9RQ2dYd_WzXS-OyBMg6fFMMHbiO9qcLNNRHyDRftPR9vrTJwBTmQQd9XlzyYEOI0NjqbPCHhcy2LYxxNw8XVhnJgKfjK7-t54bmtCog1Cvjr8bKRJ0swJMHKb8XzzjyPMESGChY-3zwfdPIPfn54Zs6pmOLfPP8Q=="
+    },
+    {
+      "title": "opportunitiesforyouth.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_PPNsTMTigBcZXmVxFez-Jbz6t-JaKx5q74Oc0PmR5h6Gh0FUB-B0aE7kjP1P7KQCLiyslY8W-sIZHolq1DWsEYiAaOV5ZgEb9UmXndV9Swx_MVsxYoB6ZcJpC5Z_y1xUkjtrD4TCfMbL-wz0NtSQpHDNrEXglRPC1wJA164_D3605Rdr-x1jQ94BqNKM4JoWqVLJ8g6nGr9eCmPOi99vv21ISBrQmq82y6iKpoUBvhZWMiAIzKR6PY0vrs8r7YqNb6Yto8rcELL0E3EwAMj93KF3Xg=="
+    }
+  ]
+}
