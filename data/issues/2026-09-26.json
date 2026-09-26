@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-26",
+  "search_window": "7d",
+  "reading_time": "约 7 分钟",
+  "topics": [
+    "女性主义身体政治",
+    "独立艺术出版",
+    "地缘移工与照护劳动",
+    "法医媒介考古",
+    "AI 视频工作流",
+    "南亚影像历史"
+  ],
+  "why_today": "今天的文化信号聚焦于身体、劳作与档案的物质化留痕。从 Teresa Margolles 用法医学手段将女性谋杀受害者的空间碎石变成每日在展厅瓦解的纪念碑，到台湾东南亚移工通过镜头将隐形的照护与家政劳动转化为公共影像，这些实践共同指向了反抗系统性遗忘的身体档案。而在独立分发网络迎来重要周年庆的同时，南亚摄影资助与 ComfyUI 原生草稿模式的加入，分别在实体文献的历史沉淀与数字生成的工作流优化上，为我们提供了双向沉淀的实践路径。",
+  "intro": "本期简报记录了一系列关于身体残留物、底层劳作与技术控制的核心信号。我们关注那些试图在宏大叙事之外，用极其具体、甚至微观的物质证据重建记忆的艺术家与创作者。无论是通过拆毁房屋的粉碎砖石、移工在星期天的私人快照，还是南亚家庭相册的摆拍整理，这些档案都试图在物理空间中留下痕迹。同时，AI 创作生态中预览与最终渲染的解耦，为创作者在面对不可控的算法生成时，重新夺回了传统电影制作中的决策主动权。",
+  "opening_signal": "一件凝聚了十四吨灰烬的隐秘纪念碑，正在美术馆的展厅里每日瓦解。",
+  "closing_signal": "从浸泡过现场残留物的冷水水汽，到移工镜头里模糊的宿舍光影，再到屏幕上低成本生成的 480p 预览，我们对稳定的记忆、可控的劳作以及具身化痕迹的追求从未停止。这种对“痕迹”的反复确认，或许正是技术与现实剧烈摩擦时的最真实回响。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Teresa Margolles 举办美国首个大型回顾展：以法医媒介学与身体残留物重构跨国女性谋杀及地缘暴力档案",
+      "title_en": "Teresa Margolles: En el lugar de los hechos (At the Scene) & Aproximación al lugar de los hechos (Approaching the Scene)",
+      "summary_zh": "墨西哥艺术家 Teresa Margolles 的美国首次大型博物馆回顾展在 MoMA PS1 与 MoMA 联合开幕。Margolles 拥有法医病理学家与摄影师的双重背景，其创作长期追踪美墨边境的女性谋杀、人口失踪与政治流散。MoMA PS1 的核心装置《承诺》（2012）由 14 吨来自华雷斯城拆毁房屋的粉碎砖石碎屑组成，每日下午三点由工作人员逐渐推平并散落在展厅地面。而 MoMA 的平行展《接近现场》则聚焦近期发生的暴力事件，将浸泡过谋杀现场残留物的冷水滴落在加热的金属板上，通过刺耳的嘶嘶声、升腾的水汽和最终形成的铁锈，构建视觉之外的创伤档案。",
+      "summary_en": "Mexican artist Teresa Margolles presents her first major US museum survey co-organized by MoMA PS1 and MoMA, utilizing her forensic pathology background to translate the somatic residues of femicide and border violence into physical counter-memorials.",
+      "why_muki_cares": "艺术家的法医病理学视角引入了一种激进的媒介考古学方法。她没有直接展示受害者图像，而是将身体与空间的残留物（碎石、停尸房水、土壤）转化为空间装置，为地缘暴力与女性身体政治研究提供了具体的物质化反向档案范本。",
+      "editorial_signal": "法医学与艺术实践的交叉提供了一种去视觉化的、纯粹物质性的身体政治书写路径。",
+      "theme_tags": [
+        "Teresa Margolles",
+        "MoMA PS1",
+        "女性主义身体政治",
+        "地缘暴力",
+        "法医媒介学",
+        "反向档案",
+        "物质性装置"
+      ],
+      "source_name": "MoMA",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFdQ802opQU3JYmH2zfuD0COAXsiHV8b7pVtJommu--8RW50bzD-DV7NHmdMhi2Aaey2ZHb3q9jyc-RvUMcTqM6jz1GKfc4buRFtqYFys=",
+      "publication_date": "2026-09-25",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "2026 年纽约艺术书展开幕：迎来 20 周年，集结全球 41 个国家独立出版网络",
+      "title_en": "Printed Matter's 2026 NY Art Book Fair",
+      "summary_zh": "由 Printed Matter 主办的 2026 年纽约艺术书展（NYABF）于 9 月 25 日至 27 日在 MoMA PS1 举行。今年正值该书展创办 20 周年，同时也是 Printed Matter 与 MoMA PS1 成立 50 周年。本次书展汇集了来自全球六大洲 41 个国家的 310 多家参展商，包括独立出版社、独立画册出版商、艺术家集体和珍稀书籍经销商，成为其历史上地理分布最多元的一届。核心项目包括讨论平台“The Classroom”、舞台表演以及与非洲艺术书展合作设立的“Reading Room”。",
+      "summary_en": "Marking its 20th anniversary alongside the 50th anniversaries of Printed Matter and MoMA PS1, the 2026 New York Art Book Fair features over 310 exhibitors from 41 countries, celebrating the global survival of independent print.",
+      "why_muki_cares": "艺术书展的节点不仅是出版物的交易场所，更是独立分发网络的历史见证。在数字出版占主导的当下，20年与50年的时间跨度展示了实体纸介质与摄影书分发网络对抗算法平台筛选的结构性韧性。",
+      "editorial_signal": "独立艺术出版的网络在物理空间的重聚，展示了地缘多元性与实体媒介的持续生命力。",
+      "theme_tags": [
+        "NYABF",
+        "Printed Matter",
+        "MoMA PS1",
+        "艺术书展",
+        "独立出版",
+        "分发网络",
+        "媒介物质性"
+      ],
+      "source_name": "Printed Matter's NYABF",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyj78vjAigXVGPnpsrJDnn-XyPQrRwIDkObhr12edvSei6RVgi9jTjzGJtSrnzbOg5pLLBGn6gCtMrEYidND1BRkYEM45dYOePYdVCEYrQAjw8Hv5d5nX9TqZjqu8cmc2nmZyQaba2mEtOpXhN81Q=",
+      "publication_date": "2026-09-24",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "台北两厅院举办《未见的星期天》摄影展：以 7 届移工摄影奖作品呈现东南亚移工的家政劳动与日常视觉档案",
+      "title_en": "“Sundays Unseen” Migrant Workers' Photography Exhibition at NTCH",
+      "summary_zh": "摄影展《未见的星期天》在台北国家两厅院画廊开幕，展期将持续至 11 月 29 日。展览由台湾非政府组织 One-Forty 主办，系统性重聚了过去七届“移民工国际摄影奖”的获奖作品。这些照片由在台东南亚移工亲手拍摄，直接记录了工厂车间、集体宿舍、家庭看护劳动以及他们在闲暇、信仰与乡愁中的私人瞬间。这是两厅院秋天艺术节首次将由移工群体独立创作的摄影作品纳入核心版块。",
+      "summary_en": "Organized by One-Forty at the NTCH in Taipei, the \"Sundays Unseen\" exhibition brings together seven years of migrant photography, showcasing the domestic labor and private lives of Southeast Asian caregivers.",
+      "why_muki_cares": "该展览将视觉主导权完整归还给处于边缘地位的移工，尤其是大量从事家庭照护的女性移工。这些日常切片不仅是劳动纪实，更构成了一种极其具体的、来自底层的反向视觉档案，挑战了机构对家政和照护劳动的刻板书写。",
+      "editorial_signal": "移工的自主视觉书写将私人空间中的隐形照护劳动转化为公共可见的地缘历史档案。",
+      "theme_tags": [
+        "未见的星期天",
+        "移工摄影",
+        "One-Forty",
+        "两厅院",
+        "照护劳动",
+        "反向档案",
+        "东亚地缘流散"
+      ],
+      "source_name": "Taipei Times",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8A_yY_F8x128DiI2LRmyijhYHHRd7_eB7UpP3FI2Z-rdBeFei5L-yuoaCr4xavROtp3qyYPw1eJN2GRGgUafb4T2i6tuDWum7hGB_1heJ8g5_xPmBPY6GrjAEkoxIET6srdWwH927qP9d-r6p5p8C0kWzpqdWpO2In4dI",
+      "publication_date": "2026-09-22",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 原生接入 Seedance 2.5 预览模式：解耦“草稿与终稿”渲染，优化 AI 视频创作管线",
+      "title_en": "Seedance 2.5 Draft Mode Arrives in ComfyUI",
+      "summary_zh": "ComfyUI 通过合并拉取请求（PR #16529）正式原生集成了字节跳动的 Seedance 2.5 API 预览模式。该更新引入了“草稿到终稿”的解耦工作流，并附带三个官方节点模板。创作者可以首先生成低成本的 480p 预览视频（草稿）以确认画面构图、运动轨迹和镜头衔接，一旦方案选定，系统即可利用该草稿的 `draft_task_id` 直接渲染 1080p 最终视频，保留相同的场景结构、提示词及纵横比。API 服务器会将草稿文件保留 7 天以供渲染。",
+      "summary_en": "ComfyUI has integrated ByteDance's Seedance 2.5 API Draft Mode, enabling a decoupled workflow where creators generate low-cost 480p previews before rendering high-resolution 1080p final videos based on the draft ID.",
+      "why_muki_cares": "这一技术更新解决了生成式视频创作中高昂的算力成本与难以预测的画面控制瓶颈。通过将传统的电影“样片（Dailies）”制作逻辑引入 AI 视频流，使创作者能在高保真输出前低成本预览，属于实质性提升本地工作流确定性的白盒化演进。",
+      "editorial_signal": "视频生成的“双阶段控制”使创意决策不必在盲盒式算力消耗中妥协。",
+      "theme_tags": [
+        "ComfyUI",
+        "Seedance 2.5",
+        "草稿模式",
+        "AI视频工作流",
+        "工作流优化",
+        "双阶段渲染"
+      ],
+      "source_name": "ComfyUI Wiki",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgKcFuDqY_g4LjFs0Y5pIhp-8z6EYAdr8i3okh8F1qgylkXZVBKFdIdrF5_CnBuH0lJ3jMvmSPkCAzXwOrWy1yzUhFG2cNxpLMze8BAONwhaCNjFE6j639OxFN81Ld8LW3czyGYPXXR9w8IzSumvJ1AIharIw=",
+      "publication_date": "2026-09-26",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "2026 年度乌姆劳·辛格·谢尔-吉尔摄影资助启动公募：支持南亚摆拍与纪实影像的个人档案研究",
+      "title_en": "Umrao Singh Sher-Gil Grant for Photography 2026: Open Call",
+      "summary_zh": "印度谢尔-吉尔·桑达拉姆艺术基金会（SSAF）宣布将第九届“乌姆劳·辛格·谢尔-吉尔摄影资助”（2026）的申请截止日期延长至 9 月 30 日。该资助设立于 2015 年，旨在纪念印度早期建构摄影与私人家庭相册先驱 Umrao Singh Sher-Gil。本次资助将颁发两个独立名额，各提供 50 万印度卢比（约合 6000 美元），分别支持“摆拍/建构影像”与“纪实摄影”两个类别的项目。资助定位为“项目完成基金”，专门提供给已经开始创作并需要资金支持以进行最终收尾的摄影创作者。",
+      "summary_en": "The Sher-Gil Sundaram Arts Foundation has extended the deadline for the 9th Umrao Singh Sher-Gil Grant for Photography 2026, awarding two grants of INR 500,000 for staged and documentary photographic projects in India.",
+      "why_muki_cares": "这是一个极具学术深度与地缘代表性的摄影资助项目。其纪念的先驱本身就拥有长达六十年的私人家庭和自我肖像档案，对研究南亚家庭相册、身份建构及摄影媒介的私人史具有重要参考价值。对正在进行的独立影像研究来说是切实的资金机会。",
+      "editorial_signal": "关注南亚流散与私人历史的构建，将边缘影像档案转化为学术与创作者的公共资助网络。",
+      "theme_tags": [
+        "Umrao Singh Sher-Gil",
+        "SSAF",
+        "摄影资助",
+        "南亚影像历史",
+        "建构摄影",
+        "私人家庭档案",
+        "公开招募"
+      ],
+      "source_name": "Sher-Gil Sundaram Arts Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAdOTZAgPFdqrzwWrB95uJ8UPUSO1_CdKDqhUETZxhD5dNQfUmlgJrQNrSUMdA2PXxp1000DNfBlOZXKjPU8x7Sedusaz7s-UHtH6bpmIOL0xsAZgpDK9s7lUEUzLPxhU=",
+      "publication_date": "2026-09-20",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition",
+    "title": "Teresa Margolles: En el lugar de los hechos (At the Scene) & Aproximación al lugar de los hechos (Approaching the Scene)",
+    "why_muki_may_care": "以法医病理学和媒介考古学的手段，将极其惨烈的女性谋杀与地缘暴力转化为无声、坚硬的物质实体。这种去视觉化、诉诸物质残留物的策略，为反向档案的建立与身体政治研究提供了极其震撼且可行的路径。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFdQ802opQU3JYmH2zfuD0COAXsiHV8b7pVtJommu--8RW50bzD-DV7NHmdMhi2Aaey2ZHb3q9jyc-RvUMcTqM6jz1GKfc4buRFtqYFys="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "匈牙利 Eidolon 日常摄影资助（因在9月23日已报道，本期排除此重复，改选 SSAF 摄影资助以提供新信号）"
+  ],
+  "covered_entities": [
+    "MoMA",
+    "MoMA PS1",
+    "Printed Matter",
+    "Aperture Foundation",
+    "One-Forty",
+    "National Theater and Concert Hall (NTCH)",
+    "Comfy Org",
+    "Sher-Gil Sundaram Arts Foundation"
+  ],
+  "repetition_notes": "本期对 ComfyUI 引入 Seedance 2.5 预览模式（Draft Mode）的追踪属于对创意视频控制工作流的持续跟进（Follow-up），该技术节点通过解耦草稿与终稿渲染，为本地工作流带来实质性的成本与控制优化。其余四项关于 Teresa Margolles 回顾展、纽约艺术书展 20 周年、台湾移工摄影展及南亚 SSAF 摄影资助计划的项目均为全新信号（New）。",
+  "issue_number": 72
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-26",
+  "model": "gemini-3.5-flash",
+  "dossier": "### 1. Feminist Structure Signal\n\n*   **Exact Title:** Teresa Margolles: En el lugar de los hechos (At the Scene) & Aproximación al lugar de los hechos (Approaching the Scene)\n*   **Specific Source URL:** [MoMA PS1 - Exhibition Page](https://press.moma.org/exhibitions/teresa-margolles/), [MoMA - Exhibition Page](https://www.moma.org/calendar/exhibitions/5707)\n*   **Publication Date:** September 24, 2026 (MoMA PS1 opening), September 25, 2026 (MoMA opening)\n*   **Verified Facts:**\n    *   Mexican artist Teresa Margolles (b. 1963) is presenting her first large-scale museum survey in the United States, co-organized by MoMA PS1 and The Museum of Modern Art.\n    *   The exhibition at MoMA PS1 runs from September 24, 2026, through February 8, 2027. The concurrent collection gallery presentation at MoMA, titled *Approaching the Scene*, runs from September 25, 2026, through Summer 2027.\n    *   Trained as both a forensic pathologist and a photographer, Margolles creates work tracing disappearances, femicides, political displacements, and societal neglect at the US-Mexico border.\n    *   The centerpiece at MoMA PS1 is *La promesa* (2012), a monumental barrier made of 14 tons of pulverized rubble from a demolished home in Ciudad Juárez. The work is activated daily at 3:00 PM by being gradually broken down and spread across the gallery floor.\n    *   The installation *Aire* (2003, 2026) humidifies the gallery air with water infused with traces from a morgue.\n    *   MoMA's installation *Approaching the Scene* focuses on recent violent incidents in Minnesota, California, and Texas. It drops water infused with residues from these murder sites onto heated metal plates, creating sharp hissing sounds, rising steam, and eventual rust.\n    *   The dual exhibition is co-curated by Ana Janevski and Inés Katzenstein, with Chloë Courtney and Julia Detchon.\n*   **Relevance to Muki:** Directly addresses structures of transnational violence, femicide, and systemic erasure. Margolles' forensic background introduces a radical media-archaeological methodology, turning somatic and structural residues (rubble, morgue water, soil) into powerful counter-memorials.\n*   **Proposed Section:** Feminist Structure Signal\n*   **Duplication Assessment:** New signal. Not featured in the past 7 issues.\n\n---\n\n### 2. Visual Culture Signal\n\n*   **Exact Title:** Printed Matter's 2026 NY Art Book Fair\n*   **Specific Source URL:** [MoMA PS1 - NYABF 2026 Program](https://www.moma.org/calendar/programs/159), [Aperture Foundation - NYABF 2026 Event](https://aperture.org/events/2026-new-york-art-book-fair/)\n*   **Publication Date:** September 24, 2026 (Opening Night, fair runs September 25–27, 2026)\n*   **Verified Facts:**\n    *   The 2026 edition of the New York Art Book Fair (NYABF) marks its 20th anniversary since its founding in Chelsea in 2006 (which began with 73 exhibitors).\n    *   The fair coincides with the 50th anniversaries of both Printed Matter and MoMA PS1 (both founded in 1976).\n    *   It features over 310 exhibitors—including independent presses, zine publishers, collectives, and rare book dealers—from 41 countries across 6 continents, making it the most geographically diverse cohort in the fair's history.\n    *   Key programming includes the signature discussion series \"The Classroom,\" music on \"The Stage,\" and a \"Reading Room\" organized in collaboration with the African Art Book Fair.\n*   **Relevance to Muki:** Evaluates the history, evolution, and geographic distribution of independent publishing and artists' books. The alignment of the NYABF's 20th and Printed Matter/MoMA PS1's 50th anniversaries highlights the structural survival of independent print and photographic distribution networks.\n*   **Proposed Section:** Visual Culture Signal\n*   **Duplication Assessment:** New signal. Not featured in the past 7 issues.\n\n---\n\n### 3. China / East Asia Signal\n\n*   **Exact Title:** “Sundays Unseen” Migrant Workers' Photography Exhibition at NTCH\n*   **Specific Source URL:** [Taipei Times - Sundays Unseen Exhibition](https://www.taipeitimes.com/News/feat/archives/2026/09/23/2003824208), [Focus Taiwan - Sundays Unseen Exhibition](https://focustaiwan.tw/culture/202609220015)\n*   **Publication Date:** September 22, 2026\n*   **Verified Facts:**\n    *   A photography exhibition titled \"Sundays Unseen\" (未见的星期天) opened on September 20, 2026, and runs through November 29, 2026, at the National Theater and Concert Hall (NTCH) gallery in Taipei.\n    *   The exhibition is organized by One-Forty, a Taiwanese non-governmental organization dedicated to empowering migrant workers.\n    *   It gathers winning photographic entries from all seven past editions of the Migrant International Photography Awards (held since 2019).\n    *   The photographs offer direct glimpses into the everyday realities of Southeast Asian migrant workers in Taiwan, spanning factory floors, dormitories, caregiving labor, and private moments of rest, faith, and homesickness.\n    *   The exhibition is featured as part of NTCH's annual flagship autumn festival, \"Artquake in Autumn\" (秋天艺术节), marking the first time the festival has featured photographic work produced entirely by migrant workers.\n*   **Relevance to Muki:** Combines East Asian migratory structures, caregiving labor, and the creation of grassroots visual archives. It documents the domestic labor of migrant women caretakers in Taiwan through their own camera lenses, presenting a highly specific counter-archive to institutional depictions of domestic labor.\n*   **Proposed Section:** China / East Asia Signal\n*   **Duplication Assessment:** New signal. Not featured in the past 7 issues.\n\n---\n\n### 4. AI Research / Creative Tech Signal\n\n*   **Exact Title:** Seedance 2.5 Draft Mode Arrives in ComfyUI\n*   **Specific Source URL:** [ComfyUI Wiki News - Seedance 2.5 Draft Mode](https://comfyui-wiki.com/news/2026-09-25-seedance-2-5-draft-mode), [GitHub PR #16529](https://github.com/Comfy-Org/ComfyUI/pull/16529) (referenced in the commit activity)\n*   **Publication Date:** September 26, 2026\n*   **Verified Facts:**\n    *   ComfyUI integrated ByteDance's \"Draft Mode\" for the Seedance 2.5 API via PR #16529 (merged September 25, 2026), adding a \"ByteDance Seedance 2.5 Draft to Final Video\" node and three official workflow templates.\n    *   The integration introduces a decoupled \"Draft-to-Final\" workflow.\n    *   First pass (Draft): Generates a fast, low-cost 480p preview to check composition, motion paths, dialogue, and camera movement.\n    *   Second pass (Final): Once a \"take\" is approved, the final pass renders the native 1080p final video directly from that draft's `draft_task_id`, preserving its scene structure, motion, prompt, reference images, duration, and aspect ratio.\n    *   The API holds draft files in a renderable state for 7 days.\n*   **Relevance to Muki:** Solves a major operational bottleneck in generative video workflows. Decoupling fast draft generation from high-resolution rendering introduces a classic filmmaking \"rushes/dailies\" workflow to AI-native pipelines, dramatically reducing cloud compute costs and rendering time.\n*   **Proposed Section:** AI Research / Creative Tech Signal\n*   **Duplication Assessment:** Follow-up. While ComfyUI updates are tracked regularly, this marks the first integration of a dedicated \"Draft-to-Final\" preview/render model logic for video APIs.\n\n---\n\n### 5. Archive / Long Read / Opportunity\n\n*   **Exact Title:** Umrao Singh Sher-Gil Grant for Photography 2026: Open Call Deadline Extended\n*   **Specific Source URL:** [Sher-Gil Sundaram Arts Foundation - USG Grant](https://ssaf.in/grants/usg-grant-for-photography-2026/), [Khoj Studios - USG Grant 2026 Open Call](https://khoj-website.storage.googleapis.com/wp-content/uploads/2026/08/20121222/USG-Poster.jpg)\n*   **Publication Date:** Extended announcement on September 20, 2026\n*   **Verified Facts:**\n    *   The Sher-Gil Sundaram Arts Foundation (SSAF) has extended the submission deadline for the ninth edition of the Umrao Singh Sher-Gil Grant for Photography 2026 to September 30, 2026.\n    *   The grant was established in 2015 to honor Umrao Singh Sher-Gil (1870–1954), a pioneering figure of staged/constructed and private family photography in India.\n    *   For the 2026 cycle, SSAF is awarding *two* separate grants of INR 5,00,000 each (approx. USD 6,000 each).\n    *   The grants target two distinct categories: projects working with staged/constructed images, and documentary photography, while recognizing the overlapping boundaries between both forms.\n    *   The funding is specifically designed as project-completion grants to support photographers who have already commenced a body of work but require financial resources to finish it.\n*   **Relevance to Muki:** High-quality funding lead. It highlights South Asian photography histories and the private archives of the family album (referencing Sher-Gil's private, sixty-year self-portrait archive). It provides actionable financial support for independent, long-term documentary and conceptual photography projects.\n*   **Proposed Section:** Archive / Long Read / Opportunity\n*   **Duplication Assessment:** New signal. SSAF is entirely new. (Note: The Eidolon Grant 2026 was covered on September 23, so we are shifting focus to the SSAF photography grant).",
+  "citations": [
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2HBIn3kiXXfGRwaOzQSrQzF-pC70VmwlKZ6PlkSTC3guRtzYw27iPibVZQJ6VC_6ZFu5d_YWvSFHU5nABorGr4iSt0TkOJyu-H5dIj_5uMdoTfvYX6XtQHZzyLvkL9rIupxc_C3q2UoM="
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs5r3egID8c7H9DApg5JQd2kHBQRYkvN8ObUwdAQ5YLs2jPximQoaZREGsBGKB530lQexd7TkrxqIjtfuK6eSD2Irqd_n7ULQTlPDIZn90cak51DLfRmRQnbTGfguXzZdcbQ=="
+    },
+    {
+      "title": "momaps1.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9qFfgIv-i27jDYovhEXA5OHeYVlSr_F3elGO_yFR-5nyVwVWxJl6A1QSrAmfFCpTJRe26IeuHQAR5icQs629SgijQFr2mBUofGM_w8TkSenrBxkwy_zS47uW1EHQeEsgA8iE6uqFES1O4UQ5YKg=="
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFdQ802opQU3JYmH2zfuD0COAXsiHV8b7pVtJommu--8RW50bzD-DV7NHmdMhi2Aaey2ZHb3q9jyc-RvUMcTqM6jz1GKfc4buRFtqYFys="
+    },
+    {
+      "title": "artealdia.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH49Ql0K5C4AGL--5BiDk4LY0OxGcrdvxWE6zp2HJOqXSp33igv2aQcejtLmVbMrFHvk4Hd8psxAG-Y-kUnK73DwLpF0-aN8tg4qOsKr_bEYBir4UQGQSpsyB4q0jcn8hkn7T_Io5hZKdyBmRYXAVt-iLnv041dJXhN8Fa3npQxf4ZgLKHvvkPekNBDZ6P9uSJ0aKkBm4eYS-Uk96EQPKjQ7NY="
+    },
+    {
+      "title": "momaps1.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhuPzHWXj-idyWL00TC4VPenQgYG8Im8NCIMS_2Kc6ZTLOScqgTEejM3LN2LPHAbnxgJvrt5Zg1MXLGluOJjpMqiVMC-GXVrpMOySzvxCFEBIE--eyVre2HjIs-DRT0O6isSQEeWpj8Txky9NXU7SHA_zSqHtQdacbNxS9aoecq266"
+    },
+    {
+      "title": "aperture.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDmGlTipITOqjUwFcbDkkcqRgQXykKM49CoFdwYG_83azRHbfls--Ei2DRI6TxitodpfMQ_b-8PLZGG2k7H3PEQo5ZvODrZwCecKATeRAMVUJcfJA="
+    },
+    {
+      "title": "printedmatterartbookfairs.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyj78vjAigXVGPnpsrJDnn-XyPQrRwIDkObhr12edvSei6RVgi9jTjzGJtSrnzbOg5pLLBGn6gCtMrEYidND1BRkYEM45dYOePYdVCEYrQAjw8Hv5d5nX9TqZjqu8cmc2nmZyQaba2mEtOpXhN81Q="
+    },
+    {
+      "title": "finebooksmagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBB7sH7MHNvVjv1dJn3UH0ZJnEqTV7QcHI2fiUMzr7YXQ67MxMlbAWnwu0a3jN3dsatNlA0RJbOTcY6sBIaBQEhjFGcXSQf1inv3CmqpwCf0rrPPTEMKkJSN8zgCfsaNot0aQrjn8-eyKXSz80NKbiOfoehv8Z7fc062nCfJGVlSdLKmjJ0-9rnxBN"
+    },
+    {
+      "title": "taipeitimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8A_yY_F8x128DiI2LRmyijhYHHRd7_eB7UpP3FI2Z-rdBeFei5L-yuoaCr4xavROtp3qyYPw1eJN2GRGgUafb4T2i6tuDWum7hGB_1heJ8g5_xPmBPY6GrjAEkoxIET6srdWwH927qP9d-r6p5p8C0kWzpqdWpO2In4dI"
+    },
+    {
+      "title": "focustaiwan.tw",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKgM01htfGs7dB2p38h6Jv5kEWEGBRwmVp5DnprCI7mYJL2RQjnKDz7f7Tsv5Kzj2YuZopefbG1yvxuytFAqZSsff-xwFFhbo1Ykjh2tbPqXFN2a73bH6L1zeniyMEkHIa"
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgKcFuDqY_g4LjFs0Y5pIhp-8z6EYAdr8i3okh8F1qgylkXZVBKFdIdrF5_CnBuH0lJ3jMvmSPkCAzXwOrWy1yzUhFG2cNxpLMze8BAONwhaCNjFE6j639OxFN81Ld8LW3czyGYPXXR9w8IzSumvJ1AIharIw="
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLUVYfuvprC4gFUaUQvMrQu9vJj-tgAM_TWejgBCOx7LT6PkG3JS2IlW2APsFh2AisEyTedTV7S_Wk1zeaAPali_CryJ4hydbrut_FL_It9WZmAJkxpKQ93mHiP5_zOh9v5rTuN4xJyKq2211q2zOJBcMcHOjPZF4y"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKM9rmlIWwONpP9iMuwB3UyJCKOXT26zY7m1Dqy1YwC4N6SIimfxCCCYtwQl1oSFbTnSgHIcmT1MMRPPC1jrQv8lF8Ph4lwXjkQPRrV3HpihWwhqxjDaepC7Sma2YVembTYrbDkkV_kSqdH4dlfX31d50rOYOu90w7CEYZSTfNJ57WrX5UwJI0tvCctJxRqqz4JIpB8bU4udXuDcj1KirVMSZAhn-UiE1GmLtsrJr3ekoukW8O1RmyA-hCmejbG7VM0CRf"
+    },
+    {
+      "title": "khojstudios.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxNoLOLnEAlyCeVexVv1IBTDcISXTUVcxiM3ortCngDuZ08X-167-k51lDTRNoEUEgxF4Ce-dYwlg3yJqhy9k8o2ADHYdRmKMB4BoaaPjm1rTB1vdRx3D3bGrfwHaifbCd0cGbzc_cvDRIU4-yXaMigmA2muygszfrTbYomW1CdkpVspl03scZzVOIPi9lBeE11FSG"
+    },
+    {
+      "title": "ssaf.in",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAdOTZAgPFdqrzwWrB95uJ8UPUSO1_CdKDqhUETZxhD5dNQfUmlgJrQNrSUMdA2PXxp1000DNfBlOZXKjPU8x7Sedusaz7s-UHtH6bpmIOL0xsAZgpDK9s7lUEUzLPxhU="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCft-eE_-_YOsf1rlD4sJrJkBn8r85DAY5kH-6x4YJCr9NnjGAuT4TC8G7boeAOAKY2tRqd6da6wWd1epIx8irkcwdE4I11uPkgfdEQiO7gUNZDFZX-F3HJ2xLri4w_JH5JBYPbEkiRBCHiZUoE45dn4cT1APltH-qxt_L-S2VHDfyPxzCHAIuWtFcVbaeQj6bxS_Ef2p26YObiPdmk5LQrsoMyIupCUlI_xOys5fvQlAuuDL7QnGMQHxzwyhVED0W929R"
+    }
+  ]
+}
