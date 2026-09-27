@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-27",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义大展",
+    "历史图像活化",
+    "空间悬挂装置",
+    "地缘动态媒介",
+    "本地 3D 几何控制",
+    "女性摄影公募",
+    "反向行动指南"
+  ],
+  "why_today": "今天的简报展示了历史档案与身体实践在不同维度下的空间化：米兰的八十年意大利女性奋斗史通过稻田与工厂流水线重构了劳动的身体；纽约的 Maren Hassinger 用有机枯枝编织成的悬挂网络与美术馆白盒子展开对抗；曼谷新地标 Dib Bangkok 则通过 1970 年代的动态雕塑文献厘清了东南亚实验艺术的地缘起点。与此同时，ComfyUI 社区将 MoGe 3 高精三维几何估计转化为直观的手绘相机轨迹，而 PhMuseum 十周年发布的指南则为女性及非二元视觉实践提供了一份宝贵的反向行动指南。",
+  "intro": "今天的信号聚焦于“媒介与空间的多维耦合”。无论是通过历史档案馆活化意大利女性劳动史，还是利用废旧枯枝打破画廊白盒子的边界，艺术家们都在利用物质性对抗制度的冷漠。而在数字创作领域，3D 几何控制的本地化让创作者得以摆脱模糊的提示词操控。最后，PhMuseum 开启的第十届女性摄影资助及其十周年指南，则为我们梳理了一条属于边缘主体的视觉抗争线索。",
+  "opening_signal": "将档案悬挂于空间，让身体的劳作在白盒子与泥土之间显形。",
+  "closing_signal": "当物理空间的深度估计可以直接通过手绘相机轨迹实现，我们与数字潜空间的交互已经不仅是视觉的，更是一种直观的物理操控。这种对于控制权的“白盒化”，正在从底层改变我们对虚拟媒介物质性的认知。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "米兰 Gallerie d'Italia 举办《LIBERE! 1946-2026》大展：以八十年历史影像解构意大利女性运动与阶级劳动",
+      "title_en": "\"LIBERE! 1946-2026. Le conquiste delle donne\" Exhibition in Milan",
+      "summary_zh": "米兰 Gallerie d'Italia 于 2026 年 9 月 26 日至 2027 年 2 月 7 日举办大展《LIBERE! 1946-2026》。展览由 Renata Ferri 策划，追踪自 1946 年意大利女性首次获得投票权以来的奋斗史。展品引入大量历史档案馆的珍贵影像，呈现不同时期的女性身体与劳动，包括战后稻田女工、工厂与办公室职员。尾声部分则展出当代女性艺术家的多媒体与摄影新作，探讨当下复杂的地缘与社会斗争。",
+      "summary_en": "The Gallerie d'Italia in Milan hosts \"LIBERE! 1946-2026\" from September 26, 2026, to February 7, 2027. Curated by Renata Ferri, the exhibition traces 80 years of Italian women's struggles and labor history through archive-based imagery and contemporary multimedia works.",
+      "why_muki_cares": "该展览提供了一个将国家与媒体历史档案转化为交叉女性主义叙事的具体案例。它通过聚焦稻田女工和工厂流水线等“劳动身体”，为研究女性身体、阶级劳作与制度权力的关系提供了直观的文献参考。",
+      "editorial_signal": "历史图像的活化不仅是纪念，更是一部关于女性劳动身体与社会立法的视觉编年史。",
+      "theme_tags": [
+        "LIBERE! 1946-2026",
+        "Renata Ferri",
+        "女性运动",
+        "劳工历史",
+        "档案活化",
+        "地缘变迁",
+        "女性主义身体政治"
+      ],
+      "source_name": "Gallerie d'Italia",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvk0xNNzUOcXazkXz82DnGM_nQrFlWel4MF73CeCu2AL--v9KxhM7mBMq1N4imBQgpwlImlxgmZVAyyep_EtwoxUgZwhYmUYsdau7XnKcqrnjj37or7f3euvaXsuYktEALeRt1tVzIB9Bzm5eY0FnEocVylPpkPXyz5vNoIa9_kvuWW2Z2n_Uv31ivYjeoV_HcTq8MN7SS9Jf4ajdIQ-H4BghPQ-UCQZZVhMtzBNOUzAYV2NG-d2v-Db57NZhqMm9V717OU0XN1kWm",
+      "publication_date": "2026-09-24",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "Maren Hassinger 个展《Blanket of Branches》亮相纽约：以树枝悬挂装置重构画廊空间与黑人女性的制度性挣扎",
+      "title_en": "Maren Hassinger: Blanket of Branches at Susan Inglett Gallery",
+      "summary_zh": "纽约 Susan Inglett 画廊于 2026 年 9 月 12 日至 10 月 17 日举办非裔女性艺术家 Maren Hassinger 个展。展览复刻了其 1986 年的悬挂装置代表作《Blanket of Branches》，在白盒子画廊顶部用枯树枝编织成庞大网络。该作与她 1981 年在洛杉矶郡立美术馆使用工业钢丝绳模拟灌木的经典作品相呼应，体现了非裔女性在保守艺术制度中所体验到的荒凉与试探性挣扎。",
+      "summary_en": "Susan Inglett Gallery in New York presents \"Blanket of Branches,\" a solo exhibition by African American artist Maren Hassinger. The exhibition recreates her landmark 1986 installation, juxtaposing organic materials with institutional spaces to address the struggles of Black women artists.",
+      "why_muki_cares": "Hassinger 长期活跃于舞蹈、雕塑与大地艺术的交界。她对枯枝与钢丝绳等材料的物质重组，将对自然和身体的关护转化为对白盒子美术馆制度的对抗，是研究非裔女性主义媒介物质性与空间政治的经典文本。",
+      "editorial_signal": "有机材料与工业废料的重组，成为非裔女性艺术家进入并对抗美术馆物理空间的一种触觉媒介。",
+      "theme_tags": [
+        "Maren Hassinger",
+        "Blanket of Branches",
+        "Susan Inglett Gallery",
+        "非裔女性主义",
+        "媒介物质性",
+        "空间政治",
+        "制度批判"
+      ],
+      "source_name": "Susan Inglett Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL8SwWnNvb2zSE4fJE5YorTQABkqH6-ZS7TZpyDdzdC7qOUPbTvESSpJXw-aMyC217udm9yMXceGNHVjZtxlgGVuGm6_2oKJoDKVhb9EJBB9Jjgk914lBgUKPuXrwE8VFMuDtDEoJeIYre6JBcFr8aFI8bRFH3YUpwHA29EbLIM6sTSdkQiplaNdYyeEfpII0fJw==",
+      "publication_date": "2026-09-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "泰国 Dib Bangkok 美术馆启用：开馆展《Giving Life》携手亚历山大·考尔德等 33 位艺术家重构地缘动态媒介档案",
+      "title_en": "\"Giving Life\" Exhibition at Dib Bangkok",
+      "summary_zh": "曼谷新美术馆 Dib Bangkok 于 2026 年 9 月 26 日至 2027 年 5 月 3 日展出大展《Giving Life》。展览收录了亚历山大·考尔德等 33 位艺术家的 160 余件作品，探讨材料的动态、再生与生命化。展览还特别整理了 60 多件 historical 档案，重现 1975 年考尔德的《Circus》在泰国的首次展出。这一地缘历史节点曾直接刺激了泰国本土第一代抽象与实验装置艺术的爆发。",
+      "summary_en": "Dib Bangkok opens its major exhibition \"Giving Life,\" featuring over 160 works by 33 artists including Alexander Calder. The exhibition reactivates 1970s archival records of Calder's first showing in Thailand, which catalyzed the country's early experimental art movement.",
+      "why_muki_cares": "作为 Chanel 文化基金会在东南亚的首个合作伙伴，该机构提供了一个极佳的地缘比较视角。它不仅展出利用互动游戏解构本土神话的当代数字艺术，还通过重构 1970 年代的前卫影像与雕塑档案，呈现出媒介在特定地缘历史下的动态生命力。",
+      "editorial_signal": "在 1970 年代的地缘冷战背景下，西方动态雕塑与泰国前卫艺术的碰撞，构成了东亚/东南亚媒介史中不可忽视的档案拼图。",
+      "theme_tags": [
+        "Dib Bangkok",
+        "Giving Life",
+        "Alexander Calder",
+        "泰国现代艺术",
+        "地缘流散",
+        "历史档案活化",
+        "动态媒介"
+      ],
+      "source_name": "Dib Bangkok",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHukwRQBydfoZJrTY2ey3VyGWXUHVIQuwW2O1sjOF5FcbEhRtodEJMzW9beHlUnGObhi-NVS8Oz9wCmH6Us7Az5NaLsos0ZP5ASRi5sOvp_7iyl9cxOb5UvLJfo5FiPNKhlNW0O6pue",
+      "publication_date": "2026-09-25",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI-Camera-Path 节点发布：结合 MoGe 3 高精深度估计，实现本地工作流中手绘三维相机轨迹并渲染视频",
+      "title_en": "phazei Releases ComfyUI-Camera-Path Node",
+      "summary_zh": "社区开发者 phazei 发布了名为 `ComfyUI-Camera-Path` 的定制节点。该节点深度依赖 9 月 21 日 ComfyUI 底层集成的 MoGe 3 高精三维几何估计模型。用户输入单张图像或帧后，节点会自动推演空间深度。该节点内置了一个交互式 3D 编辑器，用户可以直接在 ComfyUI 界面上手绘或拖拽相机运动路径。节点会将这些视角的场景平滑渲染为视频帧 batch，直接输送给 MiniMax H3 或 LTX 等视频生成模型。",
+      "summary_en": "Developer phazei has released the ComfyUI-Camera-Path node, leveraging the newly integrated MoGe 3 model. It enables users to draw 3D camera paths directly in the local ComfyUI interface to render smooth camera movements for diffusion models.",
+      "why_muki_cares": "该节点为本地 AI 创意工作流带来了实质性的重构。它不再依赖模糊的文本提示词，也不需要导出到 Blender 等外部软件。直接在本地画布中完成“单图深度估计-手绘相机路径-重新投影渲染”的闭环，是 3D 几何重建与扩散模型深度耦合的白盒控制工具。",
+      "editorial_signal": "从文本提示词到纯粹的 3D 几何手绘控制，AI 视频生成工作流的白盒化正在进入更直观的空间操作阶段。",
+      "theme_tags": [
+        "ComfyUI",
+        "Camera Path",
+        "MoGe 3",
+        "3D重建",
+        "视频控制",
+        "工作流优化",
+        "白盒化控制"
+      ],
+      "source_name": "Reddit",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7VFaixAqEN24MX-QJR7fbZq5sMtBDNl2xN7ISAqPQfupE39I6Am0cxKNen2gXfvGk0rBY0lf_wB3nOQPHYpMy5Okp_RT1aIoiO2cIOsBU5xgInzLFjvMOSjVcLoxUvjeUD9t2w95JcT9fhMX7mHC7Gd4pde6Qz2_GqTtuKz_CKSBibYZzs2f9V3bviUvcsaWT8xLAkVI=",
+      "publication_date": "2026-09-22",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "PhMuseum 启动第十届女性摄影师资助计划：面向全球公开征集多元视觉实践，并发布十周年实践指南",
+      "title_en": "PhMuseum Launches 10th Women Photographers Grant",
+      "summary_zh": "PhMuseum 女性摄影师资助计划进入第十届，面向全球任何年龄与国籍的女性及非二元性别摄影师征集作品，截止日期为 2026 年 10 月 15 日。评审团将评选并分配 10,000 欧元总奖金及 MPB 提供的器材支持。获奖者将获得在 PhMuseum Lab 举办个展及在 PhotoVogue 节展出的机会。为纪念十周年，PhMuseum 联合发布了免费数字指南《10 Years Of Female And Non-Binary Vision》，包含行业内性别平等的实践建议与历史反思。",
+      "summary_en": "PhMuseum has opened applications for its 10th Women Photographers Grant, offering a €10,000 prize pool and solo exhibition opportunities. To mark the anniversary, they released a free digital guide titled \"10 Years of Female and Non-Binary Vision.\"",
+      "why_muki_cares": "这是一个专注于女性与非二元纪实及实验摄影的旗舰公募。其十周年发布的免费实践指南提供了大量关于去中心化“反向摄影史”的案例与行业平等建议，是一份对视觉文化研究具有直接参考价值的行动手册。",
+      "editorial_signal": "视觉资助不仅是资金的再分配，其积攒十年的反向行动文献为非二元及流散影像实践构筑了稳存的知识网络。",
+      "theme_tags": [
+        "PhMuseum",
+        "女性摄影资助",
+        "非二元性别",
+        "10 Years Of Female And Non-Binary Vision",
+        "反向摄影史",
+        "影像共同体",
+        "公开招募"
+      ],
+      "source_name": "PhMuseum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrNztfqZFr-f1gP0Rv0WOg2dnxxOchBP1mUv_1sjtEko_CHwx-F_gpfA9GLepj5M97mFdhrrfpkQQ4XKkVPAvjy3BL05gBVit3DHo52l5-PRNN4PDM7JmKfi1veaUVIx7OlYx1hBydtk27I7xvxLGN3XPS0laEDSg=",
+      "publication_date": "2026-09-08",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Opportunity / Guide",
+    "title": "PhMuseum 第十届女性摄影师资助计划与《10 Years Of Female And Non-Binary Vision》实践指南",
+    "why_muki_may_care": "该公募不仅提供个展与资金支持，更重要的是其随之发布的十周年免费数字指南，系统梳理并反思了过去十年女性及非二元性别创作者的视觉实践，是极佳的视觉研究文献。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrNztfqZFr-f1gP0Rv0WOg2dnxxOchBP1mUv_1sjtEko_CHwx-F_gpfA9GLepj5M97mFdhrrfpkQQ4XKkVPAvjy3BL05gBVit3DHo52l5-PRNN4PDM7JmKfi1veaUVIx7OlYx1hBydtk27I7xvxLGN3XPS0laEDSg="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Aperture Loves New York (380 Columbus Avenue 新总部启用)",
+    "Taking Back Our Space: Photographic Perspectives (MoMA)",
+    "2026 Daejeon Photo Festival (大田摄影节)"
+  ],
+  "covered_entities": [
+    "Gallerie d'Italia",
+    "Susan Inglett Gallery",
+    "Dib Bangkok",
+    "Reddit",
+    "PhMuseum"
+  ],
+  "repetition_notes": "本期对 ComfyUI-Camera-Path 节点的追踪属于对 9 月 21 日简报中录入的 ComfyUI v0.37.0 引入 MoGe 3 高精几何估计模型的生态落地跟进（Follow-up）。该节点通过本地交互式 3D 相机路径控制，为视频创意流程带来了实质性的白盒化操作增量。其余四项关于意大利女性奋斗史特展、Maren Hassinger 空间装置展、泰国 Dib Bangkok 开馆展以及 PhMuseum 十周年摄影资助的项目均为全新信号（New）。",
+  "issue_number": 73
+}
