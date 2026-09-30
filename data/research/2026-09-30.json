@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-30",
+  "model": "gemini-3.5-flash",
+  "dossier": "## Source Dossier for Issue 075 (2026-09-30)\n\n### 1. Feminist Structure Signal\n*   **Exact Title**: *Generative Disruption: Feminist Art from the Collection*\n*   **Proposed Chinese Title**: `Ruby City 举办新展《生成式颠覆》：以1990年代至今的馆藏实践延续早期女性主义的身体、日常与媒介探索`\n*   **Specific Source URL**: `https://rubycity.org/generative-disruption-feminist-art-from-the-collection/`\n*   **Publication / Opening Date**: September 26, 2026 (Exhibition runs through August 29, 2027)\n*   **Verified Facts**:\n    *   **Venue**: Ruby City, San Antonio, Texas.\n    *   **Core Theme**: Drawn largely from the Linda Pace Foundation Collection, this exhibition brings together artworks from the 1990s to the present day. It explores how the concepts pioneered by 1960s and 1970s second-wave feminist artists (such as domesticity, bodily autonomy, and identity) continue to shape and inspire contemporary artistic practices.\n    *   **Artists Featured**: Laura Aguilar, Nicole Eisenman, Wangechi Mutu, Sue Williams, Miwa Yanagi (柳美和), Sama Alshaibi, Olga de Amaral, Annette Messager, Bettie Ward, Nao Bustamante, and the collaborative team of Kadambari Baxi, Maureen Connor, and Landon Newton.\n    *   **Key Media**: Focuses on reclaiming materials traditionally associated with women's work (fiber, textiles, found objects, ceramics, embroidery) and early video art, which lacked an established male-dominated institutional history and was thus open to feminist rewriting.\n*   **Relevance to Muki**: Directly targets feminist visual culture and the structures surrounding women, care, labor, and bodies. It provides an institutional framework for tracking how modern and contemporary East Asian and global artists (such as Miwa Yanagi) continue the geohistorical legacy of early feminist disruptions.\n*   **Duplication Assessment**: New Signal. No previous issues have covered Ruby City, San Antonio, or this specific exhibition.\n\n---\n\n### 2. Visual Culture Signal\n*   **Exact Title**: *Duet: Asian Contemporary* / デュエット――アジアン・コンテンポラリー\n*   **Proposed Chinese Title**: `东京都写真美术馆开幕《双重奏：亚洲当代》：六位中日艺术家首次联合探索地缘、历史与日常影像重组`\n*   **Specific Source URL**: `https://topmuseum.jp/`\n*   **Publication / Opening Date**: September 30, 2026 (Exhibition runs through January 17, 2027)\n*   **Verified Facts**:\n    *   **Venue**: Tokyo Photographic Art Museum (東京都写真美術館), 2F Gallery.\n    *   **Collaborating Institution**: Three Shadows Xiamen Photography Art Centre (三影堂厦门摄影艺术中心), with Teng Qingyun (滕青云) serving as the co-curator.\n    *   **Artists Featured (6)**: Murakoshi Toshiya (村越としや), Wang Tuo (王拓), Sui Taca (塔可), Luo Yang (罗洋), Jiang Pengyi (蒋鹏奕), and fumiko imano (今野文子).\n    *   **Exhibition Context**: This is the second in the museum's \"Asian Contemporary Photography\" series, following the 2018 exhibition *I Know Something About Love*. The four Chinese artists are being exhibited in a Japanese public museum for the first time.\n    *   **Themes & Mediums**: The works span a wide range of photographic and moving-image practices, including landscape photography that traces geohistorical memories, narrative videos that retell histories (Wang Tuo), landscapes guided by ancient literary texts (Sui Taca), portraits of contemporary youth (Luo Yang), experimental cameraless prints (Jiang Pengyi), and self-portrait collages (fumiko imano).\n    *   **Public Program**: A symposium will be held on October 3, 2026, featuring Teng Qingyun, Gu Zheng (顾铮, critic and professor at Fudan University), and Takahiro Ito (伊藤贵弘, museum curator).\n*   **Relevance to Muki**: Directly aligned with photography, exhibitions, and curatorial research. Luo Yang's portraits of contemporary youth and fumiko imano's self-portrait collages provide rich physical materials for research into East Asian feminist bodies and subjective archives.\n*   **Duplication Assessment**: New Signal. The exhibition opens on today's simulated date (September 30, 2026) and has not been covered in any recent issue.\n\n---\n\n### 3. China / East Asia Signal\n*   **Exact Title**: *Synchronic Constellation: Cross-Boundary Perspectives in Art* / 共时星群：艺术的跨界视野\n*   **Proposed Chinese Title**: `东京都现代美术馆开幕《共时星群》特展：重组1930年代台日前卫艺术、风车诗社与跨媒介现代性档案`\n*   **Specific Source URL**: `https://www.mot-art-museum.jp/en/exhibitions/synchronic-constellation/`\n*   **Publication / Opening Date**: September 5, 2026 (Exhibition runs through December 13, 2026)\n*   **Verified Facts**:\n    *   **Venue**: Museum of Contemporary Art Tokyo (MOT), Exhibition Gallery 1F/3F.\n    *   **Co-organizers**: MOT and Taiwan's Roots Films Ltd. (supported by Taiwan's Ministry of Foreign Affairs, Ministry of Culture, etc.).\n    *   **Guest Curator**: Filmmaker Huang Ya-li (黄亚历).\n    *   **Exhibition Concept**: Reconsiders the reception and development of cultural modernity across Japan and Taiwan in the 1930s. The exhibition expands on Huang's 2015 award-winning documentary *Le Moulin* (《日曜日式散步者》), translating its research on the surrealist colonial-era Le Moulin Poetry Society (风车诗社) into a physical gallery space.\n    *   **Scale of Archives**: Brings together roughly 200 modern Taiwanese artworks, 100 contemporaneous Japanese pieces, and over 500 multi-disciplinary archival documents (including letters, manuscripts, blueprints, cinema, music, and theater). Featured artists include Chen Cheng-po (陈澄波), Huang Tu-shui (黄土水), Lin Yu-shan (林玉山), and Seiji Togo (东乡青儿).\n*   **Relevance to Muki**: Strongly aligns with archives, image history, and media archaeology. It provides a rare model for translating cinematic and literary research into a massive cross-border historical archive exhibition, showing how colonial geohistory can be spatialized.\n*   **Duplication Assessment**: New Signal. This exhibition has not been included in any previous issues.\n\n---\n\n### 4. AI Research / Creative Tech Signal\n*   **Exact Title**: *Qwen-Image-2.1 in ComfyUI: Open-Weight Image Generation and Editing, Now with Transparency*\n*   **Proposed Chinese Title**: `Qwen-Image-2.1 原生接入 ComfyUI 创意工作流：以 7B 开源体积实现 RGBA 透明通道生成与 10 图多参考控制`\n*   **Specific Source URL**: `https://comfyui.substack.com/p/qwen-image-21-in-comfyui-open-weight`\n*   **Publication Date**: September 20, 2026\n*   **Verified Facts**:\n    *   **Developer**: Alibaba's Qwen team released Qwen-Image-2.1, a 7B parameter open-weight MMDiT architecture model. ComfyUI added native integration for the model.\n    *   **Core Creative Upgrades**:\n        1.  *RGBA Output*: Directly generates a native four-channel image including an alpha channel. This allows creators to render sprites, assets, and product cutouts with built-in transparency, removing the need for a background-removal model, matting node, or edge cleanup.\n        2.  *Native 2K Resolution*: Supports direct 2048x2048 generation rather than upscaling.\n        3.  *Up to 10 Reference Images*: The native `Text Encode Qwen Image 2.1` node accepts up to 10 image inputs (e.g., character, style, and background plates) to be read simultaneously by the text encoder and routed as VAE latents.\n        4.  *Unified Checkpoint*: Unifies image generation, transparent asset output, and regional editing/masking into a single 7B local model.\n*   **Relevance to Muki**: Crucial for AI-native workflows and creative technologies. It simplifies asset creation by removing the unstable \"remove background\" and \"matting\" steps, and provides complex character/style reference routing natively inside ComfyUI, lowering local consumer-hardware VRAM barriers.\n*   **Duplication Assessment**: **Follow-up / Deep Dive**. The core system-level release of ComfyUI v0.37.0 (including the basic integration of Qwen-Image 2.1) was recorded on September 21, 2026. This entry serves as a direct follow-up, shifting focus from raw system-level updates to the specific, practical creative workflow mechanics (transparency layer separation, multi-reference routing, and design-to-composing pipelines).\n\n---\n\n### 5. Archive / Long Read / Opportunity\n*   **Exact Title**: *Art Explora – Cité internationale des Arts Residency Programme 2027*\n*   **Proposed Chinese Title**: `巴黎国际艺术城与 Art Explora 启动2027年联合驻留招募：全额资助全球策展人、学者与艺术家开展社会及生态课题研究`\n*   **Specific Source URL**: `https://www.artexplora.org/en/the-artists-residencies-programme-presentation`\n*   **Publication / Launch Date**: September 21, 2026 (Applications close October 30, 2026, 11:59 PM Paris time)\n*   **Verified Facts**:\n    *   **Organizers**: Art Explora Foundation and Cité internationale des arts (Paris, France).\n    *   **Eligibility**: Open to artists, collectives, researchers, and curators of all nationalities with no age limit. Applicants must demonstrate at least five years of professional experience and an international track record.\n    *   **Program Tracks**:\n        *   *SOLO Programme*: For individual artists/writers working in visual, performing, or digital arts, or experimental humanities. Duration: 3 or 6 months.\n        *   *COLLECTIVE Programme*: For artist collectives, or collaborative teams of artists paired with researchers/curators. Duration: 3 months.\n    *   **Support Provisions**: Fully equipped live-work studio (approx. 50 m²) in Montmartre, Paris. A monthly living stipend of €1,000 (for SOLO) or €2,000 (to be shared for COLLECTIVE). A production grant of €3,000. Covered round-trip travel to Paris. Customized curatorial/production support and a dedicated professional mentorship program.\n    *   **Focus Areas**: Research projects that question relations between art, science, and technology, and address social, political, or ecological issues of our time.\n*   **Relevance to Muki**: A high-quality curatorial and research residency. It specifically supports independent curators and collaborative pairings between researchers and artists. It addresses structural support and institutional care (by offering generous living stipends, production grants, and professional mentorship).\n*   **Duplication Assessment**: New Signal. The program has not been featured in previous issues.",
+  "citations": [
+    {
+      "title": "hyperallergic.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFba3gEEfOuzRHUs4pxaT3J2nXo7b2_trHllZ3Tx2nke6JnO0wuJjMA5XaZJmnnbvAGrsI_fxm8Fu0ZQdIPJLk2r9EIVqCDipcbrWpN-iu_2SqNMyFVE8Up5Gl4FvL_GOh_RRAg2gX-dCbiyo0H-zoShYYreYLZ6kk3AwqtGOaqEUemalK-7hrFbjesua6Bsulm0Bt04YPeXgzJ"
+    },
+    {
+      "title": "rubycity.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwESU95_DByho1nD3HBJPtblxU7pTnv0Cyt_L8R5mHsIwnPNUJMK7vVWb9cGS_sop4XCs12gUGn_maKUb6rtkzkC42n8cymdmMx0slIGfahmOZ6mNkr--eX7vkzuoa0xGcji0WrYGDhyl6URi1ZU5B4Mu90jQzI1BDyfKsr2i9GqRbinDXibWN_Ek3t-8y"
+    },
+    {
+      "title": "rubycity.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-pv9r9Ys3Oau31OEJMdHtFXtbxwGcJNdYpb1dmITzHyR-6tLJnk345HVFOqwgB7dIpjEOnwBereK7HmW5gTntJ6RE-dJKibzJ5Y="
+    },
+    {
+      "title": "rubycity.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYqLi88aqYJ_IR-Nz5U8HTxV3O4cvmEKTlp9fGgv_Cr1LcZahBmcPYrdjkoGJZvQxkJj9M0QPLnwoeZVGa6v-QDsd75Mha21ylbR8RKcWI97g32otNiSYvzLCn1x2N8whSyo-zeTA3LGugNj620Wloem4WEn1lSw1vb-pn0FCeYT1B9UGRFkxApS-WIdPF"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqfk7YadwjctdfYpnBecyfD2jrfbW-qjMBVhujjm90NGiCLRGw6qeO_lpz5YiLKNu3y4oRQ35rRepvGxtU3AQuqdjYmFf6PZHeL56BcOU-hjZOeZyc-DNL5hXMBJqWC_lYJOQdup7BNaYTamonNGKAg6GN_m-BWpX6oJqSKy-IJfzU_MMxaU8tD8AuDRGgoCA="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Av9WlXjxNma2JSTgAtA15rJSzqEhVbPNcys6vJ1wKb35eXfkEfw3GuVX6uSDgxRvHc1OD-AJeWECWm8nFxw_bArgGT8Za2D0tv3wyHNHg2UUDORta-E4lG7hMp4P"
+    },
+    {
+      "title": "tokyoartbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiYPekriRzkpthMFVbeapBhZArCS4KDWBwHX1IGI3QubIQASU959yOagE_HGZs_wO8GJzyBbokODZF_c-RE_6wEzb-nS89yEUJPmEo6cSkI_CWLM_kfjHPoASKp9ziFEXg-Hzms5_xSk3_OgC46lLJiMHuXk8xBG2GHUeI-Ov1Acn-KTzswKAli9M="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkOETq8HupDGyRq_rQQakVEcxin-uZtteN2spToHyFR6KzM8JQsPxoph4CFugxMzlhjIVGOO8Ps3hzDdSgOoJZKBbH9WdmdSDSEEbor-pHckPUPYhPePWyCSa89DyVgU6RJqApE2U-9p-1cSrwxthBjA=="
+    },
+    {
+      "title": "mot-art-museum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVIef35LccyKV3QTfmP6zKkQDdtbvy8BeYNP-HQYGMUaLKnVInqhzHdF-YP4zdChzg3ePUbdHT08lpxqctCTsGRjwdNzyD-Rpr796M13iZ0GMqu8lEG38iZpYDUWVyC2Qc2ZkABW678bugoRngcJaW"
+    },
+    {
+      "title": "mot-art-museum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0MO9Tb4xfwWZd9DG-hwpZveyUPQ1i2t-3cVm0DFwNq2FkAiHCtkuiu5sQ71SV-DI4zyN72c9iHDSKvYzwA3TZNHFzV7Y4XEGc-hjQ_NM7X7SDG7o1WgVoDqVlgMtDrZAO1Nbmaz7G98qoQ0zh76wtKw=="
+    },
+    {
+      "title": "taiwan-panorama.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ZS-T3BkJXO-dXPqZTv286f4qvNIiIIBSD7GOGOHVaAlK0B8rTEhst9SALed0tZzWb4naCrQoMx9W7exgI_AkD80HbFpa5yfGatKb4hQ44P6s8fP3gyPKvxoJxsohcnW_fQnZLKaNUEXtfltUEt9GQCqRQi8ilxI-TnVy4HycaYvGESjXCzrE3NK3JGbKqmP0Lx90ciSy_tYYfo5sflg4lG2R-QqpRAeNvXR1gY_6-zGXXTQPGaNemmtx_b0-kWe-3smqLkeHfgz34ACxffIl5edX7O1SOsH_Xt73Muc4Bh-tsInslvuwaVSrbLpkTDIsJ2aFmtsmqk5dgy205bK47LCLrF3mhQvSr1cW3PNdzhzdPAjrZZZqzPWmkhyLvVdTba720BAxN_G5NjE3QZtNLeSiA_-QcSaK3ncKZJpIzBbPuQf9pQEJfQ=="
+    },
+    {
+      "title": "tokyoweekender.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESCaVT3FI6RbZxQ3bcZIwYXXvnfYc_eli2iHdHm0UZyjUHgNHszMlUIVomFPU2OTeFfEBJBKT0xqL9MyD_MMIHnG0iKf7I8ud6GFWvJL1O1hD5sFg6uVimYIXB17guNnZLCviqF5bR-4ELOCflqhr4mU3byvvl7gUHWHT-QzDsMd1nt71W2eNDZunHgG9tS1q1oU8rHWya"
+    },
+    {
+      "title": "artforum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHibsOJ45YTxF7yHHz2cQ7jDzHiPKK6AMJgCO2YcYJb73bmMsSeMy35rCxmvVonKA2iOZAnSycnuffhVEolVd5wQIsUz5wj48ghOTBTSoRo22UBXlED9xy4XH3tfhCpIPFqDKql3hkUoOoSQ7H5c_UYvEPIq6hniXlB71CFd4VKZFHurnEVFO2dCVWBkji924Gw8ZCaYBD3KQnLHPOca6NhmQ8tD9vh0GFfjZo5HSd_fmd8zadYBnJOOdiw0XSZF6ty-kHAyI9NwOMIWW0nF6siHRg="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfPW5bMx9HnykVTQ1O5b9J7xDWR8_SWULouZ_EjnUrJ_5BGUiyCQ32nknerBUPH64M_zHHoLxq_3dv--T7ww5k4wymQ3v40e8Ta-hGRRNDkyIHAWnEZbTANmIjCtlOgZT3TlRuHz4QOINyFz1HQynFTws="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0yYnblq2MSLGpTeGYQnNlKwgUbqxGSqxuTdTHPSKuMR_ADOd2Uj2BIArNC-unQq7nsEtbKKj_yLTyZrUBWUZalA9R8SLvZ6AQmtoqr70GRLHNvQ=="
+    },
+    {
+      "title": "substack.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL8iZNopnS7B8BL4RBQSO9wDXLPTeVVds47U6O07ngbn--ImpqS5-bUSVPgIzUF16ihTHIk5KU1vUmNujfddk9h3wd8y1-Tc_kJ2IlhtmPP9jsUFeL1MXiGAf8eklbb_Vc5u2Ol1YrIoVMbPs-9VG8nFo="
+    },
+    {
+      "title": "kunsten.be",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcCOjGsbQLaAlAiqw6844Y0EgjD2Rskf1jiSWKyybzxpKThu4NZz9Cn2cRX-3seIiaDPSsrJyLMeEziz1HPhT6R_H_1VoVwoIPMq1F8nL1voAtmnrZzdPF3gCSpITs4pFBytRZdT3pz9gGUYQMo_LuMur6sD55WcDYy72S7sXFjwLZy92y2l-Oc-ESkxmUptyNkmEOzOHMJQ=="
+    },
+    {
+      "title": "contemporaryperformance.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMfoI9xQ8JvsxCXSgBhgd9CvCaxJAuvjZ4GqOoFSFKdv5nmF5g2cP8tcsyyTaJ6RNuuq6dVsnAiSG7HBPH1DIDKzDsQRLDv1ucOr4mN1Y6nkMSHLS-ZDxWRDkGedC-wLEn_86UeyPb-6mRVaaJa6cOMmtK0BEd"
+    },
+    {
+      "title": "artexplora.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPdhGfgiamg77h55wsFSiIOJE2i-aPcwJ_d7CulGvzWF3Hiz9wkW4c1gpjncuEQEXxcOQ_PXsG3yKO_0HThW5d3wy_gTSL4aRMCaJ69zTsLmGLCEmX0pTSUpzb5V4cbhQCVMZSVfEyBB53SSqvjQSxuPdA7utS2Vv3NiOgdNhBeCNA"
+    },
+    {
+      "title": "on-the-move.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3l2c_4ZQ7GQ6ciom8Y72T8a3YFkvvXwnlYWjiWz7UMS9HL4H3sbkfIrTTv6xyMkPP9vYu6kG3EcCWuYa2hiWAnvTIXn54OH1bhbz7t8wsYQYiQrqQCuLkkQ7pvV89ABtQPjdtr7tm41r-VL9YojtHMBfGMVtYU0HWLcb3czzYUUuOXMbE5X8PjDK3gV0_syW1D4BwKdufy-Rz"
+    }
+  ]
+}

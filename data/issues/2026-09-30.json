@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-30",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义媒介",
+    "东亚现代摄影",
+    "前卫艺术档案",
+    "ComfyUI工作流",
+    "Qwen-Image",
+    "艺术驻留公募",
+    "地缘流散记忆",
+    "跨媒介策展"
+  ],
+  "why_today": "今天的信号展示了地缘历史、技术控制与女性主义身体媒介在“空间和通道”上的交汇。从东京两馆分别开幕的中日影像重组与1930年代台日前卫档案，到 Ruby City 对第二波女性主义手工艺媒介的馆藏重估，再到 ComfyUI 引入 Qwen-Image-2.1 实现本地原生 RGBA 通道控制，以及巴黎为跨学科协作提供的高额驻留保障，创作者们正通过重构物理与潜空间的通道，让不可见的历史与复杂的控制流程变得可感、透明且具身。",
+  "intro": "本期简报聚焦于“媒介通道的透明化与历史档案的空间重构”。技术层面上，通义 Qwen-Image-2.1 接入本地工作流，通过原生 RGBA 通道和多图控制，打破了黑盒抠图的限制；学术与艺术层面上，东京都现代美术馆和写真美术馆的两场新展，分别通过实物文献空间化和跨国影像对谈，将不可见的历史记忆转化为感官现场；同时，Ruby City 的馆藏展与巴黎国际艺术城的驻留机会，则为女性主义身体叙事和跨学科合作研究提供了具体的机构坐标。",
+  "opening_signal": "让历史和技术的隐形通道，在具身的空间中变得清澈透明。Making the invisible conduits of history and technology clear and visible in embodied spaces.",
+  "closing_signal": "当我们能够直接在潜空间中输出透明通道，或是在展厅中触摸到1930年代跨越海峡的书信蓝图，媒介便不再是隔离事实的黑盒。这种透明性不仅属于技术工作流的优化，更属于那些试图在重重历史迷雾中，为身体与合作研究重新寻找确定锚点的创作者们。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Ruby City 举办新展《生成式颠覆》：以 1990 年代至今的馆藏实践延续早期女性主义的身体、日常与媒介探索",
+      "title_en": "Generative Disruption: Feminist Art from the Collection",
+      "summary_zh": "德克萨斯州圣安东尼奥的 Ruby City 艺术中心推出特展《生成式颠覆》。展览主要依托 Linda Pace 基金会馆藏，汇集了从 1990 年代至今活跃的女性艺术家作品，包括 Laura Aguilar、Nicole Eisenman、柳美和等人的创作。展览重点呈现艺术家们如何通过纤维、纺织品、陶瓷及早期录像艺术等媒介，延续 1960 至 70 年代第二波女性主义对家庭空间、身体自主和身份政治的讨论，并利用这些在传统男性体制中较少包袱的媒介重构女性叙事。",
+      "summary_en": "Ruby City in San Antonio launched \"Generative Disruption: Feminist Art from the Collection,\" showcasing contemporary works from the 1990s to the present. The exhibition highlights how artists use mediums like fiber, ceramics, and early video art to extend second-wave feminist inquiries into domesticity, bodily autonomy, and identity.",
+      "why_muki_cares": "展览为追踪女性主义媒介和日常劳作提供了一个系统性馆藏视角。特别值得关注的是，柳美和等东亚艺术家的实践被并置在跨国女性主义框架中。这对于研究身体媒介、关护政治和手工艺的去体制化书写具有直接的参考价值。",
+      "editorial_signal": "馆藏活化与媒介去性别体制化的交织。",
+      "theme_tags": [
+        "Ruby City",
+        "女性主义艺术",
+        "第二波女性主义",
+        "家庭空间",
+        "早期视频艺术",
+        "柳美和",
+        "身体自主"
+      ],
+      "source_name": "Ruby City",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwESU95_DByho1nD3HBJPtblxU7pTnv0Cyt_L8R5mHsIwnPNUJMK7vVWb9cGS_sop4XCs12gUGn_maKUb6rtkzkC42n8cymdmMx0slIGfahmOZ6mNkr--eX7vkzuoa0xGcji0WrYGDhyl6URi1ZU5B4Mu90jQzI1BDyfKsr2i9GqRbinDXibWN_Ek3t-8y",
+      "publication_date": "2026-09-26",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "东京都写真美术馆开幕《双重奏：亚洲当代》：六位中日艺术家联合探索地缘、历史与日常影像重组",
+      "title_en": "Duet: Asian Contemporary",
+      "summary_zh": "东京都写真美术馆开幕“亚洲当代摄影”系列第二期展览《双重奏：亚洲当代》。展览与厦门三影堂摄影艺术中心联合策划，由滕青云担任共同策展人，首次在日本公立美术馆集中展出罗洋、王拓、塔可、蒋鹏奕四位中国艺术家，以及日本艺术家村越としや和今野文子的作品。展出作品涵盖王拓的历史叙事影像、塔可基于古籍的景观摄影、罗洋的青年肖像，以及今野文子的自画像拼贴。10 月 3 日还将举行由顾铮、伊藤贵弘等学者参与的专题论坛。",
+      "summary_en": "The Tokyo Photographic Art Museum opened \"Duet: Asian Contemporary,\" co-curated with Three Shadows Xiamen. Featuring six Chinese and Japanese artists, the exhibition explores geopolitical memories, youth portraits, and self-portrait collages through photography and moving images.",
+      "why_muki_cares": "罗洋的青年群体肖像和今野文子的自画像拼贴，为东亚语境下的身体叙事和个人主观档案提供了极其丰富的物质样本。同时，中日公立与民间机构的联合策展机制，也是追踪东亚影像生态和地缘对话的重要切片。",
+      "editorial_signal": "东亚公私摄影建制的跨国合作与身体/地缘记忆的多重奏。",
+      "theme_tags": [
+        "东京都写真美术馆",
+        "三影堂",
+        "罗洋",
+        "今野文子",
+        "自画像拼贴",
+        "身体叙事",
+        "跨国策展"
+      ],
+      "source_name": "Tokyo Photographic Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqfk7YadwjctdfYpnBecyfD2jrfbW-qjMBVhujjm90NGiCLRGw6qeO_lpz5YiLKNu3y4oRQ35rRepvGxtU3AQuqdjYmFf6PZHeL56BcOU-hjZOeZyc-DNL5hXMBJqWC_lYJOQdup7BNaYTamonNGKAg6GN_m-BWpX6oJqSKy-IJfzU_MMxaU8tD8AuDRGgoCA=",
+      "publication_date": "2026-09-30",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "东京都现代美术馆开幕《共时星群》特展：重组 1930 年代台日前卫艺术与跨媒介现代性档案",
+      "title_en": "Synchronic Constellation: Cross-Boundary Perspectives in Art",
+      "summary_zh": "东京都现代美术馆开幕《共时星群：艺术的跨界视野》特展。展览由导演黄亚历担任客座策展人，源自其 2015 年关于殖民时期超现实主义“风车诗社”的纪录片《日曜日式散步者》的持续研究。展览汇集了约 200 件台湾现代艺术原作、100 件日本同时代前卫艺术作品以及超过 500 件跨学科历史文献（含书信、手稿、蓝图和戏剧档案），呈现 1930 年代台湾与日本在文学、美术、电影和音乐领域的跨媒介现代性互动，参展艺术家包括陈澄波、黄土水、东乡青儿等。",
+      "summary_en": "Museum of Contemporary Art Tokyo launched \"Synchronic Constellation,\" a massive archival exhibition curated by filmmaker Huang Ya-li. Expanding on his documentary *Le Moulin*, the show maps out 1930s avant-garde and surrealist networks across Taiwan and Japan through 800+ artworks and historical documents.",
+      "why_muki_cares": "这是一个将电影研究和文学考古转化为实体展线 and 海量档案空间的典范。对于关注地缘历史、殖民现代性以及“如何展示不可见档案”的研究者来说，其空间组织和跨媒介文献重组方法具有极高的学习价值。",
+      "editorial_signal": "殖民现代性档案的空间化与纪录片研究的策展转化。",
+      "theme_tags": [
+        "东京都现代美术馆",
+        "风车诗社",
+        "超现实主义",
+        "黄亚历",
+        "媒介考古",
+        "殖民现代性",
+        "跨学科档案"
+      ],
+      "source_name": "Museum of Contemporary Art Tokyo",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVIef35LccyKV3QTfmP6zKkQDdtbvy8BeYNP-HQYGMUaLKnVInqhzHdF-YP4zdChzg3ePUbdHT08lpxqctCTsGRjwdNzyD-Rpr796M13iZ0GMqu8lEG38iZpYDUWVyC2Qc2ZkABW678bugoRngcJaW",
+      "publication_date": "2026-09-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "Qwen-Image-2.1 接入 ComfyUI 创意工作流：实现原生 RGBA 透明通道生成与 10 图多参考控制",
+      "title_en": "Qwen-Image-2.1 in ComfyUI: Open-Weight Image Generation and Editing, Now with Transparency",
+      "summary_zh": "阿里通义团队发布的 Qwen-Image-2.1 开源多模态大模型现已原生接入 ComfyUI 工作流。该模型拥有 7B 参数，在创意图像生成与编辑上带来了两项核心技术增量：首先是原生 RGBA 透明通道输出，能够直接生成带 Alpha 通道的透明图层，免去了本地工作流中不稳定的抠图与边缘修饰节点；其次是多图参考控制，其专属的文本编码节点可同时输入并解析多达 10 张参考图（如角色、风格或场景板），大幅优化了本地消费级显存环境下的角色一致性和多源拼贴创作管线。",
+      "summary_en": "ComfyUI has natively integrated Qwen-Image-2.1, a 7B open-weight MMDiT model. Key updates feature native RGBA transparent layer generation, eliminating matting models, and support for up to 10 multi-reference images to enhance local character and style consistency workflows.",
+      "why_muki_cares": "这一更新直接重构了本地设计工作流。原生透明通道输出彻底解决了“生成后抠图”的繁琐步骤，而 10 图多参考控制则降低了本地 AI 辅助拼贴和角色一致性控制的门槛，是开源社区在“白盒化”和“精确控制”上的重要进展。",
+      "editorial_signal": "本地生成工作流的端到端透明化与多图精确控制。",
+      "theme_tags": [
+        "ComfyUI",
+        "Qwen-Image",
+        "RGBA通道",
+        "多图参考",
+        "角色一致性",
+        "工作流控制",
+        "开源大模型"
+      ],
+      "source_name": "ComfyUI Substack",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL8iZNopnS7B8BL4RBQSO9wDXLPTeVVds47U6O07ngbn--ImpqS5-bUSVPgIzUF16ihTHIk5KU1vUmNujfddk9h3wd8y1-Tc_kJ2IlhtmPP9jsUFeL1MXiGAf8eklbb_Vc5u2Ol1YrIoVMbPs-9VG8nFo=",
+      "publication_date": "2026-09-20",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "巴黎国际艺术城与 Art Explora 启动 2027 联合驻留招募：全额资助全球策展人与艺术家开展社会及生态课题研究",
+      "title_en": "Art Explora – Cité internationale des Arts Residency Programme 2027",
+      "summary_zh": "巴黎国际艺术城与 Art Explora 基金会正式启动 2027 年度联合驻留项目招募。该计划面向全球所有国籍、无年龄限制的艺术家、策展人和学者开放，申请者需具备至少 5 年专业经验。驻留分为个人（SOLO，3 或 6 个月）与合作集体（COLLECTIVE，3 个月）两条通道。入选者将获得巴黎蒙马特 50 平方米的工作生活空间、每月 1000 至 2000 欧元的免税生活津贴、3000 欧元生产资金、往返机票以及专业的策展 and 导师辅导。申请截止日期为 2026 年 10 月 30 日。",
+      "summary_en": "The Art Explora Foundation and Cité internationale des arts in Paris opened applications for their 2027 Joint Residency Program. Open to global artists, curators, and researchers with 5+ years of experience, the program provides live-work studios, monthly stipends up to €2,000, production grants, and travel support.",
+      "why_muki_cares": "这一驻留项目的独特之处在于其对“合作集体（COLLECTIVE）”通道的支持，鼓励策展人、学者与艺术家结对开展关于社会、政治或生态课题的共同研究。这为独立研究和跨学科协作提供了极佳的制度性关护与资金支持。",
+      "editorial_signal": "面向研究型协作与生态/社会议题的深层制度关护。",
+      "theme_tags": [
+        "Art Explora",
+        "巴黎国际艺术城",
+        "联合驻留",
+        "策展资助",
+        "跨学科研究",
+        "集体协作",
+        "制度关护"
+      ],
+      "source_name": "Art Explora",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPdhGfgiamg77h55wsFSiIOJE2i-aPcwJ_d7CulGvzWF3Hiz9wkW4c1gpjncuEQEXxcOQ_PXsG3yKO_0HThW5d3wy_gTSL4aRMCaJ69zTsLmGLCEmX0pTSUpzb5V4cbhQCVMZSVfEyBB53SSqvjQSxuPdA7utS2Vv3NiOgdNhBeCNA",
+      "publication_date": "2026-09-21",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture Signal",
+    "title": "东京都写真美术馆开幕《双重奏：亚洲当代》：六位中日艺术家联合探索地缘、历史与日常影像重组",
+    "why_muki_may_care": "中日联合策展的机制，将罗洋的青年身体叙事、今野文子的自我拼贴与王拓的影像考古并置。它不仅提供了一个观察东亚当代影像生态的窗口，更为女性身体在公共与私人档案中的重组提供了极佳的研究样本。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqfk7YadwjctdfYpnBecyfD2jrfbW-qjMBVhujjm90NGiCLRGw6qeO_lpz5YiLKNu3y4oRQ35rRepvGxtU3AQuqdjYmFf6PZHeL56BcOU-hjZOeZyc-DNL5hXMBJqWC_lYJOQdup7BNaYTamonNGKAg6GN_m-BWpX6oJqSKy-IJfzU_MMxaU8tD8AuDRGgoCA="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "对 ComfyUI-Camera-Path 与 MoGe 3 生态的重复跟进（已于9月27日和21日详细覆盖）",
+    "部分缺乏明确官方申请链接或资助额度未完全公开的欧洲青年艺术家开放招募"
+  ],
+  "covered_entities": [
+    "Ruby City",
+    "Linda Pace Foundation",
+    "Tokyo Photographic Art Museum",
+    "Three Shadows Xiamen Photography Art Centre",
+    "Museum of Contemporary Art Tokyo",
+    "Alibaba Qwen",
+    "Comfy Org",
+    "Cité internationale des arts",
+    "Art Explora Foundation"
+  ],
+  "repetition_notes": "对 ComfyUI 中 Qwen-Image-2.1 原生控制的追踪，属于对 9 月 21 日简报中录入的 ComfyUI v0.37.0 系统升级的深度跟进（Follow-up），本次聚焦于具体的原生 RGBA 通道输出、多图参考等精细设计工作流机制。其余关于 Ruby City 女性主义馆藏展、东京都写真美术馆中日影像联展、东京都现代美术馆1930年代前卫艺术档案展以及巴黎 2027 联合驻留招募的项目均为首次录入的全新信号（New）。",
+  "issue_number": 75
+}
