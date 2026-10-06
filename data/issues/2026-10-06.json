@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-06",
+  "search_window": "30d",
+  "reading_time": "约 7 分钟",
+  "topics": [
+    "日本女性摄影史",
+    "制度性暴力与法医美学",
+    "触觉式摄影交互",
+    "ComfyUI 图层拆分",
+    "史密森尼学术驻留"
+  ],
+  "why_today": "今天的内容聚焦于“触觉”与“制度审视”。ICP 推出了日本女性摄影史展览与 Laia Abril 的制度暴力批判，布鲁克林博物馆提供了可触摸的实体花卉照片，ComfyUI 实现了 AI 图层分解工作流，史密森尼也开放了学术档案驻留机会。这些实践表明，图像不再是静止被看的客体，而是可被物理感知、拆解并重新审视的权力媒介。",
+  "intro": "本期简报整理了过去一周全球艺术与创意技术领域最核心的五项信号。我们将视线聚焦于纽约两大艺术机构（ICP 与布鲁克林博物馆）的秋季重要新展，并跟进 ComfyUI 生态中极具突破性的开源 AI 图像分层技术，最后为研究者提供一份极具含金量的史密森尼博物馆驻留资助机会。",
+  "opening_signal": "有些历史不只是被记录，更是被重新触摸和抚平。 Some histories are not just recorded, but retouched and repaired.",
+  "closing_signal": "当摄影从遥远的凝视转向指尖的触摸，图像的物理边界也随之松动。我们正在见证一种更具身体性、触觉性和制度批判性的反向档案库正在逐步建立。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "纽约 ICP 举办 Laia Abril 美国首展：通过多媒介档案剖析性暴力背后的制度性失效",
+      "title_en": "Laia Abril: On Rape and Institutional Failure Brings a History of Misogyny to New York",
+      "summary_zh": "纽约国际摄影中心（ICP）将举办西班牙艺术家 Laia Abril 的美国首展《论强奸与制度失效》。该项目是其长期系列创作《厌女史》的第二章。展览由 ICP 的 Sara Ickow 策划。它不再聚焦于受害者个体，而是通过多媒介装置，审查法律、政治、医疗和宗教等社会制度结构。艺术家将摄影、档案、象征性物件、制服、声音与证词结合在一起。该创作始于 2018 年西班牙一起引发大规模女性主义抗议的性侵判决案。",
+      "summary_en": "The International Center of Photography (ICP) will host the U.S. debut of Spanish artist Laia Abril's \"On Rape and Institutional Failure,\" a multimedia exhibition analyzing the legal, political, and medical structures that perpetuate systemic violence.",
+      "why_muki_cares": "艺术家使用她所称的“法医美学”来构建反向叙事。展览不重复受害者叙事，而是直面“制度性失效”，为关于性别、法律与权力结构的视觉研究提供了重要的批判参考。",
+      "editorial_signal": "将叙事重点从受害者个体转向司法与政治制度的结构性过失，以法医美学的方法重构社会档案。",
+      "theme_tags": [
+        "Laia Abril",
+        "ICP",
+        "厌女史",
+        "制度失效",
+        "法医美学",
+        "反向档案",
+        "身体政治",
+        "女性主义视觉研究"
+      ],
+      "source_name": "The Untitled Magazine",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrHLdIFr5z1z1tThWk5k2Af7C3VVegjTN4GUB_sMUcoO3552_DRxkt5-mbCVw4J9Qp96Iz2AUNriEepgipYjerA6vtDerLM80AfOLeX_MUmZWsgMb5zYkvFMWowumujTpGObzPR86uX60v3xu75P4Ingb792aQv7ly5jFI5BHeEoKrbCLxqx1AZcPcmSEcjVFLVi1KN6IkEZgSCiYrhXDiGAr3hSAw4Rua4PQ=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "ICP 联合 Aperture 举办日本女性摄影师大展：200 多件作品重构战后至今的女性视觉史",
+      "title_en": "I'm So Happy You Are Here: Japanese Women Photographers from the 1950s to Now",
+      "summary_zh": "纽约国际摄影中心（ICP）与 Aperture 联合举办展览《我很高兴你在这里：从 1950 年代至今的日本女性摄影师》。这是美国首个系统性梳理日本女性摄影历史的大型展览，展出 28 位不同世代艺术家的作品。展览由 Pauline Vermare、Lesley A. Martin 与竹内万里子共同策划。现场汇集了石内都、川内伦子、志贺理江子、长岛有里枝、山沢栄子等艺术家的 200 多件摄影、混合媒介装置与历史摄影书。",
+      "summary_en": "Co-organized by ICP and Aperture, \"I'm So Happy You Are Here\" is the first major U.S. survey to systematically reframe Japanese photography history through the works and photobooks of 28 intergenerational women artists.",
+      "why_muki_cares": "展览打破了男性主导的日本战后摄影史叙意。项目将摄影书作为女性主体性的核心档案，高度契合东亚影像历史、女性摄影出版物以及反向档案的研究兴趣。",
+      "editorial_signal": "通过重组跨世代女性艺术家的私人与公共档案，挑战地缘摄影史中的男性单一话语，重申印刷物作为历史证据的价值。",
+      "theme_tags": [
+        "日本女性摄影",
+        "ICP",
+        "Aperture",
+        "石内都",
+        "川内伦子",
+        "摄影书历史",
+        "东亚影像史",
+        "反向档案"
+      ],
+      "source_name": "International Center of Photography",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtnIVpKIU5wN0b2Cq0qCeul6J1atZii-p7Tvh67yJd06dQ9sH4p-oFaWJUY99oPedPp6wJht7mRZxYAIn8l-oE6WynJXcXSYVbiqu8h2zcpkgzOtAV8K_UGVCWjcJdytU7yRkiSVRaSJjHUS8qc8Ki9A==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "蜷川实美美国首次沉浸式个展开幕：以触觉式照片打破美术馆“看而不摸”的传统规则",
+      "title_en": "Mika Ninagawa: Feel the Flow(ers)",
+      "summary_zh": "日本摄影师蜷川实美在布鲁克林博物馆举办美国首次沉浸式个展。展览由 Shamilia McBean Tocruray 与 Pauline Vermare 共同策划。高饱和度的花卉图像包裹了整个展区。展览提供了可触摸的实体摄影照片，观众可以进行直接的身体接触与感官参与。该项目配合了博物馆同期的日本漫画文化系列特展。",
+      "summary_en": "Japanese photographer Mika Ninagawa has opened her first U.S. immersive installation at the Brooklyn Museum, featuring touchable photo prints that challenge traditional museum viewing rules.",
+      "why_muki_cares": "展览通过提供可触摸的实体照片，打破了美术馆“禁止触摸”的物理约束。它展示了高饱和图像在重塑三维空间方面的能量，为身体感官互动、照片物质性研究提供了极佳的实践案例。",
+      "editorial_signal": "解构传统美术馆空间对身体的规训，将视觉媒介转化为可触摸的物理实体，探索大众图像文化与空间政治的结合。",
+      "theme_tags": [
+        "蜷川实美",
+        "布鲁克林博物馆",
+        "沉浸式装置",
+        "触觉摄影",
+        "摄影物质性",
+        "感官互动",
+        "东亚流行文化"
+      ],
+      "source_name": "Brooklyn Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJKOyNNnuxCBqcVqRH0jknsa2z1ZKL4SN9HShkXCF729VjHQ4XhXDZsDWmllXGfjbpdwkYTBqaukrDv1lCuBLCvPnsjry7usVbV1QONOIbCFE17OXHuhver6GlsK3mLvbTvjlOBFgDmoaWk-BQuQ==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "ComfyUI 接入 Ming Image 0.1：支持原生透明通道生成与智能分层编辑工作流",
+      "title_en": "Ming Image 0.1 Design: 6B Open-Weights Model and Native Layer-Decomposition Integration in ComfyUI",
+      "summary_zh": "ComfyUI 系统更新原生接入了开源的 60 亿参数图像大模型 Ming Image 0.1 Design。该模型专为平面设计、UI 原型和海报排版优化，可生成清晰的文本。它支持直接输出带有透明背景的 RGBA 图像。配合图层分解模型，用户可在 ComfyUI 中输入单张扁平图像，自动拆分为多个透明、可编辑的图层，实现类似 Photoshop 的分层编辑逻辑。",
+      "summary_en": "ComfyUI natively integrates the 6B open-weights model \"Ming Image 0.1 Design,\" introducing native RGBA transparency generation and automatic multi-layer layout decomposition for graphic design workflows.",
+      "why_muki_cares": "该更新将 AI 生成从“扁平死图”转变为“可编辑的结构化资产”。它引入的原生透明导出与自动分层能力，能切实改善独立出版商、视觉研究者与设计师的版面设计、媒介拆解及知识管理流。",
+      "editorial_signal": "AI 图像生成正式告别扁平化输出阶段，向着高可控、模块化、原生图层化的白盒化生产力工具方向演进。",
+      "theme_tags": [
+        "ComfyUI",
+        "Ming Image",
+        "透明通道",
+        "自动分层",
+        "平面设计",
+        "AI工作流",
+        "UI设计",
+        "开源模型"
+      ],
+      "source_name": "GitHub",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYjB9GoFI5ql8wyLBcfAT9dYUMp7GMGOlFljlj9TRdk7_ifOoP_0qDFLXxwVgzRat-RpvyuqXieBsU3bRzoqAW8LIvLmyH3iOHJvha6KRYpArCuepnGrcea-v9N94z",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "史密森尼美国艺术博物馆启动 2027-2028 年度资助招募：最高 5.7 万美元支持影像历史研究",
+      "title_en": "2027–2028 Academic Year Fellowships at the Smithsonian American Art Museum (SAAM)",
+      "summary_zh": "史密森尼美国艺术博物馆（SAAM）及伦威克美术馆启动 2027-2028 学年度学术驻留资助招募。该项目资助针对美国艺术、手工艺和视觉文化的独立研究。资助分为多个学术阶段：研究生资助 10 周（1 万美元）、博士前最长 12 个月（4.5 万美元）、博士后与高级学者最长 12 个月（5.7 万美元）。获选者将获得专属研究席位，可直接使用馆藏的 4.65 万件艺术品、史密森尼美国艺术档案馆和 18 万册专业藏书。申请截止日期为 2026 年 10 月 15 日。",
+      "summary_en": "The Smithsonian American Art Museum (SAAM) has launched its 2027-2028 residential fellowship program, offering stipends up to $57,000 and direct access to its extensive art collections and archives.",
+      "why_muki_cares": "这是一个提供全额资助并能直接接触世界顶级影像与物质文化档案库（如美国艺术档案馆）的驻留项目。它适合采用新方法批判视觉权力与媒介历史的研究者，为学术研究提供了极好的机构资源。",
+      "editorial_signal": "顶尖国家博物馆级机构开放对美国视觉艺术、手工技艺与历史文献的学术研究通道，鼓励多学科视角对物质档案进行再审视。",
+      "theme_tags": [
+        "史密森尼美国艺术博物馆",
+        "学术资助",
+        "驻留项目",
+        "影像历史",
+        "物质文化",
+        "艺术档案馆",
+        "学术研究"
+      ],
+      "source_name": "Smithsonian American Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFciJ5O9EsJIwNq1BIC0bH7MLCOWuZPbgODZ5hYSsO3_YJYkPtAHiJ9IKB7E_aWmKqV2oVtmFWijgv1Jm_qidjdUqGX5a-oWMrWgNbyO0c7k3p2bW8xQU2_qHyfIo3784YRyMUzUq6uhcCl",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture Signal",
+    "title": "ICP 联合 Aperture 举办日本女性摄影师大展：200 多件作品重构战后至今的女性视觉史",
+    "why_muki_may_care": "这一展览代表了近年来对东亚女性摄影史最大规模的一次重构和制度性认可。它将摄影书作为主体性档案，不仅挑战了西方与男性主导的双重叙事，还为地缘视觉史、女性媒介权力研究提供了极其宝贵的文献案例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtnIVpKIU5wN0b2Cq0qCeul6J1atZii-p7Tvh67yJd06dQ9sH4p-oFaWJUY99oPedPp6wJht7mRZxYAIn8l-oE6WynJXcXSYVbiqu8h2zcpkgzOtAV8K_UGVCWjcJdytU7yRkiSVRaSJjHUS8qc8Ki9A=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Mika Ninagawa in Tokyo Duet exhibition (excluded duplicate focus from Tokyo Photographic Art Museum to prioritize the US solo debut instead)"
+  ],
+  "covered_entities": [
+    "International Center of Photography",
+    "Brooklyn Museum",
+    "Ant Group",
+    "Smithsonian American Art Museum",
+    "Aperture Foundation"
+  ],
+  "repetition_notes": "对布鲁克林博物馆蜷川实美沉浸展的收录，虽然涉及在 9 月 30 日简报中录入过的艺术家蜷川实美，但该展览为其在美国的首次沉浸式个展，且其“触觉照片”的策展交互方式具有全新的空间媒介属性，不属于内容重复。其余关于 Laia Abril 美国个展、日本女性摄影史大展、Ming Image 0.1 接入 ComfyUI 工作流以及史密森尼年度资助计划的项目，均为首次录入的全新信号（New）。",
+  "issue_number": 76
+}

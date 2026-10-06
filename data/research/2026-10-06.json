@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-06",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki's Daily Digest: Editorial Research Dossier (Issue 076)\n\nBased on a comprehensive search of cultural, technological, and institutional announcements over the past 24 hours (extending up to 14 days to capture high-impact developments), this dossier outlines five highly relevant cultural signals that align with your research interests.\n\n---\n\n## 1. Feminist Structure Signal\n\n*   **Project Title**: Laia Abril: On Rape and Institutional Failure\n*   **Proposed Section**: Feminist Structure Signal\n*   **Specific Source URL**: [The Untitled Magazine - Laia Abril's US Debut](https://untitled-magazine.com/laia-abrils-on-rape-and-institutional-failure-brings-a-history-of-misogyny-to-new-york/) (supported by [ICP Press Room Announcement](https://www.icp.org/press/press-releases))\n*   **Publication / Opening Date**: Exhibition runs from October 15, 2026, to January 11, 2027.\n*   **Verified Facts**:\n    *   The International Center of Photography (ICP) in New York is presenting the first U.S. exhibition of Spanish research-based artist Laia Abril's acclaimed project, \"On Rape and Institutional Failure\".\n    *   This body of work forms the second chapter of her long-term series, *A History of Misogyny*, which explores systemic violence against women.\n    *   Curated by ICP's Associate Director of Exhibitions, Sara Ickow, the exhibition shifts the lens away from individual victimhood to examine the legal, political, medical, religious, and social structures that reinforce rape culture.\n    *   The multimedia installation weaves together photography, archival research, symbolic objects, institutional uniforms, sound, video, and compiled testimonies. \n    *   The project was originally conceived following a high-profile 2018 sexual assault trial in Spain, which sparked mass feminist demonstrations.\n*   **Why it Matters (Relevance to Muki)**:\n    *   **Methodology**: Abril employs what she terms \"forensic aesthetics\" to build a counter-narrative against systemic violence.\n    *   **Structure Shift**: Rather than repeating narratives that default to victim-blaming, the work critiques \"institutional failure\" and explores structural power, making it a critical reference point for visual research on gender, law, and institutional accountability.\n*   **Duplication Assessment**: **New**. No previous coverage of Laia Abril or this exhibition series in recent issues.\n\n---\n\n## 2. Visual Culture Signal\n\n*   **Project Title**: I'm So Happy You Are Here: Japanese Women Photographers from the 1950s to Now\n*   **Proposed Section**: Visual Culture Signal\n*   **Specific Source URL**: [ICP Exhibition Page](https://www.icp.org/exhibitions/im-so-happy-you-are-here-japanese-women-photographers-from-the-1950s-to-now)\n*   **Publication / Opening Date**: Exhibition opens October 15, 2026, and runs through January 11, 2027.\n*   **Verified Facts**:\n    *   Co-organized by the International Center of Photography (ICP) and Aperture, this exhibition is the first major U.S. survey to systematically reframe Japanese photography history through the work of 28 intergenerational women artists.\n    *   The exhibition is curated by Pauline Vermare (Phillip and Edith Leonian Curator of Photography, Brooklyn Museum), Lesley A. Martin (Executive Director, Printed Matter), and Takeuchi Mariko (Professor, Kyoto University of the Arts).\n    *   Participating artists include Ishiuchi Miyako, Kawauchi Rinko, Shiga Lieko, Nagashima Yurie, Ninagawa Mika, Sawada Tomoko, and Yanagi Miwa, alongside historic figures like Tokiwa Toyoko and Yamazawa Eiko.\n    *   The presentation includes over 200 works spanning photography, mixed-media installations, and historic photobooks. It is accompanied by a major bilingual monograph published by Aperture.\n*   **Why it Matters (Relevance to Muki)**:\n    *   **Alternative Canon**: This project directly challenges the male-dominated historical canon of post-war Japanese photography.\n    *   **Photobook History**: It treats photobooks and printed matter as primary archival records of women's agency, aligning with your focus on East Asian image history, feminist photobooks, and counter-archives.\n*   **Duplication Assessment**: **New**. Not featured in recent issues. (Note: A related Tokyo-specific expanded version was held at Bunkamura, but the U.S. institutional debut at ICP is a new event).\n\n---\n\n## 3. China / East Asia Signal\n\n*   **Project Title**: Mika Ninagawa: Feel the Flow(ers)\n*   **Proposed Section**: China / East Asia Signal\n*   **Specific Source URL**: [Brooklyn Museum Exhibition Page](https://www.brooklynmuseum.org/exhibitions/mika_ninagawa_feel_the_flowers)\n*   **Publication / Opening Date**: Opened on October 2, 2026, running through April 11, 2027.\n*   **Verified Facts**:\n    *   Celebrated Japanese photographer Mika Ninagawa (born 1972) has opened her first immersive installation in the United States at the Brooklyn Museum's Toby Devan Lewis Education Center.\n    *   The exhibition is co-organized by Shamilia McBean Tocruray (Director of Education) and Pauline Vermare (Phillip and Edith Leonian Curator of Photography).\n    *   Ninagawa’s vivid, saturated images of flowers wrap the entire gallery space. Uniquely, the exhibition features touchable photographic prints, encouraging physical interaction and sensory participation.\n    *   The project is designed to complement the museum's simultaneous block of Japanese culture exhibitions, including *Art of Manga* and *Manga Before Manga: Japanese Art from the Collection*.\n*   **Why it Matters (Relevance to Muki)**:\n    *   **Bodily & Sensory Interaction**: The exhibition challenges the traditional museum rule of \"look but don't touch\" by incorporating tactile, touchable photo prints.\n    *   **East Asian Pop Culture Integration**: It demonstrates how photographic space can be restructured through the saturated color logic of manga and anime pop culture, showing how digital print technologies physically colonize real-world exhibition spaces.\n*   **Duplication Assessment**: **New**. While the \"Duet\" exhibition at the Tokyo Photographic Art Museum (which includes Ninagawa) was mentioned on September 30, this is her solo immersive installation debut in the US, representing a separate, major development.\n\n---\n\n## 4. AI Research / Creative Tech Signal\n\n*   **Project Title**: Ming Image 0.1 Design: 6B Open-Weights Model and Native Layer-Decomposition Integration in ComfyUI v0.38.0\n*   **Proposed Section**: AI Research / Creative Tech Signal\n*   **Specific Source URL**: [ComfyUI Changelog v0.38.0](https://docs.comfy.org/changelog) (supported by [Hugging Face inclusionAI](https://huggingface.co/inclusionAI/Ming-Image-0.1-Design) and [GitHub Repository](https://github.com/inclusionAI/Ming-Image))\n*   **Publication / Opening Date**: Model released on September 22, 2026; Native ComfyUI integration released on September 29, 2026.\n*   **Verified Facts**:\n    *   ComfyUI's v0.38.0 system update natively integrates \"Ming Image 0.1 Design,\" an open-source 6-billion parameter image model developed by Ant Group's inclusionAI and AntLing.\n    *   The model is specifically optimized for graphic design, UI mockups, infographics, and poster layouts, rendering highly legible, sharp text within generated images.\n    *   It features native support for RGBA output (generating transparent backgrounds directly).\n    *   Crucially, the accompanying \"Design-Layer\" model allows users to input a flat image and automatically decompose it into multiple transparent, editable layers in ComfyUI, mirroring a Photoshop-like workflow.\n*   **Why it Matters (Relevance to Muki)**:\n    *   **From Generation to Editability**: AI generation has historically struggled with flat, locked images. Ming Image changes this workflow by introducing native transparent exports and automatic multi-layer segmentation.\n    *   **Workflow Integration**: This provides a highly practical tool for independent publishers, web curators, and visual researchers, turning generated layouts into structured, editable graphic design assets.\n*   **Duplication Assessment**: **New**. Highly different from the image generation tools (like Hunyuan 3.5 or Qwen 2.1) previously covered, introducing an entirely new layout/layer editing methodology.\n\n---\n\n## 5. Archive / Long Read / Opportunity\n\n*   **Project Title**: 2027–2028 Academic Year Fellowships at the Smithsonian American Art Museum (SAAM)\n*   **Proposed Section**: Archive / Long Read / Opportunity\n*   **Specific Source URL**: [Smithsonian American Art Museum Fellowships Application](https://americanart.si.edu/research/fellowships/apply) (supported by [SIFP Guidelines](https://fellowships.si.edu/sifp))\n*   **Publication / Opening Date**: Application deadline is October 15, 2026.\n*   **Verified Facts**:\n    *   The Smithsonian American Art Museum (SAAM) and its Renwick Gallery have launched their call for applications for the 2027–2028 residential fellowship program.\n    *   The fellowship supports full-time, independent research on U.S. art, craft, and visual culture.\n    *   Appointments are available at multiple levels: Graduate Student (10 weeks, $10,000 stipend), Predoctoral (up to 12 months, $45,000 stipend), and Postdoctoral/Senior Scholar (up to 12 months, $57,000 stipend), plus research and relocation allowances.\n    *   Selected fellows receive a dedicated studio carrel at SAAM’s Research and Scholars Center and gain direct in-residence access to SAAM's collection of over 46,500 works, the Smithsonian’s Archives of American Art, and an 180,000-volume specialized library.\n*   **Why it Matters (Relevance to Muki)**:\n    *   **Institutional Care**: This is a fully-funded residential fellowship that provides direct access to one of the world's premier archives for image history, craft, and material culture (Archives of American Art).\n    *   **Interdisciplinary Framework**: The program actively welcomes scholars from non-traditional art history backgrounds who employ new methodologies to critique visual power, archives, and material culture.\n*   **Duplication Assessment**: **New** category. While a SAAM exhibition (*Much Here Is Beautiful*) was noted in the September 22 issue, this is the official launch of their flagship academic and curatorial fellowship program, offering active funding and residency opportunities for late 2027.",
+  "citations": [
+    {
+      "title": "untitled-magazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrHLdIFr5z1z1tThWk5k2Af7C3VVegjTN4GUB_sMUcoO3552_DRxkt5-mbCVw4J9Qp96Iz2AUNriEepgipYjerA6vtDerLM80AfOLeX_MUmZWsgMb5zYkvFMWowumujTpGObzPR86uX60v3xu75P4Ingb792aQv7ly5jFI5BHeEoKrbCLxqx1AZcPcmSEcjVFLVi1KN6IkEZgSCiYrhXDiGAr3hSAw4Rua4PQ="
+    },
+    {
+      "title": "cityguideny.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu6otREydcZSC07MxD0IhFTF6j3TpN9Im6VjU8MLcESVKgIFSGwO_0nmhm0dp7bfw5UYOAFoiQChQJ-JB79o2UES2HwgrWRPs99N21I0ErMOUJgUJrDdpci70W503VIHUGfc2neLmhZywWmJ7V_0UURQwik2p83-NptOzNZPeSCMht2y7gcQbByBlT6T29Wu-8"
+    },
+    {
+      "title": "artworldbrief.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEQftSq4g5qZsNII3QZ_tDxycfeZzMOZCvetBmfNrmDbOwjFq655vXdVWv_F0M_tsz5Rr-I8XMzv519MJN-pnJ_kxHYDvj2ePiaMddm7gfRzr8IkP8exg7pp4w1SuDhnJkC2GwyedD7bw-r-WPcKxxKJskx8Ekpy5s_qHuQF-gZ18trHbKZcKIkSi3XFbfeUq5-FjCbdcgRhm_Jb36zlSr48XZiyqXNLk="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGghL55K5FBBLkE24aDOPxuMGdnxaMARzZwvereqh5jgU2CB-j4QIaP4LhH-lpSVlbAEjlvjuO-xrDsFQMpdx94sPuZMGc7K_oEO6RaYnqhs2eARfENbQtJktHQDuXhWuLhfdmQsHaur84Tu_4Qp2wLCgqsWyclp3M8PsA3WuNf0oUsASvaI5QKus67XBGOEUSj2JTeoViuec5h-oAua2cfCIDqKivIotzK494ix9p20egeGUoZthhvs4-hr77dnU10GCgXx7PiKhVdRW5ViImZunxP"
+    },
+    {
+      "title": "icp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG79eEWgduqDjKHPDmgOYODu8EUjAT5oyo-amuTSnn2vENkKBiIllQNQfVkgRWw6EuvaIb4U5lf3pAYQJI-HbqrAzzjwc2qqBOjzveGrGL9fKNcS6QT5IHuVEpDqZW3SuCSVy1IioQY5vmVf9tmVL2ooLkC4l7xIUfN3AmFdnp1JuUHtYF37U10OS3aWjwe_Cmeume6"
+    },
+    {
+      "title": "icp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtnIVpKIU5wN0b2Cq0qCeul6J1atZii-p7Tvh67yJd06dQ9sH4p-oFaWJUY99oPedPp6wJht7mRZxYAIn8l-oE6WynJXcXSYVbiqu8h2zcpkgzOtAV8K_UGVCWjcJdytU7yRkiSVRaSJjHUS8qc8Ki9A=="
+    },
+    {
+      "title": "bunkamura.co.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMJ46t2U6m12kHHlLcnlcw6Mk_pQvw0JsfDUnR6GABtbYxGZhRO3h507XrPGiED1Zr1dBhiS3-1TzSyOmcMh11R_DvQ1OWvNpzF762v4iRo1zh1IZGtl7NRr7i3f9HIv-V0hV5ZZ-92J5YfYW1SwthzO5h5XH9HxUU"
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMBhD9gK91kXmN9QgomClrROwXEPPw89XNfCTPLpoPLGg5LZqH6hdhqc9dP2TM7jmh-R76PcL0qkNhuD99Lwr9fdyL_n2VkmUsXx-USFJMgR-CuB-WEAxND9sL8iTcuODkUl7Vfp8bIp_x7qqABfBWer4QqnvghkeHiy6o9YF_8FvxquJxpy2whG-D8N4BhXPYUj6-5b6-YQbdcgkIvRIKcjaV5uBqjBCeotTJqm2QxCPNxiSIlf5uRrTXf_vi"
+    },
+    {
+      "title": "brooklynmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJKOyNNnuxCBqcVqRH0jknsa2z1ZKL4SN9HShkXCF729VjHQ4XhXDZsDWmllXGfjbpdwkYTBqaukrDv1lCuBLCvPnsjry7usVbV1QONOIbCFE17OXHuhver6GlsK3mLvbTvjlOBFgDmoaWk-BQuQ=="
+    },
+    {
+      "title": "brooklynmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQf8ZebD4UpqqBN3Y3jdBj72L2DbuYpKSZTb3U7hiwQsKFIyvrsoWS6e6DmvPeJWSFwroEJR1oFeukgPvr08Rf-ZlbgWCY-TewtNb0LhONDFRowntyiEF86-Q2rrYEn8H61gfKQCa2wzueOsexP0cBWLWtjgknomVtIhdMOdL0Q9zsHUc="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhJGHm_U88PgbfFUZqcWgdi8ZieQcLEUDFMnSeUvd61DtJT6TSqsgnU7HI7aGV6bjrkKk8e5NwqRrtf6qB8UqVeNHCOAg04q22K_TKAv6-_zvgAmJd"
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMRQ42vfIKhtjJaqb-Q5xmS7Gm46hNfi9YJ9fSh-3WT5o-jo51J5ce-jX0GwOVvFJorgyaD1gLzvDiZK3CzFotRaGYZYjAjO6HJMN4y_wtgoUXo8B-Qrn8Dlba6cuq77w2tfbfsmmi0_W37mb3"
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYjB9GoFI5ql8wyLBcfAT9dYUMp7GMGOlFljlj9TRdk7_ifOoP_0qDFLXxwVgzRat-RpvyuqXieBsU3bRzoqAW8LIvLmyH3iOHJvha6KRYpArCuepnGrcea-v9N94z"
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIAp0M2XZk1vt4GOd4en1P7ZDzLQZsujvVQG0LUisTU5Owb0pGUP7_jLRCH1BmYznQFdl1aJGthszFyNt3tzuoHVd5Oa8OJrEYJSMXYJgYbpYiBWswo8IsL9zTnT-KFBg="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLqNRkZMMXa92Hwkfif36wMbFvWSUfv_ny4LW2GyDcaZAoFRfeTv8skxd_MnlHYN0oBrJQ_1h5xb54pYSxiK6xalSUdm2Hw1G0DJWOLgZOxBIptmQ1j85RVom1WSF_ZkA="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZK30NLlM19q3OZiYl-cH9vSOeXYhg5I2F_jrz1UhhT2_j9NAR5V9LhobdeMM446ZwE58AiFhOiWYAJt7xtzUOfJQ9Iq-9QxUFMs7mOMBlacG0DVW8-Ud63edjkJHznsM="
+    },
+    {
+      "title": "si.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFciJ5O9EsJIwNq1BIC0bH7MLCOWuZPbgODZ5hYSsO3_YJYkPtAHiJ9IKB7E_aWmKqV2oVtmFWijgv1Jm_qidjdUqGX5a-oWMrWgNbyO0c7k3p2bW8xQU2_qHyfIo3784YRyMUzUq6uhcCl"
+    },
+    {
+      "title": "si.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHijVlDnlSKUwyzREHXKK1tyYPodj13rGZJXEJF2VGAQryMrLRVsSL2WbTauf7WMWY5xF8DI_B3_jcOz3CC5-DPpQ7Nnbr7DhmLN8OOrLx_cTuX3hc="
+    },
+    {
+      "title": "theasa.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW5mB14PitE8wBssRo7TlWuXktSSHgrge2iMk3BAj87G77EfToRaN74ES9wC7FXRCPkH1fL7Qf-1Iyp36gEan60EX096bVh4XanyJ4G9Hzg9kbRyRsX--dUR2LniKLHwUXZZ08GU71VqbyRchnIDSKx6nXgz98UAFYfYtyRMwEzX4hlUcXFGa56ZphLaieVhlpKrJqsDi_"
+    },
+    {
+      "title": "theartleague.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGePb0j35tG3W2kwbyjhr3dRnhWG1Vaz9EPMCm2jRUrL9GiPQCdwjpYMeXaaH4K3arXXamWTdmG0Ew_GeHwrT2SpL5EKFbeeem05N5474qyT1ECsv7ouFJyOSASHRRdKOea8A=="
+    },
+    {
+      "title": "ariah.info",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKVYOj9MyfO2XhiBZZKSPHcaXvYkqjAc8oy6pHe87dWWw3AkBUYi8Yo5wjCMG-9Ng9uk6Pv35WNJUWSDIn9PN5a-Eaj1OzVPY2dSze7KnjmPqEQltd4-G8t1aeOmAG29dfxv33f-Y1IK_1JlcG8LyUnT5JhDc-VHaycx_x_Dnw5ql4But7-xEqQrBsVGiPA54h-pNNJOFWuQYNkSU="
+    }
+  ]
+}
