@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-07",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Muki Daily Digest: Research & Source Dossier (Issue 077)\n\n**Current Date (in Asia/Shanghai):** 2026-10-07\n**Search Window Utilized:** Past 7 days (expanded from 24 hours to capture the richest global curatorial and tech updates)\n\n---\n\n### Candidate 1: Feminist Structure Signal\n*   **Exact Title:** What Rose from the Cut\n*   **Specific Source URL:** [https://www.gracesmews.com/](https://www.gracesmews.com/) (Exhibition listing verified via)\n*   **Publication Date:** October 2, 2026 (Exhibition announced; scheduled for October 14, 2026 – January 30, 2027)\n*   **Verified Facts:** \n    *   **What:** A group exhibition exploring feminist strategies of collage, photo-montage, and assemblage.\n    *   **Who:** Curated in collaboration between Graces Mews gallery, Fiona Rogers (V&A Parasol Foundation Curator of Women in Photography), artist Justine Kurland, and collector Sarah Miller Meigs.\n    *   **Source Material & Context:** It bridges two significant archival and publications efforts: Fiona Rogers' book *Cut Out: A Feminist History of Photo Collage, Montage and Assemblage* (Thames & Hudson & V&A, 2026), mapping the untold history of feminist collage from the 19th century to now; and Kurland & Meigs’ exhibition and publication *The Rose* (2025).\n    *   **Artists:** Over 40 international artists, including Claude Cahun, Tee Corinne, Zofia Kulik, Martha Rosler, Sitaara Stodel, Stephanie Syjuco, and Bindi Vora.\n*   **Relevance:** Essential research on feminist visual culture and media archaeology. It systematically connects institutional research (V&A) with independent collecting (Sarah Miller Meigs) and creative practice (Justine Kurland) to map out how women have used non-linear, fragmented media (collage/photo-montage) to rewrite histories.\n*   **Duplication Assessment:** **New**.\n\n---\n\n### Candidate 2: Visual Culture Signal\n*   **Exact Title:** Nancy Rexroth: Secrets of My Power\n*   **Specific Source URL:** [https://www.cincinnatiartmuseum.org/](https://www.cincinnatiartmuseum.org/) (Retrospective program verified via)\n*   **Publication Date:** October 2, 2026 (Exhibition opening date)\n*   **Verified Facts:**\n    *   **What:** The first comprehensive career retrospective of American photographer Nancy Rexroth (b. 1946).\n    *   **Who:** Curated by Nathaniel M. Stein at the Cincinnati Art Museum (CAM).\n    *   **Materials:** Features over 150 rare or unique photographs, personal effects, and previously unseen works ranging from the 1960s to the early digital era.\n    *   **Significance:** Marks the public debut of \"The Nancy Rexroth Collection,\" a newly formed archive at CAM. Celebrating 50 years since Rexroth's acclaimed first self-published photobook, *IOWA* (1977), the exhibition explores her low-fi, emotional visual language created using a plastic toy camera (Diana) to depict adult womanhood and the female experience with a defiant, feminist edge.\n*   **Relevance:** Directly addresses Muki’s interest in photography history, photobooks, and institutional archives. It provides a powerful historical reference of how low-fidelity technology was utilized as a feminist tool to bypass rigid high-modernist and commercial standards of the era.\n*   **Duplication Assessment:** **New**.\n\n---\n\n### Candidate 3: China / East Asia Signal\n*   **Exact Title:** 一人一山：汪芜生摄影原作展 (A Life with the Mountain: Wang Wusheng's Vintage Photographs)\n*   **Specific Source URL:** [https://www.threeshadows.cn/](https://www.threeshadows.cn/) (Exhibition details verified via)\n*   **Publication Date:** September 5, 2026 (Exhibition opened, running through November 8, 2026)\n*   **Verified Facts:**\n    *   **What:** The first major solo retrospective of Chinese landscape photographer Wang Wusheng (1945–2018) since his passing.\n    *   **Who:** Curated by eminent art historian and scholar Wu Hung (巫鸿).\n    *   **Materials:** Focused on Wang’s signature *Huangshan* (Mount Huang) series, presenting rare, original black-and-white silver gelatin vintage prints developed between the 1970s and 1990s.\n    *   **Technical details:** Highlights his rigorous, almost monastic darkroom experiments and his subversion of topological photography. By eschewing geological landmarks (naming works only with letters/numbers), Wang used high-contrast physical darkroom chemistry to translate traditional Chinese ink-wash (\"shanshui\") aesthetics into an introspective, abstract mental landscape.\n*   **Relevance:** A crucial primary source for East Asian image history and darkroom media archaeology. It maps how early Chinese contemporary photography negotiated physical materials, traditional aesthetics, and international modernism during the late 20th century.\n*   **Duplication Assessment:** **New**.\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n*   **Exact Title:** Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation\n*   **Specific Source URL:** [https://huggingface.co/papers/2610.05608](https://huggingface.co/papers/2610.05608) (Technical details and Hugging Face release verified via)\n*   **Publication Date:** October 6, 2026\n*   **Verified Facts:**\n    *   **What:** Open-source release of the Kandinsky 6.0 Video model family under the MIT license by Sber's Kandinsky Lab.\n    *   **Models:** Released in two sizes: 3B Lite and 29B Pro.\n    *   **Functionality:** Generates 5-second video clips with natively synchronized 44 kHz audio (incorporating speech, lip-sync, music, and sound effects) in a single pass. Supports both Text-to-Audio-Video (T2AV) and Image-to-Audio-Video (TI2AV) pipelines, with a standalone super-resolution model to scale outputs to Full HD.\n    *   **Workflow Integration:** ComfyUI support was shipped on the same day as a first-party extension, providing ready-to-run node workflows.\n*   **Relevance:** A material shift in AI-native workflows. Generating video and high-fidelity synchronized audio in a single unified pass removes a massive bottleneck in independent, low-budget creative pipelines, moving the industry closer to unified multi-sensory generators.\n*   **Duplication Assessment:** **New**.\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n*   **Exact Title:** The Image Centre Research Fellowships 2027\n*   **Specific Source URL:** [https://theimagecentre.ca/fellowship/](https://theimagecentre.ca/fellowship/) (Verified via)\n*   **Publication Date:** October 6, 2026 (Open Call announced; Deadline: October 18, 2026)\n*   **Verified Facts:**\n    *   **What:** The Image Centre (IMC) at Toronto Metropolitan University has opened international applications for six competitive research fellowships in photography history and practice.\n    *   **Opportunities & Funding:**\n        *   *IMC/AMC Postdoctoral Fellowship:* CAD $70,000 salary + benefits (12-month joint residency with the Archive of Modern Conflict, London/Toronto).\n        *   *Nadir Mohamed Postdoctoral Fellowship:* CAD $10,000 stipend.\n        *   *Penny Rubinoff Fellowship:* CAD $5,000 stipend (for MA holders or PhD candidates).\n        *   *Elaine Ling Fellowship:* CAD $4,000 (for current/recent MA students).\n        *   *Howard Tanenbaum Fellowship:* CAD $4,000 (for artistic research in the collection).\n        *   *Wendy Snyder MacNeil Fellowship:* CAD $2,500.\n    *   **Archives Available:** Fellows gain direct on-site access to nearly 500,000 photographic objects, including the Black Star Collection (photojournalism) and the archives of Werner Wolff, Berenice Abbott, and notably, Jo Spence and Wendy Snyder MacNeil.\n*   **Relevance:** This is an active, prestigious, and highly relevant funding opportunity for researchers and artists working with image history, archives, and feminist visual culture (especially given Jo Spence's presence in their permanent archive).\n*   **Duplication Assessment:** **New**.",
+  "citations": [
+    {
+      "title": "galleriesnow.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH--HwCLNSCNqOH0uTzyHj2wiw9J4drgh1G0Pk047JCjeuxgyTNBTbwCTPFdVTwn8nazB1By2vh1mf0aV-lkE-_RSl7sf1uRYIKghsrGvUonIb9S1e0_t1RnxCkgqo1LyMoEV23z7-kHyYKI8EwvYqY"
+    },
+    {
+      "title": "gracesmews.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4XtVWRk7FweZeptufPgBrctUzCMyLw9OSaUZd4scYrM9tGiEL5wsV6Oi7DeqL_wcK2rt8Ya0bmq_CXKSZZffWiwCKB_1-X5tgv53SIl0uY3K98gd4g-xAVKRgTzzCXeGcS_xFGxJd7zKAu3Cwu78="
+    },
+    {
+      "title": "cincinnatiartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFaMbbiZryHgBAw7FCrk2LmzGaVfNWph6OlosjVMw-0gVR0N7vlLpVwgTyQbkirRMosUWc1gdsYeYj19oihHK7-bWSlYIRJBLeyrlFPoEg62m9LKZ3IWbnKznz_hgR39A8jogP54zBbqvxeEbg3TkEFS7MEeuu1k0u635o0LKCSbaUURrcw9tQNO9kQw=="
+    },
+    {
+      "title": "cincinnatimagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNHX3L8dzmepXb6GnKuPEX3ceqggxRMaBEKh0KetYF8IZlpTEl4nElCOVSUvFB1_WAbiDCAmAeT5TmZGMnTFTYPp1aY8ADljMxk5AGT3ZmzD7-HIFJEA_hwV_t04p31m4x4NvDMhwyvx0wpxjxNkM="
+    },
+    {
+      "title": "threeshadows.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg8GPMfDJ4Qz_0vXWTRMpMmhQe5lR3eiFARhNhtCIiporFtJpqI5yDGwnxBTvnWzUrN7Yrr3rJRjUJz1r3KnrMC7HC01AxuFwNyDEamDyH_fMy"
+    },
+    {
+      "title": "ifeng.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7RL1Pkad1JgQ-y4SmFqSWwQZLCFRNGO2Vlg28ayg4YQgmtjf21c-YxncaqXyNFfY6W6prnGPFOOR4dypB4YWej_Q7eyr3iME7HXNo-t1EZLNNtHsf2lNlubs="
+    },
+    {
+      "title": "cphoto.com.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdeERxQnoLNlp5UZ9ihElat5b0lvuNhk55RQ7ycKxhfTQ3CTQ7qZo4NZwtG2ph4FKHt3dZ1cW3bFegfO4237ZSvgKIsC9Tzb6XiIEzlhMkmA=="
+    },
+    {
+      "title": "qq.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH77-DoTdKkzUSKW1H8vw0eXtkbF_Qs4edtlLNotqDwxXDi9-mDS20eET6D_ddxNQadxGAHxbzEwnWbgSQ7ZX5OQ-OpQ0WAfg1vR-rmMiwFU08jM7ffQIz5wcrj6mgDB7ga"
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy7fbA5IAMxoAaqmxde5hPSqUqgP4Jj1VALNLqtNqGGOWjVs7j0H9Dazn5h0ETwjNnAZT0Xl5gDcJnJJEuQy_nhRyY1-HxbK1hq6tmjWd72FxN0ORfNLVlTSskNCVv"
+    },
+    {
+      "title": "artrealmai.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVKrRe47TR8FNJ6Z8TwTtVsqxIo-dGJKpElnvamyzaFYHakcviuIIqEZAuU2-cGBthKHXlp--V1vWl0fePtojAhgKWRKqTIqGHm8OMK0-i5Su5gXPlHtMXEjOVvwJEbeM9CVaQR14R02LxlPWHkrtjh27Mii2AmDRY"
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkjB1KBxZAqio1vfC38uVokFxavcDQx_LDumdWmzfAoekHRJofzeqZuHYpDkTm0z41U-wsMwsSJSOWhxoCn3EbyqVDCmwLym9l_xTco0iZnmMT2qMWg3lR0G_vyoAxj8IIdlfhzLZONIcbUSo="
+    },
+    {
+      "title": "theimagecentre.ca",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOf4KnVVpri-2w7gE_qEuBXWoc3tXdowIva9lIVGc3vswFu_ojHC0ExfGkOSE3eE-SzKRFOPsb1fJbJlS3W7GjCn4TdeFIowMVsEtaM73p2KpmapyxTYMKgLhj"
+    },
+    {
+      "title": "artafricamagazine.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz0xaex77NkjPSIKwd7q1cAnN__1S1PzdELXtSDgDexZqbkzkhiNypfd-lVJTOeDaoAaCOojt8KM0RLjSl-AHjxq1MUTHEvtqHhSkz1LF1V2HQud7YumTURdc1BqThYJv44cVyak164f13gFqtoqVPcSwBPjVv9ijPaErr3Ve54nGByCo-7ICGJ0x5JOenW5P3WK96lrg7G2m-t_W_YGUJxgePDAdIfcQARf-ofQ=="
+    },
+    {
+      "title": "bebee.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnL53-9QbRc3jnnX3SJT0RDj5wIl_DsFNPZ3gdw_xEi_RVSxtDryt3hJQ0l9PWM2jhNL-40lI5X0N4DSB26iI1XV1hVbt2W73HP6pd4ou4KNEayJ--LT9OfdEktH76mkH6PWis8xA5cqtp22scLJfhnOwjKWyxI7a8Nhi8jBMdoQfgQO6tbuOc-LJnWDThZdHYlCcRjaVcc4bH1GXk0Hnabbwqr8LSC3m4OWoM6XmVcN2su2eeAjqEncVcubc--7GnfB0_XA=="
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjHeoG3Q8CexxMAqMilODgB0CIijjczjymdLh1vnTsjxR7HCvwN3Hyn4b3g7ZivfP2ccengM1Xsy6w40ms2irLl6RHhE-k2oG8wBOAKu4OvtTh6NfIhuWsmYxmJS6fJoQ8lGAV8cZ8NuMHRsh9utlJt4qBQInqVX7hPWLarSpE_qM2f2Z16jQ="
+    },
+    {
+      "title": "arthist.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBHiM5CkMolZsI11VsGK4tuP4rMn7HV8R1DGfoaE6LKm3d1oKbwSUTMFUOcEpFFGJsZIAAaM8AvgPCLX78RANhaiYz397xxTXu-V58k42Te_P4H18SE1I="
+    }
+  ]
+}

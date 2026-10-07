@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-07",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义拼贴",
+    "低保真摄影",
+    "暗房物质性",
+    "音画同步模型",
+    "影像档案研究资助"
+  ],
+  "why_today": "今天的信号展示了非线性媒介与日常经验的交汇。从早期的女性主义拼贴历史、玩具相机的低保真情感实验，到中国当代山水摄影的暗房化学探索，影像的物质性依然是重构历史的关键。与此同时，开源 AI 工作流正在攻克音画同步生成的瓶颈，而北美摄影研究机构的新一轮资助则为这些历史档案的活化提供了长期的制度保障。",
+  "intro": "本期简报聚焦于如何打破常规的影像叙事规则。我们收录了探索女性主义剪贴历史的群展、低保真玩具相机的艺术档案，以及汪芜生在暗房中对传统水墨精神的物质性重构。在技术层面，新开源的 Kandinsky 6.0 实现了音视频原生同步生成并无缝接入 ComfyUI 工作流。最后，加拿大 The Image Centre 启动了 2027 年度研究资助，为深入挖掘摄影史与女性艺术家档案提供了切实支持。",
+  "opening_signal": "碎片化的拼贴与低保真的镜头，往往比完美的构图更能保留历史的切口。",
+  "closing_signal": "无论是通过剪刀剪碎现成的图像，还是用廉价的塑料镜头对准日常，创作者总能在技术限制和体制边缘中，开辟出属于个体的叙事路径。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Graces Mews 举办女性主义拼贴展：集结 40 位艺术家呈现破碎媒介中的历史切口",
+      "title_en": "Graces Mews Presents 'What Rose from the Cut': Mapping a Feminist History of Photo Collage",
+      "summary_zh": "Graces Mews 画廊推出群展《What Rose from the Cut》，该展览由 V&A 博物馆女性摄影策展人 Fiona Rogers、艺术家 Justine Kurland 以及收藏家 Sarah Miller Meigs 共同策划。展览汇集了 Claude Cahun、Tee Corinne、Martha Rosler 等 40 多位国际艺术家的作品。展览内容基于 Rogers 的新书《Cut Out》以及 Kurland 联合发起的《The Rose》出版项目，系统呈现了从 19 世纪至今女性艺术家如何利用拼贴、蒙太奇和装配艺术等非线性碎片媒介，解构并重写主流历史叙事。",
+      "summary_en": "Graces Mews gallery announces 'What Rose from the Cut,' a group exhibition curated in collaboration with V&A curator Fiona Rogers, artist Justine Kurland, and collector Sarah Miller Meigs. Featuring over 40 international artists, the show bridges significant archival and publication efforts to explore how women have used collage and photo-montage to challenge linear historical narratives.",
+      "why_muki_cares": "该项目将博物馆学术研究（V&A）、独立收藏与艺术创作相结合，为女性主义媒介考古提供了极佳的方法论。它揭示了拼贴不仅是一种视觉手法，更是女性在主流历史边缘进行反向叙事、重组社会档案的政治性工具。",
+      "editorial_signal": "展览通过将分散在学术著作与个人收藏中的拼贴作品转化为具体的空间呈现，证明了非线性、碎片化的影像实践是女性主义对抗宏大线性叙事的核心武器。",
+      "theme_tags": [
+        "Fiona Rogers",
+        "Justine Kurland",
+        "女性主义拼贴",
+        "影像考古",
+        "反向档案",
+        "V&A博物馆",
+        "照片蒙太奇"
+      ],
+      "source_name": "Graces Mews",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4XtVWRk7FweZeptufPgBrctUzCMyLw9OSaUZd4scYrM9tGiEL5wsV6Oi7DeqL_wcK2rt8Ya0bmq_CXKSZZffWiwCKB_1-X5tgv53SIl0uY3K98gd4g-xAVKRgTzzCXeGcS_xFGxJd7zKAu3Cwu78=",
+      "publication_date": "2026-10-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "辛辛那提美术馆举办 Nancy Rexroth 回顾展：以低保真玩具相机解构女性日常经验",
+      "title_en": "Cincinnati Art Museum Presents 'Nancy Rexroth: Secrets of My Power' Retrospective",
+      "summary_zh": "辛辛那提美术馆（CAM）开幕美国摄影师 Nancy Rexroth 的首次全面职业生涯回顾展《Secrets of My Power》。展览由 Nathaniel M. Stein 策划，展出了 150 多件罕见照片、个人物品和从未公开的早期数字作品。这也是美术馆新成立的“Nancy Rexroth 档案馆”藏品的首次公开亮相。适逢 Rexroth 著名的自出版摄影书《IOWA》（1977年）出版 50 周年，展览重点展示了她如何利用廉价的 Diana 塑料玩具相机，以模糊、低保真且极具情感张力的视觉语言，对抗当时由男性主导的高现代主义和商业化摄影标准，记录下属于女性的感性日常与成长经验。",
+      "summary_en": "The Cincinnati Art Museum opens 'Nancy Rexroth: Secrets of My Power,' the first career retrospective of the photographer, marking the public debut of her newly formed archive. The exhibition features over 150 works celebrating 50 years of her landmark self-published photobook IOWA, highlighting her pioneering use of the low-fi Diana toy camera to capture the female experience.",
+      "why_muki_cares": "Nancy Rexroth 的实践是低技术（low-tech）媒介抵抗高技术精英标准的经典案例。她的自出版摄影书和玩具相机美学，为研究女性主义视觉修辞、摄影物质性以及个人日常档案的建构提供了宝贵的中世纪后期历史参照。",
+      "editorial_signal": "低保真玩具相机不仅是一种廉价的成像工具，更是女性摄影师在主流画册和技术竞赛之外，建立个人情感档案与视觉自主权的革命性媒介。",
+      "theme_tags": [
+        "Nancy Rexroth",
+        "低保真摄影",
+        "Diana相机",
+        "自出版摄影书",
+        "女性视觉经验",
+        "辛辛那提美术馆",
+        "影像档案"
+      ],
+      "source_name": "Cincinnati Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFaMbbiZryHgBAw7FCrk2LmzGaVfNWph6OlosjVMw-0gVR0N7vlLpVwgTyQbkirRMosUWc1gdsYeYj19oihHK7-bWSlYIRJBLeyrlFPoEg62m9LKZ3IWbnKznz_hgR39A8jogP54zBbqvxeEbg3TkEFS7MEeuu1k0u635o0LKCSbaUURrcw9tQNO9kQw==",
+      "publication_date": "2026-10-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "三影堂举办汪芜生原作回顾展：巫鸿策展，以暗房化学机制重构传统水墨意境",
+      "title_en": "Three Shadows Presents 'A Life with the Mountain': Wu Hung Cures Retrospective of Wang Wusheng's Vintage Prints",
+      "summary_zh": "三影堂摄影艺术中心正在举办已故中国山水摄影大师汪芜生（1945–2018）的首次大型回顾展《一人一山》。展览由艺术史学家巫鸿策划，集中展示了汪芜生自 1970 至 1990 年代在暗房中亲自制作的珍贵黑白银盐原作。汪芜生颠覆了传统纪实或地貌摄影的命名规则，仅以字母和数字为作品编号。他通过极度严苛的暗房化学实验和高反差的光影控制，将黄山的松石云雾转化为抽象的精神地景，在物理相纸上实现了中国传统水墨山水的现代主义媒介转换。",
+      "summary_en": "Three Shadows Photographic Art Centre presents 'A Life with the Mountain,' a major solo retrospective of Chinese landscape photographer Wang Wusheng, curated by Wu Hung. The exhibition focuses on his signature Huangshan series, presenting rare black-and-white silver gelatin vintage prints developed between the 1970s and 1990s through rigorous, abstract darkroom experiments.",
+      "why_muki_cares": "汪芜生的实践展示了中国当代早期摄影如何将传统美学引入物理暗房，是一次深刻的媒介考古实践。巫鸿的策展从暗房工艺、相纸物质性以及去地标化的命名机制切入，为东亚影像历史的研究提供了绝佳的学术范本。",
+      "editorial_signal": "通过将自然风景从地理地标中剥离，并利用高反差银盐工艺进行暗房重构，摄影师将客观的物理记录转化为了主观的精神媒介考古。",
+      "theme_tags": [
+        "汪芜生",
+        "巫鸿",
+        "三影堂",
+        "暗房工艺",
+        "银盐原作",
+        "水墨山水",
+        "媒介考古",
+        "中国摄影史"
+      ],
+      "source_name": "Three Shadows Photography Art Centre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg8GPMfDJ4Qz_0vXWTRMpMmhQe5lR3eiFARhNhtCIiporFtJpqI5yDGwnxBTvnWzUrN7Yrr3rJRjUJz1r3KnrMC7HC01AxuFwNyDEamDyH_fMy",
+      "publication_date": "2026-09-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "Kandinsky 6.0 视频模型发布：支持原生音视频同步生成，ComfyUI 官方节点同日上线",
+      "title_en": "Kandinsky 6.0 Video Released: Foundation Models for Single-Pass Synchronized Video and Audio",
+      "summary_zh": "Sber 的 Kandinsky 实验室开源发布了 Kandinsky 6.0 Video 视频模型系列（采用 MIT 开源协议）。该系列包含 3B Lite 和 29B Pro 两个版本，其核心突破在于能够通过单一通道原生生成包含 44 kHz 同步音频（涵盖人声对口型、音乐和音效）的 5 秒视频剪辑。该模型支持文本转音视频（T2AV）和图像转音视频（TI2AV）两种创作管线，并提供独立的超分辨率模型以输出全高清画面。ComfyUI 官方同日上线了第一方扩展节点，支持创作者直接在本地工作流中运行该模型。",
+      "summary_en": "Sber's Kandinsky Lab has open-sourced the Kandinsky 6.0 Video model family, enabling single-pass generation of 5-second video clips with natively synchronized 44 kHz audio. Shipped alongside an official ComfyUI extension, this model simplifies independent creative pipelines by unifying video and high-fidelity audio creation.",
+      "why_muki_cares": "长期以来，AI 视频和音频生成在工作流中是完全解耦的，对口型和音效合成极其繁琐。Kandinsky 6.0 的单通道原生同步技术大幅简化了独立创作者和多媒体艺术家的本地工作管线，标志着多模态原生生成工具正走向实用化。",
+      "editorial_signal": "音视频的原生同步生成不仅降低了多媒体创作的技术门槛，也预示着未来的生成式 AI 工作流将彻底摆脱分立模块拼贴的低效模式，向统一的感官生成迈进。",
+      "theme_tags": [
+        "Kandinsky 6.0",
+        "音画同步",
+        "ComfyUI",
+        "开源多模态",
+        "视频生成",
+        "多模态工作流"
+      ],
+      "source_name": "Hugging Face",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy7fbA5IAMxoAaqmxde5hPSqUqgP4Jj1VALNLqtNqGGOWjVs7j0H9Dazn5h0ETwjNnAZT0Xl5gDcJnJJEuQy_nhRyY1-HxbK1hq6tmjWd72FxN0ORfNLVlTSskNCVv",
+      "publication_date": "2026-10-06",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "多伦多 The Image Centre 启动 2027 年度研究资助：多项博士后与艺术研究基金支持影像档案挖掘",
+      "title_en": "The Image Centre Research Fellowships 2027: Open Call for Photography History and Practice Grants",
+      "summary_zh": "多伦多都会大学的 The Image Centre（IMC）宣布启动 2027 年度国际研究资助申请，截止日期为 2026 年 10 月 18 日。本次招募设立了 6 个不同额度的研究基金：包括与伦敦/多伦多现代冲突档案馆联合提供的 7 万加元年薪博士后资助，以及针对艺术研究、研究生和特定档案研究的 2500 至 10000 加元不等的专项基金。获选学者和艺术家将获得直接使用 IMC 馆藏的权限，包括著名的 Black Star 新闻摄影收藏，以及 Jo Spence、Berenice Abbott、Wendy Snyder MacNeil 等关键女性摄影师的个人档案。",
+      "summary_en": "The Image Centre (IMC) at Toronto Metropolitan University has opened applications for its 2027 research fellowships in photography history and practice, with a deadline of October 18, 2026. Offering six distinct grants, including a CAD $70,000 joint postdoctoral residency, the program provides direct access to historical photography collections and key female artists' archives.",
+      "why_muki_cares": "这是一次极具价值的学术与艺术研究资助。其馆藏包含 Jo Spence 等女性主义摄影先驱的个人档案，为探讨身体、疾病、阶级与摄影媒介权力的交叉研究提供了极好的实地文献支持，非常适合推荐给影像历史学者。",
+      "editorial_signal": "通过持续提供从博士后到研究生级别的多层级资金支持，学术机构正不断拓宽影像档案的边界，确保边缘群体的视觉遗产能够得到系统的重构与活化。",
+      "theme_tags": [
+        "The Image Centre",
+        "学术资助",
+        "Jo Spence",
+        "摄影史研究",
+        "影像档案",
+        "公开招募",
+        "博士后项目"
+      ],
+      "source_name": "The Image Centre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOf4KnVVpri-2w7gE_qEuBXWoc3tXdowIva9lIVGc3vswFu_ojHC0ExfGkOSE3eE-SzKRFOPsb1fJbJlS3W7GjCn4TdeFIowMVsEtaM73p2KpmapyxTYMKgLhj",
+      "publication_date": "2026-10-06",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Long Read / Opportunity",
+    "title": "多伦多 The Image Centre 启动 2027 年度研究资助，支持影像历史与女性摄影先驱档案研究",
+    "why_muki_may_care": "提供了高达 7 万加元的联合博士后资金及多项研究资助，且能直接接触到 Jo Spence 等女性主义纪实摄影先驱的珍贵档案，是影像档案方向极其难得的研究机遇。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOf4KnVVpri-2w7gE_qEuBXWoc3tXdowIva9lIVGc3vswFu_ojHC0ExfGkOSE3eE-SzKRFOPsb1fJbJlS3W7GjCn4TdeFIowMVsEtaM73p2KpmapyxTYMKgLhj"
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Graces Mews",
+    "Cincinnati Art Museum",
+    "Three Shadows Photography Art Centre",
+    "Kandinsky Lab",
+    "The Image Centre"
+  ],
+  "repetition_notes": "本期所有收录项均为全新信号（New）。其中，三影堂摄影艺术中心虽然在以往简报中作为协办机构出现过，但汪芜生的首次大型回顾展及其暗房媒介考古价值为全新录入，不构成重复。",
+  "issue_number": 77
+}
