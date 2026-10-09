@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-09",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义摄影",
+    "媒介考古",
+    "身体政治",
+    "合作影像",
+    "ComfyUI",
+    "动态控制",
+    "纪实摄影资助",
+    "Martine Franck"
+  ],
+  "why_today": "今天的信号聚焦于“媒介控制、身体经历与社会关护”。从巴黎女性主义独立出版物的历史回顾，到爱尔兰在押女性通过摄影进行的合作表达，视觉实践在此成为边缘群体掌控自身叙事的工具。胡为一的北京个展将身体影像置于古董折叠屏风，探讨了物质媒介与时间跨度。而在技术和工具层面，ComfyUI 的版本更新优化了本地工作流的界面交互与显存分配，尤金·史密斯摄影奖则继续为长期的纪实社会调查提供实质性的资金支持。这些线索展示了在不同历史时期与技术载体下，人们如何努力控制图像的生产和表达权。",
+  "intro": "今天的简报关注图像控制权在不同媒介中的流转。我们梳理了巴黎女性主义运动报刊的图像历史、爱尔兰狱中女性的共同创作项目、胡为树对古董屏风的影像改造，以及 ComfyUI 在本地工作流交互界面上的新突破。这些信号表明，不论是历史印刷物还是当代算法工具，图像的媒介属性和对控制权的争夺依然是核心议题。",
+  "opening_signal": "图像的控制权，往往决定了叙事的归属。",
+  "closing_signal": "从暗房的化学药水、印刷机的纸页，到本地显卡计算的潜空间，媒介的形式在变，但通过图像建立自我档案与抗拒规训的内核始终未变。这种持续的努力在不同的历史维度里完成了回响。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "布列松基金会举办 Martine Franck 个展：以 1970 年代纪实影像呈现巴黎女性主义运动与独立出版实践",
+      "title_en": "Martine Franck: Images, Press and Feminist Struggles Exhibition at Fondation Henri Cartier-Bresson",
+      "summary_zh": "巴黎亨利·卡蒂尔-布列松基金会举办摄影师马蒂娜·弗兰克（Martine Franck）个展，展览由昂热勒·费雷尔（Angèle Ferrere）策展。展览聚焦弗兰克在1970年代拍摄的巴黎女性解放运动（MLF）档案。展品包括大量未发表照片，呈现当时女性身体如何成为对抗主流媒体物化视角的政治媒介。展览还展示了女性主义报刊作为社会运动实验室和传播媒介的作用，并回顾了她共同创立的 Viva 摄影合作社及1980年代的公共委托项目。",
+      "summary_en": "The Fondation Henri Cartier-Bresson presents a solo exhibition of photographer Martine Franck, showcasing her 1970s documentary work on the women's liberation movement in Paris and the role of the feminist press.",
+      "why_muki_cares": "展览具体展示了女性主义独立媒体如何通过图像和排版挑战传统媒体权力，将集体行动转化为视觉档案。这为研究女性视觉经验与合作社机制提供了重要的一手历史文献。",
+      "editorial_signal": "1970年代巴黎女性主义出版物与合作社机制的视觉档案考古。",
+      "theme_tags": [
+        "Martine Franck",
+        "女性主义出版物",
+        "集体行动",
+        "影像考古",
+        "媒体权力",
+        "Viva合作社",
+        "卡蒂尔-布列松基金会",
+        "巴黎女性运动"
+      ],
+      "source_name": "Fondation Henri Cartier-Bresson",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTUQr1XoYgfp9ZHxCHZxQ_azVy5eb8KXeiTJ38niUqg0rUtw4sngN5Eqcw4TpHw0g2fQWpXCPMs3kPkKXW50WOoHIDuA_ZXm4QgL-njtMGGIONG5SlCXKCpAeYbZp_UJjKoW1lnJpzkKioPjBa8uO9wzAbFh3Z8kMwG_PYzieEeHKseCuh7duYlqduN4YFGwozFw3QhxM_Ilei8ctGv2_Z2vK0rgi1TxBHnhxaXhNxcGsJEGuyBE7pKSN_I38A18=",
+      "publication_date": "2026-10-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "爱尔兰监狱服务处举办 Photovoice 摄影展：在押与出狱女性通过图像探索日常经验",
+      "title_en": "Making Visible the Invisible: Photovoice with Justice-Involved Women in Ireland",
+      "summary_zh": "爱尔兰菲尼克斯公园游客中心举办名为“Making Visible the Invisible”的摄影展。该展览基于都柏林大学苏瑟兰法学院博士学者林恩·克拉克-哈蒂（Lynn Clarke-Hearty）与在押及出狱女性的合作研究。项目采用 Photovoice（照片发声）共同创作方法，将摄影、注释标题、诗歌与评述结合。参与者使用化名共同出版了摄影书，以保护个人隐私。作品整合了在押女性与社区戒毒教育群体的视觉记录，反映其面临的监禁与社会重构经验。",
+      "summary_en": "A collaborative Photovoice exhibition and photobook in Ireland present the personal narratives of incarcerated and formerly incarcerated women through photography, poetry, and text.",
+      "why_muki_cares": "该项目提供了一个具体的合作式影像研究方法。它通过让边缘群体直接控制图像和文本的编辑权，避免了传统纪录片的单向审视，展示了如何在机构空间内进行视觉关护。",
+      "editorial_signal": "边缘女性群体通过 Photovoice 共同创作掌控个人影像档案的方法实践。",
+      "theme_tags": [
+        "Photovoice",
+        "女性监禁",
+        "合作摄影",
+        "制度关护",
+        "自出版摄影书",
+        "爱尔兰",
+        "视觉抵抗"
+      ],
+      "source_name": "Irish Prison Service",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA7lolUPtxgY-L_UaK2qbijcrbmo9M9WCiYQfOXYFbyUfhO9JhwoyZnwJPOnt0df6Q5KkqmHaXqtR_qCmct_JofX9QkRnoEtt8HIqKH2mPLJban3ISwDf-NMQ4dngaKUsDoF2n_Dp8ZZN0y3PrQw==",
+      "publication_date": "2026-10-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "胡为一北京个展《深时》开幕：结合 1920 年代古董屏风与丝绸图像探讨历史与身体规训",
+      "title_en": "Hu Weiyi: Deep Time Solo Exhibition at HdM Gallery",
+      "summary_zh": "北京 HdM 画廊举办艺术家胡为一（生于1990年）个展《深时》。展览围绕身体、植物、景观和屏幕四个概念展开，展出其近期创作。胡为一将 1920 年代左右的古董折叠屏风，与丝绸上的档案级颜料印品、金箔及现成品装置结合。这批作品将漫长的生态地质时间与历史和身体的规训机制并置，探讨了摄影作为物质媒介的多重表达。",
+      "summary_en": "HdM Gallery Beijing presents 'Deep Time,' a solo exhibition by Chinese artist Hu Weiyi that combines 1920s antique screens, silk prints, and gold leaf to investigate body discipline and ecological time scales.",
+      "why_muki_cares": "艺术家将中国传统折叠屏风作为物理载体，与身体图像、丝绸印刷相结合。这种将媒介考古与地缘历史并置的方法，对探索东亚影像物质性的研究者很有启发。",
+      "editorial_signal": "结合地缘历史物件与现代图像印刷的媒介物质性探索。",
+      "theme_tags": [
+        "胡为一",
+        "深时",
+        "媒介考古",
+        "身体政治",
+        "古董屏风",
+        "丝绸印刷",
+        "东亚当代艺术"
+      ],
+      "source_name": "HdM Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgzjr5myICw45Yls7qu9e2erWyO_w-eyem7MzClV27ziPb2XkD66U667U1OQc4uM2e1MjAzPHNK8ZnVudaCqc45ZF9Wq6JrYmW7usI3OMl_c538Sz0xvlVmx5yy3rPPA8bZ2Z3iw7rgLbuX0LJeuw7cnGgAcEWZSgoLd6KbH8XqCZJbhD64j_9DxHbHQ==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 发布 v0.39 版本更新：引入 DynamicGroup 动态输入组件并优化 MiniMax H3 显存占用",
+      "title_en": "ComfyUI v0.39.0 and v0.39.1 Released with DynamicGroup Widget Inputs and MiniMax H3 Optimizations",
+      "summary_zh": "ComfyUI 发布 v0.39.0 和 v0.39.1 版本更新。核心界面引入了 DynamicGroup 组件输入，允许自定义节点开发者在界面中直接声明可重复、结构化的组件组，简化了多 LoRA 叠加等复杂控制。技术底层优化了 MiniMax H3 视频生成模型的显存峰值占用，修复了 Qwen-Image-2.1 量化缓存崩溃，并支持本地轻量级 MiniMax-H3 VAE。保存功能中，16位浮点 EXR 输出已设为默认选项，提升了专业影视后期流程的衔接性。",
+      "summary_en": "ComfyUI releases version 0.39 with a new DynamicGroup widget for dynamic UI layouts, peak VRAM optimizations for MiniMax H3, and 16-bit float EXR defaults.",
+      "why_muki_cares": "DynamicGroup 组件改变了多模型权重控制和多参考图的管理布局。显存优化和 16 位 EXR 默认输出则降低了本地运行高质量生成模型的硬件门槛，使精细化工作流更加普及。",
+      "editorial_signal": "本地生成式工作流中交互控制界面与精细化后期输出的工程化升级。",
+      "theme_tags": [
+        "ComfyUI v0.39",
+        "DynamicGroup",
+        "EXR 16-bit",
+        "MiniMax H3",
+        "本地工作流",
+        "创意技术",
+        "节点控制"
+      ],
+      "source_name": "ComfyUI Github Releases",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRhUHaywfseXGdbhbdeDmXrQhCTEVMtR3UiUK8C3FULGslx62aUhhOwm3TTUz9VT-b9-vr1Pjh-EaNuGOmBEFxhfpkfs5IC_kxlwWsIOKm9MX7cQfAF2aDxb9g1qmtmyxSow==",
+      "publication_date": "2026-10-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "2026 年尤金·史密斯人道主义摄影奖开放申请：设立 3.5 万美元资金支持长期社会纪实实践",
+      "title_en": "W. Eugene Smith Grant 2026 Open for Documentary Photography Submissions",
+      "summary_zh": "第 47 届尤金·史密斯人道主义摄影奖（W. Eugene Smith Grant）面向全球开放申请。该奖项设立 30,000 美元的主奖金、两项各 10,000 美元的入围者奖金，以及两项各 5,000 美元的 student 奖金。奖项旨在寻找关注人类生存状态、社会变革、环境议题和人道主义关怀的长期影像项目。项目不限制专业记者身份，并允许创意合作团体共同申请。主奖项申请截止日期为 2026 年 10 月 12 日。",
+      "summary_en": "The 47th W. Eugene Smith Grant is accepting submissions for long-term documentary photography projects addressing human condition and social change, offering a $30,000 top prize.",
+      "why_muki_cares": "作为国际纪实摄影领域的长期资金支持机制，该奖项对社会现实的持续追踪和对合作创作的接纳，为关注边缘群体、劳工和生态议题的研究者提供了具体的资金通道。",
+      "editorial_signal": "支持长期视觉调查与集体合作的国际人道主义摄影资助。",
+      "theme_tags": [
+        "尤金·史密斯摄影奖",
+        "纪实摄影",
+        "社会变革",
+        "影像资助",
+        "人道主义",
+        "合作实践"
+      ],
+      "source_name": "W. Eugene Smith Memorial Fund",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMxJdxCw3SZ5fXZCO6yMkvwWAUGDzdMNyPaf_FeT-qHNeHEauDDNR0ht0Y1wRGRy_4fP23d8WmRz3QqeoEFDiBuAdDcDTcHjBaMITKMdve1fmirtTu36oFJWwkEgjslMZvfk5qWRiWPDtP_w==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition",
+    "title": "Martine Franck – Images, Press and Feminist Struggles",
+    "why_muki_may_care": "展现了1970年代巴黎女性主义出版物与合作社的珍贵档案，揭示了身体如何作为对抗主流物化视角的视觉战场。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTUQr1XoYgfp9ZHxCHZxQ_azVy5eb8KXeiTJ38niUqg0rUtw4sngN5Eqcw4TpHw0g2fQWpXCPMs3kPkKXW50WOoHIDuA_ZXm4QgL-njtMGGIONG5SlCXKCpAeYbZp_UJjKoW1lnJpzkKioPjBa8uO9wzAbFh3Z8kMwG_PYzieEeHKseCuh7duYlqduN4YFGwozFw3QhxM_Ilei8ctGv2_Z2vK0rgi1TxBHnhxaXhNxcGsJEGuyBE7pKSN_I38A18="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "comfyui-obvpm-timeline",
+    "The Supporting Act Foundation 2026 Artist Grant",
+    "PhMuseum 2026 Women Photographers Grant",
+    "The Image Centre Research Fellowships 2027"
+  ],
+  "covered_entities": [
+    "Fondation Henri Cartier-Bresson",
+    "Irish Prison Service",
+    "HdM Gallery",
+    "Comfy Org",
+    "W. Eugene Smith Memorial Fund"
+  ],
+  "repetition_notes": "本期对 ComfyUI 版本的追踪属于对创意工具生态的持续跟进（Follow-up），介绍了 v0.39.0 引入的 DynamicGroup 等界面交互重大更新。其余有关 Martine Franck 的女性主义媒体档案展、爱尔兰狱中女性合作摄影展、胡为一《深时》个展以及尤金·史密斯奖的项目均为首次收录的全新信号（New）。",
+  "issue_number": 78
+}

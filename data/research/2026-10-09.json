@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-09",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Issue 078: Research Stage Evidence Dossier\n\nThis document serves as the curated, primary-source-verified research dossier for **Issue 078** of the *Daily Digest for Muki* (Asia/Shanghai: 2026-10-09). Active searches were conducted to identify cultural, archival, visual, and creative technology signals matching Muki's core research axes.\n\n---\n\n### 1. Feminist Structure Signal\n\n*   **Exact Project/Exhibition Title:** Martine Franck – Images, Press and Feminist Struggles\n*   **Specific Source URL:** [Fondation Henri Cartier-Bresson](https://www.henricartierbresson.org/en/exhibitions/martine-franck-images-press-and-feminist-struggles/)\n*   **Publication/Announcement Date:** October 5, 2026 (Exhibition runs October 21, 2026 – January 2027)\n*   **Verified Facts:** \n    *   The Fondation Henri Cartier-Bresson is presenting a solo exhibition of photographer Martine Franck (1938–2012), curated by Angèle Ferrere (recipient of the 2025 Martine Franck Curatorial Research Grant).\n    *   The exhibition centers on Franck’s 1970s photography documenting feminist struggles in Paris, specifically the mobilizations of the *Mouvement de libération des femmes* (MLF).\n    *   It highlights how the visual representation of women's bodies became a contested political battlefield against dominant, objectifying media representations.\n    *   It presents largely unpublished photographs that emphasize the collective dimension of 1970s feminist visual culture and details how the feminist press served as an activist laboratory and circulation medium.\n    *   It also explores her work with the Viva agency cooperative (co-founded in 1972) and public commissions from the 1980s (\"Des femmes et la création\" and \"Des métiers et des femmes\").\n*   **Relevance to Muki:** Directly investigates feminist visual culture, photographic archives, and how feminist independent media (the press) historically challenged institutional media power. It traces the precise intersection of collective labor, care, and physical mobilization.\n*   **Duplication Assessment:** **New**. Martine Franck's archive and this specific curatorial research have not been featured in the recent issues.\n\n---\n\n### 2. Visual Culture Signal\n\n*   **Exact Project/Exhibition Title:** Making Visible the Invisible: Photovoice with Justice-Involved Women in Ireland\n*   **Specific Source URL:** [Irish Prison Service](https://www.irishprisons.ie/making-visible-the-invisible-photovoice-with-justice-involved-women-in-ireland/)\n*   **Publication/Launch Date:** Launched October 2, 2026 (Press announcement published October 5, 2026)\n*   **Verified Facts:**\n    *   The exhibition, opened by President Catherine Connolly at the Phoenix Park Visitors Centre, explores women's experiences with criminalization and imprisonment in Ireland.\n    *   It is built on co-produced research by Lynn Clarke-Hearty (doctoral scholar at Sutherland School of Law, UCD) working alongside incarcerated and formerly incarcerated women.\n    *   The project utilizes \"Photovoice,\" an innovative co-creation methodology, combining photography, annotated titles, poetry, and commentary.\n    *   A co-authored photobook was published concurrently under self-chosen pseudonyms to protect the identities of the participating women.\n    *   The work merges two specific cohorts: *Dóchas in Focus* (women currently or formerly in Dóchas Centre, the Mountjoy female prison) and *SAOL on Bail* (a community addiction and education study).\n    *   It was awarded the Project Realisation Award managed by Create Ireland.\n*   **Relevance to Muki:** A powerful methodological case study in feminist photography, institutional care, and visual resistance. It demonstrates how \"Photovoice\" can bypass standard, extractive documentary practices and allow marginalized bodies to control their own archive and narratives.\n*   **Duplication Assessment:** **New**. Neither this collaborative project nor the Dóchas Centre/SAOL archives have been covered in recent weeks.\n\n---\n\n### 3. China / East Asia Signal\n\n*   **Exact Exhibition Title:** Hu Weiyi: Deep Time (胡为一：深时)\n*   **Specific Source URL:** [HdM Gallery](https://www.hdmgallery.com/exhibitions/hu-weiyi-deep-time) (and [Ocula](https://ocula.com/))\n*   **Publication/Opening Date:** Opened September 19, 2026 (On view until October 31, 2026)\n*   **Verified Facts:**\n    *   HdM Gallery Beijing is hosting *Deep Time*, a solo exhibition by Chinese artist Hu Weiyi (b. 1990).\n    *   This body of work expands on his \"Geography of the Body\" (2021) and \"Erosion\" series, the latter of which won the 2025 Jimei × Arles Discovery Award and was exhibited at Les Rencontres d'Arles in July 2026.\n    *   The exhibition is structured around four physical concepts: \"body,\" \"plant,\" \"landscape,\" and \"screen\".\n    *   The works utilize antique folding screens (circa 1920s) combined with archival pigment prints on silk, gold leaf, and found-object installations.\n    *   The show sets up a dialogue between vast geological/ecological time (\"deep time\") and historical and bodily systems of discipline.\n*   **Relevance to Muki:** Combines media archaeology (antique screens and silk printing), body politics, and landscape photography within contemporary Chinese art. It is a strong East Asian signal examining the materiality of the photographic medium.\n*   **Duplication Assessment:** **New**. This is the first time Hu Weiyi's *Deep Time* solo exhibition is captured in Muki’s current issue context.\n\n---\n\n### 4. AI Research / Creative Tech Signal\n\n*   **Exact Release/Update Title:** ComfyUI v0.39.0 and v0.39.1 Releases: Native DynamicGroup Input and EXR 16-Bit Default Support\n*   **Specific Source URL:** [Comfy-Org GitHub Releases](https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.0)\n*   **Publication Date:** October 5, 2026 (v0.39.0) & October 7, 2026 (v0.39.1)\n*   **Verified Facts:**\n    *   ComfyUI has officially rolled out major updates in v0.39.0 and v0.39.1.\n    *   **Core UI Breakthrough:** Introduced the `DynamicGroup` widget input. This allows custom node developers to declare a repeatable, structured group of widget inputs directly inside the node interface (e.g., dynamically adding and organizing LoRA rows, weights, and strengths).\n    *   **Hardware & Memory Optimizations:** Added peak VRAM consumption optimizations for the MiniMax H3 video generation model by releasing packed embedding temporaries before processing blocks. It also fixed VAE offload issues for MiniMax H3 and introduced official support for the LynnReal light MiniMax-H3 VAE.\n    *   **Model Integration & Safety:** Fixed a crash occurring when selecting int8 or int4 cache in the Qwen Image 2.1 pipeline.\n    *   **Professional Outputs:** Upgraded *Save EXR* with native 16-bit float support, now set as the default bit depth for EXR options. *Save Video* was also updated to higher quality encoding defaults (h264 CRF 18, AV1 CRF 24).\n    *   **Partner Node Additions:** Added nodes for Nano Banana 2.1 (featuring 1K to 4K output, three thinking levels, and up to 14 reference images), Eleven Labs v4 speech/dialogue models, Ideogram 4.5, and HeyGen Video 1.0.\n*   **Relevance to Muki:** This is a vital update for local, professional creative workflows. `DynamicGroup` fundamentally changes the management of multi-LoRA stacks and advanced prompt conditioning. Furthermore, memory optimizations for MiniMax H3 and Qwen Image 2.1 lower the local VRAM threshold, bringing high-end video and image control directly into consumer-grade, agent-native workflows.\n*   **Duplication Assessment:** **Follow-up**. This tracks the foundational evolution of ComfyUI (following the v0.37.0 coverage in late September) but introduces entirely new and practical layout, formatting, and performance increments (`DynamicGroup` and MiniMax H3 optimizations).\n\n---\n\n### 5. Archive / Long Read / Opportunity\n\n*   **Exact Opportunity Name:** W. Eugene Smith Grant 2026 (W. Eugene Smith Memorial Fund)\n*   **Specific Source URL:** [PhMuseum (Awards Portal)](https://phmuseum.com/awards/w-eugene-smith-grant-2026) (and [Picter](https://picter.com/w-eugene-smith-fund/w-eugene-smith-grant-2026))\n*   **Application Deadline:** October 12, 2026 (Main Grant) / October 13, 2026 (Student Grant)\n*   **Verified Facts:**\n    *   The 47th annual W. Eugene Smith Grant is currently accepting submissions internationally.\n    *   The grant awards a $30,000 main grant and two $10,000 finalist grants to visual storytellers working in documentary photography and photojournalism. \n    *   The W. Eugene Smith Student Grant offers two cash prizes of $5,000 to photography students.\n    *   It seeks photographic projects that continue the humanistic tradition of concerned photography, focusing on the human condition, social change, environmental issues, conflict, and humanitarian concerns.\n    *   It allows submissions from multiple creative collaborators and does not restrict applicants to professional photojournalists.\n    *   Applicants can submit up to 40 images alongside a biography, project description (max 2000 characters), and project proposal (max 3000 characters).\n*   **Relevance to Muki:** An urgent, elite-tier international funding mechanism. It supports deep-hanging, long-term visual research addressing critical socio-political systems, marginalized labor, and ecological collapse.\n*   **Duplication Assessment:** **New**. This prestigious annual open call has not been listed in the recent 7-day or 30-day context.\n\n---\n\n### Summary of Excluded/Repeated Signals\n*   **comfyui-obvpm-timeline:** Excluded as a main entry because it was comprehensively covered on September 24, 2026. Still referenced in the dossier as an active tech background signal.\n*   **The Supporting Act Foundation 2026 Artist Grant:** Excluded as it was already covered in the September 24 issue.\n*   **PhMuseum 2026 Women Photographers Grant:** Excluded as it was already covered in the September 27 issue.\n*   **The Image Centre Research Fellowships 2027:** Excluded as it was already covered in the October 7 issue.",
+  "citations": [
+    {
+      "title": "henricartierbresson.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeTUQr1XoYgfp9ZHxCHZxQ_azVy5eb8KXeiTJ38niUqg0rUtw4sngN5Eqcw4TpHw0g2fQWpXCPMs3kPkKXW50WOoHIDuA_ZXm4QgL-njtMGGIONG5SlCXKCpAeYbZp_UJjKoW1lnJpzkKioPjBa8uO9wzAbFh3Z8kMwG_PYzieEeHKseCuh7duYlqduN4YFGwozFw3QhxM_Ilei8ctGv2_Z2vK0rgi1TxBHnhxaXhNxcGsJEGuyBE7pKSN_I38A18="
+    },
+    {
+      "title": "henricartierbresson.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6LuNCAuSmgjBpf_LtnkxViVx5sNpcOXstcouiT_6EG64Npr7PTt1BsvORj9w4Eyk8V6RYl2hVNZRf_Yp6O9KOPIFoRVasP-khFIeg2xBITR5k_fQ3hx7bfRP0K9mZq0MF554TuL2qZYF9Iyeh5UpuJA1IukDpzEDV3Wn5NjqU7y3MxhpVGaz_EhLEJfBY-wj21Rw0U2Y7uz6xCuD4SBjvlvacFB83icom8Aj-9POteq-kI7J_OyxKT5E6fPr2SQU="
+    },
+    {
+      "title": "henricartierbresson.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-EWf5vkX_dyShe_zHk-ArHwQxzx41Gs4bwB9ggCIaxifREsegydfSYzPbGxXt7uxJCbH7hmTMUkqRNPskt2CHjkql6-AeMjPgz5xG2PXxrQ4wpXaYfq0NyqxL2Roy3xhB"
+    },
+    {
+      "title": "henricartierbresson.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf7DryCkM73c-itdlXYREgvY_JpIiu7Kfgs23Mk4q0jjUK_eu4tVCHEGK3sTReppE1T4klg_z9QeYPf0-rh5QgCnALRPLsVROqDQqJAvHRVpk4a7AzVnrHj3kvksKaVo9dvp_PVW2gUcbIF-8gcOFnjEG2fM5tyDQjafeBvz5wPfOWVB29xo79QVyVEvLADa86KnRPXZ5_2YO8-I4LkMu0Fhm3RtuNg4uiyl0fQshMMeFVTwjsFow="
+    },
+    {
+      "title": "irishprisons.ie",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA7lolUPtxgY-L_UaK2qbijcrbmo9M9WCiYQfOXYFbyUfhO9JhwoyZnwJPOnt0df6Q5KkqmHaXqtR_qCmct_JofX9QkRnoEtt8HIqKH2mPLJban3ISwDf-NMQ4dngaKUsDoF2n_Dp8ZZN0y3PrQw=="
+    },
+    {
+      "title": "juliecorcoranphotography.ie",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx3XDjt_htfu7lai82xoW7Hp8HnStsmkCDAnE16V6D7L74NKjlf0_t0oJhat620Km5mmrUrmw_JPq6gbeN9LP01W_Ct29dQjqFbCeb01zAzSFq1DOZeEmXDuSs6QBQ2sXMWo8toa1tqJQ75Orp5_mUBgTTB0loeaCiqIGtLDQTzY6aGVai4zg4Sch-ERzhpRHr8I3kyhug3gliH_G8eHHxqH56fXl0XqETbMwK_6YJQygQGHxaQ9pWAPBt"
+    },
+    {
+      "title": "president.ie",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7xYhOKu_4jhmumN-Eyzs88gNkWrHYv6iS5Jccec5padm66rDiJ_dGESrJfqXuriwpqMmc5_ZI-dq41pXPW8bewYEcgBsVcPJdqSlWZMlwotvPHLQtGmq3rDEWqi50OjEMlJ6mVyPC7MHJAEPre6Zhr1KzPPCWM5B6xjzrA_pT8nWhSsBrTMmeTTDjhOol22zT7arbHLLZrzyFH4Tb1rVCYqXeXJLAoJY="
+    },
+    {
+      "title": "irishlegal.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqsq0ff_Fb36VNqK_7qnKK97_kaTUmTdEIQjqScrZEl3AL-ljGZ14Q0oYy8aS_Ym64U9xgZf3ercwoUZKR5AM8pzpGc-jxT7955Xn39tiTNYBo13WEM1QJmzVNAYfzez6Gg_Zaxiwi-kwQTHlTE4LDeJi1faXer32_bFCdX8Cr3BCk4sO_LXoLCQLafrLZoY8R6PHA2D8UmMktX8ranCQktsWRk8fsvluM1KHE8h9PdkLUmYAz9KsMo0Ih"
+    },
+    {
+      "title": "hdmgallery.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgzjr5myICw45Yls7qu9e2erWyO_w-eyem7MzClV27ziPb2XkD66U667U1OQc4uM2e1MjAzPHNK8ZnVudaCqc45ZF9Wq6JrYmW7usI3OMl_c538Sz0xvlVmx5yy3rPPA8bZ2Z3iw7rgLbuX0LJeuw7cnGgAcEWZSgoLd6KbH8XqCZJbhD64j_9DxHbHQ=="
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRhUHaywfseXGdbhbdeDmXrQhCTEVMtR3UiUK8C3FULGslx62aUhhOwm3TTUz9VT-b9-vr1Pjh-EaNuGOmBEFxhfpkfs5IC_kxlwWsIOKm9MX7cQfAF2aDxb9g1qmtmyxSow=="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELlT4596PSR9I8ruE13YThij_XrzBbmeglD4K3gLTkTaTk8J7IJBeTraQ5tHm3OIyc_gtTAd-JPJiclO3pNiW0j3DmdBhRxn6WtykImxtSoynVsgIf"
+    },
+    {
+      "title": "newreleases.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0T1Ce077pPXtBMb1z8zqwm4kc6Ii7a7VgVVuE2e83keyrsl1Wl_p19XUsXUAFbdqMhJdgS7ceM7gOBoMF-Ih2V4X7CCb_DvP9l4Tyv3pzS6nSlSlvnH67c7hgNug9iv9X1Gn8XVtAJYG2-syYyFynhH0DFQCgXotVPI_azQ=="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdQB21DepXPIVO0JXt7c5WXZqMWpvElVmAhtD9dFZHxGh5hzhGpHwiz0tZUw1Jg9p_UElSNRtsxbtyZdYgosFprobsHdGxj8PxiNoi5i7AxxeGHurka0GMdA=="
+    },
+    {
+      "title": "myzaker.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZYbrBIS-Grynk5yCUmLtbXCFiZ-yOa4N8cYyJ1l5nbf13hJvOZ4aBW9kUmymlFsj5DeJwHNynPRpCY0NeStD9sTZKTGfRE_rKy9CPig_gONTFXxIhlpsQuCvl_FgZXifuPzQOLWM2Ce7H-8ZTpw=="
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMxJdxCw3SZ5fXZCO6yMkvwWAUGDzdMNyPaf_FeT-qHNeHEauDDNR0ht0Y1wRGRy_4fP23d8WmRz3QqeoEFDiBuAdDcDTcHjBaMITKMdve1fmirtTu36oFJWwkEgjslMZvfk5qWRiWPDtP_w=="
+    },
+    {
+      "title": "artdeadline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRFwrSqeEcnDGoDpHUvXBrrP63_LhHUjH5iqPS6sDefnuF7bJmZ9RQPZi-6HWpymE90MxdGR4TDbpZDpcaiC98Jo2amqZfPd9vPtfK56uKCLuNPFNGTQQfOmsnYHjc"
+    },
+    {
+      "title": "picter.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPOKI1jS6vHKBxdqjcHDzxLceVNypWIZDbFxkUvS_kwLwOLhiRnt_AO8-XX2JRGPro5zDZ8-5unZubu1Ol-49xXmE-C2ymCv231r1iaA9leV04B5myF_acknNrDwaM3BsZk9tGdynVppqR7HY="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvzQzkimlugGyOJZF6D2Wh_Sw_OKL1Bcfyj4Cdxhpcq9BoDvxVl6hOQHv8V2XvsoJMmBR9fwU0pIzZ9gXtaeuOhVkm8ST-S_ERj3Aiwox_gb2RuA7MR8WjKTM95pA4v9JUlAxMaFYGyHJ-nHjzSpTwTD5vOqcJzgvwuSu6rxotehS7VBwtCXUwY5YOZoPErprIcjZnI9DPhX-9dGF4HjitcuxqWXw_-szo2xCtXGxFVF9eQwipTDAo1fQSjsYQg2hVjmWK6N9XawWl"
+    },
+    {
+      "title": "artinfoland.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2V-0dC5ohAixvgLUIl2HYYbsEmzt6Uja6O9yeSLN0VW2OlyLwfREN6KtarJLFssrtMOPO9qft570I0oOe6NbJ2NxCkh3CA1qxKlLKqITHwQ23YeaIdhfawdEQfICsSv2ABGqeMAG1XnQqsTTF7Roe54xz04LfBX3TTIvX"
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQCIl6Ga6DJq3K6MXqnlLLttKHDBQ9t49gcfrZsMIzzO7jN9gL6gF5yR69va-XbbVMy_ls8O6joFp5bjrdkpFP9FRDabCOcF-2SGNROoYflQ_HisYM-p4Jtz5__meDnrUmgvLbvPboqf20v3_wRu9iOGJr"
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqHmfBpzVw5t9t0yey7XpiFGSv71F3fRA8T06SPQYj_sQaqzW9NqTVw6IXr1fio1d-FYxU8nwceLr5z7CrF9-sxly1D8Slz7FMfgctf8qOhovXak9qZ7wLZFt7sNYK4KkupMomp6Q="
+    }
+  ]
+}
