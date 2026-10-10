@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-10",
+  "model": "gemini-3.5-flash",
+  "dossier": "### Research Evidence Dossier\n\n**Search Window Used**: Past 24 hours to 10 days (October 1 – 10, 2026).  \n**Issue Number**: 079  \n**Issue Date**: October 10, 2026  \n\n---\n\n### Section 1: Feminist Structure Signal\n\n* **Proposed Title (Chinese & English)**: A.I.R. Gallery 启动筹款回归曼哈顿：在西村 Federal Archive Building 建设全新 2400 平方英尺空间与女性主义艺术文献库 / A.I.R. Gallery Announces Capital Campaign for New Home in Manhattan's Federal Archive Building\n* **Source URL**: `https://www.airgallery.org/capital-campaign`\n* **Publication Date**: October 2026\n* **Verified Facts**:\n  * Founded in SoHo in 1972 as the first all-female artist-run gallery in the United States, A.I.R. Gallery has announced a $650,000 capital campaign ($438,000 raised to date) to move from Brooklyn back to Manhattan.\n  * Its new home will be at the historic Federal Archive Building in the West Village, doubling its physical space to 2,400 square feet.\n  * The facility will feature three 450-square-foot exhibition galleries for solo and group exhibitions, alongside a dedicated, publicly accessible Feminist Art Library storing books and archival materials on women and non-binary artists.\n  * Reopening is scheduled for early 2027.\n* **Relevance to Muki**: Directly addresses physical feminist infrastructure, artist-led non-profit governance, long-term archival preservation, and spatial access for women/non-binary creators.\n* **Duplication Assessment**: New signal. No previous mention in recent issues.\n\n---\n\n### Section 2: Visual Culture Signal\n\n* **Proposed Title (Chinese & English)**: 英国国家肖像馆开幕 Tim Walker 酷儿历史特展《Fairyland》：以 250 幅肖像跨越半个世纪的行动主义与群体记忆 / Tim Walker Traces Five Decades of Queer History in 'Fairyland' at the National Portrait Gallery\n* **Source URL**: `https://www.designboom.com/art/tim-walker-fairyland-queer-activism-portraiture-national-portrait-gallery-10-09-2026/`\n* **Publication Date**: October 9, 2026\n* **Verified Facts**:\n  * Opening October 9, 2026 at the National Portrait Gallery in London (on view through February 7, 2027), curated by Susanna Brown with set design by Shona Heath.\n  * Features around 250 portraits shot over five years by Tim Walker, capturing Queer activists, performers, and cultural figures across generations.\n  * Reclaims the slur \"fairy\" as identity and belonging, linking 1970s–80s Gay Liberation Front and Stonewall activists (e.g. Olivette Cole-Wilson, Lisa Power) with contemporary figures like Isaac Julien, Ian McKellen, and Chappell Roan.\n  * Borrows visual elements from 16th-century Tudor portraiture (Holbein, Hilliard) to position marginalized figures as an imagined aristocracy.\n* **Relevance to Muki**: Focuses on portraiture, image history, reclaiming language through visual culture, and how institutional archives document grassroots activism.\n* **Duplication Assessment**: New signal. No previous mention in recent issues.\n\n---\n\n### Section 3: China / East Asia Signal\n\n* **Proposed Title (Chinese & English)**: 第八届 T3 东京摄影节开幕：以“&（と）”为主题，在城市公共空间集中呈现 17 场摄影展 / T3 Photo Festival Tokyo 2026 Opens Across the City Under the Theme '& (to)'\n* **Source URL**: `https://t3photo.tokyo/`\n* **Publication Date**: October 3, 2026\n* **Verified Facts**:\n  * The 8th T3 Photo Festival Tokyo runs from October 3 to 26, 2026 across Tokyo’s Yaesu, Nihonbashi, Kyobashi, and Ginza districts.\n  * Guided by festival director Ihiro Hayami under the theme “&（と）” (the Japanese conjunction \"and\"), exploring relationships beyond binary oppositions.\n  * Features 17 free exhibitions with over 18 artists/collectives, including Zanele Muholi's *When Things Become a Crown* (reclaiming domestic labor objects into crowns) and Lucas Foglia's *Constant Bloom*.\n  * Accompanied by *T3 PHOTO ASIA 2026* art fair (October 17–19) bringing together 24 Asian photography galleries.\n* **Relevance to Muki**: Highlights East Asian urban curatorial strategies, public photo interventions, domestic labor/identity politics in visual art, and regional photobook/gallery networks.\n* **Duplication Assessment**: New signal. No previous mention in recent issues.\n\n---\n\n### Section 4: AI Research / Creative Tech Signal\n\n* **Proposed Title (Chinese & English)**: AutoTrust 在 Hugging Face 开源 JEV-27B-VL 决策模型：为 AI Agent 赋予画面与 UI 交互的白盒判断力 / AutoTrust Releases JEV-27B-VL Open Decision Model on Hugging Face for Agentic Vision and UI Interaction\n* **Source URL**: `https://huggingface.co/autotrust`\n* **Publication Date**: October 8, 2026\n* **Verified Facts**:\n  * AutoTrust AI released JEV-27B-VL under the Apache-2.0 license on Hugging Face, climbing to #1 on Hugging Face's global trending list in October 2026.\n  * It is an open-weights multimodal decision model optimized for AI agents to inspect screens, UI layouts, documents, and camera feeds.\n  * Decouples fast \"System 1\" action probability generation from \"System 2\" reasoning backbones, enabling explicit probability outputs (e.g. median 209ms latency) without returning unstructured prose.\n* **Relevance to Muki**: Materially advances AI-native creative workflows, visual media inspection, and white-box control over UI/screen interaction for automated tools.\n* **Duplication Assessment**: New signal. Replaces ComfyUI v0.39 (covered in issue 2026-10-09) to avoid tool/version repetition.\n\n---\n\n### Section 5: Archive / Long Read / Opportunity\n\n* **Proposed Title (Chinese & English)**: 亚洲文化协会启动 2027 年度资助申请：四类奖助金全额支持跨国艺术驻留与档案研究 / Asian Cultural Council Opens Applications for 2027 Fellowships and Grants\n* **Source URL**: `https://www.asianculturalcouncil.org/grant-opportunities-2027`\n* **Publication Date**: October 1, 2026\n* **Verified Facts**:\n  * The Asian Cultural Council (ACC) opened its 2027 Global Funding Cycle, accepting online applications from October 1 through November 10, 2026.\n  * Offers 4 distinct grant categories: New York Fellowship (6-month NYC residency), Individual Fellowship (1–6 months flexible research), Graduate Fellowship, and Organization Grant.\n  * Supports process-driven research, cultural immersion, and cross-border exchange between Asia and the US, as well as within Asia, across 16 disciplines including visual arts, photography, curation, and art history.\n* **Relevance to Muki**: Directly serves as a high-value funding and residency lead for East Asian curators, artists, and photography history researchers.\n* **Duplication Assessment**: New signal. No previous mention in recent issues.",
+  "citations": [
+    {
+      "title": "airgallery.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0tQz3WDezqBcVG3Kd7KPY-XHlTn1crqk0Klq92gTFplnHkGVAL9mELYbiqf4SiM0zZ-e_SR9BfYEA_laKWzp60gYcF0pAOlclziHt66RDVqfaJ54GhVtX9mgK_jbGyAVU3TNGGA=="
+    },
+    {
+      "title": "designboom.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcQ-KNElVNKybfnNs_OuWfEhkFdtgtBbLRxV1QBd0ad7fkOzhtuQG46_iKhoVjsNXSAfXRDKALXXBYanZTxEyX569qCBsXxxBl6vDaIzetWjzJ8YaiGIDZtIEchY3qy0nMwh2cQfUgc7Hk_B83GTwug_zBKoS_0FZu__pp7ZF3-ttUEk6dxSitPsHzpr5FFNoofSxc1xpYea-K9FURr7r8i1zVQsd32Uav8Z1jdLXis_Exaw=="
+    },
+    {
+      "title": "t3photo.tokyo",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoM4jP27Yb2tHHwqB0ApMxylBlvqetXQg_to7OSkFn9LmUZh7dInw_iyP5R2_F9fqYqfzsLrfcu7C5xVfWLmAnqPJxC9LpA-5aIeR-lazGEzD8GDdacjiL"
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7jVxI_NAkU-BtyOkcPH057gz7f-z_V_j3AqFY93VXg1SFs_gX06LSJNkQZ9W12OANFJ-9vknjetrldvsMIhK08wlwQOFvsH44nu_28tRkdKd1M04BgcfFRAdAMXF_kW-9GG3XAUCBrjddsskr1eA7UtjExYpzjrrpIZ9jzrqvGsBe3pKmOtlBk3fv"
+    },
+    {
+      "title": "tokyoweekender.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCaFO69abpeADnwKQYQvo6XE9Uo22XxTWKp-tIx5d38iHU16sKXIYCuWiWGArPydrSwJTyWUkqwATw_AAJfvLYr-75o5CloBFrZJ4hmSFk10fivx56rgL43PAfGtNMf8BZq0LgCslbbAZq3ZkDICsvxAEdWt012Q=="
+    },
+    {
+      "title": "tokyoartbeat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaeMMLYKoNdmXjTQCCBXSyhoA4lmCACM_XErUlT0C36K6F2p08wN3ufnkzcSycyZWSjQH8naIprI1X-jz5H0RaLfeOPMH4DF55LnsWYaGgDE-UnI_XKEvjxflXujhZ0YyEVzLkwp0Vp4FhC2zvSisOtgqB1L8M5iorFU2LAhJU90qb_888HYucT2cV6hEA"
+    },
+    {
+      "title": "taiwannews.com.tw",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXz6tYStwIrIvMzIzj6lbEbp86lkcZz7mQDfI9S_opZc7dfO2q09RTES0nj7y5jyfgwTn3FBV8-W_ArmW5NPsB5imI5pcH-xVMLZrsuYOpw0hoo36R9oWFNM0FeY0773gIcg=="
+    },
+    {
+      "title": "thursdai.news",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1BgksK6YLtTbQMmQP6b-9UN5g_jneFVzMST6e_P8dIDgu972g-M64qyJ59lAvvc4M67nvVA85AQSHnSCZpTk1QymyvbMAAyDrsltup5IssrYFczHJGwCe0V9d"
+    },
+    {
+      "title": "sentient.foundation",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9QIwEwRfTs_TIxnf-qyUAFlWS9Vlzre7dxvb-NFj3fgg-vVenuCjS5HsoiOiWpAUyGf0gmLKH0wCd0-5bXidQ_uRp0myYIUha_oCB9-zK_mPX_qb-jXinQxDT1FFrxJwbmfsGeDH4XEJqdgnHrb_GYxFHfhfg"
+    },
+    {
+      "title": "asianculturalcouncil.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGIxqe6Xnvqsd8AApV1y6EJIsmxcsjSfieFb2skSUa1n_Bu_62kGjS3oZ2yYtikEX1A3rPIgoCs3DIDa7q4GUbGX0nxtJQCrXsSJPjlSxnboDsljnAiHMrQIEH66xpITFkSzVAdpeIodJN1JkgIQ=="
+    },
+    {
+      "title": "asianculturalcouncil.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKuKTeaNipX5lmDXB_8LPmc8703-FG_eTExofz5NBN1tp21oIdsYCh4d7AXmrIEtrh190N-c4Aq1wMJ9a8fg9mXMNS0VLCb8ZWpS0lcO3C7MtCmjuWCacyWyI9RfdeJ1oZpe2ET6ePUAL5SVhr691MJYl74dvrq5xIfX4SkErj1dAcRMHi"
+    },
+    {
+      "title": "asianculturalcouncil.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo2ZvQo5VkL6c1DZJTXHLdrIu4sXrfTf5Xa1ByKont2ixYfSjVZg87PNvrRvFndOehs9UCl7F7s69J2LJJjWGpma1YZs05JIpL8uYoUanx2IozEXJEJqrfDhtkLOeUhX3AfzDYramrz-Wtwc32"
+    }
+  ]
+}
