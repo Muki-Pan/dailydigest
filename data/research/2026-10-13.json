@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-13",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Research Evidence Dossier for Daily Digest #080 (2026-10-13)\n\n**Search Window Used**: 7 days (expanded from 24 hours to capture high-signal institution announcements and open source code/model releases published between October 8 and October 12, 2026).\n\n---\n\n## Candidate 1: Feminist Structure Signal\n\n* **Proposed Section**: Feminist Structure Signal\n* **Title (ZH/EN)**: Mimosa House 举办 Mira Schor 英国首个公立机构个展《WET/London》：以身体与文字重构女性主义绘画政治 / Mimosa House Presents Mira Schor's First UK Institutional Solo Exhibition 'WET/London'\n* **Source URL**: `https://mimosahouse.co.uk/wet-london`\n* **Publication / Event Date**: October 9 – December 5, 2026 (Opening reception: October 8, 2026)\n* **Verified Facts**:\n  * Mimosa House (London) presented *WET/London*, a solo exhibition by American artist and writer Mira Schor (b. 1950), curated by Daria Han.\n  * This marks Schor’s first solo exhibition in a UK publicly funded gallery.\n  * Schor studied in the CalArts Feminist Art Program under Judy Chicago and Miriam Schapiro in the early 1970s, and co-founded the influential feminist art journal *M/E/A/N/I/N/G* with Susan Bee in 1986.\n  * The exhibition gathers historic and recent paintings, drawings, and works on paper from the 1970s to the present (including *Goodbye CalArts*, 1972; *Graves*, 1973; *Area of Denial I*, 1993; *The Work (Red Studio)*, 2021).\n  * Features a newly commissioned site-specific painting executed directly on Mimosa House's six-meter fireplace wall, transforming a traditionally domestic site into a space for feminist public address and inscription.\n* **Relevance to Muki**: Directly links feminist visual culture, painting as a political/discursive tool, body politics, and independent feminist publishing archives (*M/E/A/N/I/N/G*).\n* **Duplication Assessment**: New (Mira Schor and Mimosa House have not appeared in recent issues).\n\n---\n\n## Candidate 2: Visual Culture Signal\n\n* **Proposed Section**: Visual Culture Signal\n* **Title (ZH/EN)**: 泰特现代美术馆开幕全球画意摄影大展《光与魔法》：以 200 余幅暗房原作重构跨国摄影史 / Tate Modern Presents 'Light and Magic: The Birth of Art Photography' Exploring Global Pictorialism\n* **Source URL**: `https://www.tate.org.uk/whats-on/tate-modern/light-and-magic`\n* **Publication / Event Date**: October 12, 2026 (Press release) / October 14, 2026 – February 21, 2027 (Exhibition dates)\n* **Verified Facts**:\n  * Tate Modern announced the opening of *Light and Magic: The Birth of Art Photography*, curated by Charmaine Toh and Genevieve Barton.\n  * It is the first major museum exhibition to re-evaluate Pictorialism (画意摄影) as an international movement spanning from the 1880s to the 1960s, expanding beyond traditional Euro-American frameworks.\n  * Brings together over 200 rare vintage prints by more than 80 artists from Seoul, Shanghai, Singapore, Sydney, New York, Cape Town, and Rio de Janeiro.\n  * Highlights include East Asian pictorial photography pioneers such as Long Chin-San (郎静山), Fan Ho (何藩), and Luo Bonian (罗伯年), alongside Indian-born photographer Shapoor N. Bhedwar and British photographer Emma Barton.\n  * Includes archival research into historical camera clubs and collective networks, including Shanghai’s Guangshe (光社) and the Photographic Society of Singapore, as well as an active darkroom inside the gallery space.\n* **Relevance to Muki**: Directly aligns with photography history, media archaeology, darkroom chemical materiality, and East Asian image networks.\n* **Duplication Assessment**: New (This exhibition and theme have not appeared in recent issues).\n\n---\n\n## Candidate 3: China / East Asia Signal\n\n* **Proposed Section**: China / East Asia Signal\n* **Title (ZH/EN)**: 梁慧圭最大规模美国委任展《Through》于 Dia Beacon 开幕：以“五行”与尹伊桑音乐贯穿上下双层建筑 / Haegue Yang's Largest US Commission 'Through' Opens at Dia Beacon\n* **Source URL**: `https://www.diaart.org/exhibitions/haegue-yang-through`\n* **Publication / Event Date**: October 10, 2026 – June 12, 2028 (Opened October 10, 2026)\n* **Verified Facts**:\n  * South Korean artist Haegue Yang (梁慧圭) opened her largest commission in the United States, *Through*, at Dia Beacon in New York State, curated by Jordan Carter and Min Sun Jeon.\n  * It is the first time an artist has conceived a body of work connecting multiple galleries across both the ground floor and subterranean levels of Dia Beacon.\n  * Yang maps architectural dualities (light/dark, subterranean/elevated) using the cardinal directions and color associations of traditional East Asian Five Phases theory (五行思想).\n  * Central to the installation is Yang’s decade-long research into South Korean political exile composer Isang Yun (尹伊桑, 1917–1995), rescoring his 1968 string quartet *Images* into multi-sensory sculptural and kinetic form across the space.\n* **Relevance to Muki**: East Asian contemporary art practice, transnational diaspora archives, cross-disciplinary rescoring, and media/sensory space research.\n* **Duplication Assessment**: New (Haegue Yang and Dia Beacon have not appeared in recent issues).\n\n---\n\n## Candidate 4: AI Research / Creative Tech Signal\n\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **Title (ZH/EN)**: 阿里开源 Qwen-Image-2.1-Turbo 蒸馏扩散模型：8 步去噪实现高精图像生成与多参考图编辑 / Alibaba Releases Qwen-Image-2.1-Turbo for 8-Step Fast Generation and Editing\n* **Source URL**: `https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo`\n* **Publication / Event Date**: October 9, 2026 (Model weights & diffusers PR released) / October 9–10, 2026 (ComfyUI repackaged weights published)\n* **Verified Facts**:\n  * Alibaba released *Qwen-Image-2.1-Turbo*, an official distilled checkpoint of its 7B visual DiT generator and editing pipeline.\n  * The Turbo checkpoint bakes in an 8-step denoising schedule with default CFG=1 (down from 40 steps in the base model), speeding up inference by 4–5x while maintaining image generation quality.\n  * Supports text-to-image, multi-reference editing (up to 10 context images), RGBA transparency layer generation, subject extraction, and ControlNet integration.\n  * Official Comfy-Org weights (`Comfy-Org/Qwen-Image-2.1`) enable day-0 local workflow execution inside ComfyUI with prefix KV cache reuse.\n* **Relevance to Muki**: Substantive performance upgrade and workflow speedup for local AI-native image production, transparent asset creation, and multi-layer editing.\n* **Duplication Assessment**: Follow-up (Follows up on the Qwen-Image-2.1 base model entry in the 2026-09-30 issue, highlighting the newly published 8-step Turbo distillation release).\n\n---\n\n## Candidate 5: Archive / Long Read / Opportunity\n\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **Title (ZH/EN)**: 英国 Autograph 影像中心启动“Our Bodies that are Unruly”全球摄影征集：以身体为阵地探讨酷儿、离散与女性主义政治 / Autograph Launches 'Our Bodies that are Unruly' Open Call for Photography\n* **Source URL**: `https://autograph.org.uk/open-calls-and-opportunites`\n* **Publication / Event Date**: October 2026 (Open Call published) / Deadline: December 7, 2026 at 10:00 AM GMT\n* **Verified Facts**:\n  * Autograph (London) issued an open call for photographic submissions titled *Our Bodies that are Unruly*.\n  * The call invites lens-based artists and image-makers to submit works exploring how the body interacts with surroundings to challenge power structures, act as a site of resistance, and assert self-definition.\n  * The initiative is directly inspired by Autograph’s current exhibition season, focusing on queer, indigenous, diasporic, and feminist bodily practices.\n  * Selected submissions will be showcased across Autograph's digital platforms and public programs.\n* **Relevance to Muki**: Direct, actionable funding/exhibition opportunity for photography researchers and artists focusing on care, body politics, diaspora, and feminist resistance.\n* **Duplication Assessment**: New (Autograph's open call has not appeared in recent issues).",
+  "citations": [
+    {
+      "title": "mimosahouse.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-MMaAI2RwPWKapXAMssm9TCTKS_lt1JOAsXekkBKh2cqU2597H7RKSO2BbPfyRrxVw3Niae7HEo5L-AsrAycAfZKAUM-QpY9BlIV3kt2RdLmgT1DJqzwMQCUgMkOa"
+    },
+    {
+      "title": "instagram.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX-RJe5NdoSnpRdM6vLijewkouJMQ0-jCUke_dBNfgiWv606EBF45qcEzJYiY0XQ2nWYbiijRLliStde8RqiVi_iNh9ntm9FZI5UjrAuCfxYUtgKEzBUc6Y09oLpgm"
+    },
+    {
+      "title": "contemporarylynx.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP55Tisk-2ZXYg5bN6-qiuCBzJI4N_uzck_MYmDWRulQA2XQt--m-1kebgBqzaYX_37uyxHsvYKhq9coOP4ryhGZ6tblfsUCUoVatb3ec7Zs_tNOnIcuZhDZRgM30cbH9ROu03mMwuRp-G0soYue6klgrI0Q=="
+    },
+    {
+      "title": "tate.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDJ3C9Qc7oC7GdfhL4vTB_dNNl6aFsaVgIb9a5IAEyz6lCHl4DSc8JToeajn_71ZbVZUH9vIuuTrazXGUJ8X3JNRaIc-xrwXcUGU2wjyKrF4cSsQ6DMaJlrAfojNGUpQN_xTTMCxSVxt78dUgL_4lY7ME="
+    },
+    {
+      "title": "tate.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnSvrdt0vrE-Qu_EIrHZ91D0FNWGW-aF1Q34Y9TC9Am3FKsq0B9sAbvQZ6hvkbaQGmOtjqTSvGxu52xXZWXK7XvA9a_-uq-ppF5j46zWuUx2Lb-G5Xf3ozQVxblLhI8tlYeqi2eUtUUXM4ay9CEr9SiTufcFCaKTDHdTcuFa2cX5uN21fcJfxn"
+    },
+    {
+      "title": "tate.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHfMgQYFkh0otNWftziPgN41LPf5OIQYKhMlplCrFLTgka9MEXjzRZDtHrqGCB06SVS_O8rnLO7TK8-kJFbeTa4q1F59gf9M8uA3nk1KnXOtAOL2ZE_0XHUEfH9GGzTwDJJTI83EbuITiFCZOqigH9NLsdVM_42gfhJFpF8YGrO0qtCEGYXVF9GcXWvQ=="
+    },
+    {
+      "title": "litme.events",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt2s1UqZAb5ARw7Poox_6IelHyBUSP92RS392Vv2CtlmX3S0iLNquakKNHRwfd5OrF0r1QPX9XefzUPbRHUk3XDR-vAwDY6M3QETwjpT0uhGR4UO8eq6T2mnPX5BwqWFTO4dzI8l-JbR65_mJl7W8ao2Ph2TVkF_M548aVM_O7NPXCWUGH5-UcA5I="
+    },
+    {
+      "title": "diaart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_pO7l21YyJyFJOeb43f0ILV-Pv-mdWkrzKlYGJjxV7XKHwH-qyvpVBJkd_1tPOQgW0GPKXXWzrPAxGBbWCuH-aRu2JKK200OK7GvZY0zCp3Hrap6gm7Nd_e9Om8r3FWk3nPoui9DAQPEN8YLTKHuRTgOC12aZmC7iHjVZaL7Focy1aXhbx6CVxL7h"
+    },
+    {
+      "title": "k-artnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq9CcN8xLWspcpDqct4tShFU4TxJt1XOrFmWgKsR9q8No5J2GiBv1OURbec4weKQ1ij57Q6rQpWkxT6BgfbUJLAz6gETCZPMT_5_z03T9jFFrb_aXnQwzTcETTcAUR0M_NIjAkCw=="
+    },
+    {
+      "title": "crousel.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq-HuyikqvwCpPB9qlxrIyEYe7uxNB5vJ0-Qh7WJHK-Mx5BPMILmoB4LQ6Ms98tcgDdN6Ahdma48RB2nZdC8o2lx7v9KKDSIGkiUM753qe04Jej5JL9qvJzB4eI-wKUeJ_amSEz69INlb2Yr6gF-q2BImEAp4="
+    },
+    {
+      "title": "kurimanzutto.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7A358vQZOhaaOV0df5W1A7anbwW6c3plIsmYZCt1QI7FDQv1b1PViCUqiX2lvvBCmdCZhbDlicvkQL4olzrPq6CMUp5I4aj1u3-4abbwayesQLiZNtqJbHf0DZCMnoN7OTUhrOrJptAeh3wInwEbxZ1XFXYVd"
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsPZiV-r5vyPYrSjuRp-mmyPTcTsfIhcmi2MwlEUjkjiGEa8NFiLci8HoMAdggL79JaCeLKFFIjthViyV4M65YkHYfJaZnM9GoCeMDH5DiQ8QNVGQXDWdb0wTpTkN5YwOLMK4eqt0="
+    },
+    {
+      "title": "comfyui-wiki.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv4zBgmysbOUJ1B2H0wwarHfGClCJJtN1hlJQDBc3_umNeqtYnpRHJBMjsyqyhGRul7Wio7WKUhmzPQFhc4jGqjeRpURzj8jF7MlPxPjmNjfUTmwH6OmooXymKpVOZrJ8tOEEp6g7ZfnEmeTmEaOlkB8HS1sUM"
+    },
+    {
+      "title": "github.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkI_SWk6QmuFCyVV2RVk_uO-Nw3KMt4szfQB-VRPK_NOCu_Pystbkpkglx2nvvygZXtHXc2tlT7fAQ2bsxf3MlbV9BeYPyHygPgoLQpfJIlXfyJU3xweu2MKilKzYp"
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmNl8dkDPL9ssjKXv6tOjygarOhifjOrTmanS5-ZVF1l6X6kPJiv2biDMJbs7WCgqe1w7QjPGjViOrhB0SvGfArtLOzT8UgvK50rSBKWhXq9QpJBj5WLv1wpctie4snp5E"
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcUEV5Lwv4-7WyauFDT4GPvEGB1PbasPhIKeozY6DOkhw6jkq28hTpV4KIIUhUTj58s0L3GndssfdHRAKywQ7BKai2JxVvk4IWkfWCRn7zewnNmL_pMxEE4E4RIHXCDZbcqhFxXA=="
+    },
+    {
+      "title": "autograph.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtkvdW6K2cMI3NXoRpysz06iGl31_KLF6aRo_hXEAUE4Q68_VCiQz7tnhzHuhHaEwTpICjRlXZFBYQ4kDN3-p6WxukSRKa4SJEZLrCo7l1VZpeZHm6HtnjMMs="
+    },
+    {
+      "title": "fastforward.photography",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbdzSya_rzeA7AFJixYkXlLeHOCkEd2BXpq2FKU2yLMflcZC-0NpHjA79Z304-5I_48cC32MUXhP-1o0OFZPa-6MzX12bh2ojVsaDDdn6bpQPTzFYqTgdzJyj6h5A0rKiqOEQp"
+    },
+    {
+      "title": "autograph.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjDEtr3QcjBKYn7p0MX-4hiMeT9x5yXjd542n3R9-3aroOy4Q2dq_bomNkUuVLMadKbF0-FJp9CyYbO7wtBZzahlX4JkN0aBQ3509Rf54DN7HRJU4="
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-13",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义绘画",
+    "全球画意摄影",
+    "梁慧圭",
+    "尹伊桑档案",
+    "Qwen-Image-Turbo",
+    "身体政治",
+    "暗房媒介考古",
+    "Autograph 招募"
+  ],
+  "why_today": "今天的五条信号展现了历史档案与身体经验如何在不同媒介中被重新激活：从伦敦 Mimosa House 对早期女性主义期刊与壁画空间的活化，到泰特现代美术馆呈现的全球画意摄影网络；从梁慧圭在 Dia Beacon 对韩国流亡作曲家尹伊桑音乐的装置化转译，到阿里开源 Qwen-Image-2.1-Turbo 实现 8 步创意管线。身体既是图像生成的物理阵地，也是回应结构规训的持续信号。",
+  "intro": "本期 Daily Digest 聚焦机构档案活化、跨国影像史与生成式创意工具的效率突破。我们收录了 Mira Schor 英国首个公立机构展、泰特现代美术馆全球画意摄影大展、梁慧圭在 Dia Beacon 的最大规模委任展、阿里 Qwen-Image-2.1-Turbo 蒸馏模型发布，以及 Autograph 针对身体政治的全球摄影征集。",
+  "opening_signal": "在银盐暗房的微光与生成算法的步数之间，身体始终是记录与抵抗的硬核阵地。",
+  "closing_signal": "从 19 世纪暗房中的化学沉淀，到当下本地 GPU 上的蒸馏步数，图像技术不断演变，但创作者借助身体与档案向现实发问的核心机制并未改变。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Mimosa House 举办 Mira Schor 英国首个公立机构个展《WET/London》：以身体与文字重构女性主义绘画政治",
+      "title_en": "Mimosa House Presents Mira Schor's First UK Institutional Solo Exhibition 'WET/London'",
+      "summary_zh": "伦敦 Mimosa House 推出美国艺术家与评论家 Mira Schor 的英国首个公立机构个展《WET/London》。展览由 Daria Han 策展，集中展示 Schor 从 1970 年代至今的绘画、手稿与文献。展品包括其早期在加州艺术学院女性主义艺术项目期间的作品，以及与 Susan Bee 联合创办的女性主义艺术期刊《M/E/A/N/I/N/G》档案。Schor 还为展厅 6 米高的壁炉墙面创作了一幅场域特定壁画，将家庭建筑元素转化为公共讨论空间。",
+      "summary_en": "London's Mimosa House hosts 'WET/London', the first UK institutional solo exhibition of American artist Mira Schor. The show features historic and recent works alongside a site-specific mural painted directly onto the gallery's fireplace wall.",
+      "why_muki_cares": "展览展示了如何将女性主义绘画、独立艺术期刊档案与展厅空间相结合，对研究女性主义视觉文化与艺术批评档案的活化具有直接参考价值。",
+      "editorial_signal": "展出将 1970 年代加州艺术学院的女性主义教育实践、独立期刊档案与现场壁画创作相结合，呈现了非营利艺术空间处理历史文献的具体路径。",
+      "theme_tags": [
+        "Mira Schor",
+        "Mimosa House",
+        "女性主义绘画",
+        "M/E/A/N/I/N/G",
+        "CalArts",
+        "艺术批评",
+        "独立出版",
+        "空间政治"
+      ],
+      "source_name": "Mimosa House",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-MMaAI2RwPWKapXAMssm9TCTKS_lt1JOAsXekkBKh2cqU2597H7RKSO2BbPfyRrxVw3Niae7HEo5L-AsrAycAfZKAUM-QpY9BlIV3kt2RdLmgT1DJqzwMQCUgMkOa",
+      "publication_date": "2026-10-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "泰特现代美术馆开幕全球画意摄影大展《光与魔法》：以 200 余幅暗房原作重构跨国摄影史",
+      "title_en": "Tate Modern Presents 'Light and Magic: The Birth of Art Photography' Exploring Global Pictorialism",
+      "summary_zh": "泰特现代美术馆公布画意摄影展《光与魔法》，由 Charmaine Toh 与 Genevieve Barton 联合策展。展览梳理 1880 年代至 1960 年代全球画意摄影运动，展出跨越首尔、上海、新加坡、悉尼、开普敦等地的 80 多位艺术家、200 余幅暗房银盐原作。重点作品包含郎静山、何藩、罗伯年等东亚画意摄影代表，并呈现上海光社与新加坡摄影学会等社团的档案文献。展厅内设置了可运作的暗房。",
+      "summary_en": "Tate Modern announces 'Light and Magic: The Birth of Art Photography', bringing together over 200 vintage prints from Asia, Africa, and the Americas to trace the global network of Pictorialism from the 1880s through the 1960s.",
+      "why_muki_cares": "展览呈现了东亚及全球南方在画意摄影时期的暗房实践与社团网络，对研究早期摄影化学媒介性与跨国影像史提供了具体素材。",
+      "editorial_signal": "梳理画意摄影的全球传播网络，将暗房化学工艺与摄影社团文献并置，展现东亚早期的视觉探索。",
+      "theme_tags": [
+        "泰特现代美术馆",
+        "画意摄影",
+        "暗房工艺",
+        "郎静山",
+        "何藩",
+        "罗伯年",
+        "上海光社",
+        "摄影史研究"
+      ],
+      "source_name": "Tate Modern",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDJ3C9Qc7oC7GdfhL4vTB_dNNl6aFsaVgIb9a5IAEyz6lCHl4DSc8JToeajn_71ZbVZUH9vIuuTrazXGUJ8X3JNRaIc-xrwXcUGU2wjyKrF4cSsQ6DMaJlrAfojNGUpQN_xTTMCxSVxt78dUgL_4lY7ME=",
+      "publication_date": "2026-10-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "梁慧圭最大规模美国委任展《Through》于 Dia Beacon 开幕：以“五行”与尹伊桑音乐贯穿上下双层建筑",
+      "title_en": "Haegue Yang's Largest US Commission 'Through' Opens at Dia Beacon",
+      "summary_zh": "韩国艺术家梁慧圭（Haegue Yang）的美国委任展《Through》在纽约 Dia Beacon 开幕，由 Jordan Carter 与 Min Sun Jeon 联合策展。这是 Dia Beacon 首次有艺术家贯通主展厅与地下两层建筑结构进行创作。梁慧圭引入东亚“五行”思想与方位色彩，映射展厅物理空间的明暗差异；同时结合对流亡作曲家尹伊桑（Isang Yun）的档案研究，将其 1968 年的弦乐四重奏《Images》转译为贯穿展厅的动态装置与声音作品。",
+      "summary_en": "South Korean artist Haegue Yang presents 'Through' at Dia Beacon, connecting ground and subterranean levels through East Asian Five Phases spatial theory and a multi-sensory reinterpretation of composer Isang Yun's music.",
+      "why_muki_cares": "梁慧圭将东亚哲学概念与政治流亡音乐家的档案相结合，通过跨媒介装置重新激活特定工业建筑空间，为地缘政治研究与声音-空间策展提供了有力范例。",
+      "editorial_signal": "将东亚五行方位论与政治流亡者的音乐档案结合，贯通了展示空间的地面与地下层。",
+      "theme_tags": [
+        "梁慧圭",
+        "Dia Beacon",
+        "尹伊桑",
+        "五行思想",
+        "东亚当代艺术",
+        "跨媒介装置",
+        "声音档案",
+        "空间策展"
+      ],
+      "source_name": "Dia Art Foundation",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_pO7l21YyJyFJOeb43f0ILV-Pv-mdWkrzKlYGJjxV7XKHwH-qyvpVBJkd_1tPOQgW0GPKXXWzrPAxGBbWCuH-aRu2JKK200OK7GvZY0zCp3Hrap6gm7Nd_e9Om8r3FWk3nPoui9DAQPEN8YLTKHuRTgOC12aZmC7iHjVZaL7Focy1aXhbx6CVxL7h",
+      "publication_date": "2026-10-10",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "阿里开源 Qwen-Image-2.1-Turbo 蒸馏扩散模型：8 步去噪实现高精图像生成与多参考图编辑",
+      "title_en": "Alibaba Releases Qwen-Image-2.1-Turbo for 8-Step Fast Generation and Editing",
+      "summary_zh": "阿里开源了 Qwen-Image-2.1-Turbo 蒸馏扩散模型。作为 7B 视觉 Transformer 模型（DiT）的官方蒸馏版本，Turbo 模型将去噪步数从原本的 40 步压缩至 8 步（默认 CFG=1），使推理速度提升 4 至 5 倍。模型继承了文生图、多参考图编辑（最多支持 10 张上下文图像）、RGBA 原生透明通道生成以及图层分离能力。ComfyUI 官方已同步推出适配节点，支持本地工作流中的前缀 KV 缓存复用。",
+      "summary_en": "Alibaba released Qwen-Image-2.1-Turbo, an 8-step distilled 7B DiT model that boosts inference speed by up to 5x while preserving multi-reference editing and native RGBA transparency generation in local ComfyUI workflows.",
+      "why_muki_cares": "去噪步数缩减提升了本地高精图像生成与分层编辑的响应速度，对于 AI 原生视觉创作与工作流加速有直接参考价值。",
+      "editorial_signal": "扩散模型通过蒸馏技术实现 8 步高精渲染，在保留多图上下文一致性与 RGBA 通道控制的同时，降低了本地硬件的推理开销。",
+      "theme_tags": [
+        "Qwen-Image",
+        "模型蒸馏",
+        "ComfyUI",
+        "RGBA通道",
+        "AI工作流",
+        "多参考图编辑",
+        "开源模型",
+        "DiT"
+      ],
+      "source_name": "Hugging Face / Qwen Team",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsPZiV-r5vyPYrSjuRp-mmyPTcTsfIhcmi2MwlEUjkjiGEa8NFiLci8HoMAdggL79JaCeLKFFIjthViyV4M65YkHYfJaZnM9GoCeMDH5DiQ8QNVGQXDWdb0wTpTkN5YwOLMK4eqt0=",
+      "publication_date": "2026-10-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "英国 Autograph 影像中心启动“Our Bodies that are Unruly”全球摄影征集：以身体为阵地探讨酷儿、离散与女性主义政治",
+      "title_en": "Autograph Launches 'Our Bodies that are Unruly' Open Call for Photography",
+      "summary_zh": "伦敦 Autograph 影像中心启动题为“Our Bodies that are Unruly”的全球摄影与动态影像征集。项目呼应 Autograph 当前关于酷儿、原住民、离散与女性主义身体实践的展览季，面向全球艺术家征集以身体回应权力结构与自我塑造的视觉作品。入选作品将在 Autograph 的数字平台及公共项目中集中呈现。征集截止时间为 GMT 时间 2026 年 12 月 7 日 10:00。",
+      "summary_en": "London-based photography agency Autograph has launched an open call titled 'Our Bodies that are Unruly', inviting photography and moving-image artists to submit work exploring body politics, resistance, and identity.",
+      "why_muki_cares": "这是一个聚焦身体政治、离散体验与女性主义实践的国际公开征集项目，为研究型创作者提供了具体的展示渠道与公共对话平台。",
+      "editorial_signal": "机构通过公开征集的方式支持针对身体规训与离散身份的视觉实践，推动反向档案与边缘经验的公共传播。",
+      "theme_tags": [
+        "Autograph",
+        "身体政治",
+        "女性主义视觉",
+        "酷儿研究",
+        "离散叙事",
+        "摄影资助",
+        "公开招募",
+        "影像抵抗"
+      ],
+      "source_name": "Autograph",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtkvdW6K2cMI3NXoRpysz06iGl31_KLF6aRo_hXEAUE4Q68_VCiQz7tnhzHuhHaEwTpICjRlXZFBYQ4kDN3-p6WxukSRKa4SJEZLrCo7l1VZpeZHm6HtnjMMs=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture Signal",
+    "title": "泰特现代美术馆开幕全球画意摄影大展《光与魔法》：以 200 余幅暗房原作重构跨国摄影史",
+    "why_muki_may_care": "展览未局限于欧美的传统视角，系统梳理了上海光社、新加坡摄影学会等东亚与跨国摄影俱乐部的暗房档案，为研究早期摄影媒介史和跨国网络提供了重要的一手参考。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDJ3C9Qc7oC7GdfhL4vTB_dNNl6aFsaVgIb9a5IAEyz6lCHl4DSc8JToeajn_71ZbVZUH9vIuuTrazXGUJ8X3JNRaIc-xrwXcUGU2wjyKrF4cSsQ6DMaJlrAfojNGUpQN_xTTMCxSVxt78dUgL_4lY7ME="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "ComfyUI 框架常规代码修补（仅保留 Qwen 官方 8 步蒸馏模型的重磅功能更新）"
+  ],
+  "covered_entities": [
+    "Mimosa House",
+    "Tate Modern",
+    "Dia Art Foundation",
+    "Alibaba Qwen Team",
+    "Autograph"
+  ],
+  "repetition_notes": "本期收录的 5 项信号中，有 4 项为全新信号（New）。其中，对 Qwen-Image-2.1-Turbo 的追踪是对 2026-09-30 简报中 Qwen-Image-2.1 模型发布后的跟进（Follow-up），聚焦于官方最新发布的 8 步蒸馏加速突破及其在 ComfyUI 本地工作流中的落地。",
+  "issue_number": 80
+}
