@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-14",
+  "search_window": "30d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义策展",
+    "原住民物质文化",
+    "巴尔的摩摄影史",
+    "反向档案",
+    "M+博物馆",
+    "东亚媒介考古",
+    "ComfyUI工作流",
+    "女性摄影资助"
+  ],
+  "why_today": "今天的文化信号聚焦于机构如何通过展览与工具重构被遗忘的视觉档案与关护传统。布鲁克林博物馆 Sackler 中心从霍皮女性视角审视卡奇纳木偶，巴尔的摩艺术博物馆系统呈现两百年城市街头与民权影像，M+ 博物馆启动东亚奇幻视觉的媒介考古；同时，ComfyUI v0.39.2 带来实用的节点更新，PhMuseum 则开启了针对女性与非二元创作者的资助招募。",
+  "intro": "本期简报收录 5 项文化与技术信号。我们关注女性主义艺术中心对人类学馆藏的去殖民重构、地方摄影史中的社区自我表征、东亚怪兽与赛博格形象背后的媒介社会心理，以及开源创意工具在具体制作环节中的功能延伸。",
+  "opening_signal": "当人类学馆藏与社区档案重新由接受者和照护者讲述，图像便不再只是被观看的静物，而是进入具体的日常网络。",
+  "closing_signal": "无论是在公立美术馆中重新整理两百年的城市照片，还是在本地工作流里搭建可控的图像节点，核心都在于建立一套能够长期使用的记录与生产工具。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "布鲁克林博物馆 Sackler 中心开幕霍皮卡奇纳木偶展：首次从女性视角重构原住民物质文化与关护传统",
+      "title_en": "Brooklyn Museum Center for Feminist Art Presents 'Hopi Kachina Dolls: Blessings for a Balanced World'",
+      "summary_zh": "布鲁克林博物馆伊丽莎白·A·萨克勒女性主义艺术中心开幕特展《霍皮卡奇纳木偶：平衡世界的祝福》。展览展出 120 余件作品，包括 53 件卡奇纳木偶（tithu）、篮织、陶瓷与视频访谈。在霍皮族文化中，女性与女孩是卡奇纳木偶的主要接受者与保管者，但在过去的人类学展示中常被忽略。本次展览首次以霍皮女性视角呈现该物质文化与社区关护传统。",
+      "summary_en": "The Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum presents an exhibition exploring Hopi kachina dolls (tithu) through the perspectives of Hopi girls and women. Featuring over 120 objects, the show highlights women's traditional roles as recipients and stewards of these cultural items.",
+      "why_muki_cares": "展览提供了一个结合原住民物质文化与女性主义关护研究的样本。萨克勒中心借此重新审视人类学馆藏，展示了女性主义策展干预馆藏分类与展览陈列的具体方法。",
+      "editorial_signal": "女性主义视角对人类学馆藏的去殖民重构与社区关护传统活化。",
+      "theme_tags": [
+        "布鲁克林博物馆",
+        "萨克勒女性主义艺术中心",
+        "霍皮族",
+        "卡奇纳木偶",
+        "物质文化",
+        "原住民艺术",
+        "去殖民策展",
+        "社区关护"
+      ],
+      "source_name": "Brooklyn Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK0vLMgaC80ZIcvizaHke5rEiegJsttKO3np1ovR0bP1KsgvSG2Kl_TyTARUI8kAMbB7ZtOEuK_c_uqv5Ue2qtPDAEOgr_rxVfLLy9j2ZNw9s81aa8coy39PppTXJha1ya2I3E374JO2nDeYob",
+      "publication_date": "2026-10-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "巴尔的摩艺术博物馆开幕摄影两百年特展：以 200 余幅作品呈现城市影像中的自我表征与社区记录",
+      "title_en": "Baltimore Museum of Art Opens 'Flashback: Two Centuries of Baltimore Photography'",
+      "summary_zh": "巴尔的摩艺术博物馆开幕展览《Flashback：巴尔的摩摄影两百年》，首次系统梳理 1840 年至今巴尔的摩在摄影史中的角色。展览呈现 90 位摄影师及历史照相馆的 200 余幅作品，涵盖肖像照相馆、民权运动现场记录及基层街头摄影。此外，博物馆通过公开招募遴选出 12 位当代基层摄影师的作品，在展厅及社区市场同步展出。",
+      "summary_en": "The Baltimore Museum of Art opens its first comprehensive survey of local photography from 1840 to the present, featuring over 200 works by 90 artists. The exhibition connects historical studio portraiture and Civil Rights documentation with contemporary grassroots photography.",
+      "why_muki_cares": "展览将地方摄影史与社区自我表征结合，展现了摄影作为社会记录与地方反向档案的工具价值。博物馆将基层招募作品引入主展厅与公共空间的做法，也提供了可参考的社区策展案例。",
+      "editorial_signal": "地方摄影史的抗争记录与基层影像的反向档案实践。",
+      "theme_tags": [
+        "巴尔的摩艺术博物馆",
+        "摄影史",
+        "民权运动",
+        "肖像摄影",
+        "街头摄影",
+        "反向档案",
+        "社区策展",
+        "公开招募"
+      ],
+      "source_name": "Baltimore Museum of Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf2gh__u9lqz9AlTA2YQkHRBAwqXn-CNNvSrkydmMElVMp59Kw2DOmqCSnLF1nHlTgxlp8sHWUGAu1SPz4RFtKS5sKZRvaYTWivcHoLvrDhBQtu_khSgVWyaWC908qWBIlY_0rKsoroCYpKBPgFemi72AV6U6POECO5-9qpuZqUskkUaojBBW9ef7Bm7-A2R2VOrGW6rB3RMON6JI8Hdn53pr_PyE3xKhyyPfTO7lS8a089W1VCJvQ_jMzxTNy4WZ0",
+      "publication_date": "2026-10-04",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "香港 M+ 视觉文化博物馆即将开幕亚洲幻想艺术展：汇集 400 余件作品探讨 200 年东亚奇幻视觉与社会变迁",
+      "title_en": "M+ Museum in Hong Kong Announces 'Myths and Monsters: The Art of Fantasy in Asia'",
+      "summary_zh": "香港 M+ 视觉文化博物馆即将推出特展《神话与怪兽：亚洲幻想艺术》，呈现过去 200 年间亚洲视觉文化中神话与超自然形象的演变。展览集中展现 400 余件跨媒介作品，涵盖视觉艺术、建筑、流行时尚、电影、漫画与数字游戏。核心板块探索民俗怪兽、亚洲对超现实主义的响应、战后流行文化中的技术焦虑以及当代虚拟化身。",
+      "summary_en": "M+ in Hong Kong presents a major survey tracing the evolution of fantasy and supernatural imagery in Asian visual culture over the past two centuries. The exhibition features more than 400 cross-media works, exploring how mythical figures and monsters reflect societal transformations and technological anxiety.",
+      "why_muki_cares": "展览呈现了一场关于东亚奇幻视觉的媒介考古，探讨妖怪与赛博格形象如何作为社会变迁、技术焦虑及身份流动性的表达载体，为研究东亚视觉文化与跨媒介叙事提供了系统参考。",
+      "editorial_signal": "东亚奇幻形象与赛博格视觉的媒介考古及社会心理映射。",
+      "theme_tags": [
+        "M+博物馆",
+        "视觉文化",
+        "媒介考古",
+        "东亚当代艺术",
+        "超现实主义",
+        "赛博格",
+        "流行文化",
+        "香港"
+      ],
+      "source_name": "M+ Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHi6OiC21nT46Was3jFzFkqddrI6bIwFgdiQcv7vBEisTLKGRw29f1kzYugYBBLpke0BBsbyvmQXIWz3Fk1ANBbegmaYpycCxoeTIpKl0htkSlsio7WMRjBT3QrnGTx0MTJ4LvqOKNOndiPmC2p8zLCY5hT-qRbRnkRPXXjNRoV0rjuC1DJ4TogIUR",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 发布 v0.39.2 更新：集成 Kling 虚拟试衣、Clarity AI 高倍放大与 Vidu Q4 音画同步视频节点",
+      "title_en": "ComfyUI Releases v0.39.2 with Kling Virtual Try-On, Clarity AI 200x Upscaler, and Vidu Q4 Video Nodes",
+      "summary_zh": "Comfy Org 发布 ComfyUI v0.39.2 版本更新，在其节点化扩散模型工作流引擎中接入多项合作方节点。新版本引入 Kling 虚拟试衣节点（在保持面部与姿态一致的前提下替换服装）、Clarity AI Crystal 200 倍超级放大节点（带细节重建控制滑块），以及 Vidu Q4 预览节点（支持图生视频与参考图生成视频，并输出同步音频）。",
+      "summary_en": "ComfyUI v0.39.2 introduces key partner nodes for Kling Virtual Try-On, Clarity AI 200x upscaling, and Vidu Q4 audio-synced video generation. The update expands local node-graph workflows for fashion design, image enhancement, and video production.",
+      "why_muki_cares": "这是对 ComfyUI 模块化生态的跟进。新接入的虚拟试衣、高倍放大与音画同步视频生成节点，进一步提升了开源节点工作流在数字服装设计与高清图像修复中的实用度。",
+      "editorial_signal": "本地节点化 AI 工作流在数字时尚、超高清修复与音画同步领域的实用化拓展。",
+      "theme_tags": [
+        "ComfyUI",
+        "开源 AI",
+        "扩散模型",
+        "虚拟试衣",
+        "图像放大",
+        "音画同步",
+        "创意技术",
+        "本地工作流"
+      ],
+      "source_name": "Comfy Org",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNH7z2qTtQ_w4cs7j_P-HUU0ivedxsvpjUHkuMDC7A4y6lQf33vHehiGwFJv_sAtQbJmyZmn0yTN0YKTGZrd7ovaZVluOKr8bJWk4u2M6akLhcFpD9qQ==",
+      "publication_date": "2026-10-08",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "PhMuseum 启动第十届女性摄影师资助计划：设立 1 万欧元现金奖与博洛尼亚个展支持女性及非二元创作者",
+      "title_en": "PhMuseum Launches 10th Edition of Women Photographers Grant",
+      "summary_zh": "PhMuseum 启动第 10 届女性摄影师资助计划（Women Photographers Grant），面向处于不同职业阶段的女性与非二元摄影创作者开放。本届奖项设立 10,000 欧元现金奖金、两项 MPB 特别提名奖（各 2,500 欧元器材券），以及 2027 年 6 月在博洛尼亚 PhMuseum Lab 举办个人展览的机会（含制作费、交通与住宿支持），截止日期为 2026 年 10 月 15 日。",
+      "summary_en": "PhMuseum has launched the 10th edition of its Women Photographers Grant to support female and non-binary visual storytellers. The grant offers €10,000 in cash prizes, exhibition opportunities, equipment vouchers, and publication features.",
+      "why_muki_cares": "该资助项目长期支持女性与非二元视觉创作者的叙事摄影实践。它不仅提供直接资金与器材补贴，还包含展览制作与出版合作，是一个值得持续关注的制度性支持渠道。",
+      "editorial_signal": "针对女性与非二元视觉叙事者的国际资助与机构展览扶持。",
+      "theme_tags": [
+        "PhMuseum",
+        "女性摄影师",
+        "摄影资助",
+        "非二元艺术家",
+        "公开招募",
+        "视觉叙事",
+        "艺术驻留",
+        "博洛尼亚"
+      ],
+      "source_name": "PhMuseum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAt9AACKWx_W4-LKNqeqlKsoBlYrmWvBSzYrabCbLQFKdaL-Vg55czfMGraqcq0AG2r_44YIGhkzc0JV0brUQSsCAQAWguxQJ-GpdgCYp_iEo8StzLku-mT-sSep9OOBu7nin5-kkOYJ09mVlDOn6B",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Exhibition & Institutional Practice",
+    "title": "布鲁克林博物馆 Sackler 女性主义艺术中心开幕《霍皮卡奇纳木偶：平衡世界的祝福》",
+    "why_muki_may_care": "展览首次从霍皮族女性与女孩的接受者与保管者视角，重构卡奇纳木偶这一物质文化，展现了女性主义策展如何干预人类学馆藏与去殖民展示。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK0vLMgaC80ZIcvizaHke5rEiegJsttKO3np1ovR0bP1KsgvSG2Kl_TyTARUI8kAMbB7ZtOEuK_c_uqv5Ue2qtPDAEOgr_rxVfLLy9j2ZNw9s81aa8coy39PppTXJha1ya2I3E374JO2nDeYob"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "排除候选：近期已有类似探讨的算法图像生成工具新闻，因缺乏对实际工作流的改进而未予收录。"
+  ],
+  "covered_entities": [
+    "Brooklyn Museum",
+    "Baltimore Museum of Art",
+    "M+ Museum",
+    "Comfy Org",
+    "PhMuseum"
+  ],
+  "repetition_notes": "本期收录的 5 项信号中，有 4 项为全新信号（New）。对 ComfyUI v0.39.2 的追踪是对 2026-10-09 简报中 ComfyUI v0.39 版本迭代的持续跟进（Follow-up），聚焦于新接入的虚拟试衣、高倍放大与音画同步合作节点在实际创意工作流中的落地。",
+  "issue_number": 81
+}

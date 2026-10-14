@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-14",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Issue 081 Evidence Dossier\n\n**Search Window Used**: 30 Days (Expanded to capture recent autumn exhibition openings, primary institution announcements, and open-call deadlines).\n\n---\n\n### Candidate 1: Feminist Structure Signal\n\n* **Proposed Section**: Feminist Structure Signal\n* **Title**: Brooklyn Museum Center for Feminist Art Presents *Hopi Kachina Dolls: Blessings for a Balanced World* / 布鲁克林博物馆 Sackler 女性主义艺术中心开幕《霍皮卡奇纳木偶：平衡世界的祝福》：首次从女性与女孩视角重构印第安卡奇纳物质文化与关护传统\n* **Source URL**: `https://www.brooklynmuseum.org/exhibitions/hopi_kachina_dolls`\n* **Publication / Event Date**: October 2, 2026 – June 27, 2027\n* **Verified Facts**: \n  * The Elizabeth A. Sackler Center for Feminist Art at the Brooklyn Museum opened *Hopi Kachina Dolls: Blessings for a Balanced World*, marking the first exhibition to examine the Hopi kachina doll (*tithu*) tradition specifically from the perspective of Hopi girls and women.\n  * Organized by guest curator Colleen Lucero (Managing Director of the Hopivewat Learning Center), Nancy B. Rosoff (Senior Curator of Arts of the Americas), and Dare Turner (Curator of Indigenous Art).\n  * In Hopi culture, infants, girls, and women are the primary recipients of *tithu*—carved cottonwood figures representing *Katsinam* (spirits who bring rain and maintain cosmic balance)—yet their voices and stewardship roles were historically omitted from colonial publications and ethnographic displays.\n  * Features over 120 works spanning the 19th century to the present, including 53 *tithu* from the museum's collection alongside contemporary Hopi baskets, jewelry, ceramics, and video interviews.\n* **Relevance to Muki**: Reframes Indigenous visual material culture and spiritual practice through gendered care and rematriation, demonstrating how a feminist art center can challenge ethnographic museum canons by centering female recipients and stewards.\n* **Duplication Assessment**: New story. Not previously covered in recent issues.\n\n---\n\n### Candidate 2: Visual Culture Signal\n\n* **Proposed Section**: Visual Culture Signal\n* **Title**: Baltimore Museum of Art Opens *Flashback: Two Centuries of Baltimore Photography* / 巴尔的摩艺术博物馆开幕《Flashback：巴尔的摩摄影两百年》：以 200 余幅作品呈现城市影像中的自我表征、街头抗争与社区关护\n* **Source URL**: `https://artbma.org/press/release/bma-to-open-first-comprehensive-survey-exploring-baltimores-pivotal-role-in-the-evolution-of-photography/`\n* **Publication / Event Date**: October 4, 2026 – February 21, 2027\n* **Verified Facts**: \n  * The Baltimore Museum of Art (BMA) opened *Flashback: Two Centuries of Baltimore Photography*, the first comprehensive survey exploring Baltimore's role in photo history from 1840 to the present.\n  * Features over 200 photographs by 90 named artists and historic photo studios, including A. Aubrey Bodine, Roland L. Freeman, Devin Allen, Elle Pérez, Carl Clark, and SHAN Wallace.\n  * The exhibition highlights photo studio portraiture, Civil Rights demonstrations photographed from inside crowds, and grassroots street photography as tools for self-representation, civic engagement, and community memory.\n  * Includes a citywide Open Call selection of 12 contemporary grassroots photographers whose works are projected within the museum galleries and at BMA Lexington Market.\n* **Relevance to Muki**: Demonstrates photography's capacity as a social technology of care and local counter-archiving, bridging institutional museum holdings with grassroots urban visual practice.\n* **Duplication Assessment**: New story. Not previously covered in recent issues.\n\n---\n\n### Candidate 3: China / East Asia Signal\n\n* **Proposed Section**: China / East Asia Signal\n* **Title**: M+ Museum in Hong Kong Announces *Myths and Monsters: The Art of Fantasy in Asia* / 香港 M+ 视觉文化博物馆即将开幕《神话与怪兽：亚洲幻想艺术》：汇集 400 余件跨媒介作品探讨 200 年东亚奇幻视觉与社会变迁\n* **Source URL**: `https://www.mplus.org.hk/en/exhibitions/myths-and-monsters-the-art-of-fantasy-in-asia/`\n* **Publication / Event Date**: Opening October 17, 2026 – April 4, 2027 (Press previews and opening talk announced October 6–9, 2026).\n* **Verified Facts**: \n  * M+ presents *Myths and Monsters: The Art of Fantasy in Asia*, a major survey tracing the evolution of fantasy and supernatural imagery in Asian visual culture over the past 200 years.\n  * Encompasses more than 400 works across visual art, architecture, fashion, film, manga, anime, and digital gaming.\n  * Key thematic sections include *Spirits Among Us* (folkloric monsters and spiritual belief), *Strange Realities* (Asian responses to European Surrealism and social trauma), *From Godzilla to Ghost in the Shell* (postwar mass media and technological anxiety), and contemporary virtual avatars.\n  * Debuts a newly commissioned site-specific mural *Fear Catcher* (2026) by Hong Kong artist Oscar Chan Yik Long inspired by Zhong Kui, alongside works by Ayoung Kim, Lawrence Lek, Cao Fei, Koga Harue, and Takashi Murakami.\n* **Relevance to Muki**: Provides a sweeping East Asian media archaeology of how fantastical visual forms, monsters, and cyborgs serve as lenses for navigating war, urban upheaval, gender/identity fluidity, and technological anxiety.\n* **Duplication Assessment**: New story. Not previously covered in recent issues.\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **Title**: ComfyUI Releases v0.39.2: Integrating Kling Virtual Try-On, Clarity AI 200x Upscaler, and Vidu Q4 Audio-Synced Video Nodes / ComfyUI 发布 v0.39.2 更新：集成 Kling 虚拟试衣、Clarity AI 200倍超级放大与 Vidu Q4 音画同步视频生成节点\n* **Source URL**: `https://docs.comfy.org/changelog`\n* **Publication Date**: October 8, 2026\n* **Verified Facts**: \n  * Comfy Org released ComfyUI v0.39.2, introducing several partner node updates into its node-based diffusion workflow engine.\n  * Includes *Kling Virtual Try-On* (dressing characters from target garment images while maintaining facial and pose fidelity), *Clarity AI Crystal Upscaler* (image upscaling up to 200x with detail reconstruction sliders), and *Vidu Q4 Preview* (image-to-video and reference-to-video generation with 540p-4K resolution and synchronized audio output).\n  * Added *Quiver SVG V2* nodes for text-to-vector and image-to-vector generation.\n* **Relevance to Muki**: Extends local node-graph creative production capabilities for digital fashion design, ultra-high-resolution image restoration, and video generation directly within modular AI workflows.\n* **Duplication Assessment**: Follow-up. Follows up on ComfyUI v0.39.0/v0.39.1 tracked in Issue 2026-10-09, focusing specifically on the new v0.39.2 partner node integrations for virtual try-on, 200x upscaling, and synced video.\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **Title**: PhMuseum Launches 10th Edition of Women Photographers Grant 2026 / PhMuseum 启动第十届女性摄影师资助计划：设立 1 万欧元现金奖与博洛尼亚个展支持女性及非二元摄影创作者\n* **Source URL**: `https://phmuseum.com/grants/2026-women-photographers-grant`\n* **Publication / Deadline Date**: Deadline October 15, 2026\n* **Verified Facts**: \n  * PhMuseum launched the 10th edition of its Women Photographers Grant to support female and non-binary photographers across all stages of their career.\n  * Awards €10,000 in direct cash prizes, plus two MPB Special Mentions (€2,500 gear vouchers each), a solo exhibition at PhMuseum Lab in Bologna in June 2027 (including production, travel, and accommodation), features in *Vogue Italia* and *Nineteen Hundred Magazine*, projections at PhotoVogue Festival 2027, and 9 online portfolio reviews.\n  * The 2026 independent jury includes Elisa Medde (Editor/Curator), Mariela Sancari (Photographer), Yagazie Emezi (Artist/Photojournalist), and Myriam Boulos (Photographer).\n* **Relevance to Muki**: Direct, high-quality opportunity for female and non-binary visual creators and researchers focused on gender equity, narrative photography, and exhibition production.\n* **Duplication Assessment**: New story. Not previously covered in recent issues.\n\n---\n\n### Section Coverage Summary\n\n* **Feminist Structure Signal**: Brooklyn Museum Center for Feminist Art (*Hopi Kachina Dolls*)\n* **Visual Culture Signal**: Baltimore Museum of Art (*Flashback: Two Centuries of Baltimore Photography*)\n* **China / East Asia Signal**: M+ Museum Hong Kong (*Myths and Monsters: The Art of Fantasy in Asia*)\n* **AI Research / Creative Tech Signal**: ComfyUI v0.39.2 Release (Kling Try-On, Clarity Upscaler, Vidu Q4 Video)\n* **Archive / Long Read / Opportunity**: PhMuseum 2026 Women Photographers Grant\n\n*All 5 editorial sections are fully satisfied with verifiable primary-source candidates.*",
+  "citations": [
+    {
+      "title": "brooklynmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK0vLMgaC80ZIcvizaHke5rEiegJsttKO3np1ovR0bP1KsgvSG2Kl_TyTARUI8kAMbB7ZtOEuK_c_uqv5Ue2qtPDAEOgr_rxVfLLy9j2ZNw9s81aa8coy39PppTXJha1ya2I3E374JO2nDeYob"
+    },
+    {
+      "title": "brooklynmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9FYT7c-spZNV-KdAFcz_Qq8nX_r8VxzQyZf9zZ4fpRlzFmI1m5f5wepTQ5Y5UG5Vh_GZk-NyX8Wd8I27lmKVmkFm7u_qZJWiI0fKis24fLI4I8RFYXNdGnKzBVsN95LBA5WOGk6BNcB6yRLBw9xguVEo="
+    },
+    {
+      "title": "brooklynmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5P8VAPYv4vhImFgneVtYnSJBqa8sLJB36xB2rqs57KtOlc1iGa40nG0irc5i9ffa50tKp8juVpbPwriW9RIL7ffVTCb838jCkHYq3PR2ZZRF9pNqczhn9hHNA9aRRuUMnWqr2Frz1MopKOVYKghEdnpzrKG6oYKJgqRpDEAE7qNc58M8M7wXdAsDrRROFOsNbOsClE4iGVg=="
+    },
+    {
+      "title": "artbma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf2gh__u9lqz9AlTA2YQkHRBAwqXn-CNNvSrkydmMElVMp59Kw2DOmqCSnLF1nHlTgxlp8sHWUGAu1SPz4RFtKS5sKZRvaYTWivcHoLvrDhBQtu_khSgVWyaWC908qWBIlY_0rKsoroCYpKBPgFemi72AV6U6POECO5-9qpuZqUskkUaojBBW9ef7Bm7-A2R2VOrGW6rB3RMON6JI8Hdn53pr_PyE3xKhyyPfTO7lS8a089W1VCJvQ_jMzxTNy4WZ0"
+    },
+    {
+      "title": "artbma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqfXyN_56dNvG_K8ZIQn4Yael99reAMW-37Gpt7kTcywkFlOgq6_prevoxjeYVwb-JqUFBFRoVnn7HWFdbd1WzU2IM9EFDXQ24SgDFBQqgzDCxooNc7JA01Dl2aNwzlF4nFAmnkBlqeVyVeoNG7D8cp4J7l9twVuaCcqweEnvkqp1mV21Iy2Q953QXJ-hhi5FpsB5pYygHGEJOHhNlvGo4_sDCTccZ1OJU7T92cO8BRPvXDOLPiWHvyiZJYFfKA4="
+    },
+    {
+      "title": "artbma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEps66Ht6NaOZYrZT1bHHOTa7VO0NNrHL7MiJd14mnFo7u_8SqD9rRhHYzOmpVNer81tsk0whwCo7i5_WxsAPkHsiaDJ4-4tBD6Uc_Z_P9uuDdz2aGPWsQmRZ4LKLC84DmrVg-WuIHuU8aY5rvPFqGXGDkSopFnlgkogyePX0NqcVOvTe6mKv5EKIzYJs6lSXjZLMNyJr8Kv2J8"
+    },
+    {
+      "title": "artbma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTzqXvBbW7nN_iroltmnV9Ck-tnl2WK-o_Oda8P6htwMGSULniS67EvFMhA6KbzEX-daMkOSoWj9pa7ZQaZiyTUbNfkq-OCY7spJYrMktuY5mdc6aklMZHtVygf4F0Xq_hqEee6Zdt127Sxeh2"
+    },
+    {
+      "title": "mplus.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHi6OiC21nT46Was3jFzFkqddrI6bIwFgdiQcv7vBEisTLKGRw29f1kzYugYBBLpke0BBsbyvmQXIWz3Fk1ANBbegmaYpycCxoeTIpKl0htkSlsio7WMRjBT3QrnGTx0MTJ4LvqOKNOndiPmC2p8zLCY5hT-qRbRnkRPXXjNRoV0rjuC1DJ4TogIUR"
+    },
+    {
+      "title": "metalmagazine.eu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO91erbpNc2T8dnswRuDmJUyf3jsDRyCOrX7Z2S7wNf4vT3kxRwtIVJ88CYwAe1AcfHqLYB_neL6AYanbuFtOj19cSv7v-5dqQnInhgMqWEh3cd1GXDO-IsmNcTu_JpCCN2M9TlikUA2FwR7zWSdCQnLWbzeDBtNzWhMMbuVN9g2UVItA="
+    },
+    {
+      "title": "instagram.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzYNiPzIk0k_TKdr27a3A9jXYlIid5H2BSVf5cut8GZZo-93yW4xsDvtQR4TTYwU1yH0c0vicFnIaZimet8mMbsgKZQst2tx-4EurqaGS6X2aCLRD1ke1275Aubis="
+    },
+    {
+      "title": "mplus.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeoSgflZiJ4lKs-9_0Kz2M9WrCDd94c7-p_ESqCtyLLYlS56jbTv9KdOo8TaLDWtyVhn08yHRM3McoozeFfnfTGv-xlWvOqORX79aZwsq9YmyUpp6UYGNzf_7uAY2Y2w3QlW2XBi7UXmq5EO80y3cMzUaftA3vjoyDmCeTbpTwgn3ppswcq-cJfRMAbKR71WUQuTRL"
+    },
+    {
+      "title": "metalmagazine.eu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg2A9v0P4Hokm5k60JSkQ_pMhOxV09Ve_7JoX2moghh6xyzSjsI7HedNRRSg7Hv4XfFJFshfJGydGj0hO4gKN4Ht-7NAGGtuslCB25epSZeoLbqq5QhoyVyw2_rK1IUR3MXJa4MXVfIPDnhJvGIsv8hV4jCee8WsWKuQfFT_lrZ0BBXA=="
+    },
+    {
+      "title": "heni.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfBQREeEPP40GsvlMS6gR-qLPQMkNL0COSz1Fajvyk0lEYBJrX_hKkH1kU3KsH5X-ETy7L7MdtiQpLGzMTz7MB22cQHAHLJ5DLlr2ea4SNOZY0v9pj5VkWJrL9zFMGRy1HAHD6HYMJGCbEFJ7kkjxMtHJfivNtcfSOLHMX54nqCzl6yi_DMKt2uxZY1M9lpJS0EmPE3wtp7HS-A2oAw=="
+    },
+    {
+      "title": "timeout.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEHjGADwKGe3erqHUh1SkO5itrERfuBGtB5ZCUqSScu-wVEuykI38quMZUzlngqnVDjWCcKBtJUE4DJiLxL0jLMK7kSweWHbhlJ1zsRbagVzyqN4pVQmAnbMblEWIhXDzrXcFG10x-uhxuQ8PurNyz5f3myR88jRjXozkQ0Nb35zvHCnW-fvEEPEGxSdmKviLD-aQkMhxdUZ7nMd0O4SqxCq3H23MZQH4NQfDTXjkxs0OFwW3iIYPi3rcKu0Y="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNH7z2qTtQ_w4cs7j_P-HUU0ivedxsvpjUHkuMDC7A4y6lQf33vHehiGwFJv_sAtQbJmyZmn0yTN0YKTGZrd7ovaZVluOKr8bJWk4u2M6akLhcFpD9qQ=="
+    },
+    {
+      "title": "comfy.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCLZ5o1Z4BMVneyvDpwMraoXqEafM3hJ4TgD7IUn-pjHxpk4LUHxNr-dyTSHBocL3PeMs_fvdaqpiB_gzAnxtUJM2IwYCT_K4Bjvf_1SMo9H5oO0sU"
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAt9AACKWx_W4-LKNqeqlKsoBlYrmWvBSzYrabCbLQFKdaL-Vg55czfMGraqcq0AG2r_44YIGhkzc0JV0brUQSsCAQAWguxQJ-GpdgCYp_iEo8StzLku-mT-sSep9OOBu7nin5-kkOYJ09mVlDOn6B"
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5S-hv9AQOCIn1N8RW-fmBBbWPG0gmufBiKNa2jxAsFJukTO-XCtP_pKoo8i16X57UzSkocnDL2MCzjt1oUOCaDCehvwSWKJ2SSbBwgbOD1ffCIVD4np3QFwEbzwpXjhsoadCNlmN9NvZO3uVglQTjHz8o-gvZSvAO"
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFegm-dZ_fK5GsF210WXNoe8fnh9syYn7SpCSn4z_nIC7amXOnMVXfagV7HM789dUhNWaKDoIkei7aiM0on61eTECbXPWcmfJZVfoqL4wq1K4gzmFlBFXgf9YqtIopXMRigTMmJ5uDFo7tNBLSTTcc9"
+    },
+    {
+      "title": "phmuseum.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHko9spBWFeVGR8oHFeUD6xZVLDxo2MkFYzNsCE1daAH91iAi1PlQGDD-NKaCg7Ovt1G37EVwsxToC2lX6cMbgu8HXpB2XtKYCA8s3_hnO5o3k3oxZx5huXnig9tvXh6iT-bYjLByybUnOEXSLgr-s0hL2a7VnHdSSnow21TQhy"
+    }
+  ]
+}
