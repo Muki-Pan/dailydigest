@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-19",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义档案",
+    "摄影史",
+    "摄影书",
+    "东亚视觉文化",
+    "ComfyUI",
+    "开源 AI",
+    "艺术资助"
+  ],
+  "why_today": "今天的信号呈现了物质档案、个人经验与生产工具的多重切口。从芬兰 Ateneum 对女性通灵协作档案的挖掘，到法国国家图书馆摄影原作在德州的展出，再到新加坡摄影节对韩国女性摄影书的梳理，历史与日常经验在不同媒介中找到了承载方式。而在技术端，开源生成工具也在不断完善本地排版与调色细节。",
+  "intro": "本期简报聚焦于档案重组、纸质出版与工作流控制。我们看到艺术机构正在重新审视被忽视的女性社群档案，韩国摄影师通过自出版记录关护劳动，同时开源创意软件正在将更精细的版面布局控制引入本地 AI 实践。",
+  "opening_signal": "当记录从官方大叙事退回个人书本与协作档案，历史才显露出它原本的温度。",
+  "closing_signal": "无论是沉淀在暗房底片上的银盐，还是印在摄影书里的日常经验，媒介始终在寻找记录生命的真实刻度。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Ateneum 举办《Arcana Borealis》特展：以 200 余件作品重构北欧女性艺术家的神秘主义与协作网络",
+      "title_en": "Ateneum Art Museum Presents 'Arcana Borealis — Northern Women and Esotericism'",
+      "summary_zh": "芬兰国家美术馆推出《Arcana Borealis》特展，由 Nina Kokkinen 博士与 Marja Lahelma 博士共同策展。展览汇集北欧及萨米地区约 50 位女性艺术家的 200 余件作品与历史档案，涵盖 Hilma af Klint 与 Anna Cassel 组成的“五人组”等降神会记录、通灵实践与协作绘画。展览呈现了女性艺术社群的集体创作，重新审视现代主义艺术史中的女性网络。",
+      "summary_en": "Ateneum Art Museum presents 'Arcana Borealis', bringing together over 200 works by around 50 northern women artists and esoteric collectives to examine women's collaboration and esoteric history.",
+      "why_muki_cares": "展览挖掘了长期被忽略的女性神秘主义与集体通灵档案，展现了女性如何在体制之外通过精神社群建立创作网络。这为研究女性主义反向档案与异质艺术史提供了机构实践样本。",
+      "editorial_signal": "女性神秘主义与降神档案成为重构北欧艺术史与协作网络的知识切口。",
+      "theme_tags": [
+        "芬兰国家美术馆",
+        "Hilma af Klint",
+        "女性神秘主义",
+        "通灵档案",
+        "集体创作",
+        "北欧艺术史",
+        "反向档案"
+      ],
+      "source_name": "STT Info",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-BeHgp2my7hUz_7APXrYUMOZgcWsRChGVOuLLMYtJLBr51LiZojJOc8KfZX8S3wWI6fRTCogF0lS6PUSUYgIWsb10RZsiP26n3JxecTg1w571bK2irt6WvHtcxuBbQhYfckS9RQy1QH3aovla1DWc1YWqPU400Xq8PPDJEQ59hJgBSJTBC29tVIjHLU666-KUJ06h0KBo871qatHhXDeSzsN_VkQ7AlOIXgdbuIuIysd8V6nrZN3ZkajDHKG8Qo=",
+      "publication_date": "2026-10-06",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "金贝尔艺术博物馆与法国国家图书馆举办摄影首个百年展：150 余件暗房原作呈现早期媒介演进",
+      "title_en": "Kimbell Art Museum and BnF Present 'Photography's First Century: Masterworks from the Bibliothèque nationale de France'",
+      "summary_zh": "德州金贝尔艺术博物馆与法国国家图书馆（BnF）联合举办“摄影的首个百年”特展，展出 BnF 收藏的 150 余件早期暗房原作与历史文献。这是该批核心摄影档案四十多年来首次重返美国展出。展览梳理了 1840 年代至 1930 年代达盖尔银版法、纸质负片等工艺的发展，展出查尔斯·雨果、纳达尔、古斯塔夫·勒·格雷及曼·雷等人的作品。",
+      "summary_en": "The Kimbell Art Museum and the BnF present over 150 rare vintage prints, tracing the technical and aesthetic evolution of photography from daguerreotypes to modernism.",
+      "why_muki_cares": "展览呈现了早期暗房工艺与媒介物质性的演进，同时展示了国家级图书馆如何通过档案收集建立媒介历史。对摄影物质性与公共档案馆建构逻辑的研究具有直接资料价值。",
+      "editorial_signal": "法国国家图书馆核心摄影档案重返美国，直观呈现早期暗房工艺与媒介物质性演进。",
+      "theme_tags": [
+        "金贝尔艺术博物馆",
+        "法国国家图书馆",
+        "暗房工艺",
+        "达盖尔银版",
+        "摄影史",
+        "媒介物质性",
+        "档案建构"
+      ],
+      "source_name": "Kimbell Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWRt7Ww4lsX773TyPFnpV7Jzb7fQTnICWkB3vldPgCbY_aa08ZUJt2HUJ6Skma7R7HfnomSSgilaBrzxXgX7E2BA0qSl-FIzuHnjrkhZHJPfC-Kzb3ymFNZybo4iR4lhoW5ToRDT_W",
+      "publication_date": "2026-10-04",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "新加坡国际摄影节举办《FEM》韩国女性摄影书展：汇集两代数十部作品呈现关护劳动与日常生活",
+      "title_en": "10th SIPF Presents 'FEM: Women, Lives, and Korean Photobooks' at Shop-House by DECK",
+      "summary_zh": "第十届新加坡国际摄影节于 Shop-House by DECK 举办《FEM》特展，由孙贤贞策展。展览梳理了韩国不同世代女性摄影师的摄影书创作，创作者年龄跨越 20 多岁至 80 多岁。展出作品围绕女性的日常生活、代际关系、家庭与关护劳动、人口迁移以及身体自主性展开。",
+      "summary_en": "The 10th Singapore International Photography Festival presents 'FEM', showcasing photobooks by multi-generational Korean female artists that focus on daily lives, care labor, and personal memory.",
+      "why_muki_cares": "展览将东亚女性主义议题落地于摄影书与自出版实践中。展出作品触及身体、关护劳动与代际记忆，为观察东亚视觉文化与独立出版中的女性视角提供了具体样本。",
+      "editorial_signal": "韩国两代女性摄影师以纸质摄影书为载体，记录关护劳动、身体经验与代际记忆。",
+      "theme_tags": [
+        "新加坡国际摄影节",
+        "韩国女性摄影",
+        "摄影书",
+        "关护劳动",
+        "自出版",
+        "身体政治",
+        "东亚视觉文化"
+      ],
+      "source_name": "Singapore International Photography Festival",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERnB6iSVEAOR6DbZ0ZCxT52Z4z49d1wsmsrBv8nt1yYLGlbI1Bt6vTb-jM9gxnG5JLVckbIxe3hLDM4IFYHdGo-59g52LfCsSexK7Y0nkj8kUzE1ecRmmEoQ==",
+      "publication_date": "2026-10-16",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "ComfyUI 发布 v0.41.0 版本升级：原生集成 FLUX.3 Image Klein 并新增排版构图控制节点",
+      "title_en": "ComfyUI Releases v0.41.0 with Native FLUX.3 Image Klein Support and Bounding Box Layout Prompting",
+      "summary_zh": "ComfyUI 正式发布 v0.41.0 版本。更新原生接入 Black Forest Labs 开源的 56 亿参数模型 FLUX.3 Image Klein，并新增 FLUX.3 Layout Prompt 节点，可将边界框坐标直接转化为网格排版提示词，实现多目标空间布局控制。此外，版本还加入了 Convert SDR to HDR 图像节点，并支持从单个节点输入多个参考 Latent。",
+      "summary_en": "ComfyUI v0.41.0 introduces native support for FLUX.3 Image Klein alongside a bounding-box layout prompting node and SDR-to-HDR image conversion.",
+      "why_muki_cares": "更新让创作者无需依赖插件即可在本地工作流中精准控制多对象排版，HDR 转换节点则直接提升了生成图像在高动态显示与数字出版上的生产适用度。",
+      "editorial_signal": "ComfyUI 通过布局控制与 HDR 转换节点提升本地创意工作流中的排版精度与显示品质。",
+      "theme_tags": [
+        "ComfyUI",
+        "FLUX.3",
+        "开源 AI",
+        "排版控制",
+        "HDR",
+        "本地工作流",
+        "创意技术"
+      ],
+      "source_name": "Comfy Org",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG5y3xJKPS3NlKOhgD4p8W2Hh7P6EsUPCFvp-3pk1gQf9gXktGnVrO6VN77a9p0BMv1lmD_inUSwHNB27saqNu3HbGpswhv4N2C56g4ndXpkKHc3wv_Q==",
+      "publication_date": "2026-10-15",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "The Hopper Prize 开启 2026 年秋季艺术资助申请：设立 1.3 万美元无限制资金与数字档案展示",
+      "title_en": "The Hopper Prize Fall 2026 Grants Open for Submissions",
+      "summary_zh": "The Hopper Prize 正式开放 2026 年秋季全球视觉艺术与摄影资助申请。本期设立 13,000 美元无限制现金奖金，包括 2 名 4,500 美元大奖与 4 名 1,000 美元资助金。另有 30 名入围艺术家将获选永久收录于官方数字档案库。项目面向全球年满 18 岁的创作者，申请截止日期为 2026 年 11 月 17 日。",
+      "summary_en": "The Hopper Prize opens its Fall 2026 grant cycle, offering $13,000 in unrestricted cash awards and permanent inclusion in its digital archive for global artists.",
+      "why_muki_cares": "奖项提供不限用途的现金支持，并建立了长期在线数字档案库。对于独立影像创作者与视觉研究者来说，是一个高质量且门槛明确的直接资助与档案展示渠道。",
+      "editorial_signal": "无限制现金奖金结合数字档案展示，为全球独立艺术与摄影创作者提供直接支持。",
+      "theme_tags": [
+        "The Hopper Prize",
+        "艺术资助",
+        "摄影奖项",
+        "数字档案",
+        "公开招募",
+        "独立创作"
+      ],
+      "source_name": "The Hopper Prize",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8zuWqZLqNgUZ7BPilwdiDLJ_fXtl4wTT-Un6blFQwe1lcZlaq1b0s84JHXhy-BK4mHQXPFc77UzUDz52XSg17fexlQ5Rqvbb9Dm_Wguo=",
+      "publication_date": "2026-09-23",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "Ateneum 举办《Arcana Borealis》特展：以 200 余件作品重构北欧女性艺术家的神秘主义与协作网络",
+    "why_muki_may_care": "展览通过降神记录与通灵协作，展示了女性如何在官方艺术体制之外建立自己的精神网络与知识生产体系。这种将神秘主义作为反向档案的策展视角非常值得关注。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-BeHgp2my7hUz_7APXrYUMOZgcWsRChGVOuLLMYtJLBr51LiZojJOc8KfZX8S3wWI6fRTCogF0lS6PUSUYgIWsb10RZsiP26n3JxecTg1w571bK2irt6WvHtcxuBbQhYfckS9RQy1QH3aovla1DWc1YWqPU400Xq8PPDJEQ59hJgBSJTBC29tVIjHLU666-KUJ06h0KBo871qatHhXDeSzsN_VkQ7AlOIXgdbuIuIysd8V6nrZN3ZkajDHKG8Qo="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "MMoCA《Girls and Company》特展：经核实该页面为 2008 年展览的归档更新，非 2026 年新展，予以排除。",
+    "Ruby City《Generative Disruption》馆藏展：已于 2026-09-30 简报中收录，属于重复候选，予以排除。",
+    "Mimosa House《WET/London》展览：已于 2026-10-13 简报中收录，属于重复候选，予以排除。",
+    "波士顿美术馆川田喜久治《地图》展：展览要到 10 月 24 日开幕，暂不纳入本期。"
+  ],
+  "covered_entities": [
+    "Ateneum Art Museum",
+    "Kimbell Art Museum",
+    "Bibliothèque nationale de France",
+    "Singapore International Photography Festival",
+    "Comfy Org",
+    "The Hopper Prize"
+  ],
+  "repetition_notes": "本期收录的 5 项信号中，有 4 项为全新信号（New）。对 ComfyUI v0.41.0 的追踪属于对创意工具生态的持续跟进（Follow-up），跟进了 2026-10-14 记录的 v0.39.2 版本，重点关注 FLUX.3 Image Klein 的原生集成、排版构图节点与 SDR-to-HDR 转换工作流。",
+  "issue_number": 82
+}
