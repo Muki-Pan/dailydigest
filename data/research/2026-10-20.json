@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-20",
+  "model": "gemini-3.5-flash",
+  "dossier": "### Research Evidence Dossier\n\n**Search Window**: 7 Days (Expanded from 24 Hours to capture recent primary announcements from October 13 to October 20, 2026).\n\n---\n\n### Candidate 1: Feminist Structure Signal\n\n* **Title**: MoMA 举办《Taking Back Our Space》特展：将 1970 年代女性主义身体摄影档案与当代跨媒介实践并置 / MoMA Presents 'Taking Back Our Space: Photographic Perspectives'\n* **Source URL**: `https://www.moma.org/calendar/exhibitions/5707`\n* **Publication Date**: September 20, 2026 (Exhibition runs through May 2, 2027; featured in current October 2026 programming)\n* **Proposed Section**: Feminist Structure Signal\n* **Verified Facts**:\n  * Organised by Roxana Marcoci (The David Dechman Senior Curator) and Caitlin Ryan (Assistant Curator) at MoMA's Paul J. Sachs Galleries.\n  * Centers on German artist Marianne Wex's 1977 photographic study *Let's Take Back Our Space: 'Female' and 'Male' Body Language as a Result of Patriarchal Structures*, which MoMA acquired in its entirety in 2018.\n  * Pairs Wex's historic archive with contemporary works by seven artists shown at MoMA for the first time: Nona Faustine, Martine Gutierrez, K8 Hardy, Yuki Kihara, Joiri Minaya, Paulina Olowska, and Wendy Red Star.\n  * Accompanied by a 176-page paperback exhibition catalogue published by MoMA.\n* **Relevance to Muki**: Directly links 1970s feminist visual sociology, body posture archives, and spatial politics to contemporary intersectional, queer, and Indigenous self-representation strategies.\n* **Duplication Assessment**: New. Not included in recent issues.\n\n---\n\n### Candidate 2: Visual Culture Signal\n\n* **Title**: 伦敦摄影师画廊开幕 Sanlé Sory 彩色摄影回顾展：首次公开 1980–90 年代布基纳法索日常与音乐文化档案 / The Photographers' Gallery Presents 'Sanlé Sory: Colour Years'\n* **Source URL**: `https://thephotographersgallery.org.uk/whats-on/sanle-sory-colour-years`\n* **Publication Date**: October 14, 2026 (Exhibition runs through February 21, 2027)\n* **Proposed Section**: Visual Culture Signal\n* **Verified Facts**:\n  * Curated by Taous Dahmani at The Photographers' Gallery in London, in collaboration with the Sanlé Sory Archive and Florent Mazzoleni.\n  * Features Sory's rarely seen color photography, restored directly from original box negatives stored for decades in Bobo-Dioulasso, Burkina Faso.\n  * Documents studio portraiture, youth fashion, and local music culture (including original Volta Jazz record sleeves) from the mid-1980s through the 1990s following post-independence political shifts.\n  * Accompanied by the photobook *Volta Colour*, published by GOST Books in October 2026 (£45).\n* **Relevance to Muki**: Provides a crucial primary photographic source on West Asian/African vernacular image history, photobook publishing, and studio archive restoration outside Western-centric histories.\n* **Duplication Assessment**: New. Not included in recent issues.\n\n---\n\n### Candidate 3: China / East Asia Signal\n\n* **Title**: 2026 集美·阿尔勒公布重磅单元方案：具本昌策展韩国当代静物摄影，重新审视 AI 时代的图像真实性 / 2026 Jimei × Arles Announces Special Focus on Korean Contemporary Photography and Curatorial Engine\n* **Source URL**: `https://www.threeshadows.net/news/`\n* **Publication Date**: October 15, 2026\n* **Proposed Section**: China / East Asia Signal\n* **Verified Facts**:\n  * Three Shadows Photography Art Centre and Jimei × Arles announced details for the 2026 edition (opening November 20, 2026 in Xiamen).\n  * The \"Asian Film/Photo Focus\" (亚洲影汇) section is curated by South Korean photographer Koo Bohnchang (具本昌) under the title *Objects in Oscillation* (振荡中的物件).\n  * Features eight South Korean photographers (including Chung Heeseung, Jo Seongyeon, Kim Kyoungtae, and Zo Sunhi) examining objecthood, materiality, and image authenticity amidst AI technologies.\n  * Unveiled the winning exhibition project *Embers* (余火) by curator Wang Liquan (王立秋) under the Chanel-supported Curatorial Project.\n* **Relevance to Muki**: Bridges East Asian contemporary photographic research, material image politics in the age of generative AI, and emerging Chinese/Korean curatorial frameworks.\n* **Duplication Assessment**: New. (While SIPF was featured on Oct 19, this announcement specifically highlights Jimei x Arles' 2026 curatorial program and Koo Bohnchang's exhibition focus).\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n\n* **Title**: Reflection AI 开源 501B 参数 Beam 模型：首个专为 Agent 与长文本推理设计的开源混合专家模型 / Reflection AI Releases Open-Weight 501B Beam Model for Agentic Reasoning\n* **Source URL**: `https://huggingface.co/blog/reflection-beam`\n* **Publication Date**: October 16, 2026\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **Verified Facts**:\n  * US lab Reflection AI released the weights for `Beam` on Hugging Face under the Apache 2.0 license.\n  * Architecture uses a sparse mixture-of-experts (MoE) design with 501 billion total parameters and 23 billion active parameters per token, featuring a 1-million-token context window.\n  * Specifically engineered for complex coding, structured tool calling, multi-agent orchestration, and long-horizon reasoning tasks.\n  * Released with day-0 integration across Hugging Face Transformers v5.20.1, vLLM, SGLang, and an open-source command-line coding harness (`Mirror CLI`).\n* **Relevance to Muki**: Marks a structural shift in open AI infrastructure, giving creative technologists and researchers access to local, high-parameter agentic reasoning models without proprietary API gatekeeping.\n* **Duplication Assessment**: New. (Differentiates from recent ComfyUI workflow updates by focusing on open-weights agent infrastructure).\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n* **Title**: 德国威斯巴登艺术协会启动 2026/27“Follow Fluxus”奖学金招募：提供 1 万欧元资助、三月驻留与个展支持 / Nassauischer Kunstverein Wiesbaden Opens Call for Follow Fluxus Scholarship 2026/27\n* **Source URL**: `https://www.kunstverein-wiesbaden.de/en/follow-fluxus/the-scholarship/call-for-application-follow-fluxus-scholarship-202627.html`\n* **Publication Date**: October 2026 (Application deadline: November 1, 2026, 23:59 CET)\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **Verified Facts**:\n  * Awarded annually since 2008 by Nassauischer Kunstverein Wiesbaden and the Hessian state capital Wiesbaden.\n  * Offers an international artist a €10,000 grant, a 3-month rent-free residency (June 1 – August 31, 2027) in the Kunsthaus Wiesbaden studio house (70.88 m² space), and a solo exhibition at the Kunstverein.\n  * Open to national and international visual and performing artists with a completed art degree or documented self-taught artistic achievements.\n  * Requires project proposals that engage with the ideas/practices of the Fluxus movement and transform them for contemporary 21st-century practice.\n* **Relevance to Muki**: Directly supports Muki's research into performance archives, media archaeology, interdisciplinary experimental art, and institutional grant opportunities.\n* **Duplication Assessment**: New. Not included in recent issues.",
+  "citations": [
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtF5AamL5Pn8G21nPu84tFUlmiA-TpRaNuLcpNTwMZ8u0MnOCTOoz3tobRK7FgV9rI3vvzOJpWUTFiiDXsQsyrBnRB7YQRd83pzoqu2eeED0cG0aTGvRgTFPxSFi0aPXqTAML"
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Z3b4ISS80o9JH8cbWtVujTuw9R_JotqQu7P7-kJTpc0y314LhgiEb--l48WiP0MP-7bGgqpU91q8mVCUI1EE_KncMEXcKwK_BFAjje7SwtnFF_XakKySKXRgUJ7Y8jXoWTAcpCupaSseW2O9chXfhEMyKXuaGRNeMpZrOyvftztYPD2gaeZm"
+    },
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6j1dYUHqmyWDZK3KUnNXva4PzpWm8-1RFDr8HDDw6AyKYXXzj2pxN9hP9nJ0qqE2D0YfCUuf3cMygYGOR45BunktCevQbBrWcR6DSm7_m9e73qzJJX_19BrjMHipY6ogPOGASBfxcTmIV0z0FoNopsAE7RB7k3VF-5a0PdmsW-Uj9Nw0C"
+    },
+    {
+      "title": "thephotographersgallery.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8_SupvgzvMj2RGHin0k5W6TVNClesVbALZHVH05VOMmp_N5pAo96DkzZU6Rg0EI3waqeIc-J_14aTzNTTxFvAvJ2xAc0TJCSLIW3La8KIn97BMiXiiVEGE3O5_tY="
+    },
+    {
+      "title": "exhibitionary.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqiFEEM1HclVNphmEgoW2IZiDmNaqOPHs60ynKkpXoS9ArBY_Bs28Bh75-SPX8yDaoyiYQzPLn6mZARxeohyEf3Y9J3ZwAOIr8N79Bx4AvkYoZmYI048QsVqzvrLexSLaTZY8ywUFTWzlAYUqxSQ-L-YTJ-BUl"
+    },
+    {
+      "title": "thereviewshub.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMEflbHMC-uu1EvKFx0V3l4RNfC5kYExK9hui5c5YihGlBp6X0LC1Zgz8p2swll_s1002umsjJrPfWNKnk2_N7Rr2feA2nEy7cvCvHoG7EN7GLgJ7iOToBwWDqn0f19WE831zVwf0ta-pZ6aiT29bJJ7xO2YJ6f8z1NGc9kJ1tLjBs1vPS8QCqppEc_X16-jrJUZ944tQybphM80gTN5ipplOEzoiK1dN-jZyY_GENIgZhvV1fMNDy"
+    },
+    {
+      "title": "gostbooks.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjY36HIIfRwQKzO_0aVdZOQuvH8deZYOe0mfEuLSYrvATwUYb52C3zUtTakVCZdjw3QCjbz8Nzzvsb-NV14_AxEtlNAcSvQjGJiqCgI2n3sujl_w1LgjXQW6J5EZGo2iMZoHaWroi_"
+    },
+    {
+      "title": "plus3gallery.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAhyuhfnw6DD9q-pfEDoB7oeQLUW7UO4SVXXm8DaLdF3kZft5mBYh74_DMCsFNRwekDgTFlgZx6CyxQT4Rk_VkKB1xzkgjMaUb_RY3OGWm5sAdcpY="
+    },
+    {
+      "title": "threeshadows.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyVbnh1msEUQ6tBQdDqp-rxGlrk9K87xdeblDtZA5mBckABYPMWo4oB1naPk0qS5lB4hhu5tmHXJVylQjYeNrmrbKf_1sVqR2dvII_I2hzRBoZ1XJ_SjL3Z94_cWCIZ-1ln-DqUxIW-u2Tyjd1hx2pinfPoHWB83vvuCw="
+    },
+    {
+      "title": "sohu.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKjbMVCUI7BKEu5FSomGz-D6WGyn7XpsY0tVRbHxkEFwGHeuXUUmlQuNNruUz16fvwgOsoz1qxlfDimxJGXilHZAwUz4_tdBlODMD-ZEr2fmKdC8q89Jgv1XaXkziFqZz5dYGwZjwyTyEmKEdU8SBPoA7e4WvpfOO_XgY387N1K-IUaPVnLEo="
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdCmjljLXuj-0hiLABlmqNe-BlOmBf6shaAx1WXVs9EMYMzegoHAX1StqhnyRHnIrsBodY3ZPmmxwFpB2o-lDSVoB8mlIFhGd3-AzHHuBjDnzrrKPutbVi8QBI81cEzR0H"
+    },
+    {
+      "title": "unite.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtB83tyUXjAqPvFa-9OkkNU0UW5g_ny7RC5KjZp4cuOsr4VqYfF0eKnta6nLdok6-ol09jWZqzRRAtu9CTEYI45uCT86ifWaMSO2eXbYV569JLfEGaf7ckVIw9ajE7QEgccPsTPpNPn2I-7MeGdfznMH7iFEXnEWEzLQhPvIWSR1fnYzsU3b2bR_Ky"
+    },
+    {
+      "title": "instagram.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy-_b4jCfkLxvoCziQr-o8KJb3G8CdnebIAOHSX-Sa9EJcaHFnxeciiDo2A4N-mTODPOcyUgRYa4PkB8vBVyqUvQ9DHASzMqlQBgWsqD0Lo9oFVumgS7geUZcUcs5e"
+    },
+    {
+      "title": "reflection.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZBTFEL_xRR_nUWNMJrgmJj4lV0SUgs-krDjVQjmzGrZPRvptMybTpanGhx5SgbKVke6AJdZAmEABEAGQ35qvo4r2xM2brtUjSzTupmdTex7ejFGOZknQz7X3UWUfxfIOYxQ=="
+    },
+    {
+      "title": "releasebot.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNX3SAq2HDvOMIJm6TDRBU50tR0tHb-9g8qDHB3eICoy2wdRwu_d6MjdUQX8kVdisCJfaQmVUqBYKXf0h_K9OuPmhE-SxVkouA5AV33zaPLJGInsdD3jVe7MvbHL1MHA=="
+    },
+    {
+      "title": "kunstverein-wiesbaden.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENtWT3XPLTAPWcLWIDfzAw-YUCAZzPd6SiWWo7aTcZeooFAnGCdwrhdUPkU200ePsAQSWc2S4wwi_9BiD18D31Kfw16nVYzqUrcSTbEE0cIaT1gF3rqR97H96EThCd9oUo3JZWekv7i6VPnuc7ddQG-o_ZTz1uOAlCxy8L5y7p-Lh1BYO_gzVvM7U="
+    },
+    {
+      "title": "artelivo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDC2tRj1zleEdDlmdNUChG7TmWGtlQcC3jH0mlXyoVmn9eiiJ6v2ZAHs-0vNRBtaJpRSwQBtKOXTJoLGSWJ1TOSGGhW18Bm04TumLg8cpb32DbTw=="
+    }
+  ]
+}

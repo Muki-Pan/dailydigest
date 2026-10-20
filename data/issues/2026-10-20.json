@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-20",
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义档案",
+    "视觉文化",
+    "东亚当代摄影",
+    "开源 AI",
+    "艺术资助"
+  ],
+  "why_today": "今天的信号涵盖了 1970 年代女性主义身体姿态研究的展览重构、西非照相馆彩色底片档案的首次修复出版、集美·阿尔勒对生成式 AI 时代下东亚静物摄影物质性的探讨，以及开源 Agent 模型与激浪派艺术资助的具体进展。",
+  "intro": "本期简报关注图像档案的物质修复与当代重构。MoMA 将 1970 年代的身体姿态摄影与当代多元创作并置；伦敦摄影师画廊公开了西非照相馆沉睡数十年的彩色底片；集美·阿尔勒则探讨 AI 时代东亚摄影对物件物质性的重新审视。此外，开源 Agent 模型与激浪派驻留奖学金为创意技术与跨媒介研究提供了实用工具与资助渠道。",
+  "opening_signal": "当底片与身体档案被重新打开，影像不再只是过去的记录，而是参与当下对话的活态媒介。",
+  "closing_signal": "从历史档案的物质修复到生成式 AI 对图像真实性的冲击，创作者与策展人正在通过具体的整理、出版与策展实践，建立起应对技术变革与历史遗忘的框架。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "MoMA 举办《Taking Back Our Space》特展：将 1970 年代女性主义身体摄影档案与当代跨媒介实践并置",
+      "title_en": "MoMA Presents 'Taking Back Our Space: Photographic Perspectives'",
+      "summary_zh": "纽约现代艺术博物馆（MoMA）在其保罗·萨克斯展厅推出特展《Taking Back Our Space》。展览以德国艺术家玛丽安娜·韦克斯（Marianne Wex）1977 年的摄影研究作品《夺回我们的空间》为核心，该作品于 2018 年被 MoMA 完整馆藏。策展人罗克萨娜·马考奇与凯特琳·莱恩将这份关于性别身体语言与父权结构的摄影档案，与诺娜·福斯蒂娜、马蒂内·古铁雷斯、威迪·雷斯塔等七位首次在 MoMA 展出的当代艺术家作品并置呈现。",
+      "summary_en": "MoMA presents an exhibition centered on Marianne Wex's 1977 photographic study of body language and patriarchal structures, paired with contemporary works by seven artists exhibiting at the museum for the first time.",
+      "why_muki_cares": "展览展现了如何将 1970 年代视觉社会学档案转化为激活当代身体政治研究的框架。对于关注档案重构、身体姿态研究与女性主义策展方法的创作者来说，这是一个具体的实操参考。",
+      "editorial_signal": "身体姿态档案的跨时代对话与策展重构",
+      "theme_tags": [
+        "MoMA",
+        "Marianne Wex",
+        "女性主义视觉",
+        "身体政治",
+        "视觉社会学",
+        "档案策展",
+        "当代艺术"
+      ],
+      "source_name": "MoMA",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMtF5AamL5Pn8G21nPu84tFUlmiA-TpRaNuLcpNTwMZ8u0MnOCTOoz3tobRK7FgV9rI3vvzOJpWUTFiiDXsQsyrBnRB7YQRd83pzoqu2eeED0cG0aTGvRgTFPxSFi0aPXqTAML",
+      "publication_date": "2026-09-20",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "伦敦摄影师画廊开幕 Sanlé Sory 彩色摄影回顾展：首次公开 1980–90 年代布基纳法索日常与音乐文化档案",
+      "title_en": "The Photographers' Gallery Presents 'Sanlé Sory: Colour Years'",
+      "summary_zh": "伦敦摄影师画廊开幕布基纳法索摄影师桑雷·索里（Sanlé Sory）的彩色摄影回顾展《Colour Years》。展览由塔乌斯·达马尼策展，展出作品直接从存放在博戈迪乌拉索数十年的原始盒装底片修复而来。展览记录了 1980 年代中期至 1990 年代布基纳法索政治变迁后的照相馆肖像、青年时装以及当地音乐文化，包括 Volta Jazz 乐队的原版唱片封套，并同步由 GOST Books 出版摄影书《Volta Colour》。",
+      "summary_en": "The Photographers' Gallery displays newly restored color negative archives by Burkinabè photographer Sanlé Sory, detailing studio portraiture and youth culture in post-independence Burkina Faso.",
+      "why_muki_cares": "这项展览与出版项目提供了非西方中心视角下的视觉档案修复案例，展示了照相馆档案如何记录本土流行文化与社会变迁，为视觉文化史研究提供了第一手资料。",
+      "editorial_signal": "西非照相馆底片档案的色彩修复与自出版呈现",
+      "theme_tags": [
+        "Sanlé Sory",
+        "The Photographers' Gallery",
+        "彩色摄影",
+        "底片修复",
+        "照相馆档案",
+        "摄影书",
+        "视觉文化史"
+      ],
+      "source_name": "The Photographers' Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8_SupvgzvMj2RGHin0k5W6TVNClesVbALZHVH05VOMmp_N5pAo96DkzZU6Rg0EI3waqeIc-J_14aTzNTTxFvAvJ2xAc0TJCSLIW3La8KIn97BMiXiiVEGE3O5_tY=",
+      "publication_date": "2026-10-14",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "2026 集美·阿尔勒公布重磅单元方案：具本昌策展韩国当代静物摄影，重新审视 AI 时代的图像真实性",
+      "title_en": "2026 Jimei × Arles Announces Special Focus on Korean Contemporary Photography and Curatorial Engine",
+      "summary_zh": "三影堂摄影艺术中心与集美·阿尔勒国际摄影季公布了 2026 年第十届展讯方案。其中“亚洲影汇”单元由韩国摄影师具本昌策展，主题为《振荡中的物件》，汇集郑喜承、金炅太等八位韩国摄影师的作品，通过物件与物质性探索生成式 AI 时代下的图像真实性问题。同时，展览公布了由香奈儿支持的策展人项目入选方案——王立秋策划的《余火》。",
+      "summary_en": "Jimei × Arles 2026 announced its curatorial program, featuring a South Korean photography focus curated by Koo Bohnchang that examines materiality and image reality in the era of generative AI.",
+      "why_muki_cares": "该项目连接了东亚当代摄影研究与生成式 AI 冲击下的图像物质性思考。具本昌对韩国静物摄影的梳理，为观察东亚摄影策划与技术回应提供了具体的观察视角。",
+      "editorial_signal": "东亚当代摄影研究与生成技术背景下的图像物质性探讨",
+      "theme_tags": [
+        "集美阿尔勒",
+        "三影堂",
+        "具本昌",
+        "韩国摄影",
+        "静物摄影",
+        "图像真实性",
+        "东亚视觉文化",
+        "策展研究"
+      ],
+      "source_name": "Three Shadows Photography Art Centre",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyVbnh1msEUQ6tBQdDqp-rxGlrk9K87xdeblDtZA5mBckABYPMWo4oB1naPk0qS5lB4hhu5tmHXJVylQjYeNrmrbKf_1sVqR2dvII_I2hzRBoZ1XJ_SjL3Z94_cWCIZ-1ln-DqUxIW-u2Tyjd1hx2pinfPoHWB83vvuCw=",
+      "publication_date": "2026-10-15",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "Reflection AI 开源 501B 参数 Beam 模型：首个专为 Agent 与长文本推理设计的开源混合专家模型",
+      "title_en": "Reflection AI Releases Open-Weight 501B Beam Model for Agentic Reasoning",
+      "summary_zh": "美国实验室 Reflection AI 在 Hugging Face 上以 Apache 2.0 协议开源了 Beam 模型的权重。该模型采用稀疏混合专家（MoE）架构，拥有 5010 亿总参数（每 Token 激活 230 亿参数），支持 100 万 Token 的上下文窗口。Beam 专为复杂的代码生成、结构化工具调用、多 Agent 协作及长流程推理设计，并同步提供了 CLI 工具与 Transformer 框架支持。",
+      "summary_en": "Reflection AI has open-sourced Beam, a 501B-parameter mixture-of-experts model optimized for long-context reasoning, tool use, and multi-agent workflows.",
+      "why_muki_cares": "开源的高参数 Agent 推理模型降低了独立研究者与创作者构建复杂本地自动化工作流的门槛。对于开发创意技术工具与知识管理 Agent 来说，这是一个可以继续跟踪的底层基础设施。",
+      "editorial_signal": "开源混合专家模型在 Agent 推理与长上下文工作流中的应用",
+      "theme_tags": [
+        "Reflection AI",
+        "Beam",
+        "开源 AI",
+        "混合专家模型",
+        "AI Agent",
+        "长文本推理",
+        "创意技术"
+      ],
+      "source_name": "Hugging Face",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdCmjljLXuj-0hiLABlmqNe-BlOmBf6shaAx1WXVs9EMYMzegoHAX1StqhnyRHnIrsBodY3ZPmmxwFpB2o-lDSVoB8mlIFhGd3-AzHHuBjDnzrrKPutbVi8QBI81cEzR0H",
+      "publication_date": "2026-10-16",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "德国威斯巴登艺术协会启动 2026/27“Follow Fluxus”奖学金招募：提供 1 万欧元资助、三月驻留与个展支持",
+      "title_en": "Nassauischer Kunstverein Wiesbaden Opens Call for Follow Fluxus Scholarship 2026/27",
+      "summary_zh": "德国威斯巴登艺术协会与威斯巴登市联合启动 2026/27 年“Follow Fluxus - 流派与当下”奖学金公开招募，截止日期为 2026 年 11 月 1 日。项目面向全球视觉与表演艺术家，要求申请方案延续或转译激浪派（Fluxus）的艺术理念。获选者将获得 1 万欧元奖金、2027 年 6 至 8 月在威斯巴登的免费工作室驻留以及在艺术协会举办个展的机会。",
+      "summary_en": "The Nassauischer Kunstverein Wiesbaden is accepting applications for the 2026/27 'Follow Fluxus' scholarship, offering a €10,000 grant, a 3-month residency, and a solo exhibition.",
+      "why_muki_cares": "这项资助直接支持将历史前卫运动（激浪派）档案与当代跨媒介实践相结合的创作者。对关注表演档案、媒介考古与独立艺术驻留的实践者而言是一个值得关注的申请通道。",
+      "editorial_signal": "激浪派前卫艺术档案的当下转译与驻留支持",
+      "theme_tags": [
+        "Follow Fluxus",
+        "威斯巴登艺术协会",
+        "激浪派",
+        "艺术资助",
+        "驻留项目",
+        "媒介考古",
+        "公开招募"
+      ],
+      "source_name": "Nassauischer Kunstverein Wiesbaden",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENtWT3XPLTAPWcLWIDfzAw-YUCAZzPd6SiWWo7aTcZeooFAnGCdwrhdUPkU200ePsAQSWc2S4wwi_9BiD18D31Kfw16nVYzqUrcSTbEE0cIaT1gF3rqR97H96EThCd9oUo3JZWekv7i6VPnuc7ddQG-o_ZTz1uOAlCxy8L5y7p-Lh1BYO_gzVvM7U=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture Signal",
+    "title": "伦敦摄影师画廊开幕 Sanlé Sory 彩色摄影回顾展：首次公开 1980–90 年代布基纳法索日常与音乐文化档案",
+    "why_muki_may_care": "展览与出版项目完整呈现了西非照相馆底片的修复过程与视觉价值，为研究非西方中心视角下的影像档案与自出版实践提供了坚实的原作范例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8_SupvgzvMj2RGHin0k5W6TVNClesVbALZHVH05VOMmp_N5pAo96DkzZU6Rg0EI3waqeIc-J_14aTzNTTxFvAvJ2xAc0TJCSLIW3La8KIn97BMiXiiVEGE3O5_tY="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "以 AI 为主题的泛化概念展示",
+    "未公开原始底片的宣发型回顾展"
+  ],
+  "covered_entities": [
+    "MoMA",
+    "The Photographers' Gallery",
+    "GOST Books",
+    "Three Shadows Photography Art Centre",
+    "Jimei × Arles",
+    "Reflection AI",
+    "Hugging Face",
+    "Nassauischer Kunstverein Wiesbaden"
+  ],
+  "repetition_notes": "本期收录的 5 项信号均为首次录入的全新信号（New）。技术板块选择了 Reflection AI 开源的 Beam 混合专家模型，补充了开源 Agent 在长文本推理与工具调用方向的最新进展。",
+  "issue_number": 83
+}
