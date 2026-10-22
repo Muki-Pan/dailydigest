@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-22",
+  "search_window": "24h",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义视觉",
+    "法医美学",
+    "反向档案",
+    "肖像摄影",
+    "驻留机制",
+    "东亚现代主义",
+    "端侧 AI Agent",
+    "数字档案"
+  ],
+  "why_today": "今天的信号集中在档案与机构如何介入权力机制。从 ICP 展现的法医美学调查，到哈莱姆工作室博物馆对酷儿与离散肖像的硬件支撑，再到端侧 AI 智能体框架的开源，均体现了创作者在制度与技术底层寻找自主性的努力。",
+  "intro": "本期 Digest 聚焦于机构责任、法医档案与端侧自治。无论是通过摄影调查揭露制度性推卸，还是在数字空间与本地硬件中重建自主档案与自动化工作流，这些进展都展示了视觉与技术工具如何转化为具体的行动策略。",
+  "opening_signal": "当档案不再只是记录，它便成为了向制度质询的法医证词。",
+  "closing_signal": "从暗房文献到端侧代码，构建自主可控的表达阵地依然是当下最扎实的探索路径。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "ICP 举办莱娅·阿布里尔特展：以法医美学与档案揭示制度性性暴力",
+      "title_en": "ICP Presents 'Laia Abril: On Rape and Institutional Failure'",
+      "summary_zh": "纽约国际摄影中心（ICP）开幕西班牙艺术家莱娅·阿布里尔（Laia Abril）的专题展览《On Rape and Institutional Failure》。这是其长期研究项目《厭女史》（A History of Misogyny）的第二章节，由 Sara Ickow 与 Marta Gili 共同策划。展览结合法医美学、档案文献、视频、声音与证言，重点展示了针对吉尔吉斯斯坦抢婚现象的《Ala Kachuu》等项目，剖析国家、法律与社会机构如何制度性地推卸责任并对受害者施加二次伤害。",
+      "summary_en": "ICP presents Spanish artist Laia Abril's exhibition 'On Rape and Institutional Failure', the second chapter of her 'A History of Misogyny' project, exploring systemic violence and institutional accountability through forensic aesthetics and archives.",
+      "why_muki_cares": "展览通过法医美学与档案拼贴，将个体创伤转化为对制度权力的实证质询。对于研究身体政治、反向档案与制度批判的视觉实践而言，提供了一个严谨的法医调查式策展范例。",
+      "editorial_signal": "法医美学与档案调查在女性主义身体政治中的应用。",
+      "theme_tags": [
+        "ICP",
+        "莱娅·阿布里尔",
+        "女性主义视觉",
+        "法医美学",
+        "反向档案",
+        "身体政治",
+        "制度批判"
+      ],
+      "source_name": "International Center of Photography",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdHqlBZvbXxjBB5P1FDrYnjLyUL9GBlUQF_92bs2rze3e6I2ag6O2gFKEEk_jIFgflMCIEPs_7e_r9r9xaFbU9zepHwWIDCL6EXDlJazlPUDmaxnxhtza8RzgVkw-vxO1bppanBflA5LpoQC4zOmYQXZvsVJvmANph_wA3aCE=",
+      "publication_date": "2026-10-15",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "哈莱姆工作室博物馆公布 2026–27 驻留艺术家：三位创作者入驻新馆空间",
+      "title_en": "Studio Museum in Harlem Announces 2026–27 Artists in Residence Cohort",
+      "summary_zh": "哈莱姆工作室博物馆（Studio Museum in Harlem）公布了 2026–27 年度“驻留艺术家计划”名单，选入 Turiya Adkins、Timothy Yanick Hunter 与 Clifford Prince King 三位艺术家。为期 11 个月的驻留将于 2026 年 11 月启动，艺术家将在博物馆新建成的 J. Bruce Llewellyn 驻留中心开展工作。项目提供工作室空间、研究支持、生活津贴及结业博物馆展览与出版物支持，涵盖摄影、声音、雕塑与离散记忆等媒介实践。",
+      "summary_en": "The Studio Museum in Harlem selected Turiya Adkins, Timothy Yanick Hunter, and Clifford Prince King for its 11-month 2026–27 residency program, supporting practices across photography, sound, and sculpture in its new facility.",
+      "why_muki_cares": "项目展现了机构如何通过硬件空间建设与长期资助，为黑人与酷儿艺术家的肖像摄影及离散记忆研究提供制度保障。对观察机构支持结构与艺术家劳动具有直接参考价值。",
+      "editorial_signal": "机构基础设施对离散与酷儿摄影实践的长期支撑。",
+      "theme_tags": [
+        "哈莱姆工作室博物馆",
+        "驻留项目",
+        "肖像摄影",
+        "酷儿艺术",
+        "离散记忆",
+        "艺术资助"
+      ],
+      "source_name": "Studio Museum in Harlem",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWWs4GBNeQSR1nVGrylS5tPEyS6cFUXYKHHiWSChVJbo_xJjtD5REB7Co-P59OGOeoCJfPQRnI1I05QIbvtHNpa2437P9P-MKFaKckeTAsK7NdHAR9TtNx8oOW1JgS7L3BHEVTdq9qmhpbGw-BPGV676Qy1GlotUzviHLUrPDk1gVxyYmZ0yIeqL3HPw==",
+      "publication_date": "2026-10-21",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "中国美术学院美术馆举办朱德群回顾展：以 107 件作品与历史档案呈现跨国抽象历程",
+      "title_en": "China Academy of Art Museum Opens Retrospective 'The Radiance of All Things: Chu Teh-Chun'",
+      "summary_zh": "中国美术学院美术馆在杭州开幕《万象之光：朱德群回顾展》。展览汇集朱德群（1920–2014）七十年创作生涯中的 107 件油画，以及罕见手稿、素描与历史照片档案。展览梳理了他从杭州国立艺专时期到 1955 年赴法后的创作转变，呈现了 20 世纪中叶东亚现代主义艺术跨国流动的视觉与文本文献。",
+      "summary_en": "The China Academy of Art Museum presents a major retrospective of Chu Teh-Chun featuring 107 paintings alongside rare manuscripts and historical photo archives tracing his 70-year transnational career.",
+      "why_muki_cares": "展出的历史照片与一手手稿为 20 世纪东亚艺术家的跨国迁徙与媒介考古提供了珍贵的原初档案，有助于理解跨文化抽象语言的形成路径。",
+      "editorial_signal": "跨国艺术迁徙中的历史照片与文本档案还原。",
+      "theme_tags": [
+        "中国美术学院美术馆",
+        "朱德群",
+        "档案研究",
+        "历史摄影",
+        "东亚现代主义",
+        "媒介考古"
+      ],
+      "source_name": "China Daily / China Academy of Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk0UFxPYnFZzB-rJvuasCW3xCrL6gx7vCQRII8kvmlgsfVue3KTIupX6c8PBuW6BjnhS_l7CFndf4V872UadHzM9Si4sTruTwelkGa4XoTQzzQ5GgENmMwVy9JZ2qXRIFtrSbWEn9kKB-Y81ck8eqmH2jJtVhda5G79n8r1-18eTUb",
+      "publication_date": "2026-10-21",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "Railtown AI 在 GitHub 开源 Swift 版 Railtracks ADK：支持 macOS 与 iOS 端侧 AI Agent 调度",
+      "title_en": "Railtown AI Open-Sources Railtracks Swift Agent Development Kit on GitHub",
+      "summary_zh": "Railtown AI Technologies 在 GitHub 上以 MIT 许可证开源了 Railtracks Swift Agent Development Kit（ADK）。该 SDK 将其原本基于 Python 的智能体开发框架引入 Apple 平台生态，支持在 macOS 和 iOS 上原生构建 AI Agent 工作流。系统整合了 Apple Intelligence 端侧本地模型与 OpenAI、Anthropic、Google 等云端多模型 API，为开发者在本地设备上构建自动化知识管理与创作工作流提供了工具。",
+      "summary_en": "Railtown AI open-sourced its Railtracks Swift ADK on GitHub, enabling native AI agent orchestration on macOS and iOS devices with hybrid local and cloud model support.",
+      "why_muki_cares": "该框架简化了在 Apple 端侧部署本地 Agent 的门槛，使创作者无需完全依赖云端服务即可搭建私有化、低延迟的知识管理与内容生产自动化工作流。",
+      "editorial_signal": "端侧原生 AI Agent 框架对个人本地工作流的重构。",
+      "theme_tags": [
+        "Railtown AI",
+        "Swift",
+        "开源 AI",
+        "AI Agent",
+        "端侧推理",
+        "知识管理",
+        "创意技术"
+      ],
+      "source_name": "Stock Titan / Railtown AI",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSOElGsOdWT92GfYQdgCij3xJ-LpSGi-A0elE6oWyCkzezroq9wEOr3kkGVnedhHoOLHGXGGYmQvwfjkO14swK0n7gPn4DTtt5gAre6KDsQjjmKhAIH8wRpRrTyU5SnXRZXpQr1wL6jedSiDbQaDbqJtMeZW53aV1KGqfSHIqaEu5OFl5R6pHLSc4WcXS6Akdmb4XMGDixL19JTXRYgY1TXo4fr5W8Kkx0BQ==",
+      "publication_date": "2026-10-21",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "女性主义研究所数字档案上线 Michelle Handelman 胶囊系列：联合 Leslie-Lohman 博物馆探讨数字激活",
+      "title_en": "The Feminist Institute Launches Michelle Handelman Capsule Collection and Digital Archival Panel",
+      "summary_zh": "女性主义研究所（The Feminist Institute）在其开放数字档案平台上正式上线艺术家 Michelle Handelman 的专题胶囊系列。为配合档案激活，研究所与纽约 Leslie-Lohman 艺术博物馆联合举办《Activating the Archive》研讨会，邀请 Amber Musser 与 Jeanne Vaccaro 等学者参与，共同讨论酷儿与女性主义数字档案如何介入主流艺术史范式，以及重构边角视觉历史的信息行动主义方法。",
+      "summary_en": "The Feminist Institute launched the Michelle Handelman digital capsule collection and co-hosted a panel at Leslie-Lohman Museum to discuss queer and feminist archival activism in digital space.",
+      "why_muki_cares": "这一实践展示了独立非营利机构如何通过开源数字平台，将边缘艺术家的档案转化为可公开获取的抵抗工具，为数字档案建构与信息行动主义提供了具体范例。",
+      "editorial_signal": "酷儿与女性主义数字档案的信息行动主义实践。",
+      "theme_tags": [
+        "女性主义研究所",
+        "Leslie-Lohman博物馆",
+        "数字档案",
+        "酷儿研究",
+        "信息行动主义",
+        "反向档案"
+      ],
+      "source_name": "The Feminist Institute",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3_qYIPcgSdpaXl2hd7-b-Uk-Q-VxiGiWDxjKfpcpYtGWSTGLE82WSVILf8bx8YtKimkYJtr1CgaFmZAUuQbwS81XJpmDnZZyeBKy0cLpopT7D9dufT0IzNMcJ9zvsfq-U",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition & Curatorial Focus",
+    "title": "ICP 举办莱娅·阿布里尔特展：以法医美学与档案揭示制度性性暴力",
+    "why_muki_may_care": "展览以法医调查式的档案建构，将个体创伤研究转化为对制度责任的实证批判，是女性主义身体政治与反向档案策展的重要参考。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdHqlBZvbXxjBB5P1FDrYnjLyUL9GBlUQF_92bs2rze3e6I2ag6O2gFKEEk_jIFgflMCIEPs_7e_r9r9xaFbU9zepHwWIDCL6EXDlJazlPUDmaxnxhtza8RzgVkw-vxO1bppanBflA5LpoQC4zOmYQXZvsVJvmANph_wA3aCE="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Tate Modern 《Light and Magic》展览（前期已收录）",
+    "M+ 博物馆《Myths and Monsters》特展（前期已收录）",
+    "The Hopper Prize 资助（前期已收录）",
+    "常规 Copilot 或 AI 工具微小修补更新（未对工作流造成实质改变）"
+  ],
+  "covered_entities": [
+    "International Center of Photography",
+    "Studio Museum in Harlem",
+    "China Academy of Art Museum",
+    "Railtown AI",
+    "The Feminist Institute",
+    "Leslie-Lohman Museum of Art"
+  ],
+  "repetition_notes": "本期收录的 5 项信号均为全新信号（New）。其中 ICP 展览及女性主义研究所数字档案项目，进一步扩展了对法医美学与反向档案建构的持续追踪。",
+  "issue_number": 85
+}
