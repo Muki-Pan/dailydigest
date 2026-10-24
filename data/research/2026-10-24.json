@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-24",
+  "model": "gemini-3.5-flash",
+  "dossier": "### Evidence Dossier (Issue 086 / 2026-10-24)\n\n#### Candidate 1: Feminist Structure Signal\n- **Title**: 采琳尼当代艺术中心（Tselinny Center）开幕《Himoya》特展：通过母系记忆与草地宇宙观重构女性关护与保护力量 / Tselinny Center Presents 'Himoya: Matrilineal Energies, Oracular Kin'\n- **Source URL**: `https://tselinny.org/exhibitions/himoya-matrilineal-energies-oracular-kin`\n- **Publication Date**: 2026-10-15 (Exhibition opening; international press coverage October 21–23, 2026)\n- **Verified Facts**:\n  - Organized by Tselinny Center of Contemporary Culture in Almaty, Kazakhstan, and curated by Natasha Ginwala (running October 15, 2026 – April 4, 2027).\n  - Features 21 artists and thinkers from Central Asia and internationally, including Almagul Menlibayeva, Aziza Kadyri, Umida Akhmedova, Haegue Yang, Nara Beibit, Citra Sasmita, and Thania Petersen.\n  - Takes its title from *himoya* (signifying protection, shelter, and care across Uzbek, Arabic, Azerbaijani, and Sanskrit linguistic traditions).\n  - Focuses on matrilineal memory, care labor, pre-Islamic steppe cosmologies (Tengri), Sufi practices, and anti-imperial resistance to historic erasure.\n  - Highlights Aziza Kadyri's interactive installation *Iron Mother*, built around family memory of her grandmother Umida who became the first director of the Tashkent TV Tower.\n- **Relevance to Muki**: Directly links matrilineal memory, Central Asian feminist perspectives, care labor, and media archaeology/infrastructure history.\n- **Proposed Section**: Feminist Structure Signal\n- **Duplication Assessment**: New signal. Neither Tselinny Center nor the *Himoya* exhibition has been featured in recent issues.\n\n---\n\n#### Candidate 2: Visual Culture Signal\n- **Title**: 密尔沃基艺术博物馆开幕《Beneath the Surface》特展：通过 180 年摄影史揭示资源开采与暗房介质的物质联系 / Milwaukee Art Museum Opens 'Beneath the Surface: Mining and American Photography'\n- **Source URL**: `https://mam.org/exhibitions/details/beneath-the-surface.php`\n- **Publication Date**: 2026-10-23\n- **Verified Facts**:\n  - Co-organized by the National Gallery of Art and Milwaukee Art Museum, co-curated by Kristen Gaylord and Diane Waggoner (opened to the public October 23, 2026).\n  - Brings together 140 historical and contemporary works spanning 180 years, featuring artists including Mary Mattingly, Cara Romero, Will Wilson, Dakota Mace, and Lucas Foglia.\n  - Explores the visual representation of mining, oil drilling, and resource extraction alongside the photographic medium's material dependence on extracted minerals (e.g., silver for historical darkroom emulsions, copper and lithium for digital cameras and batteries).\n- **Relevance to Muki**: Directly addresses media archaeology, image history, labor landscapes, and the physical material chain of photography.\n- **Proposed Section**: Visual Culture Signal\n- **Duplication Assessment**: New signal.\n\n---\n\n#### Candidate 3: China / East Asia Signal\n- **Title**: 波士顿美术馆（MFA Boston）开幕川田喜久治《地图》档案展：首次完整公开 1965 年摄影书手稿与接触印相 / MFA Boston Opens 'Kawada Kikuji: Chizu (The Map)' Archive Exhibition\n- **Source URL**: `https://www.mfa.org/exhibitions/kawada-kikuji-chizu-the-map`\n- **Publication Date**: 2026-10-24\n- **Verified Facts**:\n  - Opens at the Museum of Fine Arts, Boston on October 24, 2026 (running through July 18, 2027).\n  - Dedicated to Japanese photographer Kawada Kikuji (b. 1933) and his seminal 1965 photobook *Chizu* (*The Map*), created around Hiroshima, Tokyo Bay fortresses, and post-WWII Japanese society.\n  - Draws directly on MFA Boston’s acquisition of Kawada's complete set of 87 vintage prints, original film negatives, contact sheets, personal binders, and a rare first-edition photobook copy.\n- **Relevance to Muki**: Core East Asian photography history, photobooks, and image archive material culture.\n- **Proposed Section**: China / East Asia Signal\n- **Duplication Assessment**: New signal.\n\n---\n\n#### Candidate 4: AI Research / Creative Tech Signal\n- **Title**: Hi3D 团队开源 Hi3D v1.0 三维细化模型：以 1536³ 高精网格与两百万 3D 资产优化 3D 创作工作流 / Hi3D Open-Sources Hi3D v1.0 Geometry Refinement Model for High-Resolution 3D Workflows\n- **Source URL**: `https://github.com/hi3d-official/Hi3Dv1.0`\n- **Publication Date**: 2026-10-23\n- **Verified Facts**:\n  - The Hi3D team officially open-sourced Hi3D v1.0 (built on the Sparc3D architecture) on GitHub and Hugging Face on October 23, 2026.\n  - Trained on approximately 2 million curated 3D assets (expanded from 500,000).\n  - Functions as a second-stage 3D geometry refiner: takes a coarse 3D mesh (from models like Hunyuan3D or TRELLIS) and a reference image to progressively reconstruct detailed surface geometry up to an effective 1536³ sparse extraction grid.\n  - Achieves a 90% slicing success rate, directly benefiting 3D printing, game asset pipelines, and AR/VR design workflows.\n- **Relevance to Muki**: Practical creative workflow improvement for 3D image-to-geometry generation and open-source generative technology.\n- **Proposed Section**: AI Research / Creative Tech Signal\n- **Duplication Assessment**: New signal.\n\n---\n\n#### Candidate 5: Archive / Long Read / Opportunity\n- **Title**: Secondary Archive 启动新一轮中东欧与南欧青年女性艺术家征集：提供 500 欧元资助与华沙特展机会 / Secondary Archive Launches Open Call for Emerging Women Artists in Central and Eastern Europe\n- **Source URL**: `https://secondaryarchive.org/news/open-call-for-women-artists-from-v4-wb-and-eap/`\n- **Publication Date**: Open call active through November 15, 2026 (curated coverage October 2026).\n- **Verified Facts**:\n  - Organized by the Katarzyna Kozyra Foundation and partners.\n  - Open to female-identifying visual artists aged 35 and under from 13 countries across Central and Eastern Europe, the Western Balkans, and the Eastern Partnership (including Ukraine, Belarus, Poland, Czech Republic, Slovakia, Albania, etc.).\n  - Selected artists work with curators to create written and video artist statements for the permanent digital archive, receive 500 EUR grants, and will participate in a group exhibition in Warsaw on March 8, 2027.\n- **Relevance to Muki**: Feminist archival platforms, digital counter-archives, structural support and funding for women creators.\n- **Proposed Section**: Archive / Long Read / Opportunity\n- **Duplication Assessment**: New signal.",
+  "citations": [
+    {
+      "title": "tselinny.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqyxXNVBvRrePXPJx34jJ5sn8OYk5RyyvNmXLF9dJuuyeH11qe5KWnB6bG6sXN1tCKNwD5yHkJSP1IZm4Ow8UW4qIeAigLCtD-L4cNcy7d-rdc9VjjDWLKVWES1-NJHijZCI7K-gP9X9DfDT1-WSVN4N5VlksceKhXK4gfdr5pIytt"
+    },
+    {
+      "title": "timesca.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5gcTqkuD4_4gYTT9I7yDXA0Jg3KAC9YRjVOY9O-wQD16Y1WvZasjcPoHPafM_BY0iUqWTfGpt-KEsGW5AO4O3R97q6NT0lHOMAAImEarcNdm1RmhxpR6ihbD0WJ4mNg8cKcq4Rt_6pfAObKY5_7VVwBbeP2o0RRseEW_in0Yhbm3DmfBW6dwljg37mmQ="
+    },
+    {
+      "title": "astanatimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFla1hciMRh8WsSQNZk20sInEuCebYtfc9HFWkw6KyEa-UNBFaBv71N9XWg8-pEJIDPmI2I6PrOj04InqtIs1xJcjkXZAd8Xgwpm3SXGpHp8TdsBz9oK5MNeTi9LQpJToKI9QtYvhLSbPr5K6NNHoT0RnAnU65IyGvy9ksVKnPeMUunTpRUBlviJGWV8UiJwhJ-A2b2xj0DkMxztSJKgxEfPKKajAoiIIibfg=="
+    },
+    {
+      "title": "moderniet.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPnE-MpHKSQsWLHuCEVDZGqEBFkUsUMAGISCppwW8kO9oqOHw33unvBNVOEUWgeLpxTsoZee3gmL2zGQXaTu1mYiPOZsBlQ0DIzU3KUh1E1loPiXNOU5upnnWjAdIyo6MZsjDXBOJkWBm1AeFe_jKm0A5K94hIL7d-LA=="
+    },
+    {
+      "title": "abirpothi.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRKKmqCjdbWnLqG5wfIIeSPSbHHrbWA1kD0jaA-FzDybmJ3d4VTRCCm13JRjqYDiKx6n56oidHTafrsk2bmsrABxFFMPnOsRQweqf39S96xBSDv6rKv8uMZRvOlP6sLjwWOt1ZgkuFxBtroX-uKe68AZvFj0eZtu8xthHnd_IoymAB"
+    },
+    {
+      "title": "mam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2kpbm-6d099fP-UPPkKAK_26-mWRTr73SBbe2mD5qs2HQCw-sNOtuGnvtK86ba7TOVCDOzWwsA4jVetLgl-1DxZVSZxVPOAIysinmAe_bgimo71QIdXCdmRWpGozq5W3jiFtGg1I="
+    },
+    {
+      "title": "mam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4o2Ds1JFMhBSoaADBVsX7ImGtHVuK2VyOdLKbFTLYfK4ZRck-BWEvqpT-0zEF-6LYd4F1dmZKBzaMRtzphNhWcH8v5ybRS1CwwTNBuPRQFrn6ZXgGrLkaMSFnpj-Xp94Xp8hhrrM="
+    },
+    {
+      "title": "mam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6KFe8fDE4UPy5Sl8PGI_bMtNzrf6qea3vZWXjQhatTKZbgI2ExQPh0JQ-E0IRie-6tHLFXJojBWLaUn2lLLzRJpSR6sCxH68qQVrooIE-XUpxRp-xvVfoNzhKQTuFo-eAs20KQMGTmqk12gRPK3Ac3kkWdMNH_ufgvZRPNtrJFeqsLdLve7O0Dq-sV5tADgTJFlzo_ltBpvHIPcQsQgakkRZX6AWCTbCUX8DzfMZNw2HXuhvblMaH73J6ftpKvsJTUEmUhcku7Y0Kje4="
+    },
+    {
+      "title": "mam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnIfd61ouBZpArG_kZGVD1JozjlpuPIAxSlz6XW0W6ENn38Ukt3N5ET9OzNhLkATODQ0kPJKj8mYyYCRdGCkJJPcS0rsznenmXooX2W_aQrhahoYOpZs-Qa4LE5Zt-jmqkpguIFNXlFhzwMSDwh-wcCRd4bAfRapOdHuq4-g_L"
+    },
+    {
+      "title": "mam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnrHwIrFtfI2p0ix4_4l5E1tqEh_LUG-ENvXlkc3FKNbar3qFM5oJk5I5ZFNzRPNiEVObDV7jiWCfk4w3R29p9xkMg5ml2R-Dx7V3UXGOWWNkG3yy-NB3CQe2KcHD2NfTLIez7B6CaZ7OOf7OgFi3Wt9XB9fw="
+    },
+    {
+      "title": "mam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhbdlnNbjNnNFeBUGp-eGKNRhrM6XZGVf1WsfAJPjU1Z21K8GQ7RMeZQeBDhrS69GG4kbeqzOtWlxi3UmMCRjKP-rROmOmEtrnDiP0WB4UK2j3pbY1mDPQyBCOVbjdAxMWaHhx1baqU2RpiAQsZzmGOgv19hE="
+    },
+    {
+      "title": "mfa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXs4QVF6-Yg6Y-5Rg9uijCo9CVNY1gVZ70KfHBKxIgGWTNblrV8ZRx6MsWDPtvBCP2tJ_oGWbLBabtk8jxrYlq_c_B1OWxv5PhBuzlnJhvDh_sntj_A0iRnil9TiJxDLcMlRCa3y2QBc0FJVtRxMzY"
+    },
+    {
+      "title": "japaneseartsoc.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU0zhjNeI0ntCOJ19XZoHYhC52ithUeC7GmLnIZCT7HHQ-r_BVNM7Xrk5x__s965bR0Ks4ffhzasRS_cUT-hYhi8gcZZjuB0DtzdTIjXlBkGZxBPR5txYcHEr_nFgnnD76wF2n6ATAiE-yTQ="
+    },
+    {
+      "title": "mfa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbZTEyTBi7oxKTY_hrr8kG2tiDWRRgVIT25TMC0IehZlvzkgl0qjzluTJmWt4MwEWFlioO4wjWAIa0lumuHMBIpoOtefE4TCXq6GlH-FJGL0cOe-LdRwdU82e4LUGhKmKW_00_MRYw9wQq"
+    },
+    {
+      "title": "mfa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZUwn-6onJmim7-JAy0zELHBHR0FaYW8HWWBNlJ_cjWUAFe9qH2ljX6jlxESar2YdLKgoAz85rkEwOl0imZ_k2nIN8gBe2-8fIYf83SIqQIE2Rc2i2jMpD8P1wmm18FR0FURJIsJw01chLzbsLwqRUZWcUiIdhOdKerglI7pKynPZ0ExwF9umakv1RjHss8xwrMw9wTDgYPUROFjm2oXTatz0ykYk="
+    },
+    {
+      "title": "prnewswire.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkW8te6BG3A6PaRvGai9Br38RHAFc4V3RnU038JwBG28efcP_vziWyC_2cIzCuKyfN1QifEv4GiUdIOMLhT2PtJ1obpLpZsKgHD-yKxASJ4OX1tMj3QB2YUWP50CIBGhU6rZQ_1dV-KeRv3vzvIXzebxqmwLkTK6WZ1Kj_8ySrDAkXy6GI0_9PYq9QupoI95L5OvK4xDbu7vVjOJTjW7W4NP0SBp_571MYTEwkKkm-iTH0i-VCcVUsF76xfh0fz8w="
+    },
+    {
+      "title": "artrealmai.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETWAIQqBdEr55ByiSdm2XDBlDCL-Zi4jNErSkmSXLws93P7041rlMK_5KPk5mk1t5m8my828-apkpwftWEwXG595KbRRcsrDYvnEpOs-c_bMSMJiicXIT2WE7fEcGP2qA0CbYJ6ian7wIVJ98CAixMgNQ9-WiEhOWloM1q0BORaBh2Mq2F"
+    },
+    {
+      "title": "fupanwang.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLqRYNYdOeWXH9Z4FRBT7LvNUUC_8zrmb_fzYX__kbQpYLf3RNwkq4EVy6sHTzAryUwMWJPxsU6dOIpUL0BFC7DdRadiYx_26qY9IC4VBPVm72onkBdOTstqxbKeAmIkCxNHd4_WLgFw=="
+    },
+    {
+      "title": "secondaryarchive.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4NVBpysrQwe8LoENSQn3Uu4stdbpfkVixpy7sUP4RhyLdGj-nFtb9KNinl8UHCV0pBQbOMb09nrzr4NWPz-N9hEuA64mSFXIJOT_FSnVe6onugurqPnV6-pNiXCU47GOlJRiknYTgdzzryNKroqPr9Q8JdP40rMoaXZdOVLPksLGWHuoivhg="
+    },
+    {
+      "title": "contemporarylynx.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtfFqYPGabk2-YN6Ea4NfZtDbdA12nPPm50QUTF5o6x4CaBzFhsT8KEfj-LaIwJoyi-UvQRL-1FHtQy4Fd5qUOgR9vBuymjcEincYDPWM1aFRIAt5aD9IsVuWLAZZHvDCz71BF_b9cbIGlhNZ2p9HYzPLw49HvhczFgH0lo8g="
+    }
+  ]
+}
