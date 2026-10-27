@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-27",
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "Lucia Moholy",
+    "包豪斯档案",
+    "Ephemere",
+    "摄影书假样",
+    "Zeitz MOCAA",
+    "独立出版"
+  ],
+  "why_today": "今天的信号聚焦于档案纠偏与自主出版。从 UNESCO 展示 Lucia Moholy 的历史信件与微缩胶片文献，到 Zeitz MOCAA 设立独立出版团体驻留，研究者与创作者正在通过媒介复刻与自出版假样，重新建立图像的著作权与表述权。",
+  "intro": "本期简报关注机构档案如何重新承认被遗忘的女性劳动，以及独立出版如何成为记录与抵抗的物质载体。从 UNESCO 对 Lucia Moholy 著作权的追溯，到东京与开普敦对摄影书假样和自出版的扶持，这些实践展现了视觉生产中的自主性。",
+  "opening_signal": "真正的档案纠偏不仅是补上一张照片，而是承认那些被制度抹除的复制与整理劳动。",
+  "closing_signal": "当微缩胶片与摄影书假样交织在一起，我们看到知识管理与视觉生产正逐步回归个体与独立群体的具体实践。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "联合国教科文组织展出 Lucia Moholy 档案：以 1946 年信件与微缩胶片重构包豪斯摄影师的媒介著作权",
+      "title_en": "UNESCO Presents 'Lucia Moholy: Photography as Transmission' Archives and Exhibition",
+      "summary_zh": "联合国教科文组织（UNESCO）巴黎总部将于 2026 年 11 月 12 日至 30 日举办《Lucia Moholy: Photography as Transmission》特展与研讨会。展览由 Jan Tichý 策展，源于 UNESCO 档案数字化过程中发现的一封 Moholy 于 1946 年寄出的亲笔信。1933 年逃离纳粹德国时，Moholy 迫留下了数百张包豪斯玻璃底片，此后其作品在未经署名的前提下被广泛出版。本次展览结合历史书信与微缩胶片文献，呈现她在包豪斯及二战期间为 UNESCO 开展的文献复刻历史。",
+      "summary_en": "UNESCO will present 'Lucia Moholy: Photography as Transmission' in Paris from November 12 to 30, 2026. Based on a 1946 letter, the exhibition examines her legacy in Bauhaus photography and microfilm documentation.",
+      "why_muki_cares": "这展现了女性摄影师的文献整理劳动如何被机构抹除，以及反向档案研究如何通过书信与微缩胶片媒介，帮助其重构著作权与历史位置。",
+      "editorial_signal": "历史档案研究通过重新发现书信与文献复刻记录，纠正建制对女性摄影师著作权的抹除。",
+      "theme_tags": [
+        "UNESCO",
+        "Lucia Moholy",
+        "包豪斯",
+        "微缩胶片",
+        "媒介考古",
+        "反向档案",
+        "著作权"
+      ],
+      "source_name": "UNESCO",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzdNAMLWixSXWDVEudlTRGccn0wkRZDVaF6Un0-2TiiJuYgjd4OdHDz_DW0tq_PUbIik-cCWHGH_aFVKdgpnDvwfvOGEA0eGJrsznWQ2G0yQVpxg1zkmZaStJNzNmbDGi6qRbo1owvnG0DUltsMd6eFMtnQDv11o-4BPd8EPs=",
+      "publication_date": "2026-10-26",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "Ephemere 摄影书奖公布首届入围名单：10 部摄影书假样在东京展出并启动出版资助",
+      "title_en": "Ephemere Photo Fest 2026 Exhibits 10 Photobook Dummies at Three Space Tokyo",
+      "summary_zh": "日本独立出版平台 Ephemere 于 2026 年 10 月 17 日至 27 日在东京 Three Space Tokyo 举办 Ephemere Photo Fest 2026 实体展，展出首届 Ephemere 摄影书奖的 10 部入围假样（Dummy）。该奖项收到来自 59 个国家和地区的 365 份投稿，入选作品将获得全额资助并在日本印制出版。与此同时，Ephemere 启动了第 13 届《Triptychs》公开征集，遴选组照制作联合出版物。",
+      "summary_en": "Ephemere Photo Fest 2026 exhibited 10 photobook dummy finalists in Tokyo, selected from 365 global submissions, with winning works to be published in Japan.",
+      "why_muki_cares": "摄影书假样与自出版是东亚摄影文化的重要载体。这个项目展现了日本独立出版生态如何连接青年创作者，并建立实体流动文献库。",
+      "editorial_signal": "独立出版机构通过摄影书假样评选与物理空间展示，持续扶持青年创作者的实体出版实践。",
+      "theme_tags": [
+        "Ephemere",
+        "摄影书",
+        "假样制作",
+        "日本独立出版",
+        "东亚视觉文化",
+        "实体文献"
+      ],
+      "source_name": "Ephemere",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM47qpVhr4li-EAab3npy6nTTGuBIiAIbEBnKw9INkoiWA4yjgllX0WWZ30-nw6ExD3RqfoQRV9gTw8JJ3ZBlMU1kCw7iyi63yPQOfFVhdAmIO__fQso3hJd34O8mz",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "齐茨非洲当代艺术博物馆启动 IMPRINT 项目：在 Koyo Kouoh 工作室招募独立出版团体驻留",
+      "title_en": "Zeitz MOCAA Announces 'IMPRINT' Publishing Residency and Open Call",
+      "summary_zh": "开普敦齐茨非洲当代艺术博物馆（Zeitz MOCAA）公布 2026–2027 展季项目《IMPRINT》，并在 Koyo Kouoh 艺术工作室设立为期 3 至 6 个月的驻留计划。该项目邀请独立出版团体入驻，将出版作为研究与表述的核心方法。驻留团队将围绕书籍、声音、档案印样与现场表演展开实践，探索自出版在反向档案建构与社区组织中的作用。",
+      "summary_en": "Zeitz MOCAA announced its 'IMPRINT' project, launching a residency for independent publishing collectives at the Koyo Kouoh Studio to explore self-publishing as a counter-archival tool.",
+      "why_muki_cares": "该项目提供了一个博物馆级别的实践样本，展示了如何把独立自出版作为反向档案建构与社区组织的物质工具。",
+      "editorial_signal": "机构将独立出版提升为核心策展与驻留项目，支持自出版团体进行反向档案建构。",
+      "theme_tags": [
+        "Zeitz MOCAA",
+        "IMPRINT",
+        "独立出版",
+        "反向档案",
+        "艺术驻留",
+        "公开招募"
+      ],
+      "source_name": "e-flux / Zeitz MOCAA",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_hbYtH3jLt0ig0twTOlZRR0qVyMMCK2Fa8MLYx1WPasTUbKPy2yYMiwKLpGpwARFoezeCEYXVxnbW5SRdHOKG9vn542kyjjHOnjhfyBCtjhTPYHVxRMQtM5juuqCND247a5l2ztTkBAOKctkA2vbVO3TqZTEWDFfqvEXwchUmcz2tnc8M",
+      "publication_date": "2026-10-26",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive & Feminist Visual Research",
+    "title": "联合国教科文组织展出 Lucia Moholy 档案：以 1946 年信件与微缩胶片重构包豪斯摄影师的媒介著作权",
+    "why_muki_may_care": "展览通过一封 1946 年的历史书信与微缩胶片档案，追溯了包豪斯摄影师 Lucia Moholy 被机构抹除的著作权与文献整理劳动，为反向档案研究提供了具体的媒介案例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzdNAMLWixSXWDVEudlTRGccn0wkRZDVaF6Un0-2TiiJuYgjd4OdHDz_DW0tq_PUbIik-cCWHGH_aFVKdgpnDvwfvOGEA0eGJrsznWQ2G0yQVpxg1zkmZaStJNzNmbDGi6qRbo1owvnG0DUltsMd6eFMtnQDv11o-4BPd8EPs="
+  },
+  "empty_sections": [
+    "Visual Culture Signal",
+    "AI Research / Creative Tech Signal"
+  ],
+  "excluded_topics": [
+    "Foam 摄影博物馆 Myriam Boulos 个展（源链接未通过验证，已移除）",
+    "UNU 与 Google Research 联合开源 ScholarPeer 系统（源链接未通过验证，已移除）",
+    "佳士得 Koch Collection 拍卖（属于二级商业市场交易，缺乏研究深度）"
+  ],
+  "covered_entities": [
+    "UNESCO",
+    "Ephemere",
+    "Zeitz MOCAA"
+  ],
+  "repetition_notes": "本期收录的 3 项信号均为首次录入的全新信号（New）。其中 Visual Culture Signal 和 AI Research / Creative Tech Signal 板块因源链接效验原因留空。",
+  "issue_number": 87
+}
