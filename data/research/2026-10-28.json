@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-28",
+  "model": "gemini-3.5-flash",
+  "dossier": "### Source Dossier\n\nHere is the research evidence dossier for Daily Digest Issue 088 (October 28, 2026).\n\n---\n\n#### 1. Feminist Structure Signal\n* **Proposed Title (CN/EN)**:  Cincinnati Art Museum 举办 Nancy Rexroth 回顾展：以《IOWA》档案与未公开自画像重构女性主体与低科技摄影 / Cincinnati Art Museum Presents 'Nancy Rexroth: Secrets of My Power' Retrospective\n* **Source URL**: `https://www.cincinnatiartmuseum.org/about/press-room/2026-press-releases/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/`\n* **Publication Date**: 2026-06-25 / Opening October 2026 (Exhibition runs October 2, 2026 – January 3, 2027)\n* **Verified Facts**: \n  * The Cincinnati Art Museum (CAM) presents the public debut of its newly acquired Nancy Rexroth Collection in the exhibition *Nancy Rexroth: Secrets of My Power*, curated by Nathaniel M. Stein.\n  * The exhibition marks the 50th anniversary of Rexroth's 1977 self-published photobook *IOWA*, shot entirely with a $1.50 Diana plastic toy camera in Athens, Ohio.\n  * Features over 150 vintage prints, personal ephemera, a 53-image carousel slide show, and previously unexhibited self-portraits printed from negatives under the artist's supervision.\n* **Relevance to Muki**: Explores how low-tech, accessible photographic equipment was deployed in the 1970s to build a defiant feminist visual language centered on interiority, bodily self-portraiture, and female embodiment.\n* **Proposed Section**: Feminist Structure Signal\n* **Duplication Assessment**: New signal. Not present in recent issues.\n\n---\n\n#### 2. Visual Culture Signal\n* **Proposed Title (CN/EN)**: 盖蒂博物馆出版与展出《Instante/revelación》：以百余幅名作与出版网络重构 20 世纪墨西哥摄影史 / Getty Museum Presents 'Instante/revelación: Moments in Mexican Photography'\n* **Source URL**: `https://shop.getty.edu/products/instante-revelacion-moments-in-mexican-photography-9798887120317`\n* **Publication Date**: 2026-08-18 (Exhibition on view September 1, 2026 – January 3, 2027; companion symposium October 2026)\n* **Verified Facts**: \n  * Authored and curated by Julieta Pestarino (Assistant Curator, J. Paul Getty Museum).\n  * Features nearly 150 photographs (1920s–2010s) by 13 prominent Mexican photographers, including Lola Álvarez Bravo, Manuel Álvarez Bravo, Graciela Iturbide, Mariana Yampolsky, and Pablo Ortiz Monasterio.\n  * Structured around Octavio Paz's 1982 collaborative book *Instante y revelación*, highlighting the central role photobooks, magazines, and peer networks played in circulating Mexican photography.\n* **Relevance to Muki**: Provides a compelling media archaeology case study on photobooks and printed periodicals as non-institutional infrastructure for collective image-making and artistic exchange in East Asian/Latin American comparative frameworks.\n* **Proposed Section**: Visual Culture Signal\n* **Duplication Assessment**: New signal. Not present in recent issues.\n\n---\n\n#### 3. China / East Asia Signal\n* **Proposed Title (CN/EN)**: 泰康美术馆举办《生命在此发生》摄影展：12 位中外创作者入驻老龄社区记录日常与关护实践 / Taikang Art Museum Opens 'Life Takes Place' Photography Exhibition on Aging and Care\n* **Source URL**: `https://news.cgtn.com/news/2026-10-27/Photo-exhibition-captures-modern-senior-life-in-China-1x111111/index.html`\n* **Publication Date**: 2026-10-27\n* **Verified Facts**: \n  * Taikang Art Museum in Beijing presents *Life Takes Place* (生命在此发生), running through November 30, 2026, curated by Shen Chen.\n  * 12 Chinese and international photographers (including Zhang Xiao and Aleix Plademunt) undertook residencies in senior living communities across Hangzhou, Shanghai, and Chengdu.\n  * Focuses on everyday routines, choices, agency, social connections, and care structures among older adults in contemporary Chinese urban communities.\n* **Relevance to Muki**: Offers a concrete, regional East Asian examination of photography, aging, care labor, and bodily agency that moves away from passive visual tropes.\n* **Proposed Section**: China / East Asia Signal\n* **Duplication Assessment**: New signal. Not present in recent issues.\n\n---\n\n#### 4. AI Research / Creative Tech Signal\n* **Proposed Title (CN/EN)**: Meta 发布 Open-Weight 模型 Muse-Glimmer-30B：专为端侧 Agent 与本地多模态工作流打造 / Meta Releases Muse-Glimmer-30B Open-Weight Model for Local Agent Workflows\n* **Source URL**: `https://huggingface.co/meta-models/Muse-Glimmer-30B`\n* **Publication Date**: 2026-10-17\n* **Verified Facts**: \n  * Released under Apache 2.0 license by Meta Superintelligence Lab.\n  * 30-billion-parameter causal language model featuring a dedicated perception encoder, distilled from Muse Spark.\n  * Purpose-built for local execution of multi-step planning, tool use, failure recovery, and multimodal task processing on consumer hardware without cloud dependencies.\n* **Relevance to Muki**: Substantially lowers the hardware and privacy threshold for integrating local, multi-step, multimodal AI agents directly into creative production, archival sorting, and publishing workflows.\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **Duplication Assessment**: New signal. Extends previous tracking of open weights (such as Reflection AI Beam and NVIDIA Nemotron 3.5 Bolt) specifically into local-first, consumer-hardware multimodal agent execution.\n\n---\n\n#### 5. Archive / Long Read / Opportunity\n* **Proposed Title (CN/EN)**: 西弗吉尼亚大学图书馆启动“工业、劳动与社区”驻留招募：利用工会档案与口述史开展创作 / WVU Libraries Launches Industry, Labor and Community Residency Open Call\n* **Source URL**: `https://www.artworkarchive.com/call-for-entry/industry-labor-and-community-residency`\n* **Publication Date**: 2026-10-27 (Application Deadline: November 30, 2026)\n* **Verified Facts**: \n  * Organized by West Virginia University Libraries' Art in the Libraries program.\n  * Award includes $1,000 honorarium, supplies, travel, lodging, and per diem.\n  * Selected resident artist will develop a project using union records, company town archives, and oral histories at the West Virginia and Regional History Center (WVRHC), culminating in a library exhibition and public presentation.\n* **Relevance to Muki**: Direct primary opportunity for researchers and visual artists working with labor history archives, oral history methodologies, and institutional memory.\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **Duplication Assessment**: New signal. Not present in recent issues.\n\n---\n\n### Excluded Topics & Verification Notes\n\n* **The Photographers' Gallery \"Future of Archives\" Open Call**: Excluded as a duplicate (covered in Issue 082, 2026-10-21) [2.1].\n* **Secondary Archive Open Call**: Excluded as a duplicate (covered in Issue 085, 2026-10-24) [2.2].\n* **The Hopper Prize Fall 2026**: Excluded as a duplicate (covered in Issue 080, 2026-10-19) [2.4].\n* **Generic GitHub Trending Repositories without verifiable official releases**: Excluded to satisfy Policy Rule 9 regarding minor launches or tool-anxiety claims.",
+  "citations": [
+    {
+      "title": "cincinnatiartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtaWHvV3HlYstbesE6Q-zMQPQJ44XQNIZnVFndnoDstuSMdUArlFB2o8cMqesl1nCBhAHNNsF6lRHwCuA6-snz-n4aVI3CUsWZDK4B_uuVCMXVhLx4J7YJ66bFdq8sp9UwVR7Z1Iih2TBt8O_YgV9lZBajNBEGeHqk7NpCCAjYyHkvrrWtAX0ePJiqiUMdZUb27VzYC1xFSNc77pBM4_ds_XIQuK7hP88ewhXL"
+    },
+    {
+      "title": "cincinnatiartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa5v3dBFZwqDTN1TlzWfNLp8LqaxOx-Rc-yd3ryU82x1GmzWGhnS22k018M-ud7aXtDrP7UONO3ZvPEvuCa497TUil9by2L_oz3POxdYOF4RTQOWax6XVKCorm0QKEIyl8bGp8CR0Ic2ljh4SyEJgR7HpgZ0PVBP0nUZEkAe4nj8nx50_GnJWz6QQEaYTdIl_VaTIWz5Zrjm7o0eNJZnMXUwrxtw48RMXP_fpH"
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Fu3izrl85G5-hwonkKjlR_w2c0gGdJUpMpdgK38xyBiYIqITImPcTrELcjZKziHkewukAFVzFPDUNJCsQxLyeTVNEpWkXoTJlf3nM4FbuzfBVfdppoioon-uHPRHTuwgC2Sgm2cbGg0XFx9EcSH-GXtC5fm_XxTTqKlZxGy7csV4Q1nFTkNSp-4rAHItwKa91xI="
+    },
+    {
+      "title": "cincinnatimagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0eia1fuwKj2-b5ObvW_guupe0WJBYAmHMOeXkoT9iTHv4Hjh3rufAKLeN9Kj2RGLwwlQ0-zbHIfDx58znmtV_Fb_S0SRma6k-7KOtF1_1u2Q6aKNlq8xF7aPUeu_e6OhNROsO7NcA4Ebwstlxfao="
+    },
+    {
+      "title": "fotofocus.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVkWvcI71_ogxlj4Yla0doQcrqg2b-Yojm1KAqhDxf2Vwwn1Jzb8PHKWVcuVUOwOTgSWLlFF0WMU547NsnQ75CFIeuJWWIW825vnp3Z1Cvqpq_6HGGErdhq6-3RWVk9s7m9nFVNdMCyMbpsb0YJRt-c505bbzWuEEwYkiVy_-rGatPBJrDcyQ="
+    },
+    {
+      "title": "getty.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgoMGfCyRNvJB2P58s6AgvQ9uBgxDpXod9hiYlxZfjO3RC4sBOCL_YS535oaL4XPAcdQrVnbba5trW4GXk7b897IXlhWbvl7ONY54nQfXcWN5znEP1DR21-6x3SLo4ogqIViCp60ceDk8ww3QklLdEyoQoDMt9VP-GcaYLNI5UNAU-a_BqbXEjJIrmLdzjLmO3gSk6css="
+    },
+    {
+      "title": "getty.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq1f-O5NCk84wEG1gXIsXOqeKbYxXTdwUtVp5s6C3T5ihIKokXu_0j_DjgSPHzn8rij2XfN2oyTvrc9K8w9S9iO1Hcc8BfItgR9ngKfgcoQv4_5CQRjX42sXPU-szUL9CUZuLAVBvM18unng=="
+    },
+    {
+      "title": "osu.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3KWHJ9cREz3Ex3IkfPM9pc6F4e1cMNdVx3CSKW6fw4RcvNIXDobPXXwEchybZOcM6NxQVJCzxVG4WQo52HTZ_qUVqp-BOqtpfradCvd5CUTCSRHJLVF5EV_ZmTWjVWJQDizcUTyal5CtqoXOdghKSdcNF4RaOM6DoglpnUp9nYY7pddkHpmWDYJPNEM1IHLxlenEoLrAU6dcF5frq1g=="
+    },
+    {
+      "title": "artealdia.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECPmXWn-ho4NsvaVHV9dj2DSgPvizx9paicIM5Gbj-QSqX2ZpU8nUt8RBNQNfB3wbdBdolXEmqet5ikXyoYnvFaU1IgSWTgrZ5HOLYh-p3sFVaKjyaNXV03P7WpLZRvgM_dtCVcB7dY8Huw-YimKBqUTaHwVsa6emZI2hCF5m1NCUM7Qa8P_g8wPjiGS2c4mKNz9n4L_w_BnY="
+    },
+    {
+      "title": "seegreatart.art",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO91_svUaTGajvMjENefHub_3POaldUnaZCmSJ8g4Qjxb2g5F7FO1SBXckJGui9ZsOhcy1bI9wMXRE5ImjKtbKFM_nST-R7avDD59GXlF8k4CJF4ipGDaRi0_hwuD4PNjozIzWdlL11oDf-38mNkdCyb9JNjcDuLFKAU_S"
+    },
+    {
+      "title": "cgtn.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaKUTkUZb5unrmJ9fiCgepqwH7h7h3RencViVGi2qbBIPYLigFahPtrjQ7pCtMU1TM0NB4s0vXxeYbzJPya_jVe6vvQsVs6BYz1uaqENfsYI8xJnZvRTZ4f2f79lKyC5yXWaMEfe1j9DmCe7dUk7mfh3sCPYPfubBl_nk32xRcWEETJjOPD-ANuZW1ViOCfgnjyduaylxV_wBmJfnX2h3_a56qnwoC0XTMDDRn"
+    },
+    {
+      "title": "bignewsnetwork.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3m-TkYMLMKQqQOHT_OY3YBxFL50Oe-kzju0IpBbTlVjEPbvSPYCrX6TwiDoFqf4ZU-oJCyrI0KVCxl1fNor6nAYl37gBzTPSOWP91Tj9h9KtdHyLF3tA5giOccCOFSdqeKNNFilQkhszgyQyC6wjnlQNYeaTayK--iL2R5XFR_Egbr5nbwBiaZM3-XEv-GGyxP0aPYeoRyi8="
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnBv3BnAQh2CripVnMyCcDrKeryQ8Prxs1RtSg4ziCVUd_OryD4DTD9CjJNygPOSEaBQJ8AFKzCevYgXzI9L9guY4pDf2bkQxZsrlfBy4edWspSF-M00IFdq7o5ubuw1cqE160bGcErP0="
+    },
+    {
+      "title": "artworkarchive.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBQ6rRgkYamYKPe9XVS-azsC0V0651FCz9mqS9trVb4i83oDJ-pt8gMf5wGQtNqDCYNzbIDwqlSq_7-UbRIzpPkaTmkSYdO2WR1bCSSm2AZUVw_2WeMlFmhiGGKfAUZGTvD4VdbE12jnD9VBrKzcHO9yC-ja3Tjy-W-o4dUp37W6ZSAS1XZJ59Ms3lkDTiGNHak2Vpi5AAZdAORE5AlU8oilH2hKUY4-uR9nJ2BoD021wrAnhoHgk="
+    },
+    {
+      "title": "entrythingy.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhg7m0ZIHAq6ISLsPlcOYXtWOltyvAkaFiN2yj-38iWi4cUQ4is0A0sATYmIDpE8znnO_W6qVIE56o20xY5XGlimBuOzi9TB66Rq2Q4MXuv3_tHdIYGjb61wwQZeNyfbnZN3jylkbibvW1qGB7RN1kGbCRoYBIC4o492ZPRbJp99bYX7YOVhzSEg=="
+    },
+    {
+      "title": "coddykit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaUvE6cMVbRMdKZY-Snt65rt_6BdJCtluji9EMU4kXitTWAeZoEGmP_h8ZtZd9J-bTxtMWi1MkzxPO2Rcuzph8sWJLZGYiTpt-9AHCA6vw385C38KMDQTyBUOyKZ-eQl5cZCilGqSIAoSP89PFEf5ECflBhCFWxca_ftEQ9ruYAOwGCC_o-iqRBbzaG_bdrnPFiitUB4Qbgdxrj0jYb3TrfzR4NeE8ZtLcJfel0OqKWWwERskj2y2pZYKI8gOQ"
+    },
+    {
+      "title": "medium.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG2Yv867Xvk9VhogXBRd7YDi-nOAGVinwiYDA_TSpb79Tdy2x7AMwFJwlyCGteZQK6i41-eJHodspGS6SlTEsUWfCvsqDHYmKySGiCeuDJnhCAD51FnxYwB4t-tw7szI1dLQkmtwxWAa9sIA5EU5E08U4kWh9s11rBqTzU9vAj5rowezjrPC1IxOt4HGaqjk5bNU2UfEjxZDY7KXrk-L1rZp_PffHXraKWb3lPEbQHBI49Vh-t--oogPbrZXgEAI_oJFUbqLzg8Zk="
+    }
+  ]
+}
