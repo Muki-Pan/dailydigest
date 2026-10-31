@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-31",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Source Dossier (Issue #089)\n\n**Search Window Used**: Past 30 days (`30d`)\n\n---\n\n### Candidate 1: Feminist Structure Signal\n\n* **Proposed Section**: Feminist Structure Signal\n* **Exact Title**: Tate Modern Retrospective: *Ana Mendieta*\n* **Specific Source URL**: `https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta`\n* **Publication / Event Date**: October 2026 – January 17, 2027 (Exhibition running in October 2026)\n* **Verified Facts**:\n  * Tate Modern opened a major retrospective dedicated to Cuban-born artist Ana Mendieta (1948–1985), curated by Valentine Umansky, Michael Wellen, and Elsa Collinson.\n  * The exhibition gathers over 120 works arranged by symbolic locations (such as the cave, the grove, the river, and sacred grounds) rather than strict chronological order.\n  * Key exhibits include newly remastered 16mm and Super-8 films, early paintings, works from the *Silueta* series (1973–1980), and restagings of her ephemeral sand-and-binder floor sculptures created during her Rome years.\n* **Relevance to Muki**: Examines feminist land art, body imprints, trauma of exile, and the curatorial methodology of restaging fragile, ephemeral performance archives.\n* **Duplication Assessment**: New candidate (not featured in recent issues).\n\n---\n\n### Candidate 2: Visual Culture Signal\n\n* **Proposed Section**: Visual Culture Signal\n* **Exact Title**: Harvard Art Museums Presents *The Way We Never Were: The American Professional Photographers Collection*\n* **Specific Source URL**: `https://news.harvard.edu/gazette/story/2026/10/selective-nostalgia/`\n* **Publication / Event Date**: October 21, 2026 (Exhibition runs through May 9, 2027)\n* **Verified Facts**:\n  * Curated by Makeda Best / Makeda Sands at the Harvard Art Museums’ University Research Gallery.\n  * Drawn from sociologist and curator Barbara Norfleet’s collection of over 20,000 commissioned commercial photographs (1930s–1960s) housed at Harvard.\n  * Features six dozen gelatin silver prints depicting midcentury American social rituals, weddings, bar mitzvahs, Tupperware parties, and suburban baby booms, critically examining how commercial commissioned imagery constructed postwar social memory and consumerist conformity.\n* **Relevance to Muki**: Provides a visual sociology framework for analyzing commercial photography archives and the construction of everyday history.\n* **Duplication Assessment**: New candidate (not featured in recent issues).\n\n---\n\n### Candidate 3: China / East Asia Signal\n\n* **Proposed Section**: China / East Asia Signal\n* **Exact Title**: MoMA, Centre Pompidou, and M+ Announce Global Collection Alliance in Hong Kong\n* **Specific Source URL**: `https://hyperallergic.com/moma-centre-pompidou-and-m-plus-announce-novel-collection-alliance/`\n* **Publication / Event Date**: October 30, 2026\n* **Verified Facts**:\n  * Directors Suhanya Raffel (M+), Christophe Cherix (MoMA), and Laurent Le Bon (Centre Pompidou) signed a tripartite Framework Agreement at M+ in Hong Kong on October 30, 2026.\n  * The alliance establishes resource pooling across Asia, Europe, and North America, encompassing collection sharing, joint curatorial research, conservation, and co-developed exhibition programming.\n  * Launched during M+’s fifth anniversary celebrations, the agreement aims to connect contemporary Asian visual culture directly with Western flagship institutions.\n* **Relevance to Muki**: Tracks the redistribution of global media power and institutional networks shaping East Asian contemporary visual history.\n* **Duplication Assessment**: New candidate (not featured in recent issues).\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **Exact Title**: GitHub Open-Sources AI Prototyping Tool *Replica*\n* **Specific Source URL**: `https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/`\n* **Publication Date**: October 28, 2026\n* **Verified Facts**:\n  * GitHub Design open-sourced Replica, an AI-powered UI prototyping tool integrated into the GitHub Copilot app.\n  * Uses natural language prompts to construct and refine interactive user interface prototypes.\n  * Operates directly on a product team’s existing design system components, UI patterns, and documentation to enforce layout compliance.\n* **Relevance to Muki**: Directly enhances creative production and UI/UX design workflows by bridging natural language design intent with formal design systems.\n* **Duplication Assessment**: New candidate (not featured in recent issues).\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **Exact Title**: European Media Art Festival 2027 Opens Call for Entries on 'The Archive'\n* **Specific Source URL**: `https://contemporarylynx.co.uk/12-open-calls-to-apply-for-in-autumn-2026`\n* **Publication / Deadline Date**: October 6, 2026 (Open call deadline: December 15, 2026; Festival dates: April 21–25, 2027)\n* **Verified Facts**:\n  * The 40th European Media Art Festival (EMAF) in Osnabrück, Germany announced its 2027 open call centered on the theme \"The Archive\" across Film, Installation, and Expanded sections.\n  * Examines the archive as a tool of knowledge production, a site of critical intervention, and a space for alternative futures.\n  * Selected projects receive free festival accreditation, 3 nights accommodation, travel support, €400 for film EMAF awards (€80–€250 screening fees), and €500 plus covered production costs for installations.\n* **Relevance to Muki**: Offers a funded opportunity for media archaeologists, experimental video artists, and researchers focusing on counter-archives.\n* **Duplication Assessment**: New candidate (not featured in recent issues).",
+  "citations": [
+    {
+      "title": "tate.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFrf5UOmSPNDRHym6hSlJxFEMRuEC_d7CwTHJmClSl8BIx5dyTeZ1ZO9RazSqIw3HJvlwXVF04bmcR9nsqpYSvdjagmRIVMd7VnKmxUn6AJz6p6l2tgdkG4qXdiD7LLRbWbE8XYVINHWHGSWLjUh4="
+    },
+    {
+      "title": "alisonjacques.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH0TXRykBqxZFSNwfV4aMjgXXUHkj_taGDQr0_TjyQ5YU_FSLycAn4U1KM1dlsgjI3hXwTlxO1QhSL6i-2GU8ElX_T_6KGQbzCNw5t0hBzlnVEle1rMq_N39EVf7Uynxm2PkQEMnxo0tAPNoyV6NB1RlSxxJIFVeAfG0_Zq8dX8Ff9dbPqe60E9w=="
+    },
+    {
+      "title": "stirworld.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1FTj2o5K3nJZEcn_7sm04tGF9PEL90YG7zxCHVqDSynOTrUedAcq5roMCvc8YHtcmZXlrULdVTjoiVRIo7y20Pm7yZJU7YPO50EadIlX3yYdDAvJkITZQKfAwNk-R9bZLeJDWWFneVakTtW-YKeUosc8fde1airYFUJ7AH1U1UnM8K2exBgoLNJpy0PhMp8a6MrGCageb2ToX74l6"
+    },
+    {
+      "title": "harvard.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyhG8jJVgWXFPIxmH5hoSQok-7gwhEj_llAHZRaIlJzL1T9HJKFq6jmakYurdskaoFhTXykU85l-oETuGMO_PUfk6YbcJ07mS-BWwDe3hpVCrd2DWUKKL9mMtEgL73fcEz9XGQYkTd_2mxb6IFoRBo2GlLTbtHZ3q8"
+    },
+    {
+      "title": "musa.guide",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2-IjRB91wR9WYE8x65efhaq3v7l5sRx31k5xiyjT0eqQHgctoxGl17kmQsUO_7-lyYwCjKZb4kscIPWh7Ml16MMVNI3C6Vu3uE7TkN3iP_3YEqdl6vKSnqHM8TbUs7Sh2BJAXbSu-qkg4cUhZC27_DQVSuNfdMi_GGZEiKhuIcHApoZydmZOq1-XmXkImKe1Mhu--MA=="
+    },
+    {
+      "title": "harvardindependent.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0HqqXIHy6mOC8og3QGs57MP_UqtavuoqMnhLU-295CX1wxD7OdzR9-0RX_vjzwBhos5KLZ9Dma56BRNgiZ9IyC0FlydVHKpwXIx5gLq-vSY20tFzJfFtlGC6DkvB2-EeEdbrLrPlhfL0vvFZm9nEX-xDTbr9m6PumoJ8abt0WwyMximqVeP3PzrTG4PoM"
+    },
+    {
+      "title": "hyperallergic.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57p3ClpN3pHJl2Cga1Ajs3wDLEUilXSCzDcmgpdotC5mQwnC0REOal0W79CmXI_2jsBjpBTwey1mPFhsaBSgyQe0bjA9c6G0TTJyHFZB2gVBzQ5uWAWgnpFnpFAAWrIXvf5rQwQ_pSYkn8DuT8f_V3FzyW1veO-R_rl3Q3N08YfEWgtXbLzZIyOoIyKk="
+    },
+    {
+      "title": "tfwsa.or.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg_0NxzLomFr4luoGB8edoES0AWcTXzXL6ghuknIB-cNHC-h9mkX9gs_DqbrqED0pYmeVBhJOgTR80EjHm4JzBVGVcxas8tJDYdzojNVr20IaUmFk6heBS43aztyoCoD5VaNztv1_dCT7o5GDvalOcVJ0vHCIf4nIFk2IKHRCYbQmNGgJ2Cthcxju-4KdVRIR31bTjjb3Bv-o7Wm_c"
+    },
+    {
+      "title": "theartnewspaper.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYQh-K_Jw6giXFgxYjiLYqYffWIpRi1MWH-z65C2BWgy3oFmTKWSdcOUIUMNpnvNyKu5srHX__GOobgpy7QBUFH7fgp0EXhE4ZZxUHgOZzmghHztzAldUz0PpTdidruiuEwJkarqs6-SepCoG5-FeQ8qs9HNM5z8a4CAIrSDuR3UpBUr6YVAGy610kjmMJLV-cvkz71aJV_YZN1CV-6mIBRSa0t6VTaBKiXasE_TX8-o1ZIgsCkBiDaQ=="
+    },
+    {
+      "title": "github.blog",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNX1jvcjpAG4JaZUozWnkVxNrlEDUw1w7Vpo5C7dm80PPp2x8cRQCbuJYpyPQyNH-zjxHZ3W5o5elkhX7_SHBwe3es64kUC_6LZlUyADXBs2vaA3vybSEO_5vwcpVuXfd4DBDrblbP_nhj33IDcJR_6ySrJt4traCuc0dZPzIt_wN6k2xKS_o0YdhU7Yq0XHwF4sKj2O4="
+    },
+    {
+      "title": "contemporarylynx.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSoqBjrfuBTVZsknmoUjSiNHdeyJ1JCsba5rE5U-Gheq7h1Mrnbvm_oRJ8_xufIaUy9IUhg83yy3QXvsQbBFYuqwKXIBOMIGIGNHfl-0XMp1XFBncW9S9agFMhaaG6K5XcbfR-ZCza5o_F-hZjvXEKLVjYHJta_HAOPLG6q_E="
+    }
+  ]
+}

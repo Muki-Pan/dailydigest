@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-31",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义艺术",
+    "商业摄影档案",
+    "东亚跨国馆藏联盟",
+    "AI原型设计工具",
+    "媒介艺术公开征集"
+  ],
+  "why_today": "本期简报聚焦档案重构、商业图像社会学与跨国机构权力的最新动态。从泰特现代美术馆重新梳理阿娜·门迪埃塔的离散身体实践，到哈佛艺术博物馆展现战后美国商业摄影中的日常仪式，再到 GitHub 推出基于既有设计系统的 AI 原型工具 Replica，各条信号共同呈现了档案介质在艺术历史、社会分析与设计工作流中的重构路径。",
+  "intro": "本期 Digest 涵盖 5 项来自艺术机构、学术馆藏与技术生态的最新信号。重点关注阿娜·门迪埃塔的身体与地缘档案展出、战后商业摄影记录的社会微观史、MoMA 与 M+ 等机构的全球合作框架，以及 GitHub 针对设计系统推出的 AI 交互原型工具。",
+  "opening_signal": "档案既是对历史痕迹的保存，也是重构当下视觉与生产秩序的场所。",
+  "closing_signal": "从机构合作网络的重组到创作工具的演进，档案与技术的结合正在重新定义当代视觉文化与知识生产的边界。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "泰特现代美术馆举办阿娜·门迪埃塔回顾展：重聚 120 余件作品与离散身体档案",
+      "title_en": "Tate Modern Retrospective: Ana Mendieta",
+      "summary_zh": "泰特现代美术馆开幕古巴裔艺术家阿娜·门迪埃塔回顾展。策展团队由 Valentine Umansky、Michael Wellen 与 Elsa Collinson 组成，展出了 120 余件作品。展览未采用严格的时间顺序，而是以洞穴、树林、河流与圣地等象形空间展开。展出内容包括重新修复的 16 毫米与 Super-8 影片、早期绘画、《Silueta》系列（1973–1980），以及艺术家在罗马时期用沙粒与粘合剂创作的地板雕塑的现场重现。",
+      "summary_en": "Tate Modern presents a retrospective dedicated to Cuban-born artist Ana Mendieta, gathering over 120 works organized around symbolic landscapes. The show features newly remastered 16mm and Super-8 films, paintings, the Silueta series, and restagings of her ephemeral floor sculptures.",
+      "why_muki_cares": "本展览展示了如何策展并现场重构易碎、短暂的表演与身体档案，为研究大地艺术、离散身份与女性身体印记提供了直接案例。",
+      "editorial_signal": "通过空间主题而非线性线索重组作品，呈现了表演档案重新介入美术馆空间的策展思路。",
+      "theme_tags": [
+        "阿娜·门迪埃塔",
+        "泰特现代美术馆",
+        "身体政治",
+        "大地艺术",
+        "表演档案",
+        "策展研究"
+      ],
+      "source_name": "Tate",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFrf5UOmSPNDRHym6hSlJxFEMRuEC_d7CwTHJmClSl8BIx5dyTeZ1ZO9RazSqIw3HJvlwXVF04bmcR9nsqpYSvdjagmRIVMd7VnKmxUn6AJz6p6l2tgdkG4qXdiD7LLRbWbE8XYVINHWHGSWLjUh4=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "哈佛艺术博物馆举办商业摄影档案展：六十余幅作品剖析战后美国社会仪式与中产阶级想象",
+      "title_en": "Harvard Art Museums Presents The Way We Never Were: The American Professional Photographers Collection",
+      "summary_zh": "哈佛艺术博物馆大学研究画廊推出由 Makeda Best / Makeda Sands 策展的商业摄影档案展。展览从社会学家兼策展人 Barbara Norfleet 收集的 2 万余张委托商业摄影档案中挑选了 72 幅银盐照片。展出作品涵盖 1930 年代至 1960 年代美国家庭婚礼、成人礼、特百惠聚会以及郊区婴儿潮等日常社会仪式，批判性地呈现了商业委托图像如何建构战后社会记忆与消费主义准则。",
+      "summary_en": "Harvard Art Museums exhibits six dozen gelatin silver prints from Barbara Norfleet's collection of over 20,000 midcentury commercial photographs. The exhibition examines how postwar social rituals and consumer culture were constructed through commercial commissions.",
+      "why_muki_cares": "该展为分析商业摄影档案与日常历史建构提供了视觉社会学研究方法，有助于审视日常图像如何参与中产阶级社会规则的塑造。",
+      "editorial_signal": "将原本用于商业推广与仪式记录的委托照片转化为社会研究档案，拓展了商业图像史的研究视角。",
+      "theme_tags": [
+        "哈佛艺术博物馆",
+        "商业摄影",
+        "视觉社会学",
+        "战后美国",
+        "日常档案",
+        "中产阶级"
+      ],
+      "source_name": "Harvard Gazette",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyhG8jJVgWXFPIxmH5hoSQok-7gwhEj_llAHZRaIlJzL1T9HJKFq6jmakYurdskaoFhTXykU85l-oETuGMO_PUfk6YbcJ07mS-BWwDe3hpVCrd2DWUKKL9mMtEgL73fcEz9XGQYkTd_2mxb6IFoRBo2GlLTbtHZ3q8",
+      "publication_date": "2026-10-21",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "MoMA、蓬皮杜中心与 M+ 签署三方合作协议：建立全球当代视觉艺术馆藏共享与研究网络",
+      "title_en": "MoMA, Centre Pompidou, and M+ Announce Global Collection Alliance in Hong Kong",
+      "summary_zh": "2026 年 10 月 30 日，M+ 馆长华安雅（Suhanya Raffel）、MoMA 巡回策展主管 Christophe Cherix 与蓬皮杜中心主席 Laurent Le Bon 在香港 M+ 签署三方框架协议。在 M+ 成立五周年之际，三家机构建立了跨越亚洲、欧洲与北美洲的资源共享联盟。合作范围涵盖馆藏共享、联合策展研究、藏品保护及共同开发展览项目，意在将东亚当代视觉文化与欧美旗舰艺术机构直接对接。",
+      "summary_en": "Directors of M+, MoMA, and Centre Pompidou signed a tripartite agreement in Hong Kong to form a global collection alliance. The initiative includes joint research, collection sharing, and co-curated exhibitions connecting East Asian visual culture with Western flagship institutions.",
+      "why_muki_cares": "这一合作框架反映了跨国艺术机构权力的重新分布，值得持续跟踪其在东亚当代视觉艺术研究与展览出版中的具体落地项目。",
+      "editorial_signal": "三洲旗舰机构建立常态化馆藏与研究共享机制，可能改变跨国展览借展与合作策展的运作模式。",
+      "theme_tags": [
+        "M+",
+        "MoMA",
+        "蓬皮杜中心",
+        "馆藏共享",
+        "跨国网络",
+        "东亚视觉文化",
+        "机构研究"
+      ],
+      "source_name": "Hyperallergic",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH57p3ClpN3pHJl2Cga1Ajs3wDLEUilXSCzDcmgpdotC5mQwnC0REOal0W79CmXI_2jsBjpBTwey1mPFhsaBSgyQe0bjA9c6G0TTJyHFZB2gVBzQ5uWAWgnpFnpFAAWrIXvf5rQwQ_pSYkn8DuT8f_V3FzyW1veO-R_rl3Q3N08YfEWgtXbLzZIyOoIyKk=",
+      "publication_date": "2026-10-30",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "GitHub 开源 AI 原型工具 Replica：基于自然语言与既有设计系统快速构建交互原型",
+      "title_en": "GitHub Open-Sources AI Prototyping Tool Replica",
+      "summary_zh": "GitHub Design 部门开源了名为 Replica 的 AI UI 原型开发工具，并将其无缝集成至 GitHub Copilot 应用中。开发者或设计师可以通过自然语言指令快速生成与修改交互式 UI 原型。Replica 能够直接对接产品团队现有的设计系统组件、界面模式及规范文档，确保生成的原型在视觉布局与组件使用上符合既有标准。",
+      "summary_en": "GitHub Design open-sourced Replica, an AI prototyping tool integrated into GitHub Copilot. It converts natural language prompts into interactive UI prototypes while adhering directly to existing design systems and UI patterns.",
+      "why_muki_cares": "Replica 简化了从文字想法到高保真原型的迭代路径，并确保设计规范的自动化遵循，为界面设计与开发工作流提供了实用的技术参考。",
+      "editorial_signal": "将大语言模型与既有设计系统强绑定，避免了通用 AI 工具在 UI 生成中脱离设计规范的问题。",
+      "theme_tags": [
+        "GitHub",
+        "Replica",
+        "开源 AI",
+        "UI原型",
+        "设计系统",
+        "工作流优化",
+        "创意技术"
+      ],
+      "source_name": "GitHub Blog",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNX1jvcjpAG4JaZUozWnkVxNrlEDUw1w7Vpo5C7dm80PPp2x8cRQCbuJYpyPQyNH-zjxHZ3W5o5elkhX7_SHBwe3es64kUC_6LZlUyADXBs2vaA3vybSEO_5vwcpVuXfd4DBDrblbP_nhj33IDcJR_6ySrJt4traCuc0dZPzIt_wN6k2xKS_o0YdhU7Yq0XHwF4sKj2O4=",
+      "publication_date": "2026-10-28",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "欧洲媒介艺术节启动 2027 年“档案”主题公开征集：提供创作资助与展览支持",
+      "title_en": "European Media Art Festival 2027 Opens Call for Entries on 'The Archive'",
+      "summary_zh": "第 40 届欧洲媒介艺术节（EMAF）开启 2027 年项目征集，主题设定为“档案”（The Archive），涵盖影片、装置与拓展媒介三大单元。征集意在探讨档案作为知识生产工具、批判介入途径以及替代性未来空间的可能性。申请截止日期为 2026 年 12 月 15 日。入选项目将获得免费参展资格、3 晚住宿补贴及交通支持，电影单元设 400 欧元奖项及放映费，装置单元将提供 500 欧元资助并覆盖制作费用。",
+      "summary_en": "The 40th European Media Art Festival in Osnabrück calls for submissions themed 'The Archive' across film, installation, and expanded media. Selected artists receive travel support, accommodation, screening fees, or installation production funding.",
+      "why_muki_cares": "该征集为从事媒介考古、实验影像与反向档案研究的创作者提供了具体的展示与资金扶持渠道。",
+      "editorial_signal": "媒介艺术节聚焦档案议题，为长线跟进数字记忆与反向档案实践提供了关键的观察节点。",
+      "theme_tags": [
+        "EMAF",
+        "欧洲媒介艺术节",
+        "档案研究",
+        "媒介考古",
+        "公开征集",
+        "艺术资助",
+        "实验影像"
+      ],
+      "source_name": "Contemporary Lynx",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSoqBjrfuBTVZsknmoUjSiNHdeyJ1JCsba5rE5U-Gheq7h1Mrnbvm_oRJ8_xufIaUy9IUhg83yy3QXvsQbBFYuqwKXIBOMIGIGNHfl-0XMp1XFBncW9S9agFMhaaG6K5XcbfR-ZCza5o_F-hZjvXEKLVjYHJta_HAOPLG6q_E=",
+      "publication_date": "2026-10-06",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Visual Culture Signal",
+    "title": "哈佛艺术博物馆举办商业摄影档案展：六十余幅作品剖析战后美国社会仪式与中产阶级想象",
+    "why_muki_may_care": "展览从 Barbara Norfleet 收集的 2 万余张委托商业摄影档案中精选作品，展示了如何运用视觉社会学方法解构被忽视的日常商业图像，是商业档案研究的优质范例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyhG8jJVgWXFPIxmH5hoSQok-7gwhEj_llAHZRaIlJzL1T9HJKFq6jmakYurdskaoFhTXykU85l-oETuGMO_PUfk6YbcJ07mS-BWwDe3hpVCrd2DWUKKL9mMtEgL73fcEz9XGQYkTd_2mxb6IFoRBo2GlLTbtHZ3q8"
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Tate Modern",
+    "Harvard Art Museums",
+    "M+",
+    "MoMA",
+    "Centre Pompidou",
+    "GitHub",
+    "European Media Art Festival"
+  ],
+  "repetition_notes": "本期收录的 5 项信号均为首次录入的全新信号（New）。本期覆盖了女性主义身体档案、商业摄影社会学、东亚跨国馆藏网络、AI 驱动的设计系统原型工具以及媒介档案公开征集。",
+  "issue_number": 89
+}
