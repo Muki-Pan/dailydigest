@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-04",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Source Dossier & Evidence Log (Daily Digest for Muki — Issue 090 / 2026-11-04)\n\n**Search Window:** `7d` (Oct 28 – Nov 4, 2026)\n\n---\n\n### Candidate 1: Feminist Structure Signal\n\n* **Proposed Title (ZH):** 维也纳 Belvedere 21 举办《Feminist Futures Forever》特展：汇聚 238 位艺术家与 1985 年《Kunst mit Eigen-Sinn》档案对话\n* **Proposed Title (EN):** Belvedere 21 Presents 'Feminist Futures Forever' Retrospective and Archive Dialogue\n* **Exact Source URL:** `https://www.belvedere.at/en/feminist-futures-forever`\n* **Publication / Opening Date:** Opening November 5, 2026 (Runs Nov 5, 2026 – Mar 8, 2027)\n* **Verified Facts:** \n  * Curated by Christiane Erharter and Stefanie Reisinger, with exhibition architecture designed by Dorit Margreiter Choy and Cosma Grosser.\n  * Features works by 238 international, cross-generational artists (including VALIE EXPORT, Maria Lassnig, Cindy Sherman, Barbara Kruger, Yoko Ono, Marina Abramović, Sophie Calle, Jenny Holzer, Ulrike Rosenbach, Rosemarie Trockel).\n  * Re-interrogates and dialogues with the landmark 1985 exhibition *Kunst mit Eigen-Sinn* held at the same venue (then Museum des 20. Jahrhunderts).\n  * Incorporates an *Oral Herstory* archive (18 video interviews conducted by filmmaker Christiana Perschon with artists involved in the 1985 show) and Ulrike Müller’s *Herstory Inventory* (100 feminist drawings by 100 artists).\n* **Relevance to Muki:** Directly engages feminist body politics, labor, memory, and counter-archival methods by linking historic feminist exhibition histories with contemporary spatial practices.\n* **Duplication Assessment:** New signal. (Not present in recent issues).\n\n---\n\n### Candidate 2: Visual Culture Signal\n\n* **Proposed Title (ZH):** 勒洛克勒美术馆举办《第一批照片：直至证明相反》特展：以像素与首张手机照片重构摄影起源与媒介考古\n* **Proposed Title (EN):** MBAL Presents 'The First Photos. Until Proven Otherwise'\n* **Exact Source URL:** `https://www.mbal.ch/exposition/the-first-photos-until-proven-otherwise/`\n* **Publication / Opening Date:** October 3, 2026 – February 21, 2027\n* **Verified Facts:** \n  * Curated by artist and researcher Francesca Seravalle for the Bicentenary of Photography at Musée des Beaux-Arts Le Locle (MBAL), Switzerland.\n  * Explores the performative nature of inaugural photographs, featuring milestones such as Russell Kirsch's 1957 scanned image of his son Walden (the first pixel photo) and Philippe Kahn's 1997 camera phone photo of his newborn baby.\n  * Rejects rigid linear chronology in favor of visual atlases (family, nature, social circles) and frames photography history as a fluid, ongoing archaeological process that evolves backward as new \"firsts\" are discovered.\n* **Relevance to Muki:** Core media archaeology and image history inquiry, highlighting how technological thresholds intersect with visual memory and institutional archiving.\n* **Duplication Assessment:** New signal.\n\n---\n\n### Candidate 3: China / East Asia Signal\n\n* **Proposed Title (ZH):** 东京都美术馆/森美术馆举办森万里子回顾展《All That Shines》：以脑电反馈装置与中微子信号探索后人类与媒介感知\n* **Proposed Title (EN):** Mori Art Museum Presents 'Mariko Mori: All That Shines' Retrospective\n* **Exact Source URL:** `https://www.mori.art.museum/en/exhibitions/marikomori/index.html`\n* **Publication / Opening Date:** October 31, 2026 – March 28, 2027\n* **Verified Facts:** \n  * Co-curated by Mami Kataoka (Director, Mori Art Museum) and Alexandra Munroe (Solomon R. Guggenheim Museum); marks Mori's first major institutional retrospective in Japan since 2002.\n  * Gathers 40+ works spanning over 30 years, ranging from mid-1990s performance/cyborg identity photography to large-scale interactive media installations.\n  * Features *Wave UFO* (1999–2002), a biomorphic pod integrating real-time brainwave (EEG) biofeedback to project participant neural activity visually, and *Tom Na H-iu* (2006), which translates real-time astronomical neutrino emissions into ambient light pulses.\n  * Debut of new large-scale LED video installation *All That Shines* (2026) documenting live natural phenomena from Mori's Miyako Island studio.\n* **Relevance to Muki:** Crucial East Asian visual technology entry point connecting feminist cyborg aesthetics, embodiment, biofeedback interaction, and technological consciousness.\n* **Duplication Assessment:** New signal.\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n\n* **Proposed Title (ZH):** GitHub 正式发布 Agentic Workflows：将自然语言 Markdown 直接编译为 Actions 自动化代理工作流\n* **Proposed Title (EN):** GitHub Announces General Availability of GitHub Agentic Workflows\n* **Exact Source URL:** `https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/`\n* **Publication Date:** October 28, 2026\n* **Verified Facts:** \n  * GitHub Next's open-source project GitHub Agentic Workflows has reached General Availability (GA).\n  * Allows developers and workflow designers to specify reasoning-based automations (issue triage, documentation updates, code validation, CI failure analysis) using plain Markdown text files.\n  * Compiles Markdown agent definitions directly into native GitHub Actions YAML execution pipelines, leveraging existing runner groups, security rules, and Copilot or custom bring-your-own agents.\n* **Relevance to Muki:** Directly shifts knowledge management, publishing, and open-source creative software maintenance from manual scripting to declarative natural-language agent orchestration.\n* **Duplication Assessment:** Ongoing / Follow-up on GitHub ecosystem tools (following Replica on 10-31), but covers a distinct GA engine release.\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n* **Proposed Title (ZH):** A.I.R. Gallery 启动 2027–2028 年度 Fellowship 项目征集：面向纽约女性及非二元艺术家提供首个个展与机构支持\n* **Proposed Title (EN):** A.I.R. Gallery Launches Open Call for 2027–2028 Fellowship Program\n* **Exact Source URL:** `https://www.airgallery.org/opportunities/2027-2028-fellowship-program`\n* **Application Deadline:** November 10, 2026 (11:59 PM ET)\n* **Verified Facts:** \n  * Established in 1993, the program awards 6 emerging New York City-based women and non-binary visual artists a 12-month fellowship (September 2027 – August 2028).\n  * Provides participants with their first NYC solo exhibition, structured professional development workshops (grant writing, exhibition design), mentorship from A.I.R. member artists, and studio visits with selection panelists.\n  * Includes dedicated memorial seats: the Emma Bee Bernstein Fellowship and the Louise H. McCagg Fellowship.\n* **Relevance to Muki:** Direct, high-quality career opportunity supporting marginalized women and non-binary artists within a historical feminist self-directed institution.\n* **Duplication Assessment:** New signal.\n\n---\n\n### Section Empty / Exclusion Log\n* **Empty Sections:** None. All 5 editorial sections have verified primary sources.\n* **Excluded Topics:** \n  * *Jimei × Arles 2026* general announcement: Excluded as Jimei × Arles programming was already featured in Issue 086 (2026-10-20).\n  * *Secondary Archive Emerging Artists Call*: Excluded as it was covered in Issue 088 (2026-10-24).",
+  "citations": [
+    {
+      "title": "musa.guide",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWQjY2XTK1qF_4MzwbaCDJpxQKkVzvv7zNt1CzfwCAwSM78XVmNrd8Z6W2G0XTGOsJzmetmMP_rSxmKmzT1KVKqCaPOb4LyquOrWq4fT3ZUwKUgbOcaSH9pniaomJymLcsblgEHycBoymVo9L8GWITUD-fF5Ml35wwz2msSDvq6MnOOz_lOy9j5ZUAJOHPbifj"
+    },
+    {
+      "title": "belvedere.at",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwVzbElcgOaVsAK2STmYr-WnLBJeHgeGQJyDhzeh2tDaBte-Utx1rL3rgTRAKY_T0r-481lvygCEOAe_YfycNq8DAOYwURuBCwFtPOxtQM4NngCd5LFYKnXehvSSj0NJ1zJFkWwykwMi5b"
+    },
+    {
+      "title": "belvedere.at",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwipNHbJ4Xlx3Mf3iXSjrQ512QaJTJNvmiGEcBMPY-0-b23KoY2FZTUr9EN4fiqSX99Nc-Tw3UtLChG529r8WUJ3M6bA_o-S-tqQuCjDGxp3WoW60BIYjEtUaCgmXw_ThaEEtbuL45mQfbnTteGIUJzDoZGOSR6dxdXEG0xxrLTrVWPKk0cQ7byj1cvA=="
+    },
+    {
+      "title": "belvedere.at",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFixhplzMH1L-RftY4j0eUM6qYzsrbh4qbQ_LjF79OXRyhHuHtEpo-qwTOMOrdeKNkvZTJUKYHed-pCSiym_TQzaw3yI7z0P9Zbuj1RhaovfKaAPmCn2PbXca4T1VgeqMVSfdzz-18E2fJbrpC9IAAegLscacLJWCw="
+    },
+    {
+      "title": "artdaily.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmWeirptUSm9fSivzEpO98qhedR4XSMkpCHGJAsZMj8PsQqTsxDRnk7BJB01TSBA9w4roaT2ZfI-ABDlGxvuEfQYbl7OFwkcbd7vBNCR9B5pu2BBbtVSRcHlvzFAkSvWd1Va2BNEL9eY7M2ZK0hyj1w0o="
+    },
+    {
+      "title": "mbal.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5HW5X3LAXZikhigFUWqYzbujpSFPeNE1SaBkaI4w1J-kCHJLv-uYeRUGMQ3kwbAYjnXR4I4QCJCT21CsCD5MzCS3QNR_7nc4lHd36LkhKeZCP1f9pDEtRpUElNtG1LlQawixg5b8ONCxK22nCB6lnFluDMT5zlZYy_iAsoJ2AMC2LPrxdPWs="
+    },
+    {
+      "title": "memoriav.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaA_JZmkbJZVZEgYEQ3KAJpYSwF9EXAO2-cPQbHEC8p4_KUuXAjHWtKpHHKlV39EWdpj_EBGgW7JbhsvMUcNt3bdFdnZKuZk_M85WjxbRuaKCt4ohl1OItw_ioPgu3KBkwauDMI5gqM68tiFTi6j301Fw2tpe7ZnMzL3pMoYqgEm5RbsIFPDPivbeF2D93KBaR4Uf2a-Fr6GcywOK2A3DW"
+    },
+    {
+      "title": "mbal.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0N4tqH6bBjdYYF1_8WNhfyb2PQDM1uuEohZDWR4PiN0Rwif-dlx3KbdnbzKJcGRktisdlnvfsJBLVo59n25oAqAujfvdlyxW4ahOx5PDFoOg_kEa5s0U6NB0C2kXAJKMbEJzahfxR72iQVUHl3sr5QlzazWod_izk"
+    },
+    {
+      "title": "mbal.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8qrknheOMeViIxf5q9hGJo4mDlXQsADJYu7mVw4_luMlZ7VN0JBbrIZ_8ziCjeTowlQzNSJ8LIG8TeDaaKtL6EeG8BKdPwSAUk3DD5AWUFyjKIH7pbce_I_8HP3h0KER0ojToqJ17"
+    },
+    {
+      "title": "showonshow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5AG4G2gSwuYgWmV64ubvv5shoOL64RY5NlkOu1ybf-HNcZEHUn8UcN_vWI9LnGGKZVCyEALrjD8aM3qN_j75twM1kvfQgeAmIOn7Jf85U2zy0ItzbQp2hSjgqatJAxlYnAwCgxhF0"
+    },
+    {
+      "title": "designboom.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvlSJB3GavrkmZ1btnODU2-B1o6Tkiil-_WcSrOC1HE8BU_4v0Uh7DO1iFJHz3Jju0FC8Z7LW-iFu-ukVJFWAJvPLshAkZGJZxqXsFbR2jExfrOonp2Sw1TfecGZA6G7CqhQDksqKK4sPn5drHgWCogW2csw=="
+    },
+    {
+      "title": "mori.art.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMBVQpWIjCxbgItrJEUk1eo-6g9sUNNj0TtgAjhSRyniTFy9PL7-cTYiV_cUG65Ly88GNKqTY9orr9JCN1lJlR1QIoBHzW2o8MNmyGli2W4CDvW_vjI_CEKl_FfTiv-laPChkBHDdZMUNmTDfSqNcCr8QN9dctGTaH"
+    },
+    {
+      "title": "mymodernmet.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfYyf3KL0IVBeGHB2ZZUtV-BdUWK4OEe0z3EkJsR-hnfh7Mo5JzrjPDv0ZCy59k2V4S3cOq8NlAwm7YwBGOFQ32w6KNSQ7S5wPk1JywvAJJ6sfkJZOzyATN3djfScODYC82GHqJ41TTO8XCGb6z-hEC1IE-WpSKiyyCsr-cLU="
+    },
+    {
+      "title": "artandobject.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlIsXsxaa0mh7Z25dQMw_G2cG6SkUbywN8-zkbPUVFBC4T0-ZviW-NPlCngPpSz5VzqqkBokm1CX5gs7ufg_WPzne0XZGMvdn_EI9TY0XAhVxFRPGfH7wlQwlOh4MSREf_JR7chCUEAmT--8ZhQc5fy2CUCSyizIXsyTloZCprCeAgzVF6Ulmq5UK-2pw="
+    },
+    {
+      "title": "mori.art.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBHwljTQYgKQrHvRvYLWHu6jEAkjrMv2y8ODwoeSaPvtO3T_yjpNpsCe_Xxw16lkmbuMlxFnUeP07MwqzWXD7YdXXSfugnLBGPYpg_vGzuIzed87yx4fvzYMffMX2ggUSAdAqXnH97nh5I-mY="
+    },
+    {
+      "title": "skny.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETPw1WQ-b3pEghjb4N6lWYNKZxqQKuIFeFZw2VtG7ff7BWonzcNdZ-IZH2NHqwWf53ix8SadbQdd8T4J0qYIF67L3wZ-o6Vlz12J2FNo_dB_aH4ry0uRC6y_2QgnJSo2vubtyJhQ2BHLekybNJBVhpALs="
+    },
+    {
+      "title": "alexandramunroe.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeH0iZXe0Od3G5brygobzLkthrRJ65A3-XonhljSGThFJUS-FrKBrCkgfdaXXGOGV7oHO0ab1JNGlA1HJWnJpbXY0NAtciVKW4AaaUw_aHjRMsgFBDeJAVHSOn71_hSx9d1PguXuB0H1fZdDfuXmO6ywSInJmFQ5zXH1yUQQ=="
+    },
+    {
+      "title": "musa.guide",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh72DAIlCPCcfvxJu8-U4ioeaLte4jG_mphEoC-LFuzNTFbAvZDeh42LxDXmKwzkjKoMeXQaQOoMXCjZ1vYEue7uMpZGIK7O0tnseFKSadaOmHqWQw_CJxgyC10jPgqIBMkl-s_BhYfMfVlYposqemX2OX1Z8ofabBLQzbUsHPBb5G1AYiqLSazBZ6KP09dR2Zb4BSkrM="
+    },
+    {
+      "title": "github.blog",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRT4l4dxxfStgGiTXvzIWXHd8VAeBwBXX5ExEMLg6dp5OE3HNy2S8SaaJaN1trtcX4wFqcM8izrL-ieqjzoOKKvxXa6TITJK7rQ2TmYHssPIEJplXQMb3C-gptbZJx_1EiW58qgdLQTowL9XVeGl1chjO_V718DPEFWgIi3NCN3fEzYVboiutae6De_Q=="
+    },
+    {
+      "title": "github.blog",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUcB215mzgR4GeERPUpgBXcSpLongLLBsoCbXvX2BnqbpUr-JgEVzg_foS9fLnkx3KG29616FCTibG_mw5_B3ZQw8tTtMybiR_IsZ1fWsw55U1ErbFPOxheoPyrqR8PyzRyxqSCdbA0YdJI6DBHKWFOm3ixi5N951CDK0KtZV46fEtG6WRxChpvp-t5g=="
+    },
+    {
+      "title": "airgallery.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU6pfu7IX7sXybYSkf_cSLqnjYVDoxUe4SU8tdV7AjqDHPLcHOtYN3hSPZ0LNZpP5lmYvnLEDAqalfywvQ8YTkfWMbElw4NjAhFQSsCoq04FA="
+    },
+    {
+      "title": "airgallery.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa5D6c2x5kVETrcO_vQp3uWFc9WcJOdUIod2aFvc09lxhvneYH3qf_87j3ewbsht6BKpjHAlVD-beR7kMQm8v50lG4zxDYxS9g5Hyco0xDwN_rJSr3H6RjN7IH-ZUc-7TSXmpQEZ_GOAsAmcc="
+    }
+  ]
+}
