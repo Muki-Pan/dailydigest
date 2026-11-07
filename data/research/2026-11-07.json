@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-07",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Source Evidence Dossier (Issue 091)\n\n**Search Window Used:** `7d` (Expanded from 24 hours to 7 days to cover all five editorial entrances with verified primary sources).\n\n---\n\n### Entrance 1: Feminist Structure Signal\n\n* **Proposed Section:** `Feminist Structure Signal`\n* **Exact Title:** `Mad Bloomsbury` Exhibition at Charleston in Lewes\n* **Source URL:** `https://www.charleston.org.uk/exhibition/mad-bloomsbury/`\n* **Publication / Opening Date:** `2026-11-04` (Exhibition runs 4 November 2026 – 11 April 2027)\n* **Verified Facts:**\n  * Curated by Hazel McMichael (Charleston's Curating Visibility Fellow) in co-production with the Mad Heritage Collective.\n  * Re-examines the creative output and histories of the Bloomsbury Group through the social model of disability, neurodiversity, and lived experience, intersecting with queer, feminist, and class histories.\n  * Coincides with the 100th anniversary of Virginia Woolf's essay *On Being Ill* (1926).\n  * Features a rare public display of works by Helen Coombe (artist and wife of Roger Fry, who spent most of her adult life in a psychiatric institution), including stained-glass designs, a decorated harpsichord, and drawings. Highlights Coombe’s 1883 petition to the Royal Academy allowing female students to study partially draped figures.\n  * Includes contemporary artworks and installations by Louisa Fairclough, Vanessa Raw, Daniel Regan, Nikki Shaill, and the Mad Heritage Collective (*Cracked*).\n* **Relevance to Muki:** Directly addresses feminist institutional critique, disability/neurodiversity perspectives, care, and the historical marginalization of women artists' health and archives within cultural memory.\n* **Duplication Assessment:** `New` (Not featured in previous 7 issues).\n\n---\n\n### Entrance 2: Visual Culture Signal\n\n* **Proposed Section:** `Visual Culture Signal`\n* **Exact Title:** `Helen Levitt: Die Strasse als Bühne` Retrospective at Fotomuseum Winterthur\n* **Source URL:** `https://www.amstelbooks.com/blog/helen-levitt-retrospective-at-fotomuseum-winterthur`\n* **Publication / Opening Date:** `2026-10-24` (Exhibition runs 24 October 2026 – 31 January 2027; reviewed in depth early November 2026)\n* **Verified Facts:**\n  * Fotomuseum Winterthur presents a major retrospective dedicated to 20th-century American street photographer Helen Levitt (1913–2009).\n  * This is the first exhibition to incorporate materials directly from Helen Levitt's private archive, which was recently made accessible to the public.\n  * Features over 200 photographic prints (focused on street visual culture, children's chalk drawings, and Harlem/Lower East Side daily life), 115 items of ephemera and archival material, color slide projections, and her 1948 short documentary film *In the Street*.\n* **Relevance to Muki:** Connects photobooks, street visual culture, vernacular photography, and archival opening, illustrating how newly accessible private archives reshape visual histories of early female photography pioneers.\n* **Duplication Assessment:** `New` (Not featured in previous 7 issues).\n\n---\n\n### Entrance 3: China / East Asia Signal\n\n* **Proposed Section:** `China / East Asia Signal`\n* **Exact Title:** AWT FOCUS: `Patchwork of Ruffled Wings` Curated by Multiple Spirits at WAITINGROOM, Tokyo\n* **Source URL:** `https://waitingroom.jp/exhibitions/patchwork-of-ruffled-wings/`\n* **Publication / Opening Date:** `2026-11-04` (Exhibition runs 4 November – 20 December 2026, part of Art Week Tokyo 2026)\n* **Verified Facts:**\n  * Curated by Multiple Spirits (a Tokyo/Vienna-based queer-feminist bilingual zine and research platform founded in 2018 by Mai Endo and Mika Maruyama).\n  * Presented as part of the newly overhauled multi-venue AWT FOCUS section for Art Week Tokyo 2026 (Nov 4–8, 2026).\n  * Reinterprets curatorial practice as an extension of zine publishing (\"vine-like archive\"), interweaving girls' culture, queer culture, subcultures, and social movements without rigid category boundaries.\n  * Features works across textiles, tapestries, dyed fabrics, prints, zines, and video screenings by artists including Mai Endo, Hwayeon Nam, Luka Yuanyuan Yang (杨圆圆), rajiogoogoo, Marcos Kueh, Jooyoung Lee, 0914, and Multiple Spirits × Stephanie Misa.\n  * Includes an artist merchandise shop and an interactive printing press workshop on Nov 8 with 0914.\n* **Relevance to Muki:** Combines East Asian feminist visual culture, independent zine/publishing practices, counter-archival methods, and spatial curation within a contemporary metropolis.\n* **Duplication Assessment:** `New` (Not featured in previous 7 issues).\n\n---\n\n### Entrance 4: AI Research / Creative Tech Signal\n\n* **Proposed Section:** `AI Research / Creative Tech Signal`\n* **Exact Title:** `LongBanana`: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis\n* **Source URL:** `https://arxiv.org/abs/2611.06856`\n* **Publication Date:** `2026-11-04` (arXiv:2611.06856v1 posted 04 Nov 2026)\n* **Verified Facts:**\n  * Authored by an international collaboration of researchers from South China Normal University, University of British Columbia, CMU, Vector Institute, Tsinghua University, HKUST, HKU, and KlingAI Research.\n  * Establishes the first expert-designed and expert-verified benchmark for long-context multi-reference image synthesis in agent-driven image generation workflows.\n  * Requires image generation agents to retrieve dispersed visual evidence from ~32 reference images per task, reject distractors, bind entity/relation pairs, and synthesize a single coherent output under ~20 complex constraints.\n  * Incorporates 90 structured tasks across a 3x3 taxonomy, containing 4,670 expert-verified atomic evaluation criteria assessing Content Fidelity, Relational Binding, and Global Constraint Satisfaction.\n* **Relevance to Muki:** Highly relevant to AI-native visual workflows, multi-image agentic composition, visual asset management, and creative technology infrastructure, moving beyond single-prompt generation to complex multi-reference synthesis.\n* **Duplication Assessment:** `New` (Not featured in previous 7 issues).\n\n---\n\n### Entrance 5: Archive / Long Read / Opportunity\n\n* **Proposed Section:** `Archive / Long Read / Opportunity`\n* **Exact Title:** Women's Studio Workshop: Artist's Book Residency Grant 2027 Open Call\n* **Source URL:** `https://wsworkshop.org/opportunity-calendar/`\n* **Application Deadline:** `2026-11-15` (11:59 PM EST)\n* **Verified Facts:**\n  * Women's Studio Workshop (WSW) in Rosendale, NY opens applications for its 6-to-8 (or up to 10) week Artist's Book Residency Grant.\n  * Open to all women, trans, intersex, nonbinary, and genderfluid artists worldwide at any career stage.\n  * Selected residents produce a limited-edition artist's book (edition of 50 to 100 copies) utilizing WSW printmaking, papermaking, letterpress, silkscreen, and darkroom facilities.\n  * Provides a $350/week stipend (up to $2,800–$3,500), up to $750–$1,000 for materials, up to $250 for US continental travel, free housing, and 24/7 studio access.\n  * Edition split: 20% to WSW archive/exhibitions, 20% to the artist, and 60% for general sales. Requires digital submission via Submittable and a physical book mockup postmarked by Nov 15.\n* **Relevance to Muki:** Premier grant opportunity directly intersecting feminist physical book arts, print archives, studio practice, and residency support for gender-marginalized creators.\n* **Duplication Assessment:** `New` (Not featured in previous 7 issues).",
+  "citations": [
+    {
+      "title": "charleston.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyMVfzOqOu3VVzbgj_qyJtZ4cGOgJw97LPa5NVwYxfWdBb1bka-RVD4AXXU7BMPGOb7oyDEeBHts-svorCKN9uSY9_EGkcRv5RfPAkH8L1xZwffF1J9zhKknu9pp-4huHcjR4mwURHOE4fuas-dQ=="
+    },
+    {
+      "title": "hiddenbea.ch",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxUR4UFU9YgmNI5iXqX5d348mu9iDyJ5nA9VCo-L3uLc4Lxzql3mkpzMqWBjU4Loq6VmxRNUFvut8qCd2V_r0-7SuagJE-K3PxMiTJYzB6XngZL9eXcgG_iYb4d3kLT0lMJwcl4daWgwlqA-kKAzg25BNUvHU89wS-72FE"
+    },
+    {
+      "title": "newexhibitions.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAllSHMNUN1QgWZuHOkvWZuhcWPDADg0E3vZLCkPdOhzbupaGTORpdBcTnLy-gF69-RP8-1NNoNoEw_AxKYRhLPkMu4yKN679OuFn2Gb0Wt8eZzjtWI0hbnvmyIA=="
+    },
+    {
+      "title": "theguardian.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs56J1ijoY6wY66gBAEf6_4Wh1ejEmSeOhy2VQ5YPV0f5Oa6TSvHnofRVEDVR26b-r_D5Mao9EIukqjAXetN9Loqa5VU4y7BgMrgEn87EmgWjA5HBTxYP2feDvYRNaNongzy-oVB15hRV4tWjr4QsyMShlpPwIgHZRmXMVhVP3YVn-F5s0ZPCj5BJG3XUUOhTaoZaMqHZVzsN7d7rJUKwxHaX1i_rD58J1bR426VQ9lY6o00zG4fDfSSrJXsIT-XvNPtp2"
+    },
+    {
+      "title": "amstelbooks.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1WWVBqkTorr4SKf4bySth4TxFg9fVCVE4ZWa0_qfDQ9CpN6VyOJF9rDz6WK05gTeyxKE5xCvJLlF26EugOB-4oY3ZXn_3nTI4keR8mO8bg4AcoxVxkjWDWjsS2Sowpvoz94V_nXdHVk7DhNpXGExY_iDJnlvL073aizViEHGp6CIgcftJ0G10486KJ0CrrVorJ-oA93QVIz8eijT3hfIQEcZZudU="
+    },
+    {
+      "title": "amstelbooks.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBNbUNU0ZdGXKdVTLIJA4ANilSk0AEqrN7v970m1dGbEtzv9hWF4j_G2kHJTs4SW-lCn-IdxvCkfCXMSNrhfLQ7LBYgEnDDouqf0QE2XxitzkT_yID-Kn0OzN0FLJ2nGA8WYuy0yVUnmqhnOL3Ovym8CN4twl9EJ8lVear1VjjoipcUfgDtt7ahwFbxUolZKWi5txREX0aF_OdGB3ORHEkwCCZI_I="
+    },
+    {
+      "title": "aestheticamagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq0BnyFt0O-hMhNTHZHJeds3dNvZjf_rGfGDDebYx-J4PozFodwvAwNx0KYURAQR8f5q-SxuwIkE-br3-Eug_S2DyS4IgSPF5ZHS0n22vDe7LrPCYnFM2e84bk0NWJ0RAwsz58baCFQJHQieD8kuN27tAr1q0eQxX6UkD5-f_LIA=="
+    },
+    {
+      "title": "waitingroom.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG39GQ7RW4B2-IiaZGAU2QSn-_6LGyu7A_H42g7zi3U5nWvKe5DRrBbA3pZXixRG75ZTwwrBDnm3zrInpdUVm7Ikb7uoe1Z_A9XudX_N7aCqCWinBbx4PeYamtkXQ=="
+    },
+    {
+      "title": "waitingroom.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-2G-aFNIQeVZo2qVye_A_gyHQ3doojqM1VcK8fU_ZWI1HUFZCKPFAevUVvn8cXXT3zvJFxFx7xHZNO-cz91tAd3ThgtOPP3q_idkCEjV3apyYXN04Xeb9UwukwkosNJIz7MbrVrhSltIifIkXJ82zNpnJuAe2-w=="
+    },
+    {
+      "title": "theartnewspaper.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnO6xHw4mbOk1KZDildm2q4CWIEJ8FPavVN7EkbHJXQwIMzlxvlGDrVs4ck1cfmf7SEFENE9N9mUdXRCogpFyPbyz_HClMZYL26kX4gZ7exvnpQ2Iso8NYlRaCt_evQSpqKD8Z7Z8a107QhGghldcePNbdh2JtYjoMBU9j9i60N3YiTaC1yQeXcT1pOFfrc78c8R9Twgg-TF4EN8KMuXbETuxqI1C9oCzKcBXAFnn2QNQT9cAzl4bWY8A_6P2i2wIVHAHbHdJiMjalDPo="
+    },
+    {
+      "title": "theartnewspaper.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJfMkOczr0zFBxRyJvtEqnSeUGoIKYyZUE6wlsMw1rW7j7UDjGmefE_5bCixGoIjZwEzIVEQtC5GhbHfcXb6k8dqWNvOaWOpkCwnYsQfBG2v9inLJdzoE6bW6yTiTTJ9YIQswzvOeoJ69QzxTpQPy6Q0JjNgN7l_5p6-oW_YjrgDMhpwK-cn6Rr5I6p5y3PyrP8HtTiGyQ45xIPBruJaXvbkNPB9Aew1imXbr39CPB4RUpLB-8Yx1Wvl1q5MUmC6sPYTUO6ntEjv5rgCc="
+    },
+    {
+      "title": "artweektokyo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESM_wShLLhBO8IaGaaoV9XPCKjSV904L8mGwlZIz1OEr2ZEDzbtBBQJh2HBLxr2NTa13d29V01sU9OItDHcZUWXLH5bLrmwtuRHFBU8x69IuiyQ72_WU9Cra2RUNW5jYryLBbWS9OiPHyo820FSaW3pUcVYq6F"
+    },
+    {
+      "title": "artweektokyo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMAnYS5ytLeYCeC2cnWIMVP1YhG3dqa22fXyGNW6swly5HTS89lE7z1VTPdvGYxfATDHeqFvKVTdHDOrZjgyj1TJsJdINtkrnGV2z4N0BhZoYjQUTn7Ia1w_8sxr2qze8e5Yq-ts-JoG1p4V0Z1kUP_WoGajxOdVksozBLT_2cAUwUkz2jVFGvghSON26u8w=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5gaTdcY3iQysWeBuPw21TQhJv7vr-rOz2DxQaEGzFqBAn1kiXewfnclUB0LJ-PsJ0O8FzhKawIeNA5ilClYSHbmbyx2--Lc6xGXuFokjz15YxdTG5RA=="
+    },
+    {
+      "title": "wsworkshop.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_HDMEpC_vYh7rYbiXwDnRR_F6CwXlLxIQZpHMjTKWPdJvALifDoALQv7dZZ90oLIVKVOYPU_U7rD-m1tz7w66zlizwHS6chF3AiPVP4-D9R4vo9r5JgouHH_YGmD7UsNcsA=="
+    },
+    {
+      "title": "artgoat.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNdLeiM5KO-YWlbcCLYNmDL28PBbxQdybyaM0Nfg-zi38U--RmyYsg_bMxJ44GxfA_Zallt5R6D5JOf_kY97uDWtUbluTAWovQrRfpIB6uYXbpg1KAm1sXKATkIv4ouUmfWi-UUPACujjjDQhwJzo="
+    },
+    {
+      "title": "opencallartist.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3t4vT4fWzvxZGY71PH9ZqhF3zqS_1f8lFFrJiaNQEnSXYNZvLcxAHs3HMeia6ze0BU-YVPlwiFRn7RifggBmGtdzJPOcG0uxgrBkkmGiOQg86WDGV-8C6wR9fAKRTaql5XzHXFAGLiT10xUDqV4bjVpUdpMRbnkMwdTZd7gRwyZmr2WM-GAbFw1MXxY_dOjv-gTA5dz0Sz_qQaRwfDNTX1xrn1M411-rNtuXpFVkWtso="
+    }
+  ]
+}
