@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-09",
+  "model": "gemini-3.5-flash",
+  "dossier": "### Evidence Dossier\n\n**Search Window Used:** Past 7 days (2026-11-02 to 2026-11-09)\n\n---\n\n#### 1. Feminist Structure Signal\n* **Proposed Title:** MoMA PS1 举办《Hard Art》抽象艺术特展：汇聚 40 余位跨世代黑人艺术家，以抽象媒介与物质档案重构政治想象 / MoMA PS1 Presents 'Hard Art: Abstraction by Black Artists in the US from 1969 to Today'\n* **Source URL:** `https://www.moma.org/calendar/exhibitions/5745`\n* **Publication Date:** 2026-11-05\n* **Verified Facts:** MoMA PS1 于 2026 年 11 月 5 日开幕特展《Hard Art》，展期至 2027 年 3 月 15 日。展览由 Connie Butler 与 Sheldon Gooch 联合策展，收录 40 余位黑人艺术家的 90 余件作品，跨越自 1969 年至今的三代创作。展品将 Frank Bowling、Barbara Chase-Riboud、Melvin Edwards、Jennie C. Jones 等历史画作与雕塑，同 Aria Dean、Torkwase Dyson、Nikita Gale、Suzanne Jackson、Carolyn Lazard、Charisse Pearlina Weston、SoiL Thornton 等当代艺术家的声音、视频及概念物质实践并置对话。展出随附全图册文献，收录多位学者与策展人的研究文章。\n* **Relevance to Muki:** 呈现黑人女性及非二元艺术家如何通过抽象材质、声音与空间介入，拒绝再现政治的客体化陷阱，并对机构空间与身体劳作展开结构性回应。\n* **Proposed Section:** Feminist Structure Signal\n* **Duplication Assessment:** New.（10 月 31 日曾追踪 MoMA、蓬皮杜与 M+ 联盟，但 MoMA PS1 的《Hard Art》展为全新开幕 signal）。\n\n---\n\n#### 2. Visual Culture Signal\n* **Proposed Title:** 香格纳新加坡与 SIPF 联合呈现《Systems of Seeing: Where Images Gather》：八位艺术家以秩序与积累探讨摄影的知识生成 / ShanghART Singapore Presents 'Systems of Seeing: Where Images Gather'\n* **Source URL:** `https://ocula.com/art-galleries/shanghart-gallery/exhibitions/systems-of-seeing-where-images-gather/`\n* **Publication Date:** 2026-11-06\n* **Verified Facts:** 作为第 10 届新加坡国际摄影节（SIPF）《Shifting Images》系列展之一，香格纳新加坡举办群展《Systems of Seeing: Where Images Gather》（展期至 2026 年 11 月 15 日）。展览汇聚 8 位新加坡艺术家（包括 Geraldine Kang、Robert Zhao Renhui、Chow and Lin、Bob Lee、Chua Chye Teck、John Clang、Lai Yu Tong、Zen Teh）。参展作品突破单张决定性瞬间的摄影范式，通过重复、积累、分类、测量与网络连接，将图像转化为清册与知识系统，对城市规训、贫困指标及植物分类学等既有秩序提出质疑。\n* **Relevance to Muki:** 直接契合媒介考古、档案秩序与视觉分类系统研究。\n* **Proposed Section:** Visual Culture Signal\n* **Duplication Assessment:** New.\n\n---\n\n#### 3. China / East Asia Signal\n* **Proposed Title:** 第十届亚洲艺术双年展在国立台湾美术馆开幕：以太鲁阁族“共织”概念与 30 组创作者重构东亚关系场域 / 2026 Asian Art Biennial Opens at NTMoFA: Centering 'Co-Weaving' and Marginalized Epistemologies across Asia\n* **Source URL:** `https://www.e-flux.com/announcements/637049/asian-art-biennial-2026-mrahul-tminungong-zhico-weaving/`\n* **Publication Date:** 2026-11-06\n* **Verified Facts:** 第 10 届亚洲艺术双年展于 2026 年 11 月 7 日在国立台湾美术馆（NTMoFA）正式开幕，展期至 2027 年 2 月 28 日。本届由国立台北教育大学副教授吕佩怡策展，主题为《Mrahul Tminun・共织・Co-Weaving》。“Mrahul Tminun”取自台湾太鲁阁族语，意为部落女性聚集共织布匹、分享生活的日常实践。双年展邀请 30 组艺术家与团队（包括 Aluaiy Kaumakan、Gudskul、Haji Oh、Helen Grace & Phaptawan Suwannakudt、Labay Eyong、GEGERBOYO、Womanifesto 等），以“策展作为织造”为方法，聚焦原住民、女性与酷儿视角，展开跨国合作与共学计划（Co-Learning Projects）。\n* **Relevance to Muki:** 展现东亚与东南亚视觉文化中，如何将织造、关护劳动与原住民知识转化为反向档案与集体建构方法。\n* **Proposed Section:** China / East Asia Signal\n* **Duplication Assessment:** New.\n\n---\n\n#### 4. AI Research / Creative Tech Signal\n* **Proposed Title:** 研究团队发布 Cassette-Editor：专为非线性视频剪辑打造的 AI Agent 调度框架 / Researchers Introduce 'Cassette-Editor' Agent Harness for Timeline-Based Video Editing\n* **Source URL:** `https://arxiv.org/abs/2611.01825`\n* **Publication Date:** 2026-11-02\n* **Verified Facts:** 研究团队在 arXiv 上提交论文《Cassette-Editor: An Agent Harness for Editing Video the Way You Do》。研究没有将视频剪辑简化为 Prompt 生成或文本脚本，而是将非线性剪辑软件的时间轴文档（Timeline Document）抽象为 Agent 可执行的空间。Agent 通过读取时间轴结构，直接写入具备类型约束的补丁（Typed Patches），在提交更改前由项目 Schema 与规则库进行静态与语义检查，并已在真实纪录片粗剪项目（如 26 分钟、266 个剪辑片段）中验证可行性。\n* **Relevance to Muki:** 实质性改变艺术研究者与影像创作者在非线性剪辑与多媒体创作中的 AI-native 实际工作流。\n* **Proposed Section:** AI Research / Creative Tech Signal\n* **Duplication Assessment:** New.\n\n---\n\n#### 5. Archive / Long Read / Opportunity\n* **Proposed Title:** 联合国教科文组织联合 Onewater 启动“Walk of Water: Out of Sight”摄影纪实奖公开征集 / UNESCO and Onewater Launch 'Walk of Water: Out of Sight' Photostory Contest\n* **Source URL:** `https://www.unesco.org/en/articles/participate-photo-contest-water-stories`\n* **Publication Date:** 2026-11-06\n* **Verified Facts:** 联合国教科文组织（UNESCO WWAP）、联合国环境规划署（UNEP）与 Onewater 联合启动第 6 届“Walk of Water”摄影纪实比赛。本届主题为“Out of Sight”（隐于视线之外），征集 5–10 张图片构成的组照与文字故事，重点记录废水处理、水质污染、公共卫生设施以及隐于幕后的水务与环卫劳工。活动免费参加，设立 9,000 美元奖金池，入选作品将于 2027 年进行全球巡回展览，截止日期为 2026 年 11 月 30 日。\n* **Relevance to Muki:** 高质量、真实的国际征集，直接契合摄影纪实、基础劳工、隐性基础设施与关护体系。\n* **Proposed Section:** Archive / Long Read / Opportunity\n* **Duplication Assessment:** New.\n\n---\n\n### Excluded Topics & Verification Notes\n\n* **Secondary Archive Open Call:** 虽有新报道发布，但该资助项目已于 2026-10-24 期录入，故剔除以避免重复。\n* **Paris Photo 2026 / World Press Photo 2026 展讯:** 属于常规年度大型艺术集市与巡展新闻，缺乏专一策展信号或研究切口，故不予采纳。",
+  "citations": [
+    {
+      "title": "moma.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIBILxxaINAJ3M9Hby7Clux9l23_P2AP7tbyLXMLK3SpdnLw20rF9AAFWOJve7ayn8TEDkXjZ3DkqxvmHBo_rk-Zi6n1-V_OG05iSJryrqWcZxwM1COcQh3NyQL-kxOilc"
+    },
+    {
+      "title": "ocula.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrPxlML9R8xnCPETNY8wXV-s6mSWK5Itz40UPKWhnG3Z_Oa5dDtr7L7Z0nJC8piSnaA9p4EoF3YVGzq4HsGTi-aShsi-0LN20dshobXsuguHMZZZEpDKhAHs0hxxv8zqFCLiDr8SiMwNiJFwkUq76qWqgl9ji0PaFpYoQ8weMQjY6OM8aMVozdNeVQmdVVmETEVa-IkoGblJsuGL0="
+    },
+    {
+      "title": "asianartcontemporary.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuZZGkkCBHJGROhdVrfChGWikyf6K54h3_hPTZrXzgCDvD-FhIXQe5LP9xR37u1m8RWfRLSyrorSYVd47g1iJ7hW9qn953STh4poc7dIbO-JsVGlu9iJ1syyyxa1riWUrVs3wKGgxu8kJW7UDkZvxuFk0tU1XZ9VBnL4dJzeQUVwDl0XkYjDDipib3htvvesD3G8qPKEBdgdX8vatg-1BUPSRivzlCjWFWNZOQloCJefSsMzFnk3uI"
+    },
+    {
+      "title": "ocula.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF59DZo1vAR4IRup0tOAIIAxcZBJB5jwU4FYVxA4rSD-ZJfoCqG2IbDx8c4jI8jMdGC-GlUISNqICZgnAv06_hBXog6RfublEgNANtcVq5F6Vu4HW8G9sSPMdmBDIIxxXLFLc9QpTyGUU7iLJkYGabAfm3t3l15FXU3bIXg5xOPiEUVdMOjuVT4yEXFm2odN8yKTu94iu7mpm_d3LM="
+    },
+    {
+      "title": "asianartcontemporary.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDQvtb-kjADqL10pf0qRvb4zpFLQBmOZqqXQmVqFdnfKpGdm-KGZOUOTD8Ws7v7xGW4cQOvqJu4fhsI2HTNwLCGFp__mxxjRVcroAVLbHWWaNR4Wya0jn_Om-4NDEdCY4SXXnvhvvMVWntEBw="
+    },
+    {
+      "title": "sipf.sg",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQQWIKIbJw2XJkGeOb-fqmidKY265c1mHKnxzfkpnE9OWIu6OVmOxLQKi-gBXCauSFkjCRtkDiJ1DjxZshyad4Sb21YV0P4kL4MLltgIDscC92iQEkSPbQHgD8JisECvo6GidHnIDNSRPJ"
+    },
+    {
+      "title": "dailyartfair.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ_0pnq83cK7o5bjzLS5WPnHlYpMJPtGxAEgOfHDRqA_u3GG7_5nFfYCw1MT18nQz_W_0vYi3l-xQ_OJFAjqREwlSAKxrcKVAZZ_6MD1VNrTKfDv279IpCvwDzdRmJK3W8nXFspy_liobjyqbjqAbkifA="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTMxxpgAscSAXFMQUGFDD8HV4VOcjPii-qvHgRpjWkMP-tPK59bUoCjAp70eWYLQoS-aLkAgyQr5zcU7UgWo9_aWVzRBxc6gJlqfTH7cGkhI5ffM-9L4iidHFz7n2r83UEmN5r1ScFxABserkiqTbopS-_kmC-RNjAnAzGLVztuA-e1wC58BSoyoEphZ75GZSSTGr2nhvgd4Hj"
+    },
+    {
+      "title": "moc.gov.tw",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn16J1zn_KegA8l2P8wHDOt4y2kVIukCinPlcSHjf4ZLvs6CAM0pcVioFOGffkxsJT-P1q-HbRUchHX2OYqBdwDdirtAYuzAKU8hGAWdjk9pskYMx-XcSDObke9xU_CbGTH3FqUDpptRJxn7dumlJW"
+    },
+    {
+      "title": "ntmofa.gov.tw",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0i6pecHzEMLPQLp4qTdLVKikfx0tfOeiowtx2_OX2siM7R4L_pAMvwBzFQHawxLWOn7jzhNkWNZz8edXGXEeJqF4lO_9BFUshZ9EPfnX98sqsAJ6-Siam_GPtAX8yUrID0aA7Fyfx60B6x7HfTE-at8RT"
+    },
+    {
+      "title": "artreview.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNSDCN7tOEHJBawDaKpdhP8Zq0ir_Rjj6vSCLXj53-cXtuc_sy5r6PCLq8pZl97XjdbRr8TrD9gE0fvwx1YnNnLC_5bUFzHH91B_LyHpmHYOABp57nlKCtFNONFKnuvXsCC-JdE-QLExIfdYTDAos6Opwc9XQfnIk6"
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG728t_CO4Hc-xtxhho0h2iF2DOxqmBKOz8GlaHN6zGAsU9WZNY-p4Qeww8LAzeDGXiYZLRCYsWh37IYeK8IOS80HLb6_URAK8brLyjN3A_8LZNbgB0ELMq9A=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbGdj6Mz0bUjlXB5M3qFMZPSVqfHWKUUc-t6aRBMZhuTIBHy8Tl6S8Hwk6Qc7z3rd9ocmllwMZSUhk8_EEnOIJ1W42c2zG6HSz0oI5-nWhP3CAd-HRyUf8mQ=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPaZu7FO4ntO5WDsVhmUcAPDh2pFWRk_8dRKFrIWYxAyAvB-9Ez_dMeBgZMd_m2SSCLbg8u_epU4hpYX0Isb0UPUU_k-8H8EOzr0IRZS_a6a_V8pSQS5V8nw=="
+    },
+    {
+      "title": "unesco.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH27m01Y2eN8sMAZamByBaqd86ZbFW4ohIer2iPFbbXCPnoQ70bUJTfBwXArnYtLYXKbX4gOm_w_4j3OLX-yGGHdJ52fDPteMv7-uuhqcxscYHV9dAJHEoHlbKC20CQ7kHAuWkEkPxzL-NjtGI45NWR9KtZW3HQ-VKuMEkrqT0I"
+    },
+    {
+      "title": "decadeonrestoration.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLRGWLGt2k--FPlajjJbGxXBFtyV7QWz5MUHojqdrjXbTaUVczTnuYF4rdwJR_dIJOC0sw-erUT3Zic6Clq833z7AClSCpHf704clkTkRuf07P2K6D3RmoN0Ej2ZSqtWHN1dMIYgpmIKvdppaPRkczRVLxum29sT4cnbof8Bx0s2pgnQ0Eo0nA"
+    }
+  ]
+}
