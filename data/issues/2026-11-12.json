@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-12",
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义机构",
+    "版画出版",
+    "摄影书",
+    "独立出版",
+    "植物档案",
+    "分类学",
+    "AI Agent",
+    "工作流优化"
+  ],
+  "why_today": "今天的信号从泰特美术馆与 Counter Editions 的版画资助结构延伸至巴黎 Polycopies 摄影书博览会，同时关注胡昀以植性档案对分类学的重构，以及智能体记忆追溯机制 WikiTrace 和 FOTOFILMIC 的摄影刊物征集。",
+  "intro": "本期简报聚焦实体出版与机构资助的结构性联结，同时关注历史档案重构与 AI 智能体工作流的最新突破。",
+  "opening_signal": "纸本与档案的重构，不仅在于形式的存留，更在于规则与基础设施的重新锚定。",
+  "closing_signal": "当研究与媒介的证据链得到完整保留，视觉叙事与技术系统才能建立真正的可追溯性。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "Follow-up",
+      "title_zh": "Counter Editions 与泰特美术馆联合发布《Women in Print》版画集：八位女性艺术家版画资助女性馆藏",
+      "title_en": "Tate and Counter Editions Launch 'Women in Print' Portfolio Supporting Female Artist Acquisitions",
+      "summary_zh": "2026年11月11日，Counter Editions 与泰特美术馆联合推出限量版画集《Women in Print》。项目邀请了 Katherine Bradford、Tracey Emin、Laura Footes、Ulala Imai、Anne Rothenstein、Antonia Showering、Sophie von Hellermann 及 Michaela Yearwood-Dan 八位女性艺术家，在 Margate 工作室制作石版画、丝网印刷及手涂金箔作品。版画集扣除成本后三分之一的收益将捐赠给泰特美术馆，用于资助女性艺术家作品的馆藏与研究。",
+      "summary_en": "Counter Editions and Tate launched 'Women in Print', a limited-edition portfolio by eight women artists created to directly fund Tate's female artist acquisitions and research.",
+      "why_muki_cares": "展现了画廊与公共艺术机构如何通过版画制作与限量出版，构建长效的资金反哺机制，直接推动女性馆藏与研究档案的建立。",
+      "editorial_signal": "画廊出版与公共机构联合通过版画发行建立女性馆藏资助结构。",
+      "theme_tags": [
+        "泰特美术馆",
+        "Counter Editions",
+        "版画出版",
+        "女性主义机构",
+        "馆藏资助",
+        "艺术劳动",
+        "档案研究"
+      ],
+      "source_name": "Counter Editions",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA4pHXsa-MoMXHZIK49aGFaazgFuNpa_9XfJnxuuYwqwxVi5nTsU9WmZryXl73u3jWvtLHQKe5BG5m3aLuw8-9atjJj-YITgflgQc6BXU_6iS14YhjlQYyr5GR3WWeEebkzAHz1KbhZcGmkRCxT-V-upcsdaKzvn3e",
+      "publication_date": "2026-11-11",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "第 12 届 Polycopies 摄影书博览会在巴黎开幕：百家独立出版商聚焦纸本介质与视觉叙事",
+      "title_en": "Polycopies 2026 Opens on the Seine Gathering Nearly 100 Independent Photobook Publishers",
+      "summary_zh": "第 12 届 Polycopies 独立摄影书博览会于 2026 年 11 月 11 日在巴黎塞纳河畔开幕。博览会汇集了全球近 100 家独立出版社与书店，包括假杂志、Deadbeat Club、Overlapse 和 The Eriskay Connection 等。活动集中展出最新摄影书、假样与自出版 zine，并围绕图片编辑选排、装帧工艺及视觉叙事展开探讨。",
+      "summary_en": "The 12th edition of Polycopies opened along the Seine in Paris, featuring nearly 100 independent publishers showcasing photobooks, dummies, and zines.",
+      "why_muki_cares": "观察独立摄影出版生态与实体纸本介质的集中展示，提供图片序列编排与假样制作的实践参考。",
+      "editorial_signal": "独立摄影书出版博览会对实体介质与视觉叙事编辑的集中探讨。",
+      "theme_tags": [
+        "Polycopies",
+        "摄影书",
+        "独立出版",
+        "巴黎摄影周",
+        "假样制作",
+        "视觉叙事",
+        "媒介考古"
+      ],
+      "source_name": "Wallpaper*",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPDYAAXiPRuy8ZI8XtDVkS0ZFH5KkCcDgxEoCt4itfg562GkqasdOW5JJ4N7h7Etjc_qCiYUEdrqwmwuXkYBr7uH2zmCj3NVW8IqNJ39vveCgg7Zp-wbZumpPGfbmQEymClFcyf3wefu5gd0Fh9wngl3I_vEp8hiZrP7gG",
+      "publication_date": "2026-11-10",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "阿拉里奥画廊上海举办胡昀个展《量化自我》：以植性迁移与档案介质探讨物质流转",
+      "title_en": "Arario Gallery Shanghai Opens Hu Yun's Solo Exhibition 'Quantified Self'",
+      "summary_zh": "阿拉里奥画廊上海于 2026 年 11 月 11 日举办艺术家胡昀个展《量化自我》。展览展出了镀镍电铸铜板、手工羊毛织毯以及结合历史档案的最新创作。作品梳理了早期远征船队、植物标本采集、作物跨洋迁移与现代自我量化体系，讨论文明扩张中生命与物质的移动、命名与分类机制。",
+      "summary_en": "Arario Gallery Shanghai presents Hu Yun's solo exhibition 'Quantified Self', examining historic botanical expeditions, material displacement, and taxonomy systems.",
+      "why_muki_cares": "提供了东亚当代艺术融合博物学档案、物质加工与自我/身体量化指标的研究案例，关注分类学与历史档案的当代重塑。",
+      "editorial_signal": "将博物学档案与身体量化相结合的东亚视觉艺术实践。",
+      "theme_tags": [
+        "阿拉里奥画廊",
+        "胡昀",
+        "量化自我",
+        "植物档案",
+        "分类学",
+        "物质文化",
+        "东亚视觉文化"
+      ],
+      "source_name": "Ocula",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeyRvNEVUPyTwKwaNw0D_zVxp7oV8sqk4YcDSaBZ_6TX9QgEL_CGzZybUjHTfVEgKnoYKNd7MYGKKjAwcDZSN4AiP-0SUzdIU4beBNuEeBGO2BKtmeqE-kbIfvl6LYtKIlMS9UJWCbYaKKfn3kkkUeMKcze2Gu3wGqI7mi4QT4T7s=",
+      "publication_date": "2026-11-11",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "KAIST 等团队提出 WikiTrace 框架：为 AI Agent 建立证据链接记忆以减少工作流退化",
+      "title_en": "Researchers Introduce WikiTrace: Evidence-Linked Memory to Reduce Memory-Induced Degradation in LLM Agents",
+      "summary_zh": "韩国 KAIST 等机构的研究团队于 2026 年 11 月 11 日发表开源论文 WikiTrace。传统 AI Agent 在提炼文本经验规程时容易产生误用导致“记忆诱导退化”。WikiTrace 提出了一种证据链接记忆机制，将提炼的经验规程与原始执行轨迹和摘要相锚定。智能体在遇到歧义时可回溯检查原始代码与环境反馈，显著提升了工作流准确率。",
+      "summary_en": "Researchers at KAIST introduced WikiTrace, an evidence-linked memory architecture for LLM agents that grounds rules in raw execution traces to reduce workflow errors.",
+      "why_muki_cares": "为 AI 原生知识管理与 Agentic 自动化工作流提供了可追溯的证据链解决思路，减少智能体记忆漂移与经验误用。",
+      "editorial_signal": "智能体记忆管理中引入证据锚定以提升复杂工作流可靠性。",
+      "theme_tags": [
+        "KAIST",
+        "WikiTrace",
+        "AI Agent",
+        "知识管理",
+        "工作流优化",
+        "开源 AI",
+        "arXiv"
+      ],
+      "source_name": "Hugging Face Papers",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFscmBf0n6jFrlb7K6Ry5WpBTjSGQPX9VxCfMV-V-0UaMTnzOYgNct_h84grUknTafOlPMXg9CUxU5Eq8JG8J8o274bDoER1El7rHwSgX5zFlUxFvehdrLoZSP64vA=",
+      "publication_date": "2026-11-11",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "FOTOFILMIC 启动 2027 春季 JRNL 刊物公开征集：廖逸君参与客座评审",
+      "title_en": "FOTOFILMIC Open Call for Winter/Spring 2027 JRNL Magazine Juried by Pixy Liao",
+      "summary_zh": "摄影机构 FOTOFILMIC 启动《JRNL》杂志 2027 冬/春季号公开征集，截止日期为 2026 年 12 月 14 日。本期客座评审团由中国摄影艺术家廖逸君、独立摄影总监 Emily Keegin 及 C/O Berlin 展览主管 Boaz Levin 组成。入选的 10 位摄影师将各获得 18 页的完整出版空间，作品将于 2027 年 3 月在东京发布。征集明确排除 AI 生成图像。",
+      "summary_en": "FOTOFILMIC has opened entries for its Winter/Spring 2027 JRNL publication, judged by Pixy Liao, Emily Keegin, and Boaz Levin, providing 18-page spreads for selected artists.",
+      "why_muki_cares": "提供了高规格的纸质摄影出版通道与东亚女性主义摄影实践者参与的评审视角，注重实体出版对摄影视觉叙事的承载。",
+      "editorial_signal": "关注实体摄影出版与东亚女性主义视角参与的摄影刊物征集。",
+      "theme_tags": [
+        "FOTOFILMIC",
+        "JRNL",
+        "廖逸君",
+        "公开征集",
+        "摄影书",
+        "女性主义摄影",
+        "实体出版"
+      ],
+      "source_name": "FotoFilmic",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-4alMCOn7z-R9x_L6ddjGQXJb81wlVmUCr7T4CzIIEQlc4k8OrCFSg7YkAfBQReDvMv4Wd1kB9cH_8btO1KGzdaPPXZOODcketIpr6VzBpDVp7RAQD1VEkny",
+      "publication_date": "2026-11-11",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Long Read / Opportunity",
+    "title": "FOTOFILMIC 启动 2027 春季 JRNL 刊物公开征集：廖逸君参与客座评审",
+    "why_muki_may_care": "由东亚女性主义艺术家廖逸君参与评审的实体刊物出版项目，为摄影作者提供了18页完整纸本展示空间。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-4alMCOn7z-R9x_L6ddjGQXJb81wlVmUCr7T4CzIIEQlc4k8OrCFSg7YkAfBQReDvMv4Wd1kB9cH_8btO1KGzdaPPXZOODcketIpr6VzBpDVp7RAQD1VEkny"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "排除了缺乏确凿事实支持的商业宣发与重复性展讯。"
+  ],
+  "covered_entities": [
+    "Tate",
+    "Counter Editions",
+    "Polycopies",
+    "Arario Gallery",
+    "KAIST",
+    "FotoFilmic"
+  ],
+  "repetition_notes": "本期收录的 5 项信号中有 4 项为全新信号（New）。其中泰特美术馆版画资助项目是对泰特机构资助结构的持续追踪（Follow-up）。",
+  "issue_number": 93
+}
