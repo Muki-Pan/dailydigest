@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-13",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Issue 094 Research Dossier\n\n**Search Window Used**: Past 7 days (expanded to 14 days for ongoing regional museum exhibitions with active November events).\n\n---\n\n## 1. Feminist Structure Signal\n\n* **Title**: MMCA Gwacheon Opens *Georgia O'Keeffe and American Modernism* Retrospective (国立现代美术馆果川馆举办《Georgia O'Keeffe and American Modernism》特展)\n* **Source URL**: `https://koreajoongangdaily.joins.com/news/2026-11-12/lifestyle/culture/MMCAs-Georgia-OKeeffe-exhibit-traces-how-American-modernism-found-its-own-landscape/2176882`\n* **Publication Date**: November 12, 2026\n* **Verified Facts**:\n  * 韩国国立现代美术馆（MMCA）果川馆于 2026 年 11 月 12 日面向公众开放特展《Georgia O'Keeffe and American Modernism》（展期至 2027 年 3 月 21 日）。\n  * 这是韩国迄今规模最大的乔治亚·欧姬芙专题展，共汇集 117 件展品，其中包括欧姬芙的 16 幅油画原作、9 幅阿尔弗雷德·斯蒂格里茨（Alfred Stieglitz）等人为其拍摄的肖像摄影、7 部档案影像、2 件家具以及斯蒂格里茨艺术圈（Stieglitz Circle）成员的作品。\n  * 展览聚焦欧姬芙在新墨西哥州创作的自然与骨骼系列，展现她如何摆脱欧洲/巴黎现代主义范式，通过微观放大与形式精简建立独立的视觉语言。\n* **Relevance to Muki**:\n  * 展现了女性艺术主体的地理脱中心化与身体/自然档案重构，为东亚公立美术馆如何呈现女性现代主义历史提供了具体的策展研究样本。\n* **Duplication Assessment**: **New**. 虽近期出现过 MMCA 机构名称（如“韩国艺术家奖”），但本项特展为首度录入的独立展览项目。\n\n---\n\n## 2. Visual Culture Signal\n\n* **Title**: Wolfgang Tillmans Awarded Henri Cartier-Bresson Lifetime Achievement Award at Paris Photo 2026 (沃尔夫冈·提尔曼斯在巴黎摄影周获颁亨利·卡蒂埃-布列松终身成就奖)\n* **Source URL**: `https://ocula.com/magazine/art-news/wolfgang-tillmans-wins-cartier-bresson-lifetime/`\n* **Publication Date**: November 12, 2026\n* **Verified Facts**:\n  * 德国摄影师沃尔夫冈·提尔曼斯（Wolfgang Tillmans）于 2026 年 11 月 12 日在巴黎摄影周（Paris Photo 2026）开幕首日举行的亨利·卡蒂埃-布列松晚会上，获颁本届亨利·卡蒂埃-布列松终身成就奖（Henri Cartier-Bresson Lifetime Achievement Award）。\n  * 评委会表彰了提尔曼斯三十余年来在镜头媒介、图像实验、静物肖像以及空间装置领域的持续探索。\n  * 颁奖现场呈现了受卡蒂埃-布列松经典摄影书《Les Européens》（1955）启发的沉浸式空间装置。\n* **Relevance to Muki**:\n  * 涉及当代摄影媒介演变、图像史与展览空间装置形态，提供重要的人性化镜头语言与媒介考古参照。\n* **Duplication Assessment**: **New**. 首次录入提尔曼斯获该终身成就奖的新闻。\n\n---\n\n## 3. China / East Asia Signal\n\n* **Title**: Tokyo Photographic Art Museum Presents 50th Anniversary Commemorative Exhibition of the Kimura Ihei Photography Award (東京都写真美術館举办第 50 届木村伊兵衛写真赏纪念特展)\n* **Source URL**: `https://topmuseum.jp/contents/exhibition/index-4810.html`\n* **Publication Date**: October 31 – November 23, 2026（11 月 5–27 日期间每周四、五配合 Autumn Night Museum 夜间开放，11 月 19 日举办学者与历届得主研讨会）\n* **Verified Facts**:\n  * 東京都写真美術館（TOP Museum）地下 1 楼展示室呈现“木村伊兵衛写真賞 第 50 回記念写真展”，回顾该奖项自 1975 年设立以来的半世纪历史。\n  * 展览汇集 50 届中的 62 位获奖摄影师作品（包括第 1 届得主北井一夫、第 50 届得主濵本奏，以及志贺理江子、畠山直哉、蜷川实花、片山真理等）。\n  * 策展未采用简单的时间轴顺序，而是按表现方法划分为纪实、快照、肖像、自然、私摄影与性别、以及作为当代艺术的摄影等维度。\n* **Relevance to Muki**:\n  * 呈现东亚现代摄影史与自出版/奖项评价机制演变，特别是私摄影、女性视角与性别议题在东亚视觉文化中的长期脉络。\n* **Duplication Assessment**: **New**. 首次录入該纪念展。\n\n---\n\n## 4. AI Research / Creative Tech Signal\n\n* **Title**: Video-Coder: Code-Driven Agent Harness for Controllable Video Generation (研究团队发布 Video-Coder 框架：以代码驱动 AI Agent 构建 3D 动态草图与视频生成)\n* **Source URL**: `https://huggingface.co/papers/2611.05432`\n* **Publication Date**: November 9, 2026\n* **Verified Facts**:\n  * 研究团队发布开源框架 Video-Coder，提出一种由代码驱动的视频生成 Agent 架构。\n  * 该 Agent 能够自主编写并执行代码来构建动态 3D 场景草图（Draft Video），为下游视频生成器提供明确的空间结构与运动控制信号。\n  * 团队开发了 Video-Coder Harness 交互环境（整合代码执行、3D 渲染与执行反馈），并采用结合代码执行奖励与视频质量奖励的 Agent 端强化学习训练策略。\n  * 在 PhyGenBench 上模型表现提升约 7 分，VBench-2.0 提升 24 分。\n* **Relevance to Muki**:\n  * 改变了传统“纯文本 Prompt 生成黑盒视频”的低控工作流，将代码 Agent 与 3D 场景草图带入动态图像创作，为可控创意技术与 AI 原生工作流提供了直接的技术案例。\n* **Duplication Assessment**: **Follow-up**. 属于对非线性视频与 AI Agent 调度工作流（前期曾收录 Cassette-Editor）的进一步技术跟进。\n\n---\n\n## 5. Archive / Long Read / Opportunity\n\n* **Title**: KLPA and FORMAT International Photography Festival Launch AUTOPORTRAIT 2026 Open Call (KLPA 联合 FORMAT 摄影节启动 AUTOPORTRAIT 2026“PLAY”主题自肖像公开征集)\n* **Source URL**: `https://site.picter.com/autoportrait-2026-portrait-prize-play`\n* **Deadline**: November 25, 2026\n* **Verified Facts**:\n  * 吉隆坡国际摄影奖（KLPA）联合英国 FORMAT 国际摄影节（FORMAT27）启动第 3 届 AUTOPORTRAIT 2026 摄影奖公开征集。\n  * 本期主题围绕 FORMAT27 的核心议题“PLAY”（游戏/演绎），征集通过摄影与自肖像探索身份、表演性、身体与日常游戏的影像作品。\n  * 入选与获奖作品将在 FORMAT27 摄影节期间展出并获得出版传播支持。\n* **Relevance to Muki**:\n  * 结合身体政治、自肖像档案与东亚/跨国摄影节平台，为关注肖像与自我建构的女性及跨学科摄影创作者提供了明确的参展与研究通道。\n* **Duplication Assessment**: **New**. 首次录入本项公开征集。",
+  "citations": [
+    {
+      "title": "koreajoongangdaily.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaxEVj7ajkXgMgWo2CTPeWn91Ty5D5UvVUzI37Q5Q9X1ZTx1obrGra1rVsSBqNBj6gvzfcUQRFYdRF1MAIxVD2oj_IsmhhlJORweOvi1IHBxT-2BaAnPB7SDjTKtYzPKnnPYt6bz2S7YegCgsG1UF73DsBjIN0L8dLFp5ho2gQgSLyZLTc2WRMwuVnAy1anyki6VlLwGG5xF8Jf42vBHfxY6irx1ihi43neXuD2iLGkFRWQzTKpnvMdZ74ZjZhJAs="
+    },
+    {
+      "title": "pap-magazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl4I6TesBw09QPJd-axdJ6p7OR_Xu41CaY4l8f0UFuVZQ-AxCRZa-dO6hZxsUemlabcKXs0y_21GKmz1GoebYodgwp4R0ybtVAdYAn8PjQPW_yACEMrcS9_2VoTHmlGnQO5bRsOwfUizxlxqSyNYavFduDJaZx_PX7KOSCvGfDVab7FdoUKBrsAYKaGIzF"
+    },
+    {
+      "title": "ocula.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhab6YQAuKR_zGIjoN-fixA41k2U9TuElJdSVj4WNNBs3T5zjZxsTFNKs5J8BaJEy74UD9Oluuf5RRhmM2c6vByBX4kvXDSAVZYaVgZKP4mQd4_DkfGTACikPwvucD3aPVLvn49znKk2jRVGDp_triZZUv5bAbU_0QObwHDj7ThKMMmrnVJEc="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg_t6PgBgf1gVrGtgVhM99_nW5M1b2r9bvCrWcqjZUyden-hY1dm4Tt1Dlom-fhnsjS0GyQ1qm8Ety5F_flg4zgyvQWjEW82wifvBsFLfPE0Zqhb9AEaRhBMvr"
+    },
+    {
+      "title": "musa.guide",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4_2H9CM-RC_tXi6CJTEhRB_L-peAz5J0pKTbSObmHtFMxaqTvEpVBES_1bvTTGXWkxS2BNiMVsctExOXYZPoBv_OpgtgeYm9Hjp-LZS04SdGpEHeUOMpTUIcLGoyQUAK70APCXHSXEZRCJqNA9sBesx1chksRWwQRtiKji6X97NBebMevxCgQRUh7G2dWJ5F55W-TH2etstG8jtQgpn-lXyHuPvEB21fpDJEciicEeyNgY27D-fY4"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbUBa1JFPv5kR2ynfAuKibT9zVE2gii8gD7Utzu7Tlb0ktJyQ50jFciTulfNQ-1ueZLGIcTseamveEiKPkox-JUeNL1H9HJ-Snobls4h5l3PWQIgTE5A=="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRJHr14Hc2kR7Mvcv4m_dGdvo5dXxa3dYvW-CzDCdU7u1fUE8H-x37MFjaR0hTg8D85xna3-b_-6Tqa3aeLiVKXi6U0H_GKfj6OdEIaBmS-4XfkpeeLg=="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhisL6bGUivT8pAHiREMo_mD-wPW30bv3yDP8bIBk8uaiZEyMNL2PCV7CJa3Uip-j0QqoeQezNmO3TOtwSl2v0qGdnabqe-M006FPbXkMJOhBmoDe9hcuT0rfDEfzjndN_R4oTkKBhhxHZkwvIM1E7KJUdhteDxItqEA=="
+    },
+    {
+      "title": "huggingface.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPxmc_LJnV0GOEn5LPj1VRAD4SjUfUzQZgFo85RyWJ3505RSd1uDvctdGgrxk4Bql76ZxBHgRnvyBI-jKIE9TdahU8enEC_1SzddaFQD-PfZYNxEt4PKFinnZnmE8="
+    },
+    {
+      "title": "substack.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6iRj2HyLmMatBrhjI5wnIzGnH49wm7QzlUYCuxf_WRTP-4bRhF5skNmeL3HYvm2Wml9IzQSZsxuB5s9yqYZFueedX_QB73c_a3mhuU0DM4yc-qsE6CLRfk0h3H8hKToLojHhIvqQAhA-SGGw_PCBYSLDGtWI="
+    }
+  ]
+}

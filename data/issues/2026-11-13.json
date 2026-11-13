@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-13",
+  "search_window": "7d",
+  "reading_time": "约 5 分钟",
+  "topics": [
+    "女性现代主义",
+    "镜头语言",
+    "木村伊兵衛赏",
+    "AI 视频生成"
+  ],
+  "why_today": "今天的信号集中在展览档案、摄影奖项演变与生成式工作流的结合上。从东亚公立美术馆对女性现代主义者的重新定位，到木村伊兵卫奖半世纪的文献分类，再到代码驱动的动态视频生成，展现了不同媒介领域对结构和可控性的持续探讨。",
+  "intro": "本期简报梳理了近期在视觉文化、艺术机构与创意技术方面的动态。重点关注国立现代美术馆果川馆的欧姬芙回顾展、提尔曼斯在巴黎摄影周获奖、東京都写真美術館对木村伊兵衛奖 50 年历程的系统分类，以及研究团队提出的 Video-Coder 代码驱动视频生成框架。",
+  "opening_signal": "图像不仅是视觉的留存，也是工作流与历史分类学的交汇点。 Images are not only visual residue, but also nodes where workflows and historical taxonomies meet.",
+  "closing_signal": "从视觉语言的分类归档到生成技术的精确控制，创作者正在重新定义工具与媒介的边界。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "国立现代美术馆果川馆举办欧姬芙特展：汇聚 117 件作品与档案重构女性现代主义",
+      "title_en": "MMCA Gwacheon Opens Georgia O'Keeffe Retrospective Featuring 117 Works and Archives",
+      "summary_zh": "韩国国立现代美术馆果川馆于 2026 年 11 月 12 日开放特展《Georgia O'Keeffe and American Modernism》。展览汇集 117 件展品，包括欧姬芙的 16 幅油画原作、斯蒂格里茨等人为其拍摄的肖像摄影、7 部档案影像及相关家具。展览重点呈现欧姬芙在新墨西哥州创作的自然与骨骼系列，展示她如何通过形式精简与微观放大建立独立的视觉语言。",
+      "summary_en": "MMCA Gwacheon opened a retrospective on Georgia O'Keeffe, featuring 117 works including 16 paintings and historical archival items that highlight her independent visual language.",
+      "why_muki_cares": "展览呈现了女性艺术主体的地理脱中心化过程，为东亚公立美术馆如何策划分量明确的女性现代主义艺术史提供了具体的档案与展览样本。",
+      "editorial_signal": "东亚公立美术馆对西方女性现代主义代表人物的重新定位与档案展示。",
+      "theme_tags": [
+        "国立现代美术馆",
+        "乔治亚·欧姬芙",
+        "女性现代主义",
+        "策展研究",
+        "档案研究"
+      ],
+      "source_name": "Korea JoongAng Daily",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaxEVj7ajkXgMgWo2CTPeWn91Ty5D5UvVUzI37Q5Q9X1ZTx1obrGra1rVsSBqNBj6gvzfcUQRFYdRF1MAIxVD2oj_IsmhhlJORweOvi1IHBxT-2BaAnPB7SDjTKtYzPKnnPYt6bz2S7YegCgsG1UF73DsBjIN0L8dLFp5ho2gQgSLyZLTc2WRMwuVnAy1anyki6VlLwGG5xF8Jf42vBHfxY6irx1ihi43neXuD2iLGkFRWQzTKpnvMdZ74ZjZhJAs=",
+      "publication_date": "2026-11-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "沃尔夫冈·提尔曼斯获巴黎摄影周亨利·卡蒂埃-布列松终身成就奖",
+      "title_en": "Wolfgang Tillmans Receives Henri Cartier-Bresson Lifetime Achievement Award at Paris Photo",
+      "summary_zh": "德国摄影师沃尔夫冈·提尔曼斯于 2026 年 11 月 12 日在巴黎摄影周开幕首日获颁亨利·卡蒂埃-布列松终身成就奖。评委会表彰了提尔曼斯三十余年来在镜头媒介、图像实验、静物肖像以及展场空间装置领域的持续探索。颁奖现场同时呈现了受布列松 1955 年摄影书《Les Européens》启发的沉浸式空间装置。",
+      "summary_en": "Wolfgang Tillmans was awarded the Henri Cartier-Bresson Lifetime Achievement Award at Paris Photo 2026 in recognition of his three-decade practice in photography and spatial installation.",
+      "why_muki_cares": "提尔曼斯的实践持续模糊了摄影、印刷品与展览空间的边界。关注该奖项有助于研究当代摄影语言与展场装置形态的互相渗透。",
+      "editorial_signal": "当代摄影大师的媒介实验与经典摄影文献在展场空间的互文本对话。",
+      "theme_tags": [
+        "沃尔夫冈·提尔曼斯",
+        "巴黎摄影周",
+        "亨利·卡蒂埃-布列松",
+        "摄影史",
+        "空间装置"
+      ],
+      "source_name": "Ocula",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhab6YQAuKR_zGIjoN-fixA41k2U9TuElJdSVj4WNNBs3T5zjZxsTFNKs5J8BaJEy74UD9Oluuf5RRhmM2c6vByBX4kvXDSAVZYaVgZKP4mQd4_DkfGTACikPwvucD3aPVLvn49znKk2jRVGDp_triZZUv5bAbU_0QObwHDj7ThKMMmrnVJEc=",
+      "publication_date": "2026-11-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "東京都写真美術館举办木村伊兵衛写真赏 50 周年纪念展：分类展现半世纪摄影脉络",
+      "title_en": "Tokyo Photographic Art Museum Opens 50th Anniversary Exhibition of Kimura Ihei Award",
+      "summary_zh": "東京都写真美術館地下 1 楼展示室正在呈现“木村伊兵衛写真賞 第 50 回記念写真展”。展览打破传统年代时间轴，汇集 50 届中 62 位获奖摄影师的作品，涵盖北井一夫、濵本奏、志贺理江子与片山真理等。策展按纪实、快照、肖像、私摄影与性别等表现维度分类，梳理日本摄影半个世纪的评价机制变迁。",
+      "summary_en": "Tokyo Photographic Art Museum is presenting a 50th-anniversary retrospective of the Kimura Ihei Photography Award, structuring works by 62 laureates across thematic methodologies.",
+      "why_muki_cares": "展览通过非线性的分类学方法呈现日本当代摄影史，特别是私摄影与女性视角的议题变迁，为东亚摄影研究与奖项文献梳理提供了直接参照。",
+      "editorial_signal": "东亚摄影奖项半世纪文献的分类学梳理与性别视角演进。",
+      "theme_tags": [
+        "東京都写真美術館",
+        "木村伊兵衛写真赏",
+        "日本摄影",
+        "东亚视觉文化",
+        "私摄影"
+      ],
+      "source_name": "Tokyo Photographic Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg_t6PgBgf1gVrGtgVhM99_nW5M1b2r9bvCrWcqjZUyden-hY1dm4Tt1Dlom-fhnsjS0GyQ1qm8Ety5F_flg4zgyvQWjEW82wifvBsFLfPE0Zqhb9AEaRhBMvr",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "研究团队发布 Video-Coder 框架：以代码驱动 AI Agent 生成 3D 草图与控制视频",
+      "title_en": "Researchers Introduce Video-Coder Framework for Code-Driven Agent Video Generation",
+      "summary_zh": "研究团队于 2026 年 11 月 9 日发布开源框架 Video-Coder，提出一种由代码驱动的视频生成 Agent 架构。该 Agent 能够自主编写并执行代码来构建动态 3D 场景草图，为下游视频生成提供明确的空间结构与运动控制信号。评估显示其在 PhyGenBench 上的控制表现提升了约 7 分。",
+      "summary_en": "Researchers introduced Video-Coder, an open-source framework using code-writing LLM agents to render 3D motion drafts that guide controllable video generation.",
+      "why_muki_cares": "它改变了传统纯文本 Prompt 生成黑盒视频的模式，将代码编写与 3D 草图引入动态图像生成，为可控创作与 AI 原生工作流提供了实用的技术路径。",
+      "editorial_signal": "代码驱动与 3D 草图介入 AI 动态图像生成的可控工作流转型。",
+      "theme_tags": [
+        "Video-Coder",
+        "AI Agent",
+        "视频生成",
+        "工作流优化",
+        "创意技术"
+      ],
+      "source_name": "Hugging Face Papers",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPxmc_LJnV0GOEn5LPj1VRAD4SjUfUzQZgFo85RyWJ3505RSd1uDvctdGgrxk4Bql76ZxBHgRnvyBI-jKIE9TdahU8enEC_1SzddaFQD-PfZYNxEt4PKFinnZnmE8=",
+      "publication_date": "2026-11-09",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Exhibition & Award Taxonomy",
+    "title": "東京都写真美術館举办木村伊兵衛写真赏 50 周年纪念展",
+    "why_muki_may_care": "展览放弃了单向时间轴，按快照、私摄影、肖像与性别等维度重新梳理日本摄影半个世纪的评价机制，为东亚视觉文化与摄影档案研究提供了极佳的策展分类模型。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg_t6PgBgf1gVrGtgVhM99_nW5M1b2r9bvCrWcqjZUyden-hY1dm4Tt1Dlom-fhnsjS0GyQ1qm8Ety5F_flg4zgyvQWjEW82wifvBsFLfPE0Zqhb9AEaRhBMvr"
+  },
+  "empty_sections": [
+    "Archive / Long Read / Opportunity"
+  ],
+  "excluded_topics": [
+    "AUTOPORTRAIT 2026 摄影奖公开征集（未提供可校验的规范源链接）"
+  ],
+  "covered_entities": [
+    "MMCA",
+    "Paris Photo",
+    "Tokyo Photographic Art Museum",
+    "Hugging Face"
+  ],
+  "repetition_notes": "本期收录的 4 项信号中有 3 项为全新信号（New）。其中 Video-Coder 属于对 AI Agent 在非线性视频与控制生成领域工作流的持续跟进（Follow-up）。",
+  "issue_number": 94
+}
