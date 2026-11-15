@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-15",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义艺术",
+    "摄影物质性",
+    "媒介考古",
+    "东亚视觉文化",
+    "AI Agent",
+    "离散档案",
+    "艺术资助"
+  ],
+  "why_today": "今天的信号集中在物理介质的侵蚀与档案检索的重构上。从 Belvedere 21 对商业摄影的物理擦除，到大邱摄影双年展对触觉物质性的重申，再到 Reviso 框架对视频档案的选择性回溯，不同领域的实践都在寻找从线性加速中收退与定向检索的方法。",
+  "intro": "本期日报聚焦图像物质性、离散档案与主动感知。我们记录了玛利亚·哈内坎普对凝视霸权的物理剪裁、东亚青年摄影对加速主义的反思、白南准卫星跨地方性网络，以及费明杰离散艺术资助。",
+  "opening_signal": "当图像在光速传输中淡化了触感，物理干预与主动检索重新建立了被掩盖的痕迹。 When images lose tactile memory to speed, physical intervention restores hidden traces.",
+  "closing_signal": "从商业印刷品的物理擦除到长视频的定向定位，真正具备持续力量的研究往往始于对惯常视觉流的暂停与再审视。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "维也纳 Belvedere 21 举办玛利亚·哈内坎普首个机构回顾展：以反向剪裁与擦除解构视觉霸权",
+      "title_en": "Maria Hahnenkamp: First Institutional Solo Exhibition at Belvedere 21",
+      "summary_zh": "维也纳 Belvedere 21 为奥地利女性主义艺术家玛利亚·哈内坎普举办首个大型机构回顾展。展览收录了艺术家自 1970 年代末至今的 100 余件作品。展出作品集中呈现她通过摩擦、剪裁、穿透与擦除等物理手段对商业摄影成品施加干预，以此拆解视觉文化对女性身体的凝视与定型。",
+      "summary_en": "Belvedere 21 presents the first institutional retrospective of Austrian feminist artist Maria Hahnenkamp, showcasing over 100 works that physically alter commercial photography to critique visual stereotypes of women.",
+      "why_muki_cares": "哈内坎普把商业印刷与摄影技术转化为反向侵蚀的工具。她对印制图像的物理裁切与擦除，为研究视觉霸权的干预机制与反向档案方法提供了具体的物质案例。",
+      "editorial_signal": "物理性干预商业摄影，解构视觉文化中对女性身体的支配与定型。",
+      "theme_tags": [
+        "Belvedere 21",
+        "玛利亚·哈内坎普",
+        "女性主义艺术",
+        "身体政治",
+        "图像干预",
+        "物质文化",
+        "策展研究"
+      ],
+      "source_name": "e-flux Announcements",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxRACrS15e-LNkD9zPPJlO77y4sdJckMpF7S8AeplOSf3OahiPPRtCXhA962JUMdkYaTc--b0Rqjg53IXSbEhaty-9MiKGbbqamo3EumGdZDp4uI5mlTuDrQTCa202vphyw_uZnKBcwnEugnAtXLujBT0=",
+      "publication_date": "2026-11-12",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "大邱艺术中心呈现 2026 大邱摄影双年展青年展：四位艺术家重构照片的痕迹与物质时间",
+      "title_en": "Daegu Arts Center Presents 'If We Cannot Go at the Speed of Light': 2026 DAC EP Exhibition",
+      "summary_zh": "韩国大邱艺术中心举办第二届大邱摄影双年展青年摄影师展。展览围绕《若我们不能以光速前行》主题，展出禹成、赵贤相、TunaLee 和朴佳贤 4 位韩国青年摄影师的作品。参展作品涉及将照片埋入地下、记录工业边缘以及将记忆碎片刻入循环材料，试图重新把摄影理解为感知非显性世界的触觉与物质系统。",
+      "summary_en": "Daegu Arts Center hosts the 2026 DAC EP exhibition featuring four emerging South Korean photographers who engage with physical decay, industrial margins, and material time.",
+      "why_muki_cares": "展览反思了以线性加速为导向的数字媒介，提出将照片回归触觉与物质层面的实践路径，对研究东亚青年摄影和媒介考古具有参考价值。",
+      "editorial_signal": "在数字传输加速的语境下，将摄影放回物理腐蚀与触觉感知中。",
+      "theme_tags": [
+        "大邱艺术中心",
+        "大邱摄影双年展",
+        "韩国当代摄影",
+        "媒介考古",
+        "物质性",
+        "东亚视觉文化",
+        "年轻艺术家"
+      ],
+      "source_name": "e-flux Announcements",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIJwpvjuQpFs12oWQ6BLK89pURIK34yip-5aVEsenLDgC0Foh6AGFOnMF3p1hIMZiC4AJUG-I_tvwGo0VcMAPLu4PUqgoIHaxn7-09Fe3KnVE9RdvlSbRVEULAgv8VVb3cfhdj2DVcNVTcqaWrxIqHbl5_HE1YXAqlyEGPBkfN3mlBnvIiuAUj",
+      "publication_date": "2026-11-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "白南准艺术中心开幕《卫星视角》展：以跨地方性广播探讨离散声音与媒介考古",
+      "title_en": "Nam June Paik Art Center Opens 'Hyundai Translocal Series: Via Satellite'",
+      "summary_zh": "韩国白南准艺术中心开幕特展《卫星视角：月亮、回声、蚊子与迷因》。展览以白南准 1980 年代的卫星广播项目为起点，联合龙仁与巴西圣保罗 Pinacoteca 艺术馆，呈现 biarritzzz、Vivian Caccuri、郑智仁（Jane Jin Kaisen）与金海伦（Christine Sun Kim）等艺术家的作品，探讨卫星通信与互联网时代下的跨地方性交流。",
+      "summary_en": "Nam June Paik Art Center presents an exhibition connecting Korea and Brazil through satellite networks, highlighting works by Jane Jin Kaisen and Christine Sun Kim.",
+      "why_muki_cares": "展览把白南准的早期通信实验延伸至当代离散与身体政治，结合了东亚女性主义声音艺术与技术基础设施研究。",
+      "editorial_signal": "借白南准的早期广播实验，重新审视跨地方性沟通中的身体与技术霸权。",
+      "theme_tags": [
+        "白南准艺术中心",
+        "媒介考古",
+        "郑智仁",
+        "金海伦",
+        "跨地方性",
+        "东亚视觉文化",
+        "声音艺术"
+      ],
+      "source_name": "e-flux Announcements",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKyU0yN8n3XvxYb8UAtueN2PnOkVCT8Wu16LX-9GLxsc4ew9mPaOltokNx-AKZd9V1iSZL3g9Zl6RmSZdnPE811n4FSiW25jMWyFIimhv2etE9bJIJp9FjkHnIAk-EqknkqH0TCV94elYnpf5SV0OzUZ9BlTw-TR9zDrGSpm6crVE0xC_foa82ng==",
+      "publication_date": "2026-11-05",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "研究团队提出 Reviso 框架：以主动感知 Agent 改进长视频理解与事实检索",
+      "title_en": "Researchers Introduce Reviso: Active Perception Agentic Framework for Video Captioning",
+      "summary_zh": "研究团队提出 Reviso 框架，解决多模态大语言模型在长视频分析中由于均匀采样造成的细节遗漏。Reviso 采用“预检-聚焦-目标点”的观察计划，先通过低帧率蓝图全局预览，再调度视觉工具定向重访特定时间段。测试显示强化学习训练显著减少了盲目工具调用并提高了理解准确度。",
+      "summary_en": "Researchers introduced Reviso, an active perception framework using hierarchical observation plans and reinforcement learning to improve long video captioning and detail retrieval.",
+      "why_muki_cares": "该研究改变了 AI 视频检索中的全量算力浪费，将主动选择与定向回溯引入媒体档案检索，对开发高效 Agentic 视觉工作流有实用价值。",
+      "editorial_signal": "引入主动感知与分层预览，提升多模态 AI 对长视频档案的选择性检索效率。",
+      "theme_tags": [
+        "Reviso",
+        "AI Agent",
+        "多模态",
+        "视频理解",
+        "主动感知",
+        "工作流优化",
+        "arXiv"
+      ],
+      "source_name": "arXiv",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR_-egqmhYJoNa8G7ixGRpuMIMsbmayoRRHzf7vtjDbRoxgy17S2sWMmdqLntvFwTvomiNCXPJJca_49f_RhSNgFOQ2nkgXQ5hDbq-YsFmwjnYt1GYmg==",
+      "publication_date": "2026-11-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "纽约大学与亚洲艺术文献库启动费明杰研究资助：面向亚裔离散与装置档案",
+      "title_en": "NYU A/P/A Institute and Asia Art Archive Launch Inaugural Ming Fay Research Fellowship 2027",
+      "summary_zh": "纽约大学 Asian/Pacific/American 研究所联合 NYU 特藏图书馆及亚洲艺术文献库，正式启动首届费明杰研究资助招募。项目支持调阅华裔艺术家费明杰的原始档案与工作室遗作，重点资助生态思想、跨国身份、亚裔离散历史及纽约下城艺术网络研究。申请于 2026 年 11 月 15 日截止。",
+      "summary_en": "NYU A/P/A Institute and Asia Art Archive open applications for the 2027 Ming Fay Research Fellowship, supporting archival research on Asian American diaspora and spatial installations.",
+      "why_muki_cares": "这项资助直接开放了华裔自发艺术团体与离散艺术家的原始档案库，对研究东亚跨国艺术网络与空间雕塑历史是极佳的学术切入点。",
+      "editorial_signal": "开放纽约下城华裔艺术家团队档案，资助亚裔离散与跨国生态艺术研究。",
+      "theme_tags": [
+        "纽约大学",
+        "亚洲艺术文献库",
+        "费明杰",
+        "亚裔离散",
+        "档案研究",
+        "艺术资助",
+        "公开招募"
+      ],
+      "source_name": "e-flux Announcements",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq0Ya_EcYwpwKjhi78JpfRAxkLjDgJWNskKqzz2K7pMhgbFe_v6t9GnX-IaZnUtRxoS1HG4jeKmygodvgNWF1lxzbCClFV0yGbbjVx4qtQhok98kuetLnvvH3dtTPCQLLRfREScQ_i_VNIVjDWnC1x6-zSxAO7zia_1YUWg8r9adkRAjJ4r-hBMRuf95BE",
+      "publication_date": "2026-11-15",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Research Fellowship",
+    "title": "纽约大学与亚洲艺术文献库启动费明杰研究资助：面向亚裔离散与装置档案",
+    "why_muki_may_care": "资助开放了华裔艺术家费明杰及其参与的 Epoxy Art Group 的一手档案，为研究 20 世纪下半叶亚裔离散与下城艺术网络提供了重要的档案资源。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq0Ya_EcYwpwKjhi78JpfRAxkLjDgJWNskKqzz2K7pMhgbFe_v6t9GnX-IaZnUtRxoS1HG4jeKmygodvgNWF1lxzbCClFV0yGbbjVx4qtQhok98kuetLnvvH3dtTPCQLLRfREScQ_i_VNIVjDWnC1x6-zSxAO7zia_1YUWg8r9adkRAjJ4r-hBMRuf95BE"
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "泛 AI 视频生成渲染演示",
+    "商业机构常规摄影公开征集"
+  ],
+  "covered_entities": [
+    "Belvedere 21",
+    "Daegu Arts Center",
+    "Nam June Paik Art Center",
+    "arXiv",
+    "NYU A/P/A Institute",
+    "Asia Art Archive"
+  ],
+  "repetition_notes": "本期收录的 5 项信号均为首次录入的全新信号（New）。其中 Reviso 属于对多模态 AI Agent 检索机制的跟进，费明杰资助为首次公开的独家学术招募。",
+  "issue_number": 96
+}
