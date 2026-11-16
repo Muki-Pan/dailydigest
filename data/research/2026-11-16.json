@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-16",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest (Issue 097) Research Evidence Dossier\n\n**Search Window Applied**: 30 days (`30d`)  \n**Target Date**: 2026-11-16  \n\n---\n\n## Candidate Signals Dossier\n\n### 1. Feminist Structure Signal\n* **Proposed Section**: Feminist Structure Signal\n* **English Title**: *Better Together! Aase & Poul Gernes at Weserburg Museum für moderne Kunst*\n* **Chinese Title**: `Weserburg 现代艺术博物馆举办阿瑟与波尔·格内斯特展：以档案重构合作署名与女性艺术劳动`\n* **Exact Source URL**: `https://weserburg.de/en/exhibition/aase-poul-gernes-better-together/`\n* **Publication / Event Date**: 2026-11-14 (Exhibition opens November 14, 2026 – March 28, 2027)\n* **Verified Facts**:\n  * Weserburg Museum für moderne Kunst in Bremen, Germany, opened the retrospective *Better Together! Aase & Poul Gernes* on November 14, 2026.\n  * Spanning nearly 900 square meters, the exhibition gathers large-format wall works, paintings, drawings, textiles, furniture and clothing designs, films, and reconstructions of interior spaces.\n  * The exhibition re-evaluates 20th-century Danish modern art history by presenting works from the 1960s to 1990s—previously attributed solely to Poul Gernes (1925–1996)—as equal collaborative creations made with his wife, painter and textile artist Aase Seidler Gernes (1927–2018).\n  * The project was developed in collaboration with the Kunsten Museum of Modern Art Aalborg and Sorø Kunstmuseum.\n* **Relevance to Muki**:\n  * Provides a concrete case study of how institutional counter-archiving can correct the gendered erasure of female co-authorship.\n  * Shifting the definition of modern art labor away from individual male genius toward democratic, shared creative practice.\n* **Duplication Assessment**: **New**. Neither the artists nor Weserburg Museum appeared in the recent 7-issue context.\n\n---\n\n### 2. Visual Culture Signal\n* **Proposed Section**: Visual Culture Signal\n* **English Title**: *Persona: Photography and the Re-Imagined Self at Isabella Stewart Gardner Museum*\n* **Chinese Title**: `伊莎贝拉嘉纳艺术博物馆举办《Persona》特展：以 83 件作品重构摄影中的面具与自我`\n* **Exact Source URL**: `https://www.gardnermuseum.org/experience/exhibitions/persona`\n* **Publication / Event Date**: 2026\n* **Verified Facts**:\n  * Co-curated by Pieranna Cavalchini (Gardner Museum) and Melissa Harris (Aperture Foundation).\n  * The exhibition features 83 works by 31 international artists spanning from the 1920s to the present.\n  * Participating artists include Claude Cahun, Man Ray, Cindy Sherman, Carrie Mae Weems, Yasumasa Morimura, Lorna Simpson, Cao Fei, Jamie Diamond, and Azra Akšamija.\n  * Investigates how artists use photography to invent alter egos, perform gender fluidity, and question identity, linking early 20th-century camera performance with modern digital filters and AI-generated self-presentation.\n* **Relevance to Muki**:\n  * Offers an extensive visual culture framework for examining body politics, image history, and camera-mediated identity performance.\n  * Bridges analog portrait archives with contemporary algorithmic self-representation.\n* **Duplication Assessment**: **New**. Isabella Stewart Gardner Museum and this exhibition have not appeared in recent issues.\n\n---\n\n### 3. China / East Asia Signal\n* **Proposed Section**: China / East Asia Signal\n* **English Title**: *Katie Paterson: Across Deep Time at UCCA Dune*\n* **Chinese Title**: `UCCA 沙丘美术馆举办凯蒂·派特森个展《跨越深时》：以近二十年创作与三件委任作品重构自然尺度`\n* **Exact Source URL**: `https://ucca.org.cn/en/exhibition/katie-paterson-across-deep-time/`\n* **Publication / Event Date**: 2026-10-25 (Exhibition runs October 25, 2026 – April 11, 2027)\n* **Verified Facts**:\n  * Opened at UCCA Dune in Qinhuangdao, China, as Scottish artist Katie Paterson’s first institutional solo exhibition in China.\n  * Curated by UCCA Assistant Curator Zhang Yao.\n  * Includes 21 works created over nearly two decades alongside 3 new site-specific works commissioned by UCCA.\n  * Integrates physical materials such as fossils, tree ash, sand, water, scent, and light to explore \"deep time\", geological epochs, and cosmic cycles within UCCA Dune's subterranean cave-like architecture.\n* **Relevance to Muki**:\n  * Serves as an East Asian institutional reference for media ecology, material research, and deep-time archives.\n  * Highlights how site-specific museum architecture in China mediates post-human temporalities and environmental storytelling.\n* **Duplication Assessment**: **New**. Neither Katie Paterson nor UCCA Dune appeared in the recent 7-issue context.\n\n---\n\n### 4. AI Research / Creative Tech Signal\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **English Title**: *AgiWorld: An Agentic Video World Model for Building Persistent Worlds*\n* **Chinese Title**: `研究团队提出 AgiWorld 框架：以闭环 Agent 与空间记忆构建长时持续视频世界`\n* **Exact Source URL**: `https://arxiv.org/abs/2611.02341`\n* **Publication Date**: 2026-11-02\n* **Verified Facts**:\n  * Authors: Shaoheng Fang, Yiqun Mei, Hanwen Jiang, Xin Sun, Haitian Zheng, Hao Tan, Kalyan Sunkavalli, Georgios Pavlakos, Qixing Huang, Yiwei Hu.\n  * Published on arXiv (arXiv:2611.02341) on November 2, 2026.\n  * Proposes AgiWorld, an agentic framework coupling a high-level agent (`AgiWorld-Agent`) for journey and world design with a camera-conditioned autoregressive video model (`AgiWorld-WM`) for low-level visual realization.\n  * Introduces a shared 3D spatial memory with occlusion-aware history selection and reliability-based memory maintenance to eliminate geometric drift and occlusion over minute-long generative trajectories.\n* **Relevance to Muki**:\n  * Materially advances creative AI production by replacing one-shot text-to-video generation with a closed-loop agentic spatial memory workflow.\n  * Directly applicable to non-linear video editing, persistent 3D world building, and interactive media design.\n* **Duplication Assessment**: **New**. Introduces a novel persistent 3D video world model framework not previously covered.\n\n---\n\n### 5. Archive / Long Read / Opportunity\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **English Title**: *International Open Call for Exhibition Projects 2027 at VI PER Gallery, Prague*\n* **Chinese Title**: `布拉格 VI PER 画廊发布 2027 年展览项目公开征集：聚焦建筑、空间政治与跨学科研究`\n* **Exact Source URL**: `https://www.vipergallery.org/en/news/international-open-call-for-2027`\n* **Publication Date**: 2026-10-15 (Application Deadline: November 22, 2026)\n* **Verified Facts**:\n  * VI PER Gallery (Prague, Czech Republic) launched an international open call for exhibition projects to be presented in late 2027 for approximately two months.\n  * Open to international architects, artists, designers, curators, researchers, and critics (individuals or teams) with no age restrictions.\n  * Selected project receives up to €6,000 in production funding, full installation support, graphic design, printing, promotion, and assistance with public programming.\n  * Electronic application deadline: November 22, 2026.\n* **Relevance to Muki**:\n  * Current, high-quality international curatorial opportunity focusing on spatial politics, critical architecture, and research-based practice.\n* **Duplication Assessment**: **New**. VI PER Gallery has not appeared in the 7-issue context.\n\n---\n\n## Section Coverage Summary\n1. **Feminist Structure Signal**: Selected (*Better Together! Aase & Poul Gernes*)\n2. **Visual Culture Signal**: Selected (*Persona: Photography and the Re-Imagined Self*)\n3. **China / East Asia Signal**: Selected (*Katie Paterson: Across Deep Time at UCCA Dune*)\n4. **AI Research / Creative Tech Signal**: Selected (*AgiWorld: An Agentic Video World Model*)\n5. **Archive / Long Read / Opportunity**: Selected (*VI PER Gallery Open Call 2027*)\n\n*Empty Sections*: None.  \n*Excluded Topics*: Minor commercial AI feature releases and generic unverified call announcements.",
+  "citations": [
+    {
+      "title": "weserburg.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICvTTYpKiBKmHoBbMShlXgK10EDHSrT3vwYCt5zDQZKhZuI-j60vtOwzRAtSgP8AerPAjJLGeV2KB205-M3WpHx1KdjwBIFj0XC3SAl_l8NKMAJhVNH9VfRyEnYGB7nlci1zMFl2zfnwXJYRdcaUXM9qoOZCVHOT7CCg="
+    },
+    {
+      "title": "weserburg.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH64WAXPJAiA14zkZeM2akVMO7UehIT6bYz9w_HFDsSKxdezsscsvqN_fWfNS-OKSH1AeVzlq3yq4hkVxSDtwgRMn5ySvpSUvjoJcOzq_XR3DosTlNF7V1DrDFsQbjJ5W6gPBYd7XsRpP-t7mtKpuKd9gsi5-OgiWM="
+    },
+    {
+      "title": "weserburg.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkh5tUb2oOyk_ZMC9IypaXKyCpfBEU_HCa0H4F8okz8VFuW0VYIn8nk3tHcjE_KCkqS8-xSUBvw-a4RmbFQ1ZmB8sCEy5ryPQFourd0Jk00FxqfjJbZBqKtk9927g="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBw0iVw1zE838RbgMlDekxhv1VEJ4WudUFnFRZBwZ4WqGXQ7PchH7hyfSU664D21YmkwOkFh4xFEEsUiPsShGe0HVdLRxh7f7jO-dGy4xU-vIeXWxzsyrhCiQ44MI30dEXfLf49A1EmN30YH6fXfyPL9ZGFGpmnu-gZJLY4mL0_Dkhy9BAEDevkR1w1Fpi1g=="
+    },
+    {
+      "title": "gardnermuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8T96Yz-n-na6XvSX-Hddkvp_MRQUeW3wXf-eyeYL46T0bI6kZR00xhDNV5bme-JVgakodboQX4GlFxFJvN3Iy2f3MClTh-j0sJiMtDN71Rc_3Qn3R6FDNQatPbcUIisoN4OnPZiWh4EvtrN93AhaOFolEiSUD2MBLTwfWRC53fXE9rOTP_cKqsc7jy68sLtAmXRdjaKet"
+    },
+    {
+      "title": "gardnermuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET2dibynspH1rwR4OIkyP61mUuM1qtvLsFm_n3D0gfIsi6pPO787o6l4jlRPbO2x-TRua8oX1M8vZQ6R6YYC2qoVRPL-2SqLN7Wh62cCSL0UBnMhmCbpTwK1KZi4Q_1FJsVRJxnq9cSnAWtwHqiSH-EMoE2dB1kkh2W0PYs6dpWxHTeS-gT_Z4aaWUUU-xTBA="
+    },
+    {
+      "title": "gardnermuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-41Wnpgl1FzGYa-C2I8QVoEGKTL9LiajSQ5kX3KPKBuESLjyxOryZd0wEYaVefDE7kI_67BqfbF_khj-3qaPbB7oowrSRErnEv0XNPY291lw6MsnZr69xcAa0D4Q1mOuPieJWKPgdcuXI1hmDKUwjVPKsHiwOA5AX0MOPUA-10d3rVuxHNGw"
+    },
+    {
+      "title": "gardnermuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx5VEPkL-GBjYGo8mWreSfXmtklVJ2RWhBqDrnRD5Kp9ejkxX7Z-SheJ37qTLE76-xfJQAAjv0U5zdD4JYVV22tehGup6m90ZsQbDx3uPGUeajDQ7kGhTdJAheETx52dMSfbNn1DmKQtTeI4kENLDRwdnVVbJb45xKurkCvy9Y_-bF4OKgSB8Vyo7FdxqH_92cCUSu"
+    },
+    {
+      "title": "ucca.org.cn",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzxslSXiVgRbVzKcgNIm00wdFin-a-AxjLzXRNIiQnetAFYIhaWSeECbWHWUcTng8h8TsBinmNlKTp1XPmZ9mK0pwuOp2DqlJwKbgIPXiMyuvKLsc8p_e1Hlh_PyXCxXQPNZMngnAr"
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG28tEA1hyyds2KDTmTs-sn7i1P_x4Uo6ZUpuIvmGGv74IHY-cR_mdC7u6BfNZJ8l752f3tM2WhJkc0jRHVYEKfSLCU0EoqbfmZVfZsC8KtT7el2owp"
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYn0-4sU7VkWNpT_pEwmNnuF09xE6s6klnYS4PTopeqKw_gQj7axOPhj2sexzC0duaKsbNcj_jSmRzPMDjUeOiOpKIixp3OItkUT2k1lIPu2dH-0FzeQ=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0UPZxL-8P0aLd8u9NOqpC7WRDVaJSBgNyFZY6ZF6V6K7gGdRlXqbFHsRQwnd4UiReDECVO-dsHJVMpRf6BQypRpFyFEg2hFc6u9HVKXSwd15e-NPkguzSF5p77FyoBcho6ku4HhcUy-iM"
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdSxM_fOQ9R4a8_DNSpTEAXwSDO8MdvEUM9h-JbNP_zxyiUfH4T-GYF4g3XVU2TX5RrlXV5hZWHJJhGMvhjpqeY8fOGW507MOPB2PGRAQU3-QWnjvardL2EQ=="
+    },
+    {
+      "title": "callforcurators.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx0_xO5iAU_aXQIZsGT0VAfn69bAExBvDTZ5_B3c2kfULPYgwP_iQFINx19M_xootneQML6nE4k28oCNrIq9k8kaPTmypMnxq2Lfrkc_YiRRsM9OPQWf_wyi3LVi310kJ7hfLwrAftHrBGRVE8ZEiaAi3SoyNungHE0_c="
+    },
+    {
+      "title": "czechcentres.gov.cz",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0-fHuXF0mIfHmD9602h7v5PKjeLPZZmm6C_QRyb8AKw2yk6lJQcUmH_HQpkh_Vx3QnNSDHnwZfVaRiU6miuIBlPDCGp2omUAlejPIp_q7TwMr63eu4TB5QESToG6DPM1yz2zh1dIGdd_2cxa8_hRUDuX_JXLdJvxr9YOXJHQhn-BjoemDxsKCwzkIAQNaD0KAw71B3fNueTDbOoM="
+    },
+    {
+      "title": "vipergallery.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjohtpxG9fXXnIxeEzxezEfloRfvSDJneroT-gob803nxV_aW42BqjSCyb756hcE80eZEtUl6PHanTNLXnzQ-BwDFkDHfK1g9PhjGDS5-9zNKncZ4eP-QfYKi3Gu364mB_PQV0zz57EOrZviVikli-Nq31XcK1StUnpDax"
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp3oyqNsLFTibSYLeh9QkkeBuzyIDmIZ5qI4jJf_ZzJRxd9YTbXHQ1FYd4hoklxh_Oz3klsGerC4yGTqzUWmsFVjwwN8-8dDh39vx-WPb6T1rAJmHroHxv8jHTzI_g9dFJXIFsmMUbn8ZSJRqERiJLINmu_wJKPU_i8NmBjYzXhbC7hI0="
+    }
+  ]
+}

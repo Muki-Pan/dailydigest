@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-16",
+  "search_window": "30d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义艺术",
+    "艺术劳动",
+    "摄影史",
+    "媒介生态",
+    "AI Agent",
+    "空间政治"
+  ],
+  "why_today": "今天的信号聚焦于物质档案、共同署名与空间记忆。从重构现代艺术中的女性劳动，到相机表演的身份档案，再到具备空间记忆的 AI 视频 Agent，各项实践展示了如何通过具体的介质与方法解构单一权威。",
+  "intro": "本期 Digest 整理了来自机构回顾展、研究论文与策展招募的 5 项信号。重点关注艺术史中被遮蔽的合作劳作、摄影假面演绎的跨时段档案，以及 Agentic 创作技术在空间叙事上的新进展。",
+  "opening_signal": "档案不只是对过去的记录，更是重新厘清署名与劳作的场所。",
+  "closing_signal": "无论是在展览空间中修正艺术史的遗漏，还是在代码中为 Agent 植入空间记忆，具体的结构与方法始终比泛泛的宏大叙事更有力量。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "Weserburg 现代艺术博物馆举办阿瑟与波尔·格内斯特展：以档案重构合作署名与女性艺术劳动",
+      "title_en": "Better Together! Aase & Poul Gernes at Weserburg Museum für moderne Kunst",
+      "summary_zh": "德国不来梅 Weserburg 现代艺术博物馆开幕回顾展《Better Together!》。展览跨越近 900 平方米，展出壁画、绘画、织物、家具与室内空间装置。项目重新评估 20 世纪丹麦现代艺术史，将 1960 至 1990 年代过去仅署名波尔·格内斯的作品，重构为他与妻子、艺术家阿瑟·塞德勒·格内斯的共同创作。",
+      "summary_en": "Weserburg Museum presents a major retrospective re-evaluating 20th-century Danish art by presenting works long attributed solely to Poul Gernes as equal collaborations with his wife Aase Seidler Gernes.",
+      "why_muki_cares": "展案提供了机构解构男性天才叙事、恢复女性共同署名的具体路径，将现代艺术劳动的讨论从个体创作转向合作与共享实践。",
+      "editorial_signal": "重构合作署名与女性艺术劳动",
+      "theme_tags": [
+        "Weserburg",
+        "阿瑟·塞德勒·格内斯",
+        "女性主义艺术",
+        "艺术劳动",
+        "共同署名",
+        "机构批判",
+        "展览研究"
+      ],
+      "source_name": "Weserburg Museum für moderne Kunst",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICvTTYpKiBKmHoBbMShlXgK10EDHSrT3vwYCt5zDQZKhZuI-j60vtOwzRAtSgP8AerPAjJLGeV2KB205-M3WpHx1KdjwBIFj0XC3SAl_l8NKMAJhVNH9VfRyEnYGB7nlci1zMFl2zfnwXJYRdcaUXM9qoOZCVHOT7CCg=",
+      "publication_date": "2026-11-14",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "伊莎贝拉嘉纳艺术博物馆举办《Persona》特展：以 83 件作品重构摄影中的面具与自我",
+      "title_en": "Persona: Photography and the Re-Imagined Self at Isabella Stewart Gardner Museum",
+      "summary_zh": "伊莎贝拉嘉纳艺术博物馆举办《Persona》特展，由皮埃拉娜·卡瓦尔基尼与梅丽莎·哈里斯联合策划。展览汇集 31 位国际艺术家的 83 件作品，包括克劳德·卡洪、辛迪·舍曼、曹斐与加里·梅·威姆斯等。作品探讨艺术家如何利用摄影构想假名、演绎性别流动与质疑身份，连接 20 世纪早期的相机表演与当下的数字滤镜。",
+      "summary_en": "The Isabella Stewart Gardner Museum brings together 83 works by 31 artists to examine how camera performance, alter egos, and self-fashioning bridge early portraiture and contemporary digital aesthetics.",
+      "why_muki_cares": "展览为观察身体政治与假面演绎提供了跨时段视觉样本，对研究从模拟摄影到算法时代的自我表征路径有直接参考价值。",
+      "editorial_signal": "相机表演与假面演绎的跨时段视觉档案",
+      "theme_tags": [
+        "伊莎贝拉嘉纳艺术博物馆",
+        "Persona",
+        "摄影史",
+        "假面演绎",
+        "身体政治",
+        "性别流动",
+        "视觉文化"
+      ],
+      "source_name": "Isabella Stewart Gardner Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8T96Yz-n-na6XvSX-Hddkvp_MRQUeW3wXf-eyeYL46T0bI6kZR00xhDNV5bme-JVgakodboQX4GlFxFJvN3Iy2f3MClTh-j0sJiMtDN71Rc_3Qn3R6FDNQatPbcUIisoN4OnPZiWh4EvtrN93AhaOFolEiSUD2MBLTwfWRC53fXE9rOTP_cKqsc7jy68sLtAmXRdjaKet",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "UCCA 沙丘美术馆举办凯蒂·派特森个展《跨越深时》：以近二十年创作与三件委任作品重构自然尺度",
+      "title_en": "Katie Paterson: Across Deep Time at UCCA Dune",
+      "summary_zh": "苏格兰艺术家凯蒂·派特森中国首次机构个展《跨越深时》在秦皇岛 UCCA 沙丘美术馆开幕，由助理策展人张瑶策划。展览呈现艺术家近二十年来的 21 件代表作及 3 件特定场域委任新作。作品结合化石、树木灰烬、沙粒与光线等物理介质，在洞穴式建筑空间中探讨地质年代与宇宙循环。",
+      "summary_en": "UCCA Dune presents Katie Paterson's first institutional solo exhibition in China, uniting two decades of work and three site-specific commissions exploring deep time and earth history.",
+      "why_muki_cares": "展览展现了自然介质、地质档案与建筑空间结合的策展案例，为东亚维度的媒介生态学研究提供了实践参考。",
+      "editorial_signal": "地质档案与深时叙事的媒介生态研究",
+      "theme_tags": [
+        "UCCA沙丘美术馆",
+        "凯蒂·派特森",
+        "媒介生态",
+        "地质档案",
+        "深时叙事",
+        "东亚视觉文化",
+        "场域特定艺术"
+      ],
+      "source_name": "UCCA Dune",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzxslSXiVgRbVzKcgNIm00wdFin-a-AxjLzXRNIiQnetAFYIhaWSeECbWHWUcTng8h8TsBinmNlKTp1XPmZ9mK0pwuOp2DqlJwKbgIPXiMyuvKLsc8p_e1Hlh_PyXCxXQPNZMngnAr",
+      "publication_date": "2026-10-25",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "研究团队提出 AgiWorld 框架：以闭环 Agent 与空间记忆构建长时持续视频世界",
+      "title_en": "AgiWorld: An Agentic Video World Model for Building Persistent Worlds",
+      "summary_zh": "来自多所研究机构的学者提交了 AgiWorld 框架论文。该系统结合用于旅程与世界设计的顶层 Agent 以及相机制导的自回归视频模型，并引入共享 3D 空间记忆与基于可靠性的记忆维护机制。框架消除了长轨迹生成中的几何漂移与遮挡问题，可稳定维持分钟级持续视频世界的空间一致性。",
+      "summary_en": "Researchers present AgiWorld, a framework coupling an agentic world designer with spatial memory to eliminate geometric drift and generate long-form 3D persistent video environments.",
+      "why_muki_cares": "该研究将单次文本生成视频推进为带有闭环空间记忆的 Agent 创作流，对非线性剪辑与三维空间叙事具有实际工作流参考价值。",
+      "editorial_signal": "闭环 Agent 与空间记忆的三维视频生成工作流",
+      "theme_tags": [
+        "AgiWorld",
+        "AI Agent",
+        "视频生成",
+        "空间记忆",
+        "工作流优化",
+        "arXiv",
+        "创意技术"
+      ],
+      "source_name": "arXiv",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG28tEA1hyyds2KDTmTs-sn7i1P_x4Uo6ZUpuIvmGGv74IHY-cR_mdC7u6BfNZJ8l752f3tM2WhJkc0jRHVYEKfSLCU0EoqbfmZVfZsC8KtT7el2owp",
+      "publication_date": "2026-11-02",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "布拉格 VI PER 画廊发布 2027 年展览项目公开征集：聚焦建筑、空间政治与跨学科研究",
+      "title_en": "International Open Call for Exhibition Projects 2027 at VI PER Gallery, Prague",
+      "summary_zh": "捷克布拉格 VI PER 画廊面向全球建筑师、艺术家、策展人与研究者发起 2027 年展览项目公开征集。入选项目将在画廊展出约两个月，并获得最高 6,000 欧元的制作资金支持，以及场地布展、平面设计、出版与公教活动协助。申请截止日期为 2026 年 11 月 22 日。",
+      "summary_en": "VI PER Gallery in Prague calls for international curatorial and research exhibition proposals for 2027, offering production funding of up to €6,000 and full institutional support.",
+      "why_muki_cares": "这是一个高质量的国际策展资助机会，关注建筑、空间政治与跨学科实践，适合空间与档案方向的研究型项目申请。",
+      "editorial_signal": "关注空间政治与跨学科研究的国际策展招募",
+      "theme_tags": [
+        "VI PER Gallery",
+        "公开征集",
+        "策展资助",
+        "空间政治",
+        "建筑研究",
+        "跨学科实践",
+        "档案研究"
+      ],
+      "source_name": "VI PER Gallery",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjohtpxG9fXXnIxeEzxezEfloRfvSDJneroT-gob803nxV_aW42BqjSCyb756hcE80eZEtUl6PHanTNLXnzQ-BwDFkDHfK1g9PhjGDS5-9zNKncZ4eP-QfYKi3Gu364mB_PQV0zz57EOrZviVikli-Nq31XcK1StUnpDax",
+      "publication_date": "2026-10-15",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "Weserburg 现代艺术博物馆举办阿瑟与波尔·格内斯特展：以档案重构合作署名与女性艺术劳动",
+    "why_muki_may_care": "展览通过具体档案重新审视 20 世纪丹麦现代艺术史，将长期归属于男性艺术家的作品修正为夫妻二人的共同创作，为解构天才叙事与恢复女性劳动成果提供了清晰示例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEICvTTYpKiBKmHoBbMShlXgK10EDHSrT3vwYCt5zDQZKhZuI-j60vtOwzRAtSgP8AerPAjJLGeV2KB205-M3WpHx1KdjwBIFj0XC3SAl_l8NKMAJhVNH9VfRyEnYGB7nlci1zMFl2zfnwXJYRdcaUXM9qoOZCVHOT7CCg="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "泛商业 AI 功能更新",
+    "未获验证的公关策展资讯"
+  ],
+  "covered_entities": [
+    "Weserburg Museum für moderne Kunst",
+    "Isabella Stewart Gardner Museum",
+    "UCCA Dune",
+    "arXiv",
+    "VI PER Gallery"
+  ],
+  "repetition_notes": "本期收录的 5 项信号均为首次录入的全新信号（New）。其中 AgiWorld 属于对 AI Agent 空间记忆与三维视频生成工作流的跟进。",
+  "issue_number": 97
+}
