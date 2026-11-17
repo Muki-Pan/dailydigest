@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-17",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Evidence Dossier for Daily Digest Issue 098 (2026-11-17)\n\n**Search Window Used**: Past 7 days (expanded from 24 hours to ensure high-density signals across all five entrances).\n\n---\n\n### Candidate 1: Feminist Structure Signal\n\n* **Title**: *Locating Girlhood: Place and Identity in Early American “Schoolgirl” Art*\n* **Source URL**: `https://folkartmuseum.org/exhibitions/locating-girlhood-place-and-identity-in-early-american-schoolgirl-art/`\n* **Publication / Event Date**: October 9, 2026 – February 28, 2027 (Special public symposiums and workshops throughout November 2026)\n* **Institution / Origin**: American Folk Art Museum, New York\n* **Verified Facts**:\n  * Curated by Emelie Gevalt (Deputy Director and Chief Curatorial Officer) and Caroline Culp (Warren Family Assistant Curator).\n  * Brings together nearly 100 needlework samplers, embroidered pictures, watercolors, and maps created by American girls and young women in the 18th and 19th centuries.\n  * Reframes the genre of \"schoolgirl art\" through spatial identity, geography, and place, demonstrating that young female makers actively constructed landscape visuality and cartography long before the Hudson River School.\n  * Expands traditional folk art history by integrating works by Black and Native American female students alongside white students.\n  * Features loans from over 25 North American institutions, including The Metropolitan Museum of Art, Colonial Williamsburg, and Winterthur Museum.\n* **Relevance to Muki**: Directly intersects with feminist visual culture, institutional critique, gendered labor, and spatial/landscape history. It recovers an unexamined visual archive created by young women outside academic painterly institutions.\n* **Proposed Section**: Feminist Structure Signal\n* **Duplication Assessment**: New candidate. The American Folk Art Museum and this exhibition have not appeared in recent issues.\n\n---\n\n### Candidate 2: Visual Culture Signal\n\n* **Title**: *Photographic Memory: Fifty Years of Collecting*\n* **Source URL**: `https://npg.si.edu/exhibition/photographic-memory-fifty-years-collecting`\n* **Publication / Event Date**: November 14, 2026 – November 7, 2027\n* **Institution / Origin**: National Portrait Gallery, Smithsonian Institution, Washington, D.C.\n* **Verified Facts**:\n  * Curated by Ann Shumard, Senior Curator of Photographs.\n  * Commemorates the 50th anniversary of Congress expanding the Portrait Gallery’s mandate in 1976 to collect photography (which was previously restricted to oil paintings and sculpture).\n  * Photography now accounts for nearly half of the museum's total holdings (over 11,000 objects).\n  * Features over 120 historic and contemporary photographic portraits, from 1843 daguerreotypes to modern digital works.\n  * Highlights include John Plumbe Jr.'s 1846 daguerreotype of Dolley Madison (paired with an 1843 daguerreotype of John Quincy Adams), Alexander Gardner's 1865 \"cracked-plate\" portrait of Abraham Lincoln, Sallie E. Garrity's cabinet-card of Ida B. Wells-Barnett, Lee Miller by Man Ray, W. E. B. Du Bois by Addison N. Scurlock, Roy DeCarava's Mahalia Jackson, Diane Arbus's James Brown, and Tseng Kwong Chi.\n* **Relevance to Muki**: Addresses image history, media archaeology, institutional collection policy, and the democratization of visual archives through camera media.\n* **Proposed Section**: Visual Culture Signal\n* **Duplication Assessment**: New candidate. NPG's 50th-anniversary photography exhibition has not appeared in recent issues. (Distinguished from Paris Photo coverage in issues 11-13 and 11-14).\n\n---\n\n### Candidate 3: China / East Asia Signal\n\n* **Title**: 2026 Seo SeMA New Media Emerging Artist Exhibition 《The Snake That Cannot Shed》 (2026 서서울미술관 뉴미디어 신진작가전 《탈피하지 못하는 뱀은》)\n* **Source URL**: `https://sema.seoul.go.kr/en/whatson/exhibition/detail?exNo=1607593`\n* **Publication / Event Date**: November 5, 2026 – February 28, 2027 (Press announcement Nov 10 / Nov 17, 2026)\n* **Institution / Origin**: Seo-Seoul Museum of Art (SeMA), Seoul Museum of Art\n* **Verified Facts**:\n  * Inaugural edition of Seo SeMA's New Media Emerging Artist series, dedicated to new media experimentation.\n  * Features Korean artist Okyoung Noh (노옥경, b. 1997) and Hong Kong artist Serene Hui (許思樂, b. 1992).\n  * Structured around a cross-regional \"pen-pal correspondence\" methodology (exchanging letters, voice recordings, and research notes) instead of a shared physical studio residency.\n  * Presents 6 newly commissioned works spanning video, multi-channel sound, outdoor ceramics, stone walls, and prints, exhibited alongside records of their correspondence.\n  * Investigates ancestral silences, family trauma, and migration histories across South Korea and Hong Kong, taking Nietzsche's aphorism on skin-shedding (*\"The snake which cannot cast its skin has to perish\"*) as a conceptual framework for bodily and structural transformation.\n* **Relevance to Muki**: High-density East Asian visual signal combining feminist/queer correspondence methods, family archives, trauma memory, and multi-sensory new media installation.\n* **Proposed Section**: China / East Asia Signal\n* **Duplication Assessment**: New candidate. Neither artist nor Seo SeMA has appeared in recent issues.\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n\n* **Title**: *HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents*\n* **Source URL**: `https://arxiv.org/abs/2611.06013`\n* **Publication Date**: November 9, 2026\n* **Authors / Origin**: Haozhen Zhang, Bohan Liu, Jianzhu Bao, Qingyuan Liu, Haodong Yue, Xiao Li, Zi Pong Lim, Wenya Wang (arXiv:2611.06013)\n* **Verified Facts**:\n  * Proposes *HiVe-Mem*, a 2D memory framework designed for multimodal AI agents operating in long-horizon interaction histories.\n  * Combines \"Horizontal Memory Expansion\" (organizing memory episodes into a relational graph using visual and text anchors) and \"Vertical Evidence Composition\" (retaining multi-layered evidence per episode, including summaries, captions, visual crops, raw images, and raw interaction logs).\n  * Employs a lightweight trainable selector to dynamically compose query-adaptive evidence subsets.\n  * Reduces agent token consumption by ~90% while consistently improving task accuracy across three multimodal memory benchmarks.\n* **Relevance to Muki**: Directly addresses AI-native creative and research workflows, context retention in multimodal agent systems, visual memory architecture, and knowledge management without context token explosion.\n* **Proposed Section**: AI Research / Creative Tech Signal\n* **Duplication Assessment**: New candidate. Differs from previous agent frameworks (AgiWorld in 11-16, Reviso in 11-15, VideoMaker in 11-14, Video-Coder in 11-13, WikiTrace in 11-12, Cassette-Editor in 11-09) by focusing specifically on 2D relational-graph visual evidence composition for long-horizon multimodal agents.\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n* **Title**: Open Call for Inlaks–AAA Art Grant 2027\n* **Source URL**: `https://aaa.org.hk/en/collection/search/library/open-call-for-inlaks-aaa-art-grant-2027`\n* **Publication Date / Deadline**: Launched November 5, 2026; Deadline November 30, 2026\n* **Institution / Origin**: Asia Art Archive (AAA) in India & Inlaks India Foundation\n* **Verified Facts**:\n  * Dedicated to supporting experimental art practice that uses research, collaboration, workshops, and formal experimentation to interrogate the archive.\n  * Invites proposals engaging with personal archives (letters, scrapbooks, photo albums), public libraries, databases, maps, and inventories across art, cinema, theatre, law, or science.\n  * Open to Indian visual artists and collectives aged 25 to 35 residing in India.\n  * Provides grant funding up to INR 2,00,000 for projects running from January 1 to December 31, 2027.\n* **Relevance to Muki**: High-quality research grant focusing explicitly on the archive as a system, medium, and counter-historical tool within East Asian/South Asian contexts.\n* **Proposed Section**: Archive / Long Read / Opportunity\n* **Duplication Assessment**: New candidate. While Asia Art Archive appeared in 11-15 for the Ming Fay Fellowship (NYU A/P/A), this is a separate, newly opened research grant for artists using the archive as medium (Inlaks–AAA Art Grant 2027).\n\n---\n\n### Empty Sections\nNone. All five editorial sections contain a strong, verified candidate.\n\n### Excluded Candidates (Verification & Duplication Log)\n1. **Belvedere Museum (*Feminist Futures Forever*)**: Excluded from primary placement to avoid institution repetition (Belvedere 21 appeared in issue 2026-11-15).\n2. **Paris Photo–Aperture PhotoBook Awards 2026**: Excluded as winners were already covered in issue 2026-11-14.\n3. **Secondary Archive Open Call**: Excluded per issue 2026-11-09 repetition notes.\n4. **Generic AI Image/Video Demos**: Excluded as they do not provide verifiable workflow/architecture improvements.",
+  "citations": [
+    {
+      "title": "folkartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2w93b7Iw1PvhayBDU9JaRSszVFYtMkck6fmPvPvyV99FIoECP9foXYZ0oMdPE6i2xQbdb1dMeYkndBfLBGC9gGY8t8oHKQ5T1XLAgxAK9-5B18MRmiP_ZWnJl5TpEd_t-0u6JjTIFcgpr6eD1"
+    },
+    {
+      "title": "nga.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK-EY73gUSH6BjZvXhRSUjZ-R8xjrZRtBzzBOJHGzYti0s_4epnzBSFvveCjD1ofrAe2CACL7N3eA5UW5vhZ4PD0ZCxyx9QBOv3Q=="
+    },
+    {
+      "title": "selvedge.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGdxvwqxwFAQ6xFYvnsT86tS29mWHIBZIZo2wR3pcDhWP7GULievIgvTXMZ1UGEVjtqelYbcY0qEsGvDFTQzxl2UKcELMUk9fBLgOSt5D_W9zlCRB_xmaWJNx0q7Mg5Eo3OxhdNdcyWd-e4GbgRUsXENt7IUAXrVDOuqetfY6s_v-MDJdxO4UV8FvCAWEkJOy-42hzKDSRtDV1Kuptct8ouOT_PCUFDxdwjnrlYApaf9-m6OOanMjj4Qhubt66"
+    },
+    {
+      "title": "egausa.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH-L0Th5nHlA4TKD4qBaZ2kAzdiJ6VZy73Sd4QN5AmZuJhu-otdIkldVgbqcwszPqDp6B8DuLCxJrVboM0jyYoMS_GNxobg_2tqL87d5O3ZHpDSO4A1cCfY6rc5TdKTavnviWbledHIMHcsm31W6ItKPoniyvWZwth"
+    },
+    {
+      "title": "parisphoto.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBXTRhl7OupnYqKZBGky5fCk38KY6ap-ATCb_TUkUclvS9pk-Mu3RS6nMOfIFmygMEwfOBBk17P2S6EQhXpF2FVD9fmz9bdtjildJ3pJzgNFDfTn-vnW7HfvHsQpfkMp3-vnZC_wPo3pChw-lAHtDG9LIBSH5MjVlK7d4T9tZDtdlX2ze4gmrJoEJV_tR3-YdK5F9lycs4KDfqnIGuTO2xUsfbnJtq5imMfDC9MYgkSirrqkyW8XmELg=="
+    },
+    {
+      "title": "folkartmuseum.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD-1cJ4Vhv3d8cZR0wjGlytRarxZ_k8aaGxWQ3zqf3h7gLSopI292OmgmmMFP2iO4i3PEE3WgXjhAtO6HblbbwKXhZQIjX331jbhhAZimS_sgCDIUxhnVkChZdxdcBJP47nWOS-KrJ5PRZxfh1iVp-HEVmmz5TLHpkHPGLq-j3ctoLcMYs3mqr6gdqLWTtfbG8QbMiW8IZqGvx"
+    },
+    {
+      "title": "si.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA02szhV1dD4XWzgWsJh8eZkNATCneNiSR0j3sfONRwKoFvVf9t21e-DdmCqka57GUeAAb8k14fBd2O3U_5zxjalQlisCvKuHt6SIVFU3deQFSvYpOD1IKsEV0awFBN54xIsT4r6vw1o6J_YD2hrgHeewwhCFRnZtcDo_Nn_d-u4SXaplW_cpYilgfpk2b_zj6qA=="
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR_NF8GOl4o_ieZnAI15-namDj1qtAXhm_MdmAuMf9JiVnhb6bv8ueww0B42dczNweu5W1xYpHsOi9pbJSBV0uojuD-cHeU5gYsVu1P5svaDKAhxVtMpt21Pr0fx17sUB1t8w-iIIhfalb_e21oyVW6GUOYhROAKdA1fZf12kEP8xVVlB8UsF6WUx26XFRUEPs8xAIpHe9C_NvivBGjA=="
+    },
+    {
+      "title": "si.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBIS_YrurmGLD8R4EjH86Ctj7wAAcg5a-YChyfX5NGvlQzuYhLrgpMCAgJoMFqm7GaNKnJgkF6OoNvJOx9cdZsRqBeyIFEjzg5p7OoKqi-5KS7P6T1j_Mp09wrlCAIFDQQiPGoGToE-8MCnqqyh3w5F585GU4I31C47ZoEORXlPIduYJv4aNdD85oqBLoUmdx-rzh27EN3cWmd59VYTD_a1kEiTtwAvQmy"
+    },
+    {
+      "title": "smithsonianmag.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVdiF_0CocnUAZmzL7ikBMg8dl3qk-gfcPM1CxYfMga30_WI-Ew3NoaMMdgOwA2sFaELZihTWq3gFJJWIAMJYScYpjVz4qfOQ1wGlhfkHsw7rRHmUxHl7FReDnlAvWGfKIyzPv1PFWRRZqdM-Zg-jaCX9TMxy5YIi88LKdXvPQOkJNVu-xieAXmIpC_DYm-qV5r0N8ICIefE6c1mey7ppzWGVRlVECA-mzOt6c79-ZZvJZYO-po3OKsHeDDEW6vcPKgOHQ9gbk_ZtKWFetuRJjXacubai3CdBhRwXj8KIEzXjTzkYc6p9zYkwCMsYh42a9QAiVv2wAhoyy8iIuqQ-fKLKGCwisVe5H2vSRJGwJju_tuuJx6wfsgIF7QJtgPs0H9_AsLVEosrOOyHNZlg=="
+    },
+    {
+      "title": "si.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnWEGmb8t4Y0kYnTyqFX9bjJraZLDsp0iRlWZe94v__i6YmsYXu1yXK7CBYZIm00BRvYIaqgDs0pZyY-_L03eurr1WNHrdZDqXeKW0OvDS0CCFlRci2a6stPCEjqkC4ycUQtXhoGzhfd1RLMK4Z_COBFKzJQdYxJN8N6FYMBuf0IhEt2aqoxY_o3O8F7u8yTOB"
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFflc38gOG93JPyO4j872bHskAbncN4Hs9qr0jO7LXAqPebbUSOkQ1wXFqyk9CK8qjAUwkhYqNsAhlHY5JvQvXXym7AzY7YKexbIgX70D9Y9iBZvLiaNZIGi5oxwM_dLXiR29d0KJTPw3nqY6I_o-Hpi6Yt20zXiZJjxqJP-DnRNMRDOO9gMCOgD3tIYsREbGgQAKKUFUy0ad0hzoSfHEE="
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnvuwhCGSvUe6DJtmvJMOrPIc-o9nY0sU0FO1EQphmyJeO9Le89ITAyCblGV2ZU30m_yXjC_dx4uQsy9Fp92X77q8zcMjfFd2fK0EWuwz8bT2iYIN3XSp1Eho_dFvpkcNdaWwSgR0BQi5ko8LhxU0_UquaAE2H__2TtlsaK836G_7TlQqOoDo1qWMq17SHqHgFF3ACmaZieQYWKo="
+    },
+    {
+      "title": "seoul.go.kr",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLl4ApER_c1Htlg1VDaxlmYgtc6ld5yzw-NYj6EQFtwZgTjRPEoQKTWB__G-Kc2hkCP_RJqr9b5POmvYx-qbE2wV5NvNd_1PF4qWzeOg_LXSlkySc8YCjjXJj1gTJveg=="
+    },
+    {
+      "title": "sharedhomies.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC7rTDb66CtFyibeawK5WVjk2FjePjJYsVV-j6zHb0kSx8cOGSLZP2Px43zhF6kB8j7ZrOdcNz3N8jDPye_rIbvjP5CPpzOj1PAnvJNnivBJme-prrH5dcjNS2IxHAbOspaC8siTgryFGboXQv91U="
+    },
+    {
+      "title": "manamana.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET5ISaIggRcql_q7xERTT2_zjFvc_6W9fHa2aVL1tqihb1I3yfzq55MIyGt4hrXGHlk-Bbre-UsqZXdAvodHN5TVrR8wBBklJ4qzrKrveSgy-PM07fvwWPZcvBcWl9J5L62PFcyqLY6uZxs9ZgpFI="
+    },
+    {
+      "title": "k-artnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6M8ToSzsXMF0uYTK9nQW9Jbcj1OQC1xVb3_kdvnEEwTvIFVhkj7WhrL8m4tHN34MuqhL1ENLsyoDRpFyb2kmSptg5WlBZX5oGBe70UD7OvevSQCAGTHVP0zMBFXyZQTgskrUo"
+    },
+    {
+      "title": "k-artnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc0WUgNDF6qeqvfwLoX0sLg9uIfaXoQoHf5KH53oo0G6ZjU6x0rVGKMwq8Tqrag9uYntY5ApOcTfxpE3n0-ZtfGTfqoBVY4yq8cgOrPQAGHZXpstKu9vL6jS5GvX7G5bKr6OwLGA=="
+    },
+    {
+      "title": "asianculturalcouncil.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoN0M4hSg0SyhL2nGNxm-_9yMYQfUZT8ZU3fXptJG6zhrGXATOxdDR0-h9mf_kuB84qbqXinSq79jV7NFHxGwg7h2K2ZDRQe1BlxolGNfZF6lcNLcff50f1Pj60uLxJqcJ4QWzZTHD7S_LZdOjD_VPswhNmFc2iEhWVQCXDDBqo2LLXzAX8X51klk8iYrTlV2IZlavjMcFNWuWNhbycrbCENhYyRHj"
+    },
+    {
+      "title": "papers.cool",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxrRp9l3qn7MpEgXax6HausMwc1m1skk9c6SWNpxJqesfbb0QZzeErF4cQlr4CWTAWfnO5f3RyT2JFPYuZ7P8kdJICuQEovdJVtoRCg16-S_3Ce9LJ6sMvSBE="
+    },
+    {
+      "title": "aaa.org.hk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRbZ904pCn9tuo1gNGuDhAVlMmS-ii1kAw_EQiv0kgDoDq4sjPGm_LtT_P09CLTNbnLTRp8Itm4az7tvDNehQBW5v7Gaz22NRO5KsrS1e3rlgy9JR38pL2bGA-etTKC-CXUDwwZ_qDveywOySSKo6sbsDltFXnHRC_CcfzonI1VT29yYXLvA=="
+    }
+  ]
+}

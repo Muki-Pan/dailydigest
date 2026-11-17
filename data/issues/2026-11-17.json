@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-17",
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "刺绣档案",
+    "摄影收藏史",
+    "跨区域书信媒介",
+    "AI 智能体记忆",
+    "档案艺术资助"
+  ],
+  "why_today": "今天的五项信号集中呈现了档案如何走出静态陈列，进入具体的空间建造、书写实践与知识管理工作流。从 18 世纪女性的针线地理制图，到美国国家肖像馆五十年的摄影介质收藏史；从韩港两位艺术家跨地方的书信与声景创作，到 AI 智能体的二维图解记忆架构，以及针对档案研究的艺术资助，信号展现了历史材料与当代工具的交汇。",
+  "intro": "本期 Daily Digest 关注图像、档案与技术架构的交错视角。通过解构边缘化的刺绣与地图、记录媒介制度的演进、跟进跨域新媒体实践与 AI 多模态记忆，为策展研究与工具流设计提供具体依据。",
+  "opening_signal": "档案不单是对过去的记录，更是重新划定感受边界与工作流结构的介质。",
+  "closing_signal": "当档案从静态沉淀转变为动态的媒介实践与记忆架构，研究与创作的边界也在随之改变。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "美国民间艺术博物馆举办少女艺术展：从地理与空间重构 18-19 世纪女性刺绣与地图档案",
+      "title_en": "Locating Girlhood: Place and Identity in Early American 'Schoolgirl' Art at the American Folk Art Museum",
+      "summary_zh": "美国民间艺术博物馆推出《定位少女时代》特展，由 Emelie Gevalt 与 Caroline Culp 联合策展。展览汇集了 18 至 19 世纪由美国年轻女性创作的近 100 件针线刺绣、水彩画与手绘地图，从地理与空间身份重新审视“校规艺术”类别。展品不仅涵盖哈德逊河派之前女性对景观视觉的构建，还首次联合展示了黑人与原住民女学生的档案作品。",
+      "summary_en": "The American Folk Art Museum presents 'Locating Girlhood', featuring nearly 100 samplers, watercolors, and maps by 18th- and 19th-century schoolgirls to examine how young women constructed spatial identity and landscape representation.",
+      "why_muki_cares": "展览将原本被边缘化的女红与地理练习重新定性为景观视觉生成机制，并纳入黑人与原住民女性档案，为探讨性别化劳动、空间历史与非机构化媒介考古提供了直接研究参考。",
+      "editorial_signal": "将 18-19 世纪女性的手工刺绣与地图重构为景观政治与空间档案生产的参与者。",
+      "theme_tags": [
+        "美国民间艺术博物馆",
+        "Locating Girlhood",
+        "女性主义艺术",
+        "性别劳动",
+        "地图学",
+        "视觉文化",
+        "档案研究",
+        "媒介考古"
+      ],
+      "source_name": "American Folk Art Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2w93b7Iw1PvhayBDU9JaRSszVFYtMkck6fmPvPvyV99FIoECP9foXYZ0oMdPE6i2xQbdb1dMeYkndBfLBGC9gGY8t8oHKQ5T1XLAgxAK9-5B18MRmiP_ZWnJl5TpEd_t-0u6JjTIFcgpr6eD1",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "美国国家肖像馆呈现摄影收藏 50 周年展：从达盖尔银版到数字肖像的媒介演变",
+      "title_en": "Photographic Memory: Fifty Years of Collecting at the National Portrait Gallery",
+      "summary_zh": "美国国家肖像馆开幕特展《摄影记忆：五十年的收藏》，纪念 1976 年美国国会扩大其收藏授权、将摄影纳入馆藏 50 周年。展览由高级策展人 Ann Shumard 策划，展出从 1843 年达盖尔银版法到当代数字肖像的 120 余件作品，包括 Lee Miller、W. E. B. Du Bois、Roy DeCarava 与 Tseng Kwong Chi 等人的经典影像，呈现摄影如何重构国家肖像记忆。",
+      "summary_en": "The National Portrait Gallery marks the 50th anniversary of its photography collection with over 120 works spanning from 1843 daguerreotypes to contemporary digital portraits.",
+      "why_muki_cares": "该展梳理了博物馆机构将摄影从技术复制品升格为核心馆藏的决策史，为研究摄影史制度化、肖像政治与机构档案扩建提供了具体案例。",
+      "editorial_signal": "从馆藏扩建史的角度呈现摄影如何重新确立肖像档案与公众记忆的合法性。",
+      "theme_tags": [
+        "National Portrait Gallery",
+        "摄影史",
+        "肖像政治",
+        "机构收藏",
+        "达盖尔银版",
+        "视觉文化",
+        "档案研究"
+      ],
+      "source_name": "National Portrait Gallery, Smithsonian Institution",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA02szhV1dD4XWzgWsJh8eZkNATCneNiSR0j3sfONRwKoFvVf9t21e-DdmCqka57GUeAAb8k14fBd2O3U_5zxjalQlisCvKuHt6SIVFU3deQFSvYpOD1IKsEV0awFBN54xIsT4r6vw1o6J_YD2hrgHeewwhCFRnZtcDo_Nn_d-u4SXaplW_cpYilgfpk2b_zj6qA==",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "首尔西首尔美术馆呈现新媒体展《脱皮之蛇》：韩国与香港艺术家的跨地方书写与声景档案",
+      "title_en": "2026 Seo SeMA New Media Emerging Artist Exhibition 'The Snake That Cannot Shed'",
+      "summary_zh": "首尔西首尔美术馆（Seo SeMA）推出首届新媒体青年艺术家展《脱皮之蛇》，展出韩国艺术家 Okyoung Noh 与香港艺术家 Serene Hui 的最新创作。两位艺术家没有采用传统驻留模式，而是建立跨区域书信机制，交换信件、声音录音与研究笔记。展览呈献 6 件涵盖影像、多通道声音、陶瓷与印刷的全新委任作品，探讨家族创伤、迁移记忆与语言边界。",
+      "summary_en": "Seo SeMA presents an exhibition by Okyoung Noh and Serene Hui, using cross-regional correspondence and soundscapes to explore ancestral silences and migration memories.",
+      "why_muki_cares": "项目将跨域笔友书信与声音交换转化为展览制作方法，展示了东亚青年艺术家在应对历史创伤与身份迁移时，如何以轻量化、去中心化的媒介沟通替代传统驻留。",
+      "editorial_signal": "以跨地方书信与声景档案构建去中心化的东亚新媒体策展方法。",
+      "theme_tags": [
+        "Seo SeMA",
+        "西首尔美术馆",
+        "Okyoung Noh",
+        "Serene Hui",
+        "东亚视觉文化",
+        "新媒体艺术",
+        "书信媒介",
+        "声景档案"
+      ],
+      "source_name": "Seoul Museum of Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnvuwhCGSvUe6DJtmvJMOrPIc-o9nY0sU0FO1EQphmyJeO9Le89ITAyCblGV2ZU30m_yXjC_dx4uQsy9Fp92X77q8zcMjfFd2fK0EWuwz8bT2iYIN3XSp1Eho_dFvpkcNdaWwSgR0BQi5ko8LhxU0_UquaAE2H__2TtlsaK836G_7TlQqOoDo1qWMq17SHqHgFF3ACmaZieQYWKo=",
+      "publication_date": null,
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "研究团队提出 HiVe-Mem 框架：以二维图图结构与多层证据组合优化多模态 AI 智能体记忆",
+      "title_en": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "summary_zh": "研究团队发表 HiVe-Mem 架构，旨在解决多模态 AI 智能体在长时交互任务中记忆退化与 Token 消耗过大的问题。该框架结合“水平记忆扩展”（将历史片段构建为包含图像与文本锚点的关系图）与“垂直证据组合”（按片段保留摘要、图像裁剪与原始日志等多层证据），并在执行检索时动态生成组合。实验表明该方法能降低约 90% 的 Token 消耗。",
+      "summary_en": "Researchers introduce HiVe-Mem, a 2D memory framework for multimodal agents that uses relational graphs and layered evidence composition to cut token usage by 90%.",
+      "why_muki_cares": "对于长流程的研究分析与知识管理 Agent 而言，HiVe-Mem 提供了防忘退与低消耗的记忆管理思路，直接有助于构建更稳定的 AI 知识库工作流。",
+      "editorial_signal": "以二维关系图与分层证据缓解多模态 Agent 的长时记忆丢失与计算资源消耗。",
+      "theme_tags": [
+        "HiVe-Mem",
+        "AI Agent",
+        "多模态",
+        "记忆架构",
+        "知识管理",
+        "工作流优化",
+        "arXiv",
+        "创意技术"
+      ],
+      "source_name": "arXiv",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxrRp9l3qn7MpEgXax6HausMwc1m1skk9c6SWNpxJqesfbb0QZzeErF4cQlr4CWTAWfnO5f3RyT2JFPYuZ7P8kdJICuQEovdJVtoRCg16-S_3Ce9LJ6sMvSBE=",
+      "publication_date": "2026-11-09",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "亚洲艺术文献库与 Inlaks 基金会启动 2027 艺术资助招募：鼓励以研究与档案开展实验性创作",
+      "title_en": "Open Call for Inlaks–AAA Art Grant 2027 by Asia Art Archive in India",
+      "summary_zh": "印度亚洲艺术文献库与 Inlaks 基金会共同启动 2027 年 Inlaks–AAA 艺术资助公开招募。项目面向 25 至 35 岁的印度视觉艺术家及团体，鼓励利用个人档案（书信、相册）、公共图书馆、法律或科学数据库开展研究型创作。资助金额最高为 20 万卢比，项目执行期为 2027 全年，申请截止日期为 2026 年 11 月 30 日。",
+      "summary_en": "Asia Art Archive in India and Inlaks Foundation launch the 2027 Art Grant open call for artists using archives, personal records, and public databases for experimental research.",
+      "why_muki_cares": "该资助聚焦将档案作为直接媒介与方法论的实践，反映了南亚与东亚艺术机构对去中心化档案研究与个人历史发掘的持续支持。",
+      "editorial_signal": "资助聚焦档案媒介化与个人记录发掘，推动艺术研究方法的制度化支持。",
+      "theme_tags": [
+        "亚洲艺术文献库",
+        "Asia Art Archive",
+        "Inlaks Foundation",
+        "艺术资助",
+        "档案研究",
+        "公开征集",
+        "媒介考古"
+      ],
+      "source_name": "Asia Art Archive",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRbZ904pCn9tuo1gNGuDhAVlMmS-ii1kAw_EQiv0kgDoDq4sjPGm_LtT_P09CLTNbnLTRp8Itm4az7tvDNehQBW5v7Gaz22NRO5KsrS1e3rlgy9JR38pL2bGA-etTKC-CXUDwwZ_qDveywOySSKo6sbsDltFXnHRC_CcfzonI1VT29yYXLvA==",
+      "publication_date": "2026-11-05",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Archive / Long Read / Opportunity",
+    "title": "Open Call for Inlaks–AAA Art Grant 2027 by Asia Art Archive in India",
+    "why_muki_may_care": "项目直接把档案研究定性为实验创作核心，为考察亚洲区域内档案作为媒介的现实实践提供了具体抓手。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRbZ904pCn9tuo1gNGuDhAVlMmS-ii1kAw_EQiv0kgDoDq4sjPGm_LtT_P09CLTNbnLTRp8Itm4az7tvDNehQBW5v7Gaz22NRO5KsrS1e3rlgy9JR38pL2bGA-etTKC-CXUDwwZ_qDveywOySSKo6sbsDltFXnHRC_CcfzonI1VT29yYXLvA=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Belvedere 21 机构展（近 7 日已包含 Belvedere 相关报道）",
+    "巴黎摄影周奖项重复报道",
+    "缺乏架构突破的常规 AI 图像生成工具"
+  ],
+  "covered_entities": [
+    "American Folk Art Museum",
+    "National Portrait Gallery",
+    "Seo-Seoul Museum of Art",
+    "arXiv",
+    "Asia Art Archive"
+  ],
+  "repetition_notes": "本期收录的 5 项信号均为首次录入的全新信号（New）。其中 HiVe-Mem 属于对 AI Agent 记忆框架与知识管理工作流的跟进。",
+  "issue_number": 98
+}
