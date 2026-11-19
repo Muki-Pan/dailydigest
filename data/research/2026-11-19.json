@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-19",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Daily Digest for Muki — Issue #099 Research Dossier\n\n**Date:** 2026-11-19  \n**Search Window Used:** 14 days (expanded from 24h/7d to cover active exhibitions and papers released between late October and mid-November 2026)  \n**Editor’s Pick Lead Candidate:** Signal 3 (Mori Art Museum — *Mariko Mori: All That Shines*)\n\n---\n\n### Candidate 1: Feminist Structure Signal\n\n* **Proposed Headline (CN):** 维也纳 Belvedere 21 开幕《Feminist Futures Forever》：以 238 位艺术家作品重构 40 年女性主义艺术脉络\n* **Original English Title:** Belvedere 21 Opens 'Feminist Futures Forever': 238 Artists Re-examine 40 Years of Feminist Art Histories\n* **Source URL:** `https://www.belvedere.at/en/press/feminist-futures-forever`\n* **Publication / Opening Date:** 2026-11-05 (on view through 2027-03-08)\n* **Verified Facts:**\n  * Curated by Christiane Erharter and Stefanie Reisinger at Belvedere 21 in Vienna.\n  * Re-examines the landmark 1985 exhibition *Kunst mit Eigen-Sinn* (Art with a Mind of Its Own), taking place in the exact same building.\n  * Features 238 international artists across generations, including Marina Abramović, Leiko Ikemura, VALIE EXPORT, Barbara Hammer, Birgit Jürgenssen, Yoko Ono, Cindy Sherman, Rosemarie Trockel, and Sophie Calle.\n  * Organized across nine thematic sections addressing structural inequality in patriarchal societies, spanning labor, reproduction, the body, public space, identity, and memory.\n* **Relevance to Muki:** Demonstrates how major contemporary art institutions re-evaluate historic feminist avant-garde exhibitions, expanding binary art histories into multi-vocal networks of body, labor, and public space.\n* **Duplication & Status Assessment:** Follow-up (Institutional tracking of Belvedere 21, following the Maria Hahnenkamp solo exhibition in Issue 2026-11-15).\n\n---\n\n### Candidate 2: Visual Culture Signal\n\n* **Proposed Headline (CN):** Foam 摄影博物馆举办基尔塔纳·库纳斯个展《Not What You Saw》：以南印度女性健美者的身体与日常打破范式\n* **Original English Title:** Foam Presents Keerthana Kunnath's 'Not What You Saw': Female Bodybuilders in South India Challenge Gender Norms\n* **Source URL:** `https://www.foam.org/events/keerthana-kunnath`\n* **Publication / Opening Date:** 2026-09-18 (exhibition on view through 2026-11-27)\n* **Verified Facts:**\n  * First museum solo exhibition of London-based Indian photographer Keerthana Kunnath at Foam 3h in Amsterdam.\n  * The series *Not What You Saw* documents over a dozen female bodybuilders in Kerala, South India.\n  * Juxtaposes physical muscular strength with soft, warm sunset lighting and lush domestic backdrops.\n  * Tracks athletes across home life, community relationships, and regional competitions, highlighting the emotional, physical, and financial strain behind their choice of discipline.\n* **Relevance to Muki:** Combines feminist visual culture, documentary photography, and non-Western body politics. Demonstrates how image-making can document physical labor while challenging normative beauty standards.\n* **Duplication & Status Assessment:** New signal.\n\n---\n\n### Candidate 3: China / East Asia Signal (Editor’s Pick Candidate)\n\n* **Proposed Headline (CN):** 森美术馆开幕森万里子回顾展《All That Shines》：30 年跨媒介创作与脑电交互装置\n* **Original English Title:** Mori Art Museum Opens Mariko Mori Retrospective 'All That Shines': 30 Years of Cross-Media Practice and Bio-Feedback Tech\n* **Source URL:** `https://www.mori.art.museum/en/exhibitions/marikomori/index.html`\n* **Publication / Opening Date:** 2026-10-31 (on view through 2027-03-28; reviewed Nov 2026)\n* **Verified Facts:**\n  * Co-organized by Mori Art Museum (Tokyo) and Solomon R. Guggenheim Museum (New York), co-curated by Mami Kataoka and Alexandra Munroe.\n  * Mori's first major Japan retrospective in over 20 years, bringing together 40 works spanning performance photography, video, computer graphics, and large installations.\n  * Re-examines her 1990s \"Cyborg\" series of performance photography alongside sci-fi imagery and animist/Buddhist cosmologies.\n  * Highlights *Wave UFO* (1999–2002), an interactive pod that visualizes real-time brainwave bio-feedback into visual graphics and sound for three participants at a time.\n  * Features the title artwork *All That Shines* (2026), created with technical support from Anthropic's Claude AI team.\n* **Relevance to Muki:** Directly connects East Asian visual culture, feminist cyborg body history (1990s identity photography), media archaeology (bio-feedback hardware), and AI-native creative technology.\n* **Duplication & Status Assessment:** New signal.\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n\n* **Proposed Headline (CN):** 研究团队提出 MAPE 框架：以程序演化自动化设计与优化 AI Agent 动态记忆架构\n* **Original English Title:** Researchers Introduce MAPE: Program Evolution for Automated Discovery of AI Agent Memory Architectures\n* **Source URL:** `https://arxiv.org/abs/2611.05339`\n* **Publication Date:** 2026-11-12\n* **Verified Facts:**\n  * Developed by researchers at the University of Minnesota and collaborating institutions (Xinheng Ding et al.).\n  * Introduces MAPE, an automated program evolution framework that searches over complete LLM agent memory designs.\n  * Uses a standardized lifecycle interface and an iterative diagnosis-proposal loop to revise memory building, retrieval, and context preparation.\n  * Demonstrates that retaining raw conversation history alongside extracted notes recovers critical missing details, and query-routed scaffolding organizes evidence based on question intent before answering.\n  * Achieves up to a 12% accuracy gain over human-designed memory baselines on LoCoMo and LongMemEval while reducing serving costs by 65%.\n* **Relevance to Muki:** Addresses memory management in AI agents. Shows how separating raw record preservation from query-time evidence structure improves persistent context and knowledge management workflows.\n* **Duplication & Status Assessment:** Follow-up (AI Agent long-horizon memory framework line of research).\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n* **Proposed Headline (CN):** Black Women Photographers 联合尼康启动 2026 第四季度资助：提供 2500 美元现金与 Z6III 镜头套机\n* **Original English Title:** Black Women Photographers and Nikon Launch Q4 2026 Grant Call: $2,500 Cash and Camera Equipment\n* **Source URL:** `https://blackwomenphotographers.com/nikon-grant-fund`\n* **Publication Date:** 2026-11-01 (Deadline: 2026-11-20)\n* **Verified Facts:**\n  * Open call hosted by the global collective Black Women Photographers (BWP) in partnership with Nikon.\n  * Deadline for Q4 2026 applications is November 20, 2026 (11:59 PM ET).\n  * Open to Black women and non-binary photographers worldwide; entry is free.\n  * Recipient receives a $2,500 USD cash grant and a Nikon Z6III camera kit with a 24-70mm f/4 lens.\n* **Relevance to Muki:** A current, high-quality, actionable opportunity directly serving marginalized women and non-binary visual storytellers, supporting independent photography production and equipment infrastructure.\n* **Duplication & Status Assessment:** New signal.\n\n---\n\n### Excluded Topics & Negative Results\n\n1. **V&A / Charles Wallace / Alkazi Curatorial Fellowship 2027:** Excluded because its application deadline (Nov 7, 2026) has already passed.\n2. **MoCP at Fifty Exhibition:** Excluded due to minor repetition with recent photography collection history themes (National Portrait Gallery covered on 2026-11-17).\n3. **Generic AI Video/3D Demos on arXiv:** Excluded standard benchmark papers lacking direct workflow impact or novel agentic memory architectures.",
+  "citations": [
+    {
+      "title": "belvedere.at",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQxejqsbfllVdyAznXDKNS_cM2VqPnZIQxGs4xOOvKcEQjroduaf5_VMiuuHw1fT7cdjz3dk4drCZf-OBBYqwsRag3s9Swzh6pcklNzMgfD3WovcrS7CJxkAyEmUQi6rJNOmg2oDkygaAm8x9lxhor"
+    },
+    {
+      "title": "lisson.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOeDr0jKXsRQ3JZNp6KgBba5lrAj5RUyIh6_rz6v8mHncf1UZ_r2EoOVMTncrR7xo_W6hO06HhCA3aW5Mau0go5MZU7_nArbnttUPnpgA5yfcQGMBwTYNbp7ZV0vLxEo5guFHbU3Evdfv5LZ7QUZifNJ70IloBnF10eZsU5kiTMBxq7F36d2OzXR-XhJiGABXkkkpuxgp8IMn4R1Cw4sWpJW38XY="
+    },
+    {
+      "title": "hundredheroines.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgRM9IkF3L9iGMyk8LQ3VRh6_7f67hvNq_dWnELYOdcwgQi89_38b7ZacYi6_8DNiDa7mY0F_kfFq_fqkTDcUnFOsvKGDNaBsrdFsHdksapgEi9uViesQTtLKTxp6HZ2dpz-pzchu_UMhrvy6Ch_0WPxDrDj_CYxdk"
+    },
+    {
+      "title": "barbarahammer.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyzNP49GJg6NTnxPmsxwG_M0YVsLxqElylDu3xx3RiFcE4zGcE-KYpparYsgo18EbzRv2H7dqaJgP0vxZeE_9QctJRg6PdPwcyzmW4UY7FA91heYH0ZoIEeAPW_Ow="
+    },
+    {
+      "title": "belvedere.at",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaJCn-QvViTBXJJxYp85tB9htsY9JHsERZql5_p1qL1FIouLmk_EmYBYW2u8nMgh9ha9AXu4hmObe6kBO2HZckHzPqCcFJQ9-bQsZyew3RB6DCkoNybZbjUVivhktH-Ik-uBBWexFqMULOy0NeZMCozVb7apR1Zy8="
+    },
+    {
+      "title": "foam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIiKqS6fYy6976Goea8MA_peAzHu6ujeOjirakVioQNtjiTv3gM-OLel7ySvxi8-c74H74ogCDmM1woO1ovkqZDddToG0A5RhuhgAxLI69NeQdc2DoOr17E-X77hpTADVlzgQ="
+    },
+    {
+      "title": "foam.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Nbaq5SYShhFL73jNmKMOlTGhGSNi2O6HWJuHH0cbtIMuG9yQuqIxVSfyRDdvW0lrCo_Nbo3AfA7GTyYo-2dm6Yg_B5lnrvK9E2kAssjdd4FLzCPd0am0cnkD6THFhVg3scalGzlgf8lPP2JfO7jiPvv-"
+    },
+    {
+      "title": "artlimited.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4G4BxAiQTOCaZxi3IT2EAy79qE-vdOFyQcA2nZ7R4Mc8hIBoO3nzdt0nB_uDguJ-xASge6XIqtcKiJRasuAkJdpuN0_0ppDeRBJn3CzVuxDPxmVO3n-9H-2fCW2Wv45DDXSLDWDCeVB_mz5Kbt0-RyDRAjfx76llNUS3hq613kNSXfAX_bztbXkzZ126tvKDoyXor"
+    },
+    {
+      "title": "mori.art.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEECf85CsodtvAmcYUnTZOIfZcsyagId2o8Ik3dW3YwkQs4hyHMemmr59VlX638mGCUIPEAQmfzMYEOGDXYLB-U5L4BNM1yQxo_wa7Ke-Z7kSJq6rPIcVIoIpfWT3HQfDmakSAFUFNVEaYmhwo="
+    },
+    {
+      "title": "metalmagazine.eu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGriIL7GCWZHDgr53eC-saFot6aYoQqVh-rZsbudyFGqr2y7UqKWoKoQnfnOP-ETa-Qkrmchn1DcH3_G7zZbqW9FzFX59YLjkxdkc987WzLTt-ACu0UczkOb7jZCsuvbyB-qXWYyjflyvJPMtYKr9Pb8w=="
+    },
+    {
+      "title": "japantimes.co.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4swnwYNnmpHuRaZzoF5oiWZ7F69qvVCYFOtD_QELUYxaYzak15gL6uxjyRC-nFVt9kujp4NpjTncowjMvu4N7RJ9651s7DfP4V4VPCG8KjiJVkxV4c8jELBG94hfmdKTRephrPW13zPJ-sQhIaVWCRF3iGYGTevJMYAvx_ETu0ytRgMi0og=="
+    },
+    {
+      "title": "mori.co.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvZOhH1NZOUUcKBk66O_NZVtSoEpB2PVquG9KIVznF6Qx_9FInqFPPgVa1oSMV5v9G2XWM5d-uz7dFp3ZJT1OwLDRwb2ci8kHS6HJd13jP5kinQF_lm5PaiPbIwpqclRC-U4EROCgFFT0="
+    },
+    {
+      "title": "roppongihills.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRk-8lvKERP7LjyXJPKkyUSNWuJpp8BmaLYqSIlViez1tInuo9UZuW8v-YqKSAhU_3ri6-S28_Qx13XlDMqn0uzhoJId2q2lbiSL5oJh0FkiqXlKYpOQ3AtFNwdEdmepkKR_VxhaV5tQwoKYozAeRQ7MUsvbBXaS6pahneA6uowdZr-wq2ZVfz"
+    },
+    {
+      "title": "mori.co.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAtiFV3LpXZCbgyUUDfiPewQJJ0V3BqKuSRsNm50uYyF8wyd42W4XcxQlHAN8HUFaXwgBU0FWji6wFcIgwkDfmuTgeC0Vbey_YQU2zh6FKjZd4Kl64bvjobr2brB4TvaNUG_ECJgmQ"
+    },
+    {
+      "title": "mori.art.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGMJ6ciOIHwnkjaocsbEyW-wfxKA6-_CTLs13CeNVxfooPjKC47a2soM3Y1dbjbc5-4Jr10kujSKZ4dVL8DCCH2QBLOnwTWMrwQaRbQKw2J1LgY3oeg5dF3ICNlaucXt79dIzHb9EDh-8UYR3nwcztRJeSSIiV1dw="
+    },
+    {
+      "title": "mori.art.museum",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjMR69E9870trxA3wn8aD3fNkzNW3NLQqsVd1fguc6ndkYfLPL4eItxNWkwnlQ7scssUHQone1N0P-nuZq_A4WCFRu9Y0ILvn0n7xe-QVVRMBJDvp8-GQj-h5kPDRKN4T7cQLtsNqRPqEqLqWppv8="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbyO34t35p_dNDdDj6DIQ1EWAkIRTj-RkMi3ZySYZLJ_-qRbUUy4lAiIZJM3CSArhba8mM3_b30FOXIomnzC55Di3p9J3uzG8t0dR6yRwPzStV5YbspAc9Zw=="
+    },
+    {
+      "title": "casrai.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLi5LylqOpavR_XINReC9iNoXmdV7vVDR0cjbfjAkxIXv0HFQGGjWNJ519a9rugSj6qdGozEqaTp2glevsMg9u67i_U43kNk0BltlZw8Y6wJoZaZjnR_LNFNTAWTzC_X3L6rTAX3b6aiux9r7FXvm3S2xnXdhGYP-qjHkw8BE="
+    },
+    {
+      "title": "blackwomenphotographers.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6cXcaHA6Zdn6nk5cdqTGJ5v3GI9RG0lxz_w1yjNEUKTu1UbgJ7DDHFE4Ls5q8akpg3OiBTnqLx21l4rsqYukES06hYMplwjmpFNukdDq9tgqyot9hXEiugmnUt0xdZoMZAn0="
+    },
+    {
+      "title": "blackwomenphotographers.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOtvilvOShXTXY1vFhhk6UZTppp5vniRD6GTddrY1pFevZ6SJaLAnXrKbUI50vHwCx8DaOempexXapBnk7D7W2-iuJkv84ZLi1iJqOkigzNnO0lEU5Fa2buKhgnMFZU2LX1xFb"
+    },
+    {
+      "title": "grantedai.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO-W4saBECQP5SP3nL9HrZYa4LBVn_g3AJU1T_G0EH25SyJ7eKx7pAkPuYv_jEdiMS9XmtjVpg_zjfBrUnmamHSMOfy1SnfUA5C73PezR59SCL-juwAs9f81KsoBFzUwJH_1ne7rt_x7kHztGk961OS3ffAoy50pYW42QnV4Wbluu6MB39G8m1krHemrBkB2uCoNmyoXj0vNN9DuMycfv0Gmr_j-8TAPG8zbMN"
+    },
+    {
+      "title": "forphotographersonly.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9dCtF_teO3qV6CzBs9S3A-u4oJZGx8vNwZCUGT-z6Uym7rKT_YBABaLm5Ff6Mul2fpCeUMcS9qb9t6NFBJ6pLPp3EiCCjaAtIUXf8S_VgVejMAVOqo7bXLK5i9EuDnmza6aip5bMEOf932uNaQFOtF8T64D1LNRSPGhhpynpPUK9t2REmXwlPJjndTImK-EDlmzM8e2sSTdYuWpoMJa1gYr3lGXdNOZVIObU="
+    },
+    {
+      "title": "callforcurators.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi5w1Sbine__1olSl3hlw4vOM55U9Trjwg8Qsjb1COaV5YAOHc_6gVspvg_9TC0l8sbh0ARBJcTxlkZ46C6lf8OEpVd-9h9Yis5PFX-TklQXtqFY9iwKlhS6_psfprfuv55GzOgPzq7tSsh4f2T5pgETjQpGHcRyz6Fg=="
+    },
+    {
+      "title": "opencallartist.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-RApcVrMmeybnLlIXgqt-6Yit7mwzQ3boIM-_199euprsYByAnUidn5GRKAOl18S26nWyKKu550Y7nxrZUlBnps9lNwmquGG4agdphAUHJLpQSeEM-DDFCwE3Z0Wv73_qbTuMDx542aZ2cbxHgs0bFmG2w4xqhJNUbIRn6BWljYIxL3f3nbmqeOmDg3ngaSig_Q34v2T3v1StEgsIACweiMRwDhHCD8dlAPznd3RGQE9DVGTmi6Ff"
+    },
+    {
+      "title": "mocp.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjFlOBmE9lByxesloONVDOgap7RLWx3iPORI6vqf8sG61VQ3LYQMdaBDr8t7kvpcVTrv1OoyTrlENktYc4q5anfGHSsz2i24bsIMVp6d2xvI62FqZlNVAZze97qYsUlCrBb7c0EDiC2xabkBtcThulcB8bPRsNEScNWnhc6qeg3A=="
+    }
+  ]
+}
