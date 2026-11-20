@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-20",
+  "issue_number": 100,
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义艺术",
+    "摄影档案",
+    "中国当代艺术",
+    "AI Agent 记忆",
+    "策展研究资助"
+  ],
+  "why_today": "今天的五项信号集中展示了跨世代叙事与档案索引方式的变化。从超现实主义女性艺术家的首次双人展，到机构对私藏摄影档案的重构，再到中国早期视频装置的重新整理，这些信号展示了物质媒介与数据结构如何在具体场域中重新链接记忆。",
+  "intro": "第 100 期 Daily Digest 聚焦艺术档案、女性创作脉络与长视频 Agent 架构的最新动态。我们收录了勒曼·莫平画廊的卡林顿与维库尼亚双人展、新奥尔良艺术博物馆的蒂娜·弗里曼摄影收藏展、香港 M+ 关于林天苗与王功新的最新展览宣布、arXiv 上的 EvoMem 长视频 Agent 记忆框架，以及阿尔勒国际摄影节 2027 年策展研究资助。",
+  "opening_signal": "档案从来不是静止的积尘，而是不同时空在当下重新交汇的接线板。",
+  "closing_signal": "从织物与视频的交织到 Agent 对时间线的显式约束，对历史与记忆的梳理正在从线性的时间轴演化为可被多重检索的网络。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "勒曼·莫平画廊举办卡林顿与维库尼亚首次双人展：以神话与生态意识开启跨世代对话",
+      "title_en": "Lehmann Maupin Presents First Joint Exhibition of Leonora Carrington and Cecilia Vicuña",
+      "summary_zh": "纽约勒曼·莫平画廊于 2026 年 11 月 19 日开幕特展，首次将超现实主义女性艺术家莱奥诺拉·卡林顿与智利艺术家塞西莉亚·维库尼亚的作品置于直接对话中。展览追溯了二人于 1969 年的首次会面，展出维库尼亚的新作与卡林顿的历史代表作，展现二人如何通过神话、生态意识与仪式性身体探讨祖先知识。",
+      "summary_en": "Lehmann Maupin presents the first joint exhibition of Leonora Carrington and Cecilia Vicuña, tracing their 1969 encounter and highlighting their shared engagement with mythology, ritual, and ecological consciousness.",
+      "why_muki_cares": "本展提供了一个跨世代女性主义策展范例。展览没有把二者简单并置，而是从 1969 年的具体会面档案切入，呈现女性艺术家如何跨越时代共享生态与身体叙事。",
+      "editorial_signal": "跨世代女性艺术档案的再激活，正在从单人回顾转向具体的对话性策展。",
+      "theme_tags": [
+        "Lehmann Maupin",
+        "Leonora Carrington",
+        "Cecilia Vicuña",
+        "女性主义艺术",
+        "超现实主义",
+        "生态女性主义"
+      ],
+      "source_name": "Lehmann Maupin",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwqsbdLW53SxsGVk965ZXojG-OEEWi2QRZIg4iVxQcJgEMa8FYadTQiJjRyuAZPbULNbUx12TJ2zXDzZLb0lGBJC9txc6T2L2Y8B3JEP1mArOsOS6VOSPAGHyQspUBUnDTrFbxf96MED8a4jLhLqQHIS4otcY4suiSjPHzs-AMGQU=",
+      "publication_date": "2026-11-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "新奥尔良艺术博物馆呈现 Tina Freeman 摄影收藏展：100 多件作品回顾 19 世纪以来的视觉史",
+      "title_en": "New Orleans Museum of Art Presents 'Confluence: The Tina Freeman Collection of Photographs'",
+      "summary_zh": "新奥尔良艺术博物馆于 2026 年 11 月 20 日开幕特展，精选摄影家兼策展人蒂娜·弗里曼捐赠的 100 多幅作品。展览涵盖 1840 年代至今的摄影史脉络，重点突出了 19 世纪摄影、女性摄影家作品以及美国南部景观与水文图像。",
+      "summary_en": "The New Orleans Museum of Art presents an exhibition featuring over 100 works from Tina Freeman's photography collection, spanning early 19th-century process to contemporary southern landscapes.",
+      "why_muki_cares": "该展览展示了女性策展人与创作者的私藏如何补充甚至改写公共机构的常规收藏叙事，为研究私人摄影档案向公共馆藏转化提供了具体案例。",
+      "editorial_signal": "私人摄影收藏捐赠入馆，为机构视觉史提供了更为具体的地方性与女性视角。",
+      "theme_tags": [
+        "NOMA",
+        "Tina Freeman",
+        "摄影史",
+        "女性摄影师",
+        "机构收藏",
+        "视觉文化"
+      ],
+      "source_name": "See Great Art",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTdM27E7pMNLSTwxOaJtrEA3jv0rP_DegfUnelm8I_sm4PNsnFWLw-vasqCutVfUViXOk8f2YTN_dgMeuMgZP5NXDkW6wECTH-gQB2nY1FlpILh0dFLzL87dBaXUV8rOAwAXdCph0nGfrSyKHN50hQ0tpqraQTseVbtMWu_4uXtDNbmTQ6RBBS_u6OF2vYj1OGcNtS0uFK",
+      "publication_date": "2026-11-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "M+ 博物馆公布林天苗与王功新双人展：首次在香港呈现二人唯一合作装置《这里？或那里？》",
+      "title_en": "M+ Announces 'Lin Tianmiao and Wang Gongxin: Here and There' Featuring Their Sole Collaborative Work",
+      "summary_zh": "香港 M+ 视觉文化博物馆宣布将于 2026 年 12 月开幕展览，首次在香港展示林天苗与王功新于 2002 年创作的唯一合作装置《这里？或那里？》。作品将林天苗用布料与头发制作的服饰雕塑与王功新的六通道视频投影结合，并同场展出二人 1990 年代至 2010 年代的独立创作。",
+      "summary_en": "M+ announces a duo exhibition of Lin Tianmiao and Wang Gongxin, debuting their only joint installation 'Here? Or There?' in Hong Kong alongside solo works from the 1990s to 2010s.",
+      "why_muki_cares": "这项展览是东亚早期新媒体与装置艺术考古的信号。林天苗对头发、棉线等女性物质语言的运用，与早期视频装置的结合，构成了中国当代艺术史中独特的手工艺与媒介碰撞。",
+      "editorial_signal": "中国早期新媒体与装置艺术的档案整理，正在通过代表性双人个展进入博物馆级呈现。",
+      "theme_tags": [
+        "M+",
+        "林天苗",
+        "王功新",
+        "装置艺术",
+        "新媒体艺术",
+        "东亚视觉文化"
+      ],
+      "source_name": "M+ Museum",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuo1nH6i-m87G0JuhvpmKHPBdt0abWahFyzPxLepvPoC2CUucUfNniPl12haOi798RCVe8ApC_2ypjvWs6izn74oL97ReUS75IFdH4Lto35kY8s--00-ZVwZjrPBNpdVL_VdF3_nnzuo1addMCEbipYHWszMQVcIeFNRqdB1yzawK36F9s-kfYZ5uwgbdoZaS16NWU",
+      "publication_date": "2026-11-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "研究团队提出 EvoMem 框架：以自演化检索技能与时间索引优化长视频 AI Agent 记忆",
+      "title_en": "Researchers Introduce EvoMem: Self-Evolving Skills for Time-Aware Long Video Memory Agents",
+      "summary_zh": "研究团队在 arXiv 发表论文，提出了 EvoMem 框架。该框架为长视频 AI Agent 构建了分级时间索引记忆，将多模态证据对齐到统一时间线上，并通过自演化检索技能动态调整访问路径，解决了长视频分析与生成中的目标模糊与记忆漂移问题。",
+      "summary_en": "Researchers introduce EvoMem, a framework establishing hierarchical time-indexed memory for long-video AI agents to enhance multi-modal reasoning and retrieval accuracy.",
+      "why_muki_cares": "对长视频档案分析与多模态工作流来说，时间线错位是常见的技术瓶颈。EvoMem 提供了显式时间约束的方法，对搭建长视频理解与知识管理工具具有实用价值。",
+      "editorial_signal": "AI Agent 记忆机制的演进正在从泛泛的文本上下文扩展，转向具备显式时间线约束的多模态视频索引。",
+      "theme_tags": [
+        "arXiv",
+        "EvoMem",
+        "AI Agent",
+        "长视频理解",
+        "记忆架构",
+        "工作流优化"
+      ],
+      "source_name": "arXiv",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhEDs0Nzmi_grHa3VXgsSfct0gkA69dAK1kbIW65JC6KNBlhhqCZOwoleINHBA83LDopzAfC018c0ESRIAwh1c76YcDlKm_nZSYjoDmmb-kg_R8jka_EE=",
+      "publication_date": "2026-11-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "阿尔勒国际摄影节启动 2027 年策展研究资助招募：提供 2 万欧元支持摄影展项开发",
+      "title_en": "Les Rencontres d'Arles Opens Call for 2027 Curatorial Research Fellowship with €20,000 Support",
+      "summary_zh": "法国阿尔勒国际摄影节启动 2027 年策展研究资助招募，截止日期为 2026 年 11 月 30 日。项目面向全球独立策展人，提供最高 20,000 欧元资金，包括 5,000 欧元前期研究费与通过审查后的 15,000 欧元展项制作与运输预算。",
+      "summary_en": "Les Rencontres d'Arles calls for applications for its 2027 Curatorial Research Fellowship, offering up to €20,000 for original research and exhibition production.",
+      "why_muki_cares": "该资助不仅支持前期学术研究，更打通了成果在顶级摄影节现场落地的制作流程，是独立策展人与图像研究者值得关注的高质量机会。",
+      "editorial_signal": "顶级国际摄影节正在通过专项研究资助，吸引关于摄影媒介与图像档案的跨学科策展提案。",
+      "theme_tags": [
+        "Les Rencontres d'Arles",
+        "阿尔勒摄影节",
+        "策展资助",
+        "公开招募",
+        "摄影研究",
+        "档案研究"
+      ],
+      "source_name": "Call for Curators",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOGGSNtQXiRZigqtLa7opDueIUiehC1vcRs0mUf9SnJ5xy0Y5Albxs0hk4GgFFZyuQwFgJnpJ-ap9wqP4CTbvLB-o_ftqEXXo7k8SAlYAwdR0FKjkkZJYIlJjvI3bLSWvObF0_Zk2ooLuuOoKucw47azP532i4s-Y1sFM=",
+      "publication_date": "2026-11-15",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "China / East Asia Signal",
+    "title": "M+ 博物馆公布林天苗与王功新双人展：首次在香港呈现二人唯一合作装置《这里？或那里？》",
+    "why_muki_may_care": "这项展览将女性手工艺（棉线、布料、头发）与早期数字视频相结合，为观察东亚早期新媒体艺术的物质性与档案梳理提供了极佳入口。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuo1nH6i-m87G0JuhvpmKHPBdt0abWahFyzPxLepvPoC2CUucUfNniPl12haOi798RCVe8ApC_2ypjvWs6izn74oL97ReUS75IFdH4Lto35kY8s--00-ZVwZjrPBNpdVL_VdF3_nnzuo1addMCEbipYHWszMQVcIeFNRqdB1yzawK36F9s-kfYZ5uwgbdoZaS16NWU"
+  },
+  "empty_sections": [],
+  "excluded_topics": [],
+  "covered_entities": [
+    "Lehmann Maupin",
+    "New Orleans Museum of Art",
+    "M+ Museum",
+    "arXiv",
+    "Les Rencontres d'Arles"
+  ],
+  "repetition_notes": "本期收录的 5 项信号中有 4 项为全新信号（New），1 项为跟进信号（Follow-up）。其中 EvoMem 属于对多模态 AI Agent 记忆架构与长视频处理工作流的持续追踪。"
+}
