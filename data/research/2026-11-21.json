@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-21",
+  "model": "gemini-3.5-flash",
+  "dossier": "## Evidence Dossier\n\n**Search Window:** 7d\n\n---\n\n### Candidate 1: Feminist Structure Signal\n\n* **Exact Title:** Thinking about Kitchens. Beyond Margarete Schütte-Lihotzky Conference on the occasion of the 100th Anniversary of the Frankfurt Kitchen\n* **Source URL:** `https://www.e-flux.com/announcements/637326/thinking-about-kitchens-beyond-margarete-sch-tte-lihotzky/`\n* **Publication Date:** November 13, 2026 (Conference dates: November 20–21, 2026)\n* **Verified Facts:**\n  * Organized by the University of Applied Arts Vienna (Die Angewandte) on November 20–21, 2026, marking the 100th anniversary of Margarete Schütte-Lihotzky’s 1926 Frankfurt Kitchen.\n  * Re-examines the kitchen as an architectural model, a design-historical artifact, and a gendered space of domestic/reproductive labor under capitalist economies.\n  * Features presentations and discussions in German and English by scholars and practitioners including Maria Shéhérazade Giudici, Ruth Hanisch, Bettina Buchendorfer, Eva Engelbert, and Ljubica Jakšić.\n* **Relevance to Muki:** Directly engages with women's labor, care work, domestic architecture, and the spatial infrastructure of social reproduction.\n* **Proposed Section:** Feminist Structure Signal\n* **Duplication Assessment:** New signal. No overlap with recent issues.\n\n---\n\n### Candidate 2: Visual Culture Signal\n\n* **Exact Title:** The Photography Triennial: After Dark\n* **Source URL:** `https://www.mcny.org/exhibition/photography-triennial-after-dark`\n* **Publication Date:** November 18, 2026 (Exhibition opens November 20, 2026)\n* **Verified Facts:**\n  * The Museum of the City of New York (MCNY) opens its second Photography Triennial, titled *After Dark*, co-curated by Marina Chao and Senior Curator of Prints and Photography Sean Corcoran.\n  * The exhibition gathers contemporary photographs documenting NYC after sunset across all five boroughs, examining nighttime commerce, third-shift labor, nightlife, social gatherings, and urban leisure.\n  * Participating photographers include Adam Pape, Anh Nguyen, Avion Pearce, D'Angelo Lovell Williams, Dina Litovsky, Elle Pérez, Lynn Saville, Tommy Kha, Ken Schles, and Kia LaBeija.\n* **Relevance to Muki:** Explores nocturnal urban space, third-shift labor, photographic archives of urban life, and body/identity representation after dark.\n* **Proposed Section:** Visual Culture Signal\n* **Duplication Assessment:** New signal. No overlap with recent issues.\n\n---\n\n### Candidate 3: China / East Asia Signal\n\n* **Exact Title:** 「恵比寿映像祭2027」総合テーマおよび参加アーティスト第一弾発表 / Announcement of Main Theme and First Participating Artists for Yebisu International Festival for Art & Alternative Visions 2027\n* **Source URL:** `https://topmuseum.jp/contents/index-4993.html`\n* **Publication Date:** November 18, 2026\n* **Verified Facts:**\n  * Tokyo Photographic Art Museum (TOP Museum) announced the main theme \"Rules of Play\" (あそびのルール) for the 17th Yebisu International Festival for Art & Alternative Visions (YEBIZO 2027, held Feb 5–21, 2027).\n  * The museum revealed the first wave of participating artists, including Guerreiro do Divino Amor, Miyaow, Tomo Kihara (木原共), Akihiko Taniguchi (谷口暁彦), and Lisa Marina Komiya + Chihiro Suzuki (小宮りさ麻吏奈+鈴木千尋).\n  * The festival focuses on game mechanics, media rules, and play systems in contemporary moving image art.\n* **Relevance to Muki:** Covers East Asian moving image culture, media archaeology, game mechanics, and institutional technology curation in Tokyo.\n* **Proposed Section:** China / East Asia Signal\n* **Duplication Assessment:** New signal. Distinct from previous TOP Museum entries (such as the Kimura Ihei 50th Anniversary exhibition).\n\n---\n\n### Candidate 4: AI Research / Creative Tech Signal\n\n* **Exact Title:** VOL-Agent: Programming Your Film via Video Orchestration Language Agentic System\n* **Source URL:** `https://arxiv.org/abs/2611.23950`\n* **Publication Date:** November 19, 2026\n* **Verified Facts:**\n  * Research team (Hongji Yang, Yucheng Zhou, Jianbing Shen et al. from University of Macau, Lightspeed, CUHK, NUS) introduces VOL-Agent and Video Orchestration Language (VOL).\n  * The framework decouples film structure compilation (declaring characters, props, scenes, and shot dependencies as an object graph) from execution runtime.\n  * Includes static compilation/verification, dynamic runtime skill loading, self-crafting of director skills, and structural memory across multi-scene minute-scale film generation.\n* **Relevance to Muki:** Replaces single-prompt AI video generation with a domain-specific programming language (DSL) workflow, providing structured control over narrative continuity and agentic film production.\n* **Proposed Section:** AI Research / Creative Tech Signal\n* **Duplication Assessment:** New signal. No overlap with recent issues.\n\n---\n\n### Candidate 5: Archive / Long Read / Opportunity\n\n* **Exact Title:** Call for Applications: ZeMKI Visiting Research Fellowship 2027\n* **Source URL:** `https://zemki.uni-bremen.de/en/call-for-applications-zemki-visiting-research-fellowship-2027/`\n* **Publication Date:** November 16, 2026 (Application deadline: December 7, 2026)\n* **Verified Facts:**\n  * Centre for Media, Communication and Information Research (ZeMKI) at the University of Bremen opened applications for its 2027 Visiting Research Fellowship.\n  * Supports international scholars for a 4-week research stay in Bremen focusing on media transformations, platform governance, audio-visual history, datafication, or digital media studies.\n  * Provides office space, research infrastructure, and integration across ZeMKI's 11 research labs.\n* **Relevance to Muki:** High-quality research opportunity directly aligned with media archaeology, platform governance, and digital archive history.\n* **Proposed Section:** Archive / Long Read / Opportunity\n* **Duplication Assessment:** New signal. No overlap with recent issues.",
+  "citations": [
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA6ebJpJ3SyOdnGvy-SKHy9wgz1p3TqQmDe4-M59L_oUgdVVVYGlzIhWXUM1HBzJBWc0goBk5Fin8PstPNgdFjaNo2YYoBt0yaEA5Z_iqAIz8_6jXdS955xJWKmH1Xr297i-9ajtArYJfxHeVFeizUIjCmCib2f05dJyq94t2NEzQZglmlp5GuLvlEI0E-ZUyHkpLb0z4QXQEz0Oo="
+    },
+    {
+      "title": "e-flux.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWGWt59xTskra55MAhEanPOZKINSZbBUyyWaFekzjPL-gGFNYY45j6qnKA-qJPa8Vezf7tcoclOjiWH6SmzZTDpAZr4qeUyINmpkDo2ea94M7Tf0AWzCdaiZC_qdSL8bTx90HBu_2wPPdvwuha255bq_VnE3uzzwiX4dNSiNpdyrXAiFH2zoMw1zQ-vK5VwOCrvRM5e5s6xRf9yw=="
+    },
+    {
+      "title": "mcny.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbXONFSsNds_HY7YB3fHPDR0X6PV6u2mxRoOADJu2SHDfrQfa1K0lUZINB7tfjMfDtl-9X31P59q0WY3MSF-hraQcLlvYkD558Yp11nu7paCFLRggDZDXT9dUwhHOKtiQ0mTzwbSxWvIWgZvGxN2m7EfhsAFZU"
+    },
+    {
+      "title": "mcny.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLc05TbmFPOu69mYouzSxJpbKCrtX2CtLU42EORwMRSxlM1RGS67a_t-1oRRbA4eLdsjwnhD8SNkaACg92nJzvFChAMsM9bF0dda1xbGLBjZrjs4cE8Er3Fl461lw-HD2kwvq0UYT9-QMatWeqoO497D5W_NY="
+    },
+    {
+      "title": "nycnewswire.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsNcKr1yGNVe1YrxS_whgFSdxtqysaxsFB1_Ayf3JtDux0LVfkzQ4NKvgDYhYOdKXOQTVCYF15-_0q5d9QPfPrlRzs3eTzXcVAZ-RXK9qvvM44fq40MtwTTLRzXLMeWqzCVhxb4JtMCuc2K-_V2N6FLi1RY9En1PeFg6gexW2hh4UXZBCq"
+    },
+    {
+      "title": "mcny.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi4UpMJKqec5ThkP-Le-_ljTTN7Eon7h-yWqaPQVfGOa9eWZA_f_mB8-o_Hrcwnd_8XWF9ncl0_ajxSqsdm8kAB308ee8RAUFKl0BSf_qvMPzuyCyuQMZxm-XrUv1TlJ2tFeB7IFrtda91cWzt"
+    },
+    {
+      "title": "mcny.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9r25jVB8Bqv1dmAZqvETVawbwpUbKGubrYrpUlnJCnW25k1GWR4LT5z9ut3jak_5Tc9HQa6DgrKU5tZJf90MKIOvOZU76fM8Pv6wytTHckZHpIGHcPG2GsLJn9PJ7pyEwdg=="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0WlxGg_F6TyeP4RuFUvRZbWvY7GiCdlQEiaa04BvhguIe9Psk6NUKcSZP1GQfePsQ00IPUv0kcEK3X1G2CU3VtspDnfKe6RKjSuQRDC7n9fA767xFeaAHKuHuH1zmq29ddXr5p0Y-yVVH3eHIQ1xNUW3NiwuGVI_lOh_de0n6HUvHxrM="
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEziQ2wbIRoqPjX9MixOpUdb9ZRM2TIUMNzwmON4SN378lMFubimX5ItMxyJWzp_AN5sQRn8jXu1C4Fcuvo0FnqegsooAuXPy9Rxvh3Rizuf_EPJnuG"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrwuloIKDgBCKEdKp9u_xMwem2Td5i6kOT3mFKmSd9-Fa1-h-2jPKVGGVUNr4irAiSqe8Q4l8dJ5uuo7GllMu9anVTHJonmnURKDGGv_H7"
+    },
+    {
+      "title": "topmuseum.jp",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8ntdSDiqRANeHMm1Aewjry5AgHUjr-IQxz9ddCZEgITqUlTqANFauPNrejBeWyFgCu_TRQl_aYC5DK3IgFuCahAGN4YzKltvEIUe3u8w64asrQm5TSHnkRQYm5k6adXoHyO9uEBn1iZvjcVe2X4EbwAMhgP39vV_1iplGUFtanbC8fw=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGybQ2VUcM0PO4k3--jJw9QsnesA8JPnm7bcc67cwSIxFaP79o4xEKs_vfVsjOo3L-vp4B0Yrt9RcyzZAGmJ5eGsQiU05u8gs_1Lix5lT7VFUy7Eg7dQXVLRg=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsZZ3XVOlSAqfI_FBK_TOetdGyXbDAVDBHokCzI4wZhgIRg2YE0xDmIGaf2XNrSVRtuseWvlUZrAq8PuylL43dtjnbtt_pZnro8DgPdwi5VtbK7TF4"
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFUDJo_S3nwm0aMdOE6rhDOR5bBON7H5h-EAxHyajUtemCyO1yvU8IEKbnPYPkroH9WZA3DU0L--u3WxtGQqve_waIJtGwIrazKBNu7WiDG34mbNZmcmZH"
+    },
+    {
+      "title": "uni-bremen.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDgY4OBcfPlhX4YZTjofPIgxS8pWBrsqbpG7R9r1UlwwvtdI4cicuuEDf5qabLJxYRa2s2UMbbEWzZOWnlmPMBwePMiF1j3fsc2btX1greEXRo7ta4-4lpn18Pq9p8AU4YdTO3ZPBUCSiwn2DHuB_5gnYr-UMJA0bTD5InWhJ4-hUKq-CR044mek9Q2xFZyJjMiYY="
+    },
+    {
+      "title": "uni-bremen.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH58ZY6dBQu1kpN5WQ5cUf6XsZb4bJdn_MkPk2y6wwi7FsXYQP_h8nGqVwHQSyx7XN-R-OaAHrOfbO9x4Vic6GyyAug5zVPZOuG49lGG4JpvA26l1B1Wx9KDDsKvm8aTXq0zTdsU6gFvOONrYuTztAmDf4WZ2tdSo9xwZVPVZcWVs6Ft0LEVlXenELeu0VrM217CCE="
+    },
+    {
+      "title": "uni-bremen.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTro_uzKB3c8tH32jbrmEcduWEa-ZlCApESDtZuAPy9bvef3lybsqeR7_DeQgiFWFOz6laDaI3VK5drmW65db8rB7QyGBcJi0A6vMg5-A5EzLrlrWT0EFXuyTGfQInFnLD7sr0BBrfhAAfMGRy8ia0SKsXESnyixI1Z0LsKAxbLpIRv556mJdc2InsnTfGgEs9A2zoCLkFCV7IvV65C8DTMh4ghpja5ZN3MfQh4l49iQB"
+    },
+    {
+      "title": "uni-bremen.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF70UCj-MiwTg0ndhBbJGtpVajSLz8ucPeRPZiCROUG-1FQbkFPd53LmW_lBQ3kWi5U0P1q-dMdqMXnbHJdhC8pwaO972leS90276yRRbaoS0f-ursBLC3d5Dj9pzph9MHst5afG0Src3rNf-UulsEfvfKsYblmSYgTDequ6NXXNZVkAPwkt5Pt9CdsKazfYBGdN8pKgaFxCxu-ZCGb4XCc5OVhnT8Vky28AQZ7jPiQwKozjIgAEYvRDJ34oJ_PeQT_MOU="
+    }
+  ]
+}
