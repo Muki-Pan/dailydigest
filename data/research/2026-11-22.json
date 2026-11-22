@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-22",
+  "model": "gemini-3.5-flash",
+  "dossier": "# Research Dossier: Cultural Signal Brief (Issue 102)\n\n**Issue Number**: 102  \n**Date (Asia/Shanghai)**: 2026-11-22  \n**Search Window**: 7 Days (Expanded from past 24 hours to cover newly verified announcements and primary research published between Nov 4 and Nov 21, 2026)  \n**Editor-in-Chief & Curatorial Editor**: Daily Digest for Muki\n\n---\n\n## Candidates and Evidence Dossier\n\n### 1. Feminist Structure Signal\n- **Title (CN)**: Fotografiska Berlin 举办 Miji Ih 个展《Mouths: On Water and Whisky》：以照片与多媒介档案重构“慰安妇”与美军基地女性生存图景\n- **Title (EN)**: Fotografiska Berlin Presents Miji Ih's Solo Exhibition 'Mouths: On Water and Whisky'\n- **Source URL**: `https://www.fotografiska.com/berlin/en/exhibitions/miji-ih/`\n- **Image URL**: `https://cdn.sanity.io/images/2xi539qp/production/a9a3362808c5977baa1e1a0f2c720146ed4702c8-2000x1333.jpg`\n- **Publication Date**: November 4, 2026 (Exhibition runs Nov 4, 2026 – Jan 13, 2027)\n- **Verified Facts**: \n  - Korean-born, Berlin-based visual artist Miji Ih presents her largest institutional solo exhibition to date at Fotografiska Berlin.\n  - The exhibition originates from Ih’s engagement in 2020 with the installation of the Ari Statue of Peace in Berlin-Moabit, commemorating WWII \"comfort women\" forced into military sexual slavery by the Japanese military.\n  - In her trilogy *Mouth*, Ih incorporates photography, audio/sound, video, and primary military historical archives—including typed US military archive cards from Okinawa dated April 30, 1945.\n  - It traces trajectories from early public witness Bae Bong-gi to present-day entertainment districts surrounding US military bases in Japan, South Korea, and Germany.\n- **Relevance to Muki**: Directly links historical wartime sexual violence, cold-war geopolitics, and contemporary military-base economies through archival methods, sound, and photographic intervention, demonstrating how gendered precarity and institutional silence are mapped across East Asia and Europe.\n- **Duplication Assessment**: New signal. Not featured in recent issues (Issues 95–101).\n\n---\n\n### 2. Visual Culture Signal\n- **Title (CN)**: 哈佛艺术博物馆举办《The Way We Never Were》特展：以 2 万多张商业摄影档案重构二战后美国日常与社会仪式\n- **Title (EN)**: Harvard Art Museums Present 'The Way We Never Were: The American Professional Photographers Collection'\n- **Source URL**: `https://harvardartmuseums.org/exhibitions/6622/the-way-we-never-were-the-american-professional-photographers-collection`\n- **Image URL**: `null`\n- **Publication Date**: August 29, 2026 – May 9, 2027 (Public symposia and curatorial talks ongoing in November 2026)\n- **Verified Facts**: \n  - Curated by Audrey Sands and Madison Brown at Harvard Art Museums.\n  - Drawn from the \"American Professional Photographers Collection\"—a repository of over 20,000 prints assembled in the 1970s by sociologist and curator Barbara P. Norfleet.\n  - Features 70 photographs from 20 commercial studios active between the late 1930s and early 1960s across the US (e.g., Harry Annas, Jack Gould, Joseph Janney Steinmetz).\n  - Examines how commissioned studio photography (weddings, school events, corporate promotions) actively constructed and sanitized mid-century American suburban domesticity while excluding racial, gender, and class tensions.\n- **Relevance to Muki**: Provides a institutional visual archive case study of commissioned/commercial photography as a mechanism of visual culture, demonstrating how non-fine-art vernacular studio prints shaped collective memory and social ideology.\n- **Duplication Assessment**: New signal. Not featured in recent issues (Issues 95–101).\n\n---\n\n### 3. China / East Asia Signal\n- **Title (CN)**: 克利夫兰艺术博物馆举办高丽王朝“十王图”重聚特展：首度汇集散落全球的 14 世纪地狱审判悬挂画轴\n- **Title (EN)**: Cleveland Museum of Art Reunites 14th-Century Goryeo 'Ten Kings of Hell' Scrolls\n- **Source URL**: `https://www.clevelandart.org/exhibitions/ten-kings-hell-afterlife-medieval-korea`\n- **Image URL**: `null`\n- **Publication Date**: October 11, 2026 – January 3, 2027 (International academic symposium held Nov 20–21, 2026)\n- **Verified Facts**: \n  - Curated by Dr. Sooa Im McCormick in partnership with the National Museum of Korea.\n  - Reunites all 10 surviving late-14th-century Goryeo dynasty hanging scrolls depicting the \"Ten Kings of Hell\" (Packard Set) for the first time since the 1960s, gathered from six institutions across Korea, Japan, the US, and the UK.\n  - Includes the recently rediscovered Third King scroll from the Museum of Modern Art in Gunma, Japan, and the CMA's mid-14th-century Kṣitigarbha Bodhisattva scroll (bearing the inscription \"for the use of Lord Blue Dragon\").\n  - Accompanied by over 100 artifacts exploring how medieval Korean eschatology and Buddhist visual culture responded to sociopolitical crises and climate volatility during the Little Ice Age and Black Death.\n- **Relevance to Muki**: Demonstrates how East Asian transregional visual archaeology, Buddhist iconography, and material restoration intersect to reveal historical anxiety, body politics, and judgment systems across East Asia.\n- **Duplication Assessment**: New signal. Not featured in recent issues (Issues 95–101).\n\n---\n\n### 4. AI Research / Creative Tech Signal\n- **Title (CN)**: 研究团队提出 RoughCut-Bench 框架：为多模态 AI Agent 的自动化视频粗剪建立评估基准与工作流\n- **Title (EN)**: Researchers Introduce RoughCut-Bench: Benchmark and Agentic Workflows for Automatic Video Rough-Cutting\n- **Source URL**: `https://arxiv.org/abs/2611.24098`\n- **Image URL**: `null`\n- **Publication Date**: November 18, 2026 (arXiv preprint, accepted to KDD 2027)\n- **Verified Facts**: \n  - Authored by Ruisi Zhao, You Li, Sihan Chen, Aosong Cheng, Chixiang Ma, Sen Pei, Zhen Yang, Hehe Fan, Dongliang He, and Yi Yang (Zhejiang University, ByteDance, Peking University).\n  - Introduces RoughCut-Bench, an evaluation benchmark for automatic video rough-cutting across two settings: (1) visual setting (101 cases, 831 raw videos, 1,476 highlight annotations covering selection, temporal ordering, and user constraints); (2) speech-driven setting (84 ASR transcript cases covering filler removal and content trimming).\n  - Proposes structured agentic workflows guiding Large Vision-Language Models (LVLMs) to output executable editing cut plans, evaluated via human-aligned agentic evaluators.\n- **Relevance to Muki**: Materially impacts creative video production and editing workflows by moving AI video research from prompt-based generation toward multi-stage, transcript-aware, and sequence-based editing agents.\n- **Duplication Assessment**: New signal. Follows up on agentic workflow and video memory architectures without topic repetition.\n\n---\n\n### 5. Archive / Long Read / Opportunity\n- **Title (CN)**: 沙迦艺术基金会启动 2027–2029 年馆藏研究资助公开招募：聚焦哈桑·沙里夫工作室与艺术档案\n- **Title (EN)**: Sharjah Art Foundation Opens Call for 2027–2029 Collection Research Fellowship\n- **Source URL**: `https://www.sharjahart.org/sharjah-art-foundation/news/open-call-collection-research-fellowship-2027-2029`\n- **Image URL**: `null`\n- **Publication Date**: Announced November 11, 2026 (Application deadline: November 30, 2026, 11:59 PM GMT+4)\n- **Verified Facts**: \n  - Sharjah Art Foundation (SAF) launched an open call for its two-year Collection Research Fellowship (March 2027 – March 2029).\n  - Focuses on the studio and archive of pioneering Emirati conceptual artist Hassan Sharif (1951–2016), containing experimental installations, object works, paper works, performance documentations in Sharjah markets, desert series drawings, personal library, and written manifestos.\n  - Provides a 20,000 AED stipend, access to SAF archives/collections, covered travel and accommodation for non-UAE residents during research phases, leading to an original publication or project.\n  - Open to international researchers, curators, artists, archivists, and writers with reading proficiency in Arabic and writing proficiency in Arabic/English.\n- **Relevance to Muki**: A high-quality archival research fellowship opportunity focusing on Non-Western conceptual art archives, performance documentation, and experimental publishing.\n- **Duplication Assessment**: New signal. Not featured in recent issues (Issues 95–101).\n\n---\n\n## Overview of Excluded Candidates & Section Status\n\n- **Empty Sections**: None. All 5 editorial sections have a verified, high-quality primary candidate.\n- **Excluded Candidates**:\n  - *MoMA \"Taking Back Our Space: Photographic Perspectives\"*: Excluded in favor of Miji Ih’s Fotografiska show because Miji Ih connects archive photography directly to East Asian military base history and gendered labor.\n  - *LACMA \"California Collectives\" at VPAM*: Excluded as LACMA's regional tour was previously noted in the entity context.\n  - *VOL-Agent (arXiv:2611.23950)*: Excluded as it was already covered in Issue 101.",
+  "citations": [
+    {
+      "title": "musa.guide",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhUvqP4yAVA6_01jsd57NykjUmZhqs2zRv1AOaHa3XTSXT6nDvPhOxi7dCey8DeX2LwPZEpHsjnfqGDN8RMGOZRv58FSK6Uz5dYleXU4HGHjKnvt4dmbrT0oZ5FV0DW14oVSYTWVmhb8wJE8KR_VzyXIlQAhA8Ilbw"
+    },
+    {
+      "title": "fotografiska.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfCdy0Y4fznnLFf_9-h_p7vPL1mb4Fbro8F9hF5dYZmJ_THrA4rL03MOg6I6iYyqXgrznLl-_pQkOOTaKl9uVu7GOQr39k5wr-Oa06vfvLIphlyc9t5lez-ue5Uv1d75JY7zziUw=="
+    },
+    {
+      "title": "fotografiska.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfFhF0ZEc3IboT66BX9oD1-8tADaCJXmDOdQQRMhOzdtDWN4Bsmo9RmfWl3lR7thgbd5QRLo2G7czB6K0ixo-TDGm0QTY3Q86Byhm6ejEog3Va0K5pqoSjr_LMXj0M_yxjt-y45rLFOiVAPQ=="
+    },
+    {
+      "title": "visitberlin.de",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyIN0eTVhbpEMhQmqPjVTUsckuw_JgPLgl4AeHw0APF67w_u7NHZ7OCwgkoQ5zxsrgan8u8gnXvWAfUfxO6i_pMBbfdvcPiYNviZhyGKCfozXXNZvOXWA_bgKQelS4LETKcuvZrwMgqbNf7eLwo_3zplkH7-61wOQ="
+    },
+    {
+      "title": "musa.guide",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyCTNnbgz1c7H0P4zcZtefg_csNtn4s7BKqJvS9o7ChKdQQAL5dnbuk73le8Pwk3nIGixwpTUxdjeR2W1ApbYzuafdsBy3G6d6p1dAE0c8gPv8uFMz_8TXuvXQK6-FOVBhxN948smFCSkEYHjBtzbpJr0jslOd8QKjn1Rtq1Zz12dmq8n2Ug=="
+    },
+    {
+      "title": "aperture.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnbStVSBPr6Fo4P0ARLoG7860JML5IprC7l1jOXhIwUYUzBgSaakALHTodsrerTfPgsvArE7hC6wTqN2YcheN9IR_d8PQsuT2l3Ydm5AsnI-Xs2kZ9Tdal67Cej96dneY5UDCdY7N57pasI3ebfQTcT71klWo="
+    },
+    {
+      "title": "all-about-photo.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAlZtjoCLmoCOTIpG7KENX9zwsHYlsj2qVm9RR7KU00jwzd5e4mg4pyO0ITwAanmK8_ZIjQNt3_t-1wFLpHXKM34FYI3ovlAmGEMVMQjLxgTNCkYWoanLMdat31pVnrTS31SQ_kCNimF6HC9UIXBNv-8jJhqbjttV2Q9nYHuljchzosQmNJ1-so6xfCYsPWWNQuHlk7brK-SuOyjUKkOnP3Pme6vpoIpmdfHrzVIUA4lDNltmUMCOM8l6a"
+    },
+    {
+      "title": "thebostoncalendar.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoD_jdx7z1z1IIACEjQc_ohzS9bOVQRARnRoedUFYjBl2Chb97r4d_KaJ70KKXb6ATFzxFakHw-k5MhoroOXjG2nIoLRTqpzkJ3LL1xQSEFWbLJgwtoAaIvG9caSBIrJ1-BOuo9B8OwjOLnQmz5RhbyJBTFrI1OG7T4kaWGEEKFhyzJZy9sWzLEJcte7WZfqHrdrs3hkl5KSKMMzpjT2PdkcXP0o844Q=="
+    },
+    {
+      "title": "whatwillyouremember.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4_UoubVak5mLmgo0rBzPq_ZRkPVmbjXY3gwBJ0JP4Fpa_ahv-ePOcDljpEDcyl--phzDPoAlqaThHA8rWGloQoGo3-eOmelf3P8l9PGRD4H71r0_ZUasCMrfhi_rVasEVdCPJYkC_wEK9nmYwUSMIoU1I1JAbNN4JdHuuRfk5EKroiSW-jQrR5Vo6ZzKzWZEvt1iVrFkH"
+    },
+    {
+      "title": "joyraft.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvBMg_sMgKBZj_ec3PDHf0z3maETYAK0g3gzXF6RIf264t6Xh3FLScbhOO-l9-n_-7zc2vUH7WGDgregFCiF2Rh1MEDmgqqB1UrF9Fm5C3TSxYmR9rDSxobtVrz8VDJbjrTVqnKEAW4Do3rrozJ8wZI3sX52064Sq9fxZSowOmiME2u7Zla3nqanvtIzLjwkY5ijoZlqQI-7ubaUmJWHnjn-w0wwVD-mZL"
+    },
+    {
+      "title": "neh.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrhAcF2BEZKLHBJvSjuGhXCaJ3nSVNV170chMQaXUZKoCryC8uKQF5fVPmTRWw6YnSPHrZcHNr0JDRaunFhx_72EgCpiJDOQl-zeKW2BxVJbpJcvRg1sql2f9-lua7MJWLtOMtAcNTEcZuTaOajrUV5AtGZRjeonq5"
+    },
+    {
+      "title": "amazonaws.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTbHVGq2Hpm4jqwnn8QC5XYT5GQ7mEY62et7qZDJwHiJlN4eAJMJM_2AucPeK_bfjFkV4CuXVYP_Ztz4Wa3lJLfAWZXKqDF5EV-R2jHJRb_d1w7HvpIh6gsjlsVMNdHmXeRa6W8UHFXTgJXPahZNOmgGBWBNFoR85wtgphKLAVqsw8QSB-b3gGGKXdiXOWTKsWxVHbj0OaNlYAig=="
+    },
+    {
+      "title": "bostix.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8iiuPkbuOREJEnXcfH4hX1n0rNIj4kt0wo_OuUgoVOQm2kEnSfkcy1VE6N56kv5olfII2n--VKWLW9h17chHJ4FSZHD02Wz540Rsgb6Va3Rcqnnrn6t6p5iKwiGefnlEgAr-THRra5YTwZ2qr0pNaJtQhL_BBAORZf0KogPKfzqkg-JeywEP8a-KZBDNADPqKfDR_RZ1UB-wEMtFEBmqwsZlz1apXNDk="
+    },
+    {
+      "title": "clevelandart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4enMB28UcsiYxqXwYoySoX-GC5ynZ9OaDvF88xnYpaUgwLOVz9NKgR10ue0aK9j0cotlGuUE_SWj1Dt47n7GyKMUeBnoDMhdiYzw_fb__RygAD_ovQeXeEuCXLKCW-gRH0n3L7TTAXXtsgbreWd5V9FJr6ri4Tg=="
+    },
+    {
+      "title": "clevelandart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwwRrtXxUl9GEToZ0Ukm45l9zJhHaETfvPyIQaeINa-Pvh5PW5Mhu8o9fkvIRNUSYni2tc33fnojZg2IuaC_C4bQJ0tDAQa2SGvamL5vmAHeUJwYkfcTO0kXglGNgcR74ub342PHFrWfuX--J24fXbXf8-2AhcNjGlefw7DX4_uFLzS7YbITrvjbvnGCONzJwSnE2tWcezlxoOdFoylL7qCw=="
+    },
+    {
+      "title": "clevelandart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4XTDHau-gfZwIF-ALqUQd9-Ccw6PkJ5NSoLqDr03-FLF9IBKwFz-zIXS88peWOhZcald1k6j9kzPWnX0GLg4S07zzKqnpZ6yhr2UkReQjo9Sngpv9FqrGR0qwS78POQ6Z7mokJeXf0XhNcOe2wbZVd1b60FfyI8L9ocCPJZK0avdRsV59rw=="
+    },
+    {
+      "title": "clevelandart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcLag6gmQUyB6JvgMPMHF-NIQORHAKOVF5d0pgMyV-Y8pzb3cpTRw6OJdZ84cDNm218pclK-1r3X7HkeAoTRBKkMIB4x4GzURdz-NXy0DS1jICT2dFlUpSduDEqvG7Uo4wkg3Innq3C5Ub_SngkKHLhKaUnRJahyuDulk="
+    },
+    {
+      "title": "clevelandart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb-oWzTvpQuhJi80babEqmaRaEoe023CUx82QqW-3O6gL3inKszIN6hhu2mkaEpPKrlKWkizLlHB34qGQwiuH7wp2Y6C310P6gBk25uTW26GNio7HenN6zNlhjPqj_siwNmwVKnzjxAC_zBK20E3nxbpcc0Q=="
+    },
+    {
+      "title": "koreasociety.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqNFForgzEPRFsNZf3jM0v6x30i17Hcpel0IRhPmmIdHoPsUUWvgDZVrpg-sBj7_4WUkqLG74Kwd_K_sM5f5WTy9REFgjQdGakqwb1VdV3XNlDeSljWB9gDlVZR_M1sy4h8SL-GIsyiNuVpPMBsoXtvEK0DgtuMUnv9ow4eGKpU1tgbfguFwQBNljwtq5VEArVcQ=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaUu8CYwrzp9kFAp2r2uSpo3SVSRY9KfmB2cLcZv44ZP0XRYaHQbwcg4d_5Lu9GauwzH1bBBtVzeJm_k5ArGHBTCIP6TkWBkrc1cqBbkm5NkazngTbLQ=="
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxZcq_RBHnH4DnO1Rx9zXaZY8HtlnSGDFL9ewgKYGtid_piO9Uk8apVgAWRPzw2JD4gkekMeB6eBJUjYI75RAXfNCPhjrIHzcsxQTfnmtwApWCKcc_"
+    },
+    {
+      "title": "arxiv.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeMPkOi0QvVo9cLQ2pIwr6OjqEw2cpLqOQivAXIebOqWtez1sg5Rwgekxol74z6RnhVyigr28Rn_rnXLaFqVSPg1y5h2y52oNZc4X2C8kQtogvDBUn7mzMYCXXHwOWa9T7UHo-6WLpPCQqYEI_"
+    },
+    {
+      "title": "audiomlpapers.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIIFLyme647v2ZreYajyjw6mmz4izGGLgcoOThVEcF0vXI5g0mS60CvR5t9yLxkBzpbmPSMsfrxfgtpS2wDujr3l83pF6GsLogJdRIG9ZIyDToWIM114PYjslVhWd4ZrI="
+    },
+    {
+      "title": "sharjahart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG--uuTr9iZ-4SBjEcXEmW379vcsJkHZAwX-553dXn-msu7wefi2NelHReKTBMogmw9VkexJijXp91IPM-IX_Lb0vkyE7LKsIgGoJHpgNUDzLpuboJvYX8CYg0Y7kDGa5dK4kTgwHwv9qF23T3nkMCxDEByCBFeSpfMPF8ovBui84AivVjvFNP3W3ZWUIozU28mCNr01vKaoV-WuTrOoRiOYwln6PzTswUfndjabH_xCf9Jtw=="
+    },
+    {
+      "title": "sharjahart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtiDalV4jDu3YSdc9DLQcgv9dled-3nuVUOXhUR_5_29gEB3LKdw-j9U0CiWp81tf0vL9zIyc6z_k5S8Ui1BsYB24rG04bdHm8HWjlE4R93YPTGY-TIZuERxhfrJ1xn11WBk5ilZ1uNQ5G4GgP4uzPWJIxxc9vpu77Oo2rVzysjA-21DUo9D3rLsIpeqNPIvOSmyR75F-6HsHiQ1EOMY7LgPfnESV53O3s3nFvJw7884UVvPc="
+    },
+    {
+      "title": "sharjahart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHlZGhANgLOCvLdSqVJFMuX_wSfaN4_bZo3vCKxbsDnbcKl7r9X6EswSABhReo8GqdEceTrwviQv80VWkJ4CBqCmcqXo2cD7qXH5l_EKr2hejs5LkUHGjqHYgujOADNAvA3mcbd0nc2aiCxO-jOBApgsIlhL4FdGzyC_3Qiqb7Uho5oeblChrmn-AOf3AdftLQ9MEAKEErBB6W3sPZFVyB2IzCJ0W7ug8VUmGu1BX1"
+    },
+    {
+      "title": "sharjahart.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoPUi6YUkgyLWyaB5cTGhutFTN0229iR8iJRMWNOzO7Rw1gL7FoD_lqORfgbhP5sfVLRGLipXLrC2OhKvcEK9SE0v91nJ3zs0eVQ_dp_BYOhbOJWkGjYIX7SuYbnkQGgOWQIP_BBOrHOU0AI5J4W2lw105V9yTIImnnnqL8z28iNcRCfQXu_6NXjROw0m0Mq-JJ0fgxPQlNqTEm4C3DXPFxnu0FiBfboNqx-NuAA0="
+    },
+    {
+      "title": "callforcurators.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESiHQRoabr3BXbFJqVZ4iT9bIJGjmXwPdvhbQeBFwd6pah7FmTod8eN84aEXOuV2d3ZYUC3nQxmnSgWbOrPMh9wjutNzRYpOx-HfubIdHL1t38mEZjPVeZFW-yLD52C5PUfU60ZS93AB7fqJrnM8UtwkdjOrM="
+    },
+    {
+      "title": "opportuning.art",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvxylc9NE8JP33-mNggIRcO9Len_In7wJPF_JSigd9D3dy-bWMC_3yDYfKw47lM77dVZVTIYncsKRg63LfDEZs96fyxmfsEidWmTcc4hIOqrekPpeku1MevhL-fsx6rPe2czDlIPU_0UKqHx7Vn7vkmLf_d3d_MQbWWqkc3w=="
+    }
+  ]
+}
