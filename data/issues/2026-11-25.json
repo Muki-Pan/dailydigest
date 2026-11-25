@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-25",
+  "issue_number": 103,
+  "search_window": "7d",
+  "reading_time": "约 8 分钟",
+  "topics": [
+    "女性主义学术研讨",
+    "Paris Photo-Aperture 摄影书奖",
+    "东亚志怪与画谱",
+    "3D 视频生成记忆",
+    "Goldsmiths 策展招募"
+  ],
+  "why_today": "今天的信号聚焦于档案与空间结构的重构：从 LUMA Arles 关于巫术与关护伦理的精神医学历史重审，到 Paris Photo–Aperture 摄影书奖对边缘叙事的档案化呈现；从东亚画谱与志怪文本的图像化批注，到 3D 空间布局与持久记忆驱动的生成式视频控制。这些实践共同显示出视觉研究与创意技术正在走向更为精密的表达。",
+  "intro": "本期简报收录了 5 项核心信号。在女性主义研究层面，LUMA Arles 研讨会探讨了知识霸权与医疗控制历史；摄影书奖项展现了多元档案在出版中的物质化形态；东亚当代艺术实践介入了传统画谱的解构；AI 研究则跟进了结合 3D 布局与持久记忆的长视频生成框架。",
+  "opening_signal": "档案不是固定的存样，而是不断被重读与激活的临界空间。",
+  "closing_signal": "无论是历史文献的再批注，还是算法生成中的空间持久记忆，研究者与创作者都在试图建立更具连续性的结构。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "LUMA Arles 举办第三届“迷信与魔法”研讨会：从迷信、关护与生物政治学重构知识边界",
+      "title_en": "LUMA Arles Presents 'Tales of Superstition and Magic III': Exploring Magic, Care, and Consciousness",
+      "summary_zh": "LUMA Arles 宣布将于 2026 年 12 月 4 日至 6 日在阿尔勒 Parc des Ateliers 举办第三届跨学科研讨会。本次活动邀请 Silvia Federici、Claire Bishop、Alice Bucknell、Liz Magic Laser、Grace Ndiritu 等学者与艺术家，共同探讨神秘学、身体仪式、关护伦理与生物政治学的交集。研讨会重点考察 19 世纪精神医学如何将巫术与女性经验判定为歇斯底里症等疾病，以及当代艺术家如何将边缘知识作为反思科技与社会关系的工具。",
+      "summary_en": "LUMA Arles presents the third edition of 'Tales of Superstition and Magic,' gathering artists and scholars to examine historic pathologization of female experience and magic as counter-knowledge.",
+      "why_muki_cares": "项目结合了生态女性主义、关护伦理与精神医学史批判，为研究身体政治、制度控制及边缘知识档案提供了具体的跨学科讨论视角。",
+      "editorial_signal": "研讨会揭示了历史上的医学命名如何作为一种治理工具，并探讨艺术如何重新激活被边缘化的知识体系。",
+      "theme_tags": [
+        "LUMA Arles",
+        "Silvia Federici",
+        "Claire Bishop",
+        "女性主义艺术",
+        "生物政治学",
+        "关护伦理",
+        "身体政治",
+        "档案研究"
+      ],
+      "source_name": "e-flux",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFqwezNzAeidLvN6HJDanwU-mOlgdh3k7TAy56XcUaGDNNxl5wyM_vni98L69yc92XIbRqtDk9LiiRXSivsF93hmXb6hVUVIQQ26hNbsbJim7A9iZ798vNox8Dzd03-X1Uz-VPrQNTptXkpnjXMkapZfZuD-mftJAdVNoU0Nv23lyqH7zoMg==",
+      "publication_date": "2026-11-24",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "2026 年 Paris Photo–Aperture 摄影书奖公布获选名单并开启巡展：以档案、家庭与童书扩充摄影书范式",
+      "title_en": "2026 Paris Photo–Aperture PhotoBook Awards Announce Winners and Launch International Tour",
+      "summary_zh": "第 14 届 Paris Photo–Aperture 摄影书奖公布了四大类别得奖作品。石黑美eko《Notation(s)》获首本摄影书奖，Keisha Scarville《Passports, 2012–2025》获年度摄影书奖，Anne Lacoste 与 Rose Durr 编辑的《L Is for Look: Children's Photobooks》获年度摄影目录奖，Sara Bennett 记录服刑女性生活的作品获得评审团特别提及奖。获奖与入围作品巡展于 11 月 24 日在都柏林国际图像中心开幕。",
+      "summary_en": "The 2026 Paris Photo–Aperture PhotoBook Awards announced its winners spanning topics from female incarceration to family memory, launching an international tour in Dublin.",
+      "why_muki_cares": "获奖作品涵盖了女性监禁档案、离散家庭记忆以及儿童摄影书历史，为摄影书策展、编辑形态与纸本出版研究提供了具体的参考样本。",
+      "editorial_signal": "摄影书作为实体媒介，持续承载着官方档案之外的私人叙事与社会微观历史。",
+      "theme_tags": [
+        "Paris Photo",
+        "Aperture",
+        "摄影书",
+        "视觉文化",
+        "档案出版",
+        "Keisha Scarville",
+        "石黑美eko",
+        "策展研究"
+      ],
+      "source_name": "Aperture",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuYhQo_fDffdgjfrkbi5mY3390gvtq2x4g_avMHc3r_scGQ5EQvvfsYPY1FftbKl_hmpg-hqk8GKDQZhHCVjVIFZpULccG90y698OJQjnkZj1qBycr9WrvC5dQdLrqbmCIFQnrjJ9r9FfuJnnQ5ptNmXjJ9t-dkoVHJHTwpRTIC3-0_Pqpy2Yi74nuUiS78wPNzOxrbEpAzFaA2hZMx9bjSA==",
+      "publication_date": "2026-11-13",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "崔首莲首尔个展《芥子园墓丛》：以志怪抄译与彩墨批注重构东亚画谱图景",
+      "title_en": "Choe Sooryeon's Solo Exhibition 'Mustard Seed Garden Grave' Reinterprets East Asian Painting Manuals and Anomaly Fiction",
+      "summary_zh": "韩国艺术家崔首莲个展《芥子园墓丛》在首尔 Gallery Chosun 展出。艺术家通过抄写与翻译清代志怪小说及《芥子园画传》等东亚传统画论，将墨书文本、音译韩文与多色批注覆盖于画布之上。作品设定传统画谱中的山水园林可能埋葬着异端遗骨，借助文字拼贴与山石线条探讨图像、文字与文献档案之间的临界关系。",
+      "summary_en": "Choe Sooryeon's solo exhibition in Seoul overlays transcription of Chinese anomaly fiction and painting manuals with colorful annotations to question art historical canons.",
+      "why_muki_cares": "该展览将传统文本档案与水墨范式转化为视觉批注，展示了东亚当代艺术对历史文献与文字媒介进行视觉解构的具体路径。",
+      "editorial_signal": "作品把画谱与志怪文本转化为图层拼贴，提示了汉字文化圈历史档案在当代艺术创作中的重构可能。",
+      "theme_tags": [
+        "崔首莲",
+        "Gallery Chosun",
+        "东亚视觉文化",
+        "芥子园画传",
+        "志怪小说",
+        "档案研究",
+        "媒介考古",
+        "韩国当代艺术"
+      ],
+      "source_name": "K-Artnow",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSy7NIwTavvsvU5Z5ap__-fv4-jCPpRrCDsE6DV6oeL9_X1JZLaVmtEeE_mWLAeJ43Zr23rSGaXrQRTX0XAvqn-kLlK67Knx1xHBEuXW1TLwqQojD2wwKBjuyu9mrUTVRH8J1RYA==",
+      "publication_date": "2026-11-23",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "Follow-up",
+      "title_zh": "研究团队提出 Lyris 框架：以 3D 布局与持久记忆构建可控的长视频生成",
+      "title_en": "Researchers Introduce Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
+      "summary_zh": "宾夕法尼亚大学与 NVIDIA 等机构的研究团队在 arXiv 提交了论文《Lyris》。该框架提出了一种结合显式 3D 点云持久记忆与 VLM 布局规划的自回归视频生成方法。系统将已观察的画面转化为 3D 点云记忆，同时由大语言模型预测未观察区域的 3D 物体包围盒，从而在单张输入图像下实现长时镜头漫游与空间视角的高度一致性。",
+      "summary_en": "Lyris integrates persistent 3D point cloud memory with VLM-planned bounding box layouts to enable controllable long video generation with spatial consistency.",
+      "why_muki_cares": "这是对 AI 视频生成中空间记忆与镜头控制工作流的跟进。3D 点云持久记忆的引入，提升了生成式视频在长镜头与复杂空间移动中的渲染稳定性。",
+      "editorial_signal": "AI 视频工具正在从纯文本 Prompt 引导转向显式 3D 空间结构控制，为三维空间叙事与数字场景搭建提供了新工作流。",
+      "theme_tags": [
+        "Lyris",
+        "arXiv",
+        "AI Agent",
+        "视频生成",
+        "3D 记忆",
+        "空间布局",
+        "创意技术",
+        "工作流优化"
+      ],
+      "source_name": "arXiv",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElslgxWKczWSksVbsHSFRy7HduahunCYfaOWg60kTJPlGInfkPPUjeaFquVBIozPrC-dNI_uY3JfPwnhkdwjtmXFZlZxEaHHYe55TqqFT0SxDkQ7XAzsqQnQ==",
+      "publication_date": "2026-11-24",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "伦敦 Goldsmiths MFA Curating 启动 2027 学年招募：以为期两年的实践型策展研究与机构驻留为核心",
+      "title_en": "Goldsmiths Opens Applications for MFA Curating 2027: Practice-Led Research and Curatorial Fellowships",
+      "summary_zh": "伦敦大学金史密斯学院启动 2027 学年 MFA Curating 项目招生。该项目为期两年（2027 年 9 月至 2029 年 8 月），专注于实践导向的策展研究。项目毕业生可申请在 Goldsmiths CCA 工作的策展高级资助，同时课程提供在 Tate Modern、Government Art Collection、Peer Gallery 等重要文化机构的专业实习与项目开发支持。",
+      "summary_en": "Goldsmiths opens applications for its two-year MFA Curating program starting in late 2027, featuring institutional placements and fellowship opportunities.",
+      "why_muki_cares": "该项目强调策展实践、机构批判与档案研究的结合，配套的资助与机构合作资源为策展研究者提供了高价值的发展途径。",
+      "editorial_signal": "机构驻留与实践型研究的深度结合，继续成为前沿策展教育与基础设施建设的核心模式。",
+      "theme_tags": [
+        "Goldsmiths",
+        "MFA Curating",
+        "策展研究",
+        "学术资助",
+        "公开招募",
+        "机构批判",
+        "档案研究",
+        "策展教育"
+      ],
+      "source_name": "e-flux",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI7qGP8Ls4fzt9dDixqEQG9Ub2TdypvqQ7qcbNlUf1vONtx1KLmIj8IDJv-jDmOEvK9uwEeJXvMCDzj67QQkSk8vt6u0O6Ivw50F1Av7EushUC39JBkvXzfbjlKCepXeFketpUiK40cekc85nG2Q==",
+      "publication_date": "2026-11-25",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Story",
+    "title": "2026 年 Paris Photo–Aperture 摄影书奖公布获选名单并开启巡展：以档案、家庭与童书扩充摄影书范式",
+    "why_muki_may_care": "本届摄影书奖体现了对边缘档案与社会隐形群体的关注，从服刑女性生活到离散家庭护照，为摄影书创作与纸本编辑提供了切实的策展研究案例。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuYhQo_fDffdgjfrkbi5mY3390gvtq2x4g_avMHc3r_scGQ5EQvvfsYPY1FftbKl_hmpg-hqk8GKDQZhHCVjVIFZpULccG90y698OJQjnkZj1qBycr9WrvC5dQdLrqbmCIFQnrjJ9r9FfuJnnQ5ptNmXjJ9t-dkoVHJHTwpRTIC3-0_Pqpy2Yi74nuUiS78wPNzOxrbEpAzFaA2hZMx9bjSA=="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "缺乏事实核据的商业 AI 视频插件发布",
+    "重复报道的商业画廊常规群展"
+  ],
+  "covered_entities": [
+    "LUMA Arles",
+    "Aperture Foundation",
+    "Paris Photo",
+    "Gallery Chosun",
+    "arXiv",
+    "Goldsmiths, University of London"
+  ],
+  "repetition_notes": "本期收录的 5 项信号中，有 4 项为全新信号（New），1 项为跟进信号（Follow-up）。Lyris 框架是对 11 月 16 日收录的 AgiWorld 等 AI Agent 空间记忆与 3D 视频生成工作流的持续追踪。"
+}
