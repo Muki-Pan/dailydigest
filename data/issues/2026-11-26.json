@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-26",
+  "issue_number": 104,
+  "search_window": "7d",
+  "reading_time": "约 6 分钟",
+  "topics": [
+    "女性主义艺术",
+    "摄影拼贴",
+    "亚洲艺术双年展",
+    "纪实摄影",
+    "AI 语音交互",
+    "艺术资助",
+    "档案研究"
+  ],
+  "why_today": "今天的信号聚焦于物质介入与协作网络的交织：从伦敦画廊以撕裂与拼贴重构摄影史档案，到台中亚洲艺术双年展以原住民织艺探讨关护伦理；同时，印度摄影节与芝加哥 ARC 画廊分别展现了非西方纪实摄影生态与女性艺术合作社的远程驻留支持。",
+  "intro": "本期 Digest 整理了来自摄影档案、双年展策展、多模态音频 Agent 和女性主义合作社机构的 5 项全新信号。重点关注图像撕裂背后的权力解构、身体与劳动的协作性编织，以及语音交互在实时艺术创作中的落地。",
+  "opening_signal": "剪刀与针线不仅是手工工具，也是重新切开与缝合档案权力的媒介。",
+  "closing_signal": "从物理档案的剪贴裁切到数码视听系统的代码重构，图像与声景的创造始终依赖于具身劳动的重新介入。",
+  "stories": [
+    {
+      "section": "Feminist Structure Signal",
+      "continuity": "New",
+      "title_zh": "伦敦 Graces Mews 画廊举办《What Rose from the Cut》：以剪贴与拼贴解构男权摄影档案",
+      "title_en": "Graces Mews Gallery Presents 'What Rose from the Cut': Re-examining Feminist Photo Collage and Patriarchal Archives",
+      "summary_zh": "伦敦 Graces Mews 画廊于 2026 年 10 月 14 日至 2027 年 1 月 30 日举办展览《What Rose from the Cut》。展览由艺术家 Justine Kurland、V&A 博物馆 Parasol 基金会女性摄影策展人 Fiona Rogers 以及藏家 Sarah Miller Meigs 联合策划，收录了 Martha Rosler、Claude Cahun、Frida Orupabo 等 40 多位跨世代艺术家的摄影剪贴与拼贴作品。展出重点包括 Kurland 的《SCUMB》项目，通过裁剪男性摄影师的经典摄影集来构建女性主义拼贴。",
+      "summary_en": "Graces Mews Gallery presents 'What Rose from the Cut', an exhibition co-curated by Justine Kurland, Fiona Rogers, and Sarah Miller Meigs featuring over 40 artists using photo collage and photomontage to challenge historical visual narratives.",
+      "why_muki_cares": "展览展现了物理裁切与拼贴作为解构父权制摄影史档案的具体策略，对研究女性主义图像实践与摄影书物质性干预具有直接参考价值。",
+      "editorial_signal": "物理裁切不仅是造型手法，也是重新干预与解构视觉档案权力的物质实践。",
+      "theme_tags": [
+        "Graces Mews Gallery",
+        "Justine Kurland",
+        "Fiona Rogers",
+        "女性主义艺术",
+        "摄影拼贴",
+        "档案研究",
+        "摄影书"
+      ],
+      "source_name": "The Guardian",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYl7mIPdYQqJrfKwOzfJR0MHnS3y1OjNlSF3en1vyWbvw1_cbOtkdDAEAMNxbRuQJ1OCsKwFV_A-LIuB0FW7YnICal0bIIJ3AnNdrgxmfGqFwmSUu6TWIhw_MjT1fZ1S-3ec1AHq9SiwYiGf5NNSSaEv7pYdOCdsMt9rIm1Su1FWMexgIK5g_HfOsqPXvUpXwBJuSUjDqB2Hfy20il_baJ0Jq6T3yixqyq93GOM8saK1A=",
+      "publication_date": "2026-11-26",
+      "image_url": "https://i.guim.co.uk/img/media/b14f068103a23526e6a1cdf3fd151a6df58b794e/0_0_6000_4286/master/6000.jpg?width=465&dpr=1&s=none&crop=none",
+      "image_caption": "《What Rose from the Cut》展览现场的女性主义拼贴作品。"
+    },
+    {
+      "section": "Visual Culture Signal",
+      "continuity": "New",
+      "title_zh": "第 12 届印度摄影节在海得拉巴开幕：呈现 30 多场展览与全球摄影书展项",
+      "title_en": "12th Indian Photo Festival Opens in Hyderabad: Featuring Over 30 Exhibitions and Global Photobook Showcase",
+      "summary_zh": "由 Light Craft Foundation 主办的第 12 届印度摄影节（IPF）于 2026 年 11 月 26 日在海得拉巴 State Gallery of Art 开幕，展期至 2027 年 1 月 3 日。作为印度历史最悠久的国际摄影节，本届展出了从近 1050 份公开征集与邀约中选拔的 30 多场展览，并包含艺术家讲座、专家读签和专门的摄影书展示区。",
+      "summary_en": "The 12th Indian Photo Festival opened in Hyderabad on November 26, 2026, featuring more than 30 exhibitions, portfolio reviews, and photobook showcases selected from global submissions.",
+      "why_muki_cares": "帮助观察南亚纪实摄影生态、非西方摄影节的基础设施建设以及国际摄影书的传播与出版展示平台。",
+      "editorial_signal": "区域性摄影节通过公开征集与摄影书展示，持续拓展非西方视角的纪实网络。",
+      "theme_tags": [
+        "Indian Photo Festival",
+        "海得拉巴",
+        "纪实摄影",
+        "摄影书",
+        "视觉文化",
+        "摄影节"
+      ],
+      "source_name": "The Hindu",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuqwcIjl317IJEXYw7W8BG9TdLQs_19IyjIF0MLWbZhABSI9wFGu3KmwYBLtHZ8mDML7S6Afyz7swZZ9lXD0WbDQV3NYxQYaR61jJbp4jXiU9KIP7LfskQd_qeRumr679pOd0iiH6jBQjJzGxU0p367mWb29iPFQXEQh0TD64H60fvQGoy_9oOL03ZfKvKcYsylCLgp5k66eNdyuEDTsSMGq-euC1u0zlTODgfK2WargdC8XOCjrABPNA=",
+      "publication_date": "2026-11-26",
+      "image_url": "https://th-i.thgim.com/public/incoming/anoguv/article71738337.ece/alternates/FREE_1200/08_Shanti__Hyderabad.jpg",
+      "image_caption": "第 12 届印度摄影节现场展出作品。"
+    },
+    {
+      "section": "China / East Asia Signal",
+      "continuity": "New",
+      "title_zh": "国立台湾美术馆开幕第十届亚洲艺术双年展：以“Mrahul Tminun·共织”重构关护与协作场域",
+      "title_en": "10th Asian Art Biennial Opens at NTMoFA: 'Mrahul Tminun・Co-Weaving' Reframes Asia Through Indigenous and Feminist Methodologies",
+      "summary_zh": "由国立台湾美术馆主办、吕佩怡策划的第十届亚洲艺术双年展于 2026 年 11 月 7 日开幕，展至 2027 年 2 月 28 日。展览汇集 Gudskul、武玉玲、林介文、Citra Sasmita 等 30 组艺术家与团队。策展主题引入太鲁阁族概念“Mrahul Tminun”（意为女性聚集织布与交流的日常实践），将“策展”理解为“编织”，探讨原住民知识、女性劳动与互助网络。",
+      "summary_en": "The 10th Asian Art Biennial at NTMoFA uses the Indigenous Truku framework 'Mrahul Tminun' (co-weaving) to explore curation as weaving, women's labor, and relational networks across Asia.",
+      "why_muki_cares": "本展将东亚与东南亚视觉文化、原住民女性手工艺劳动与女性主义关护伦理结合，提供了可资借鉴的策展方法论。",
+      "editorial_signal": "借用原住民织艺语言重构策展，把劳动、交流与互助转化为区域关系的研究模型。",
+      "theme_tags": [
+        "国立台湾美术馆",
+        "亚洲艺术双年展",
+        "吕佩怡",
+        "东亚视觉文化",
+        "女性主义艺术",
+        "织品艺术",
+        "策展研究"
+      ],
+      "source_name": "e-flux",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZlfL2I4SdTuq8ackgSGscoHrtI4_1-e5xGfNSzSUVVp7waQA1PPbFg_ZEJhoO0IA5yE-x-FkkC2tJQf_xvd-mLCtHt1DKyKCGLrfFMxFsUhPrZi0LeRs7tfgUaLWpW8lHdycHtgg6sF8EHzVbz7fWJxbZqb1TVxs_vM3MPBczz-8Xw_q5oywct8tRkbAUA7LnBX9eqzlLGFUL",
+      "publication_date": "2026-11-07",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "AI Research / Creative Tech Signal",
+      "continuity": "New",
+      "title_zh": "研究团队提出 Windchime 视听系统：以语音-语言模型与实时代码构建交互式检索工作流",
+      "title_en": "Researchers Introduce Windchime: Audio-Language Models and Live Coding for Interactive Audiovisual Performance Workflows",
+      "summary_zh": "独立研究员 Trent Eriksen 与斯坦福大学 CCRMA 的 Celeste Betancur Gutierrez 提出 Windchime 视听装置框架（获 NeurIPS 2026 Creative AI 接收）。该系统利用本地语音识别与音频-语言模型处理用户语音输入，在作者创作的 406 个音频素材库中执行向量检索，生成分层的 Strudel 实时代码与 Three.js 3D 动画，并可通过 monome 实体硬件进行现场干预。",
+      "summary_en": "Researchers present Windchime, an interactive audiovisual system integrating audio-language models, Strudel live coding, and monome hardware to query artist archives dynamically.",
+      "why_muki_cares": "展示了多模态 AI 模型如何从生成工具转向结构化检索 Agent，在保持人类创作者档案控制权的前提下融入实时代码与硬件工作流。",
+      "editorial_signal": "AI 模型被重新定位为有约束的检索与编排 Agent，而非无节制的生成引擎。",
+      "theme_tags": [
+        "Windchime",
+        "arXiv",
+        "NeurIPS",
+        "AI Agent",
+        "语音语言模型",
+        "实时代码",
+        "创意技术"
+      ],
+      "source_name": "arXiv",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGjKJ3gZKDCGTvkxkAHhffZnj6VRVDuVvLKAZy1BMloTZ0xBu85HwC6DNreePmniEPaWS_1wuA5Ok_Saxco3bWsYB-ConoDaL0mK6JyJGvtm5ipUn-ng==",
+      "publication_date": "2026-11-19",
+      "image_url": null,
+      "image_caption": null
+    },
+    {
+      "section": "Archive / Long Read / Opportunity",
+      "continuity": "New",
+      "title_zh": "芝加哥 ARC 画廊联合 ATHENA 基金会启动 2027 驻留招募：提供 10 个月远程研究与个展支持",
+      "title_en": "ARC Gallery and ATHENA Fund Launch Call for 2027 Remote Artist Residency and Exhibition Program",
+      "summary_zh": "成立于 1973 年的芝加哥女性艺术家合作社 ARC Gallery 联合 ATHENA 基金会发布 2027 年驻留计划。招募面向全球 3 位新兴艺术家，提供 2027 年 2 月至 11 月为期 10 个月的远程研究支持。获选者将获得 1500 美元资助（含 1200 美元创作津贴与 300 美元运输补贴）、策展导师辅导以及 2027 年 11 月在 ARC 画廊举办个展的机会，申请截止日期为 2026 年 12 月 15 日。",
+      "summary_en": "ARC Gallery and ATHENA Fund launch a call for their 2027 remote residency, offering three international artists $1,500 in stipends, curatorial mentorship, and a solo exhibition.",
+      "why_muki_cares": "高品质的女性主义艺术合作社基础设施资助，其“远程研究+线下展览”的模式符合跨国研究者与独立创作者的工作流需求。",
+      "editorial_signal": "老牌女性主义艺术合作社通过远程机制扩展全球资助与展览支持。",
+      "theme_tags": [
+        "ARC Gallery",
+        "ATHENA Fund",
+        "女性主义艺术",
+        "艺术资助",
+        "公开招募",
+        "驻留项目"
+      ],
+      "source_name": "Chicago Gallery News",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEGKequv934Pt-HEA1uMt78AmqDRa3YzArDYLh4r3LzvjF-NJ6SOOPYqvY25nLvX3k1PzQSsIx1opMAkiUSY5PhoNgFImATcvBldu29aWuca0-hd_9DhIEaAjBjtH-q1kU0O8MwOj26f9Gy5x7bty7OEU_a34CsXy-guKk-LcnzL0VRz3Ef19WGWVEZ67xVMd28aARIOXvE0qQ",
+      "publication_date": "2026-11-26",
+      "image_url": null,
+      "image_caption": null
+    }
+  ],
+  "editors_pick": {
+    "type": "Feminist Structure Signal",
+    "title": "伦敦 Graces Mews 画廊举办《What Rose from the Cut》：以剪贴与拼贴解构男权摄影档案",
+    "why_muki_may_care": "将剪刀与撕裂转化为对抗男性摄影史典籍的物质工具，直接切入女性主义图像干预与摄影书档案重构。",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYl7mIPdYQqJrfKwOzfJR0MHnS3y1OjNlSF3en1vyWbvw1_cbOtkdDAEAMNxbRuQJ1OCsKwFV_A-LIuB0FW7YnICal0bIIJ3AnNdrgxmfGqFwmSUu6TWIhw_MjT1fZ1S-3ec1AHq9SiwYiGf5NNSSaEv7pYdOCdsMt9rIm1Su1FWMexgIK5g_HfOsqPXvUpXwBJuSUjDqB2Hfy20il_baJ0Jq6T3yixqyq93GOM8saK1A="
+  },
+  "empty_sections": [],
+  "excluded_topics": [
+    "Belvedere 21 《Feminist Futures Forever》展览（11月19日已收录）",
+    "西首尔美术馆《脱皮之蛇》展览（11月17日已收录）",
+    "AgiWorld 视频生成模型跟进（11月16日与11月25日已重复追踪）"
+  ],
+  "covered_entities": [
+    "Graces Mews Gallery",
+    "V&A Museum",
+    "State Gallery of Art, Hyderabad",
+    "National Taiwan Museum of Fine Arts",
+    "Stanford University CCRMA",
+    "ARC Gallery"
+  ],
+  "repetition_notes": "本期收录的 5 项信号均为首次录入的全新信号（New）。无重复项目。"
+}
